@@ -15,26 +15,26 @@ body.opening-active .site-header .brand-logo{opacity:0}
 .opening.is-playing .opening__dots i{animation:opening-bounce 2s ease-in-out infinite}
 .opening.is-playing .opening__dots i:nth-child(2){animation-delay:-.5s}
 .opening.is-playing .opening__dots i:nth-child(3){animation-delay:-1s}
-.opening.is-playing .opening__dots{animation:opening-dots-out .25s 1s forwards}
+.opening.is-playing .opening__dots{animation:opening-dots-out .25s .8s forwards}
 .opening__logo{display:block;width:min(78vw,920px);aspect-ratio:3.2;object-fit:cover;object-position:center 48%;opacity:0;transform-origin:top left;will-change:transform,opacity}
-.opening.is-playing .opening__logo{animation:opening-logo-sequence 3.4s ease-in-out both}
+.opening.is-playing .opening__logo{animation:opening-logo-sequence 3.8s ease-in-out both}
 .opening__slogan{margin:0;text-align:center;font-family:Georgia,serif;font-size:clamp(28px,4.7vw,68px);font-style:italic;letter-spacing:-.035em;color:#a1844e;opacity:0}
-.opening.is-playing .opening__slogan{animation:opening-slogan-sequence 3.4s ease-in-out both}
+.opening.is-playing .opening__slogan{animation:opening-slogan-sequence 3.8s ease-in-out both}
 .opening__progress{position:absolute;left:0;bottom:0;width:100%;height:3px;background:#aa8a4e;transform:scaleX(0);transform-origin:left}
-.opening.is-playing .opening__progress{animation:opening-progress 3.4s linear both}
+.opening.is-playing .opening__progress{animation:opening-progress 3.8s linear both}
 .opening__skip{position:absolute;bottom:max(30px,env(safe-area-inset-bottom));right:clamp(24px,5vw,70px);padding:10px 0;border:0;border-bottom:1px solid #ad9164;background:transparent;color:#7e6845;font-size:11px;text-transform:uppercase;letter-spacing:.16em}
 .opening__skip:hover,.opening__skip:focus-visible{color:#161616;border-color:#161616}
-.opening.is-exiting{background-color:transparent;pointer-events:none;transition:background-color .6s ease}
-.opening.is-exiting .opening__logo{animation:none;opacity:0}
-.opening.is-exiting .opening__dots,.opening.is-exiting .opening__slogan,.opening.is-exiting .opening__skip,.opening.is-exiting .opening__progress{opacity:0;animation:none}
+.opening.is-exiting{opacity:0;pointer-events:none;transition:opacity .6s ease}
 @keyframes opening-bounce{0%,100%{transform:translateY(0) scale(.85);opacity:.5}50%{transform:translateY(-22px) scale(1.2);opacity:1}}
 @keyframes opening-dots-out{from{opacity:1;transform:scale(1)}to{opacity:0;transform:scale(.7)}}
-@keyframes opening-logo-sequence{0%,25%{opacity:0;transform:translateY(12px) scale(.96)}40%,62%{opacity:1;transform:translateY(0) scale(1)}73%,100%{opacity:0;transform:translateY(-8px) scale(1)}}
-@keyframes opening-slogan-sequence{0%,65%{opacity:0;transform:translateY(12px)}78%,100%{opacity:1;transform:translateY(0)}}
+@keyframes opening-logo-sequence{0%,16%{opacity:0;transform:translateY(12px) scale(.96)}26%,48%{opacity:1;transform:translateY(0) scale(1)}58%,100%{opacity:0;transform:translateY(-8px) scale(1)}}
+@keyframes opening-slogan-sequence{0%,48%{opacity:0;transform:translateY(12px)}60%,100%{opacity:1;transform:translateY(0)}}
 @keyframes opening-progress{to{transform:scaleX(1)}}
 @media(max-width:900px){.site-header nav a:nth-child(3){display:inline}}
 @media(max-width:640px){.site-header{height:72px}.brand-logo{width:142px;height:55px}.film{aspect-ratio:16/9}.film video{transform:scale(1.36)}.opening__stage{height:220px}.opening__logo{width:94vw}.opening__slogan{padding:0 20px}.opening__skip{right:24px}}
-@media(prefers-reduced-motion:reduce){.opening.is-playing .opening__dots,.opening.is-playing .opening__dots i,.opening.is-playing .opening__logo,.opening.is-playing .opening__slogan,.opening.is-playing .opening__progress{animation:none}.opening__logo{opacity:1}.opening__dots,.opening__slogan{display:none}.opening.is-exiting{transition:none}}
+@keyframes opening-logo-fade{0%,16%{opacity:0}26%,48%{opacity:1}58%,100%{opacity:0}}
+@keyframes opening-slogan-fade{0%,48%{opacity:0}60%,100%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.opening.is-playing .opening__dots i{animation:none}.opening.is-playing .opening__logo{animation:opening-logo-fade 3.8s linear both;transform:none}.opening.is-playing .opening__slogan{animation:opening-slogan-fade 3.8s linear both;transform:none}.opening__progress{display:none}.opening.is-exiting{transition:opacity .2s ease}}
 
 .category-showcase{max-width:1440px;margin:auto;padding:78px 5vw 18px}
 .category-showcase h2{margin:0 0 22px;font-size:clamp(18px,2.2vw,27px);font-weight:500;letter-spacing:-.025em}

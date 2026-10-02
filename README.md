@@ -22,7 +22,7 @@ Luego abre `http://127.0.0.1:8090/`.
 - Esta página prepara consultas a `+51 930 527 248` por WhatsApp; no envía mensajes ni procesa pagos.
 - `images/xiliana-video.mp4` es el video proporcionado por la boutique. Es la primera sección y ocupa todo el ancho en formato horizontal; comienza sin sonido al terminar la presentación.
 - `images/xiliana-logo-original.jpg` conserva el archivo original. `images/xiliana-logo-white.png` adapta ese mismo logo a fondo blanco para la cabecera y la presentación.
-- La presentación muestra puntos, logo y lema en unos 4 segundos, con una salida suave. Puede omitirse.
+- La presentación muestra puntos, logo y el lema «Solo una vida para lucirse» durante 3,8 segundos, seguida de una salida de 0,6 segundos. Puede omitirse; con movimiento reducido, usa fundidos de opacidad y conserva el lema visible.
 - La sección «Visítanos» contiene la dirección de la tienda, el teléfono, el correo y el mapa facilitados por la boutique.
 
 La página está separada de las otras demos del repositorio.

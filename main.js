@@ -78,14 +78,15 @@ renderProducts();
 
 const opening = document.querySelector('#opening');
 const heroVideo = document.querySelector('#hero-video');
+const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 let openingTimer;
 
 function closeOpening(skip = false) {
   if (!opening || opening.classList.contains('is-exiting')) return;
   clearTimeout(openingTimer);
   opening.classList.add('is-exiting');
-  const exitDuration = skip ? 0 : 600;
-  window.setTimeout(() => document.body.classList.remove('opening-active'), skip ? 0 : 250);
+  const exitDuration = skip ? 0 : prefersReducedMotion ? 200 : 600;
+  window.setTimeout(() => document.body.classList.remove('opening-active'), exitDuration);
   window.setTimeout(() => opening.remove(), exitDuration);
   if (heroVideo) {
     heroVideo.currentTime = 0;
@@ -100,7 +101,7 @@ if (opening) {
   window.addEventListener('keydown', event => { if (event.key === 'Escape') closeOpening(true); });
   requestAnimationFrame(() => {
     opening.classList.add('is-playing');
-    openingTimer = window.setTimeout(() => closeOpening(), 3400);
+    openingTimer = window.setTimeout(() => closeOpening(), 3800);
   });
 } else {
   heroVideo?.play().catch(() => {});

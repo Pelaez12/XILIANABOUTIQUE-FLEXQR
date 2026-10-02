@@ -34,3 +34,24 @@ body.opening-active .site-header .brand-logo{opacity:0}
 @keyframes opening-progress{to{transform:scaleX(1)}}
 @media(max-width:900px){.site-header nav a:nth-child(3){display:inline}}
 @media(max-width:640px){.site-header{height:72px}.brand-logo{width:142px;height:55px}.film{aspect-ratio:16/9}.film video{transform:scale(1.36)}.opening__stage{height:220px}.opening__logo{width:94vw}.opening__slogan{padding:0 20px}.opening__skip{right:24px}}
+
+.site-footer{display:block;max-width:1440px;margin:auto;padding:64px 5vw 28px}
+.footer-main{display:grid;grid-template-columns:1.5fr 1fr 1fr;align-items:center;gap:30px;padding-bottom:42px}
+.footer-main p{margin:0;color:#555;font-size:13px}
+.footer-main .official-link{justify-self:end;font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase}
+.footer-main .official-link:hover{color:#957b4d}
+.social-links{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));border-top:1px solid #e6e3dc;border-bottom:1px solid #e6e3dc}
+.social-links a{display:flex;align-items:center;gap:13px;min-height:78px;padding:18px 24px;font-size:12px;font-weight:700;letter-spacing:.06em;border-right:1px solid #e6e3dc;transition:background .2s ease,color .2s ease}
+.social-links a:first-child{border-left:1px solid #e6e3dc}
+.social-links a:hover,.social-links a:focus-visible{background:#f6f3ed;color:#8b7143}
+.social-links img{width:25px;height:25px;flex:none}
+.social-links a span:last-child{margin-left:auto;font-size:15px;font-weight:400;color:#a58e64}
+.footer-bottom{display:flex;align-items:flex-end;justify-content:space-between;gap:32px;padding-top:26px}
+.footer-bottom small{max-width:440px;color:#888;font-size:11px;line-height:1.6}
+.creator-credit{display:flex;flex-direction:column;align-items:flex-end;gap:7px;text-align:right}
+.creator-credit span{font-size:10px;letter-spacing:.13em;text-transform:uppercase;color:#8d8a84}
+.creator-credit span strong{color:#171717}
+.creator-credit a{font-size:14px;line-height:1.4;color:#171717;border-bottom:1px solid #ad9164;padding-bottom:3px}
+.creator-credit a:hover{color:#8b7143}
+@media(max-width:900px){.social-links a{padding:16px 13px;gap:9px}.social-links a span:last-child{display:none}}
+@media(max-width:640px){.site-footer{padding:50px 24px 26px}.footer-main{grid-template-columns:1fr auto;gap:20px;padding-bottom:28px}.footer-main .brand-logo{grid-column:1/-1}.footer-main p{font-size:12px}.footer-main .official-link{font-size:10px}.social-links{grid-template-columns:repeat(2,minmax(0,1fr))}.social-links a{min-height:65px}.social-links a:nth-child(3){border-left:1px solid #e6e3dc}.social-links a:nth-child(-n+2){border-bottom:1px solid #e6e3dc}.footer-bottom{display:block}.creator-credit{align-items:flex-start;text-align:left;margin-top:24px}.creator-credit a{font-size:13px}}

@@ -7,7 +7,16 @@ const count = document.querySelector('#product-count');
 const empty = document.querySelector('#empty');
 const dialog = document.querySelector('#product-dialog');
 const dialogContent = document.querySelector('#dialog-content');
+const categoryShowcase = document.querySelector('#category-showcase-grid');
 let activeCategory = 'Todos';
+const featuredCategories = [
+  { name: 'Gala', label: 'Vestidos de gala', image: './images/dress-01.jpg' },
+  { name: 'Largos', label: 'Vestidos largos', image: './images/dress-04.jpg' },
+  { name: 'Cortos con brillo', label: 'Cortos con brillo', image: './images/dress-09.jpg' },
+  { name: 'Cortos', label: 'Vestidos cortos', image: './images/dress-10.jpg' },
+  { name: 'Bandage', label: 'Bandage', image: './images/dress-14.jpg' },
+  { name: 'Liquidación', label: 'En liquidación', image: './images/dress-17.jpg' },
+];
 
 const money = value => new Intl.NumberFormat('es-PE', { style: 'currency', currency: 'PEN' }).format(value);
 const normalize = value => value.toLocaleLowerCase('es').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
@@ -16,20 +25,27 @@ const whatsappUrl = product => `https://wa.me/51930527248?text=${encodeURICompon
 
 function renderFilters() {
   filters.innerHTML = categories.map(category => `<button type="button" data-category="${escapeHtml(category)}" class="filter${category === activeCategory ? ' active' : ''}" aria-pressed="${category === activeCategory}">${escapeHtml(category)}</button>`).join('');
+  categoryShowcase.querySelectorAll('[data-category]').forEach(button => {
+    button.setAttribute('aria-pressed', String(button.dataset.category === activeCategory));
+  });
 }
+
+categoryShowcase.innerHTML = featuredCategories.map(item => `<button type="button" class="category-tile" data-category="${escapeHtml(item.name)}" aria-label="Ver ${escapeHtml(item.label)}" aria-pressed="false"><img src="${item.image}" alt="" loading="lazy" /><span>${escapeHtml(item.label)}</span><small>Explorar colección ↗</small></button>`).join('');
 
 function renderProducts() {
   const term = normalize(search.value.trim());
-  const shown = products.filter(product => (activeCategory === 'Todos' || product.category === activeCategory) && normalize(`${product.name} ${product.category}`).includes(term));
+  const shown = products
+    .filter(product => (activeCategory === 'Todos' || product.category === activeCategory) && normalize(`${product.name} ${product.category}`).includes(term))
+    .sort((a, b) => categories.indexOf(a.category) - categories.indexOf(b.category) || a.id - b.id);
   count.textContent = shown.length;
   empty.hidden = shown.length > 0;
-  grid.innerHTML = shown.map(product => `<article class="product-card"><button type="button" class="product-open" data-id="${product.id}" aria-label="Ver ${escapeHtml(product.name)}"><span class="product-image"><img src="${product.image}" alt="${escapeHtml(product.name)}" loading="lazy" />${product.originalPrice ? '<span class="sale-tag">Oferta</span>' : ''}</span><span class="product-meta"><span class="category">${escapeHtml(product.category)}</span><span class="view-link">Ver vestido ↗</span></span><span class="product-name">${escapeHtml(product.name)}</span><span class="price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</span></button></article>`).join('');
+  grid.innerHTML = shown.map(product => `<article class="product-card${product.id > 17 ? ' is-thumbnail' : ''}"><button type="button" class="product-open" data-id="${product.id}" aria-label="Ver ${escapeHtml(product.name)}"><span class="product-image"><img src="${product.image}" alt="${escapeHtml(product.name)}" loading="lazy" />${product.originalPrice ? '<span class="sale-tag">Oferta</span>' : ''}</span><span class="product-meta"><span class="category">${escapeHtml(product.category)}</span><span class="view-link">Ver vestido ↗</span></span><span class="product-name">${escapeHtml(product.name)}</span><span class="price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</span></button></article>`).join('');
 }
 
 function openProduct(id) {
   const product = products.find(item => item.id === id);
   if (!product) return;
-  dialogContent.innerHTML = `<div class="dialog-image"><img src="${product.image}" alt="${escapeHtml(product.name)}" /></div><div class="dialog-info"><p class="eyebrow">Xiliana Boutique / ${escapeHtml(product.category)}</p><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p class="dialog-price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</p>${product.note ? `<p class="product-note">${escapeHtml(product.note)}</p>` : ''}${product.imageNote ? `<p class="image-warning">${escapeHtml(product.imageNote)}</p>` : ''}<p class="availability">Consulta talla, disponibilidad y entrega con la boutique antes de comprar.</p><a class="button button-dark" href="${whatsappUrl(product)}" target="_blank" rel="noopener noreferrer">Consultar por WhatsApp <span aria-hidden="true">↗</span></a></div>`;
+  dialogContent.innerHTML = `<div class="dialog-image${product.id > 17 ? ' is-thumbnail' : ''}"><img src="${product.image}" alt="${escapeHtml(product.name)}" /></div><div class="dialog-info"><p class="eyebrow">Xiliana Boutique / ${escapeHtml(product.category)}</p><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p class="dialog-price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</p>${product.note ? `<p class="product-note">${escapeHtml(product.note)}</p>` : ''}${product.imageNote ? `<p class="image-warning">${escapeHtml(product.imageNote)}</p>` : ''}${product.id > 17 ? '<p class="product-note">Foto extraída de una captura del catálogo. Pide una imagen de mayor tamaño a la boutique.</p>' : ''}<p class="availability">Consulta talla, disponibilidad y entrega con la boutique antes de comprar.</p><a class="button button-dark" href="${whatsappUrl(product)}" target="_blank" rel="noopener noreferrer">Consultar por WhatsApp <span aria-hidden="true">↗</span></a></div>`;
   dialog.showModal();
 }
 
@@ -39,6 +55,15 @@ filters.addEventListener('click', event => {
   activeCategory = button.dataset.category;
   renderFilters();
   renderProducts();
+});
+categoryShowcase.addEventListener('click', event => {
+  const button = event.target.closest('[data-category]');
+  if (!button) return;
+  activeCategory = button.dataset.category;
+  search.value = '';
+  renderFilters();
+  renderProducts();
+  document.querySelector('#coleccion').scrollIntoView({ behavior: 'smooth', block: 'start' });
 });
 search.addEventListener('input', renderProducts);
 grid.addEventListener('click', event => {
@@ -59,8 +84,8 @@ function closeOpening(skip = false) {
   if (!opening || opening.classList.contains('is-exiting')) return;
   clearTimeout(openingTimer);
   opening.classList.add('is-exiting');
-  const exitDuration = skip ? 0 : 650;
-  window.setTimeout(() => document.body.classList.remove('opening-active'), skip ? 0 : 350);
+  const exitDuration = skip ? 0 : 600;
+  window.setTimeout(() => document.body.classList.remove('opening-active'), skip ? 0 : 250);
   window.setTimeout(() => opening.remove(), exitDuration);
   if (heroVideo) {
     heroVideo.currentTime = 0;
@@ -75,7 +100,7 @@ if (opening) {
   window.addEventListener('keydown', event => { if (event.key === 'Escape') closeOpening(true); });
   requestAnimationFrame(() => {
     opening.classList.add('is-playing');
-    openingTimer = window.setTimeout(() => closeOpening(), 6050);
+    openingTimer = window.setTimeout(() => closeOpening(), 3400);
   });
 } else {
   heroVideo?.play().catch(() => {});

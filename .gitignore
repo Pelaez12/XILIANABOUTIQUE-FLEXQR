@@ -1,0 +1,12 @@
+# Entorno y SO
+.DS_Store
+Thumbs.db
+.env
+.env.local
+
+# Logs
+*.log
+
+# Perfiles temporales
+.chrome_temp/
+chrome_cdp_profile*

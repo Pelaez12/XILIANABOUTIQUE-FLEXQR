@@ -1,0 +1,40 @@
+{
+  "tool": "built-in image_gen",
+  "results": [
+    {
+      "id": 35,
+      "path": "C:\\Users\\USER\\OneDrive\\Documentos\\ChatGPT\\FLEXQR-DEMO\\XILIANA\\images\\catalog-35-model.png",
+      "prompt": "Use case: precise-object-edit. Edit target: the reference product photo. Replace the invisible mannequin presentation with a photorealistic adult woman fashion model, age around 30, with natural honey-blonde hair swept back from the shoulders. She wears exactly this dress in a professional boutique catalog photograph. Preserve the garment color, embroidery, beadwork, cut, length, draping and neckline. Use opaque matching lining under any sheer garment panels so this is a tasteful fully clothed fashion presentation. Neutral standing pose, natural face and realistic skin texture, anatomical hands, subtle makeup, no provocative pose. Full head-to-shoes body framing, portrait 4:5, small balanced margins, same light gray studio and soft lighting. No text, logo, watermark or accessories obscuring the dress."
+    },
+    {
+      "id": 46,
+      "path": "C:\\Users\\USER\\OneDrive\\Documentos\\ChatGPT\\FLEXQR-DEMO\\XILIANA\\images\\catalog-46-model.png",
+      "prompt": "Use case: precise-object-edit. Edit target: the reference product photo. Replace the invisible mannequin presentation with a photorealistic adult woman fashion model, age around 30, with natural honey-blonde hair swept back from the shoulders. She wears exactly this dress in a professional boutique catalog photograph. Preserve the garment color, embroidery, beadwork, cut, length, draping and neckline. Use opaque matching lining under any sheer garment panels so this is a tasteful fully clothed fashion presentation. Neutral standing pose, natural face and realistic skin texture, anatomical hands, subtle makeup, no provocative pose. Full head-to-shoes body framing, portrait 4:5, small balanced margins, same light gray studio and soft lighting. No text, logo, watermark or accessories obscuring the dress."
+    },
+    {
+      "id": 49,
+      "path": "C:\\Users\\USER\\OneDrive\\Documentos\\ChatGPT\\FLEXQR-DEMO\\XILIANA\\images\\catalog-49-model.png",
+      "prompt": "Use case: precise-object-edit. Edit target: the reference product photo. Replace the invisible mannequin presentation with a photorealistic adult woman fashion model, age around 30, with natural honey-blonde hair swept back from the shoulders. She wears exactly this dress in a professional boutique catalog photograph. Preserve the garment color, embroidery, beadwork, cut, length, draping and neckline. Use opaque matching lining under any sheer garment panels so this is a tasteful fully clothed fashion presentation. Neutral standing pose, natural face and realistic skin texture, anatomical hands, subtle makeup, no provocative pose. Full head-to-shoes body framing, portrait 4:5, small balanced margins, same light gray studio and soft lighting. No text, logo, watermark or accessories obscuring the dress."
+    },
+    {
+      "id": 56,
+      "path": "C:\\Users\\USER\\OneDrive\\Documentos\\ChatGPT\\FLEXQR-DEMO\\XILIANA\\images\\catalog-56-model.png",
+      "prompt": "Use case: precise-object-edit. Edit target: the reference product photo. Replace the invisible mannequin presentation with a photorealistic adult woman fashion model, age around 30, with natural honey-blonde hair swept back from the shoulders. She wears exactly this dress in a professional boutique catalog photograph. Preserve the garment color, embroidery, beadwork, cut, length, draping and neckline. Use opaque matching lining under any sheer garment panels so this is a tasteful fully clothed fashion presentation. Neutral standing pose, natural face and realistic skin texture, anatomical hands, subtle makeup, no provocative pose. Full head-to-shoes body framing, portrait 4:5, small balanced margins, same light gray studio and soft lighting. No text, logo, watermark or accessories obscuring the dress."
+    },
+    {
+      "id": 42,
+      "path": "C:\\Users\\USER\\OneDrive\\Documentos\\ChatGPT\\FLEXQR-DEMO\\XILIANA\\images\\catalog-42-model.png",
+      "prompt": "Professional fully clothed fashion catalog photo. Reference image is the dress design. Present this dress worn by a realistic adult woman aged 30 with honey blonde hair, standing neutrally in a light gray studio. For this safe catalog variant, make all bodice, chest and skirt panels fully opaque with solid matching fabric lining; no transparent fabric or exposed torso. Preserve outer embroidery, main colors, hem length, neckline shape and draping as much as possible. Head-to-shoes full body portrait 4:5, neutral commercial pose, soft lighting, natural face and skin. No text or watermark."
+    },
+    {
+      "id": 45,
+      "path": "C:\\Users\\USER\\OneDrive\\Documentos\\ChatGPT\\FLEXQR-DEMO\\XILIANA\\images\\catalog-45-model.png",
+      "prompt": "Professional fully clothed fashion catalog photo. Reference image is the dress design. Present this dress worn by a realistic adult woman aged 30 with dark brunette hair, standing neutrally in a light gray studio. For this safe catalog variant, make all bodice, chest and skirt panels fully opaque with solid matching fabric lining; no transparent fabric or exposed torso. Preserve outer embroidery, main colors, hem length, neckline shape and draping as much as possible. Head-to-shoes full body portrait 4:5, neutral commercial pose, soft lighting, natural face and skin. No text or watermark."
+    }
+  ],
+  "blockedIds": [
+    36,
+    48
+  ],
+  "note": "Models 42 and 45 use fully opaque lining variants."
+}

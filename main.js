@@ -11,11 +11,11 @@ const categoryShowcase = document.querySelector('#category-showcase-grid');
 let activeCategory = 'Todos';
 const featuredCategories = [
   { name: 'Gala', label: 'Vestidos de gala', image: './images/dress-01.jpg' },
-  { name: 'Largos', label: 'Vestidos largos', image: './images/dress-04.jpg' },
-  { name: 'Cortos con brillo', label: 'Cortos con brillo', image: './images/dress-09.jpg' },
-  { name: 'Cortos', label: 'Vestidos cortos', image: './images/dress-10.jpg' },
-  { name: 'Bandage', label: 'Bandage', image: './images/dress-14.jpg' },
-  { name: 'Liquidación', label: 'En liquidación', image: './images/dress-17.jpg' },
+  { name: 'Largos', label: 'Vestidos largos', image: './images/catalog-28-ai.png' },
+  { name: 'Cortos con brillo', label: 'Cortos con brillo', image: './images/catalog-47-ai.png' },
+  { name: 'Cortos', label: 'Vestidos cortos', image: './images/catalog-50-ai.png' },
+  { name: 'Bandage', label: 'Bandage', image: './images/catalog-27-ai.png' },
+  { name: 'Liquidación', label: 'En liquidación', image: './images/catalog-58-ai.png' },
 ];
 
 const money = value => new Intl.NumberFormat('es-PE', { style: 'currency', currency: 'PEN' }).format(value);

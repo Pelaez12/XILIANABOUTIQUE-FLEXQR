@@ -19,6 +19,10 @@ const featuredCategories = [
 ];
 
 const money = value => new Intl.NumberFormat('es-PE', { style: 'currency', currency: 'PEN' }).format(value);
+const aiImageIds = new Set(Array.from({ length: 41 }, (_, index) => index + 18));
+const displayImage = product => aiImageIds.has(product.id)
+  ? `./images/catalog-${String(product.id).padStart(2, '0')}-ai.png`
+  : product.image;
 const normalize = value => value.toLocaleLowerCase('es').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 const escapeHtml = value => String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
 const whatsappUrl = product => `https://wa.me/51930527248?text=${encodeURIComponent(`Hola Xiliana Boutique, quisiera consultar por ${product.name} (S/ ${product.price.toFixed(2)} en el catálogo). ¿Está disponible y qué tallas tienen?`)}`;
@@ -39,13 +43,13 @@ function renderProducts() {
     .sort((a, b) => categories.indexOf(a.category) - categories.indexOf(b.category) || a.id - b.id);
   count.textContent = shown.length;
   empty.hidden = shown.length > 0;
-  grid.innerHTML = shown.map(product => `<article class="product-card${product.id > 17 ? ' is-thumbnail' : ''}"><button type="button" class="product-open" data-id="${product.id}" aria-label="Ver ${escapeHtml(product.name)}"><span class="product-image"><img src="${product.image}" alt="${escapeHtml(product.name)}" loading="lazy" />${product.originalPrice ? '<span class="sale-tag">Oferta</span>' : ''}</span><span class="product-meta"><span class="category">${escapeHtml(product.category)}</span><span class="view-link">Ver vestido ↗</span></span><span class="product-name">${escapeHtml(product.name)}</span><span class="price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</span></button></article>`).join('');
+  grid.innerHTML = shown.map(product => `<article class="product-card${product.id > 17 ? ' is-thumbnail' : ''}"><button type="button" class="product-open" data-id="${product.id}" aria-label="Ver ${escapeHtml(product.name)}"><span class="product-image"><img src="${displayImage(product)}" alt="${escapeHtml(product.name)}" loading="lazy" />${product.originalPrice ? '<span class="sale-tag">Oferta</span>' : ''}</span><span class="product-meta"><span class="category">${escapeHtml(product.category)}</span><span class="view-link">Ver vestido ↗</span></span><span class="product-name">${escapeHtml(product.name)}</span><span class="price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</span></button></article>`).join('');
 }
 
 function openProduct(id) {
   const product = products.find(item => item.id === id);
   if (!product) return;
-  dialogContent.innerHTML = `<div class="dialog-image${product.id > 17 ? ' is-thumbnail' : ''}"><img src="${product.image}" alt="${escapeHtml(product.name)}" /></div><div class="dialog-info"><p class="eyebrow">Xiliana Boutique / ${escapeHtml(product.category)}</p><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p class="dialog-price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</p>${product.note ? `<p class="product-note">${escapeHtml(product.note)}</p>` : ''}${product.imageNote ? `<p class="image-warning">${escapeHtml(product.imageNote)}</p>` : ''}${product.id > 17 ? '<p class="product-note">Foto extraída de una captura del catálogo. Pide una imagen de mayor tamaño a la boutique.</p>' : ''}<p class="availability">Consulta talla, disponibilidad y entrega con la boutique antes de comprar.</p><a class="button button-dark" href="${whatsappUrl(product)}" target="_blank" rel="noopener noreferrer">Consultar por WhatsApp <span aria-hidden="true">↗</span></a></div>`;
+  dialogContent.innerHTML = `<div class="dialog-image${product.id > 17 ? ' is-thumbnail' : ''}"><img src="${displayImage(product)}" alt="${escapeHtml(product.name)}" /></div><div class="dialog-info"><p class="eyebrow">Xiliana Boutique / ${escapeHtml(product.category)}</p><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p class="dialog-price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</p>${product.note ? `<p class="product-note">${escapeHtml(product.note)}</p>` : ''}${product.imageNote ? `<p class="image-warning">${escapeHtml(product.imageNote)}</p>` : ''}${product.id > 17 && !aiImageIds.has(product.id) ? '<p class="product-note">Foto extraída de una captura del catálogo. Pide una imagen de mayor tamaño a la boutique.</p>' : ''}<p class="availability">Consulta talla, disponibilidad y entrega con la boutique antes de comprar.</p><a class="button button-dark" href="${whatsappUrl(product)}" target="_blank" rel="noopener noreferrer">Consultar por WhatsApp <span aria-hidden="true">↗</span></a></div>`;
   dialog.showModal();
 }
 

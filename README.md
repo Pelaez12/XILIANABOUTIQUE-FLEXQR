@@ -16,7 +16,7 @@ Luego abre `http://127.0.0.1:8090/`.
 
 - `products.js` contiene los nombres, categorías, precios y notas. Es el lugar para actualizar el catálogo.
 - `images/dress-01.jpg` a `images/dress-17.jpg` son recortes de las fotografías mostradas en las fichas de WhatsApp Business. Algunos recortes conservan la marca de agua y los controles de galería visibles en WhatsApp.
-- `images/catalog-18.jpg` a `images/catalog-58.jpg` son miniaturas extraídas de las capturas del catálogo compartidas por el usuario. Su resolución es limitada; las fichas avisan que se puede solicitar una foto más grande a la boutique. No se inventaron imágenes para estos modelos.
+- `images/catalog-18.jpg` a `images/catalog-58.jpg` son miniaturas extraídas de las capturas del catálogo compartidas por el usuario. Se añadieron reconstrucciones nuevas generadas con IA (`catalog-18-ai.png` a `catalog-58-ai.png`) y la galería las usa automáticamente. Son recreaciones visuales basadas en miniaturas: el color, corte exacto, stock y precio deben confirmarse con la boutique. Algunas referencias se presentan sobre maniquí invisible para evitar deformaciones y mantener el vestido completo.
 - La ficha titulada **“Vestido largo de gala de lentejuelas rojo brillantes”** mostraba una fotografía de un vestido oscuro multicolor. Se conservó la asociación tal como apareció y se advierte en la ficha.
 - Las tallas solo se indican cuando el catálogo las mostraba. Precio, talla, disponibilidad y entrega requieren confirmación con la boutique.
 - Esta página prepara consultas a `+51 930 527 248` por WhatsApp; no envía mensajes ni procesa pagos.

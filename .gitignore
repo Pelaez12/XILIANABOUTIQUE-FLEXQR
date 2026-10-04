@@ -10,3 +10,7 @@ Thumbs.db
 # Perfiles temporales
 .chrome_temp/
 chrome_cdp_profile*
+
+# Publicación generada
+public/
+.wrangler/

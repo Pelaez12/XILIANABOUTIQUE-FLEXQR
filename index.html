@@ -1,11 +1,14 @@
 <!doctype html>
-<html lang="es">
+<html lang="es-PE">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#111111" />
-    <meta name="description" content="Explora los vestidos de Xiliana Boutique: gala, largos, cortos y bandage. Consulta cada prenda por WhatsApp." />
-    <title>Vestidos | Xiliana Boutique</title>
+    <meta name="description" content="Descubre vestidos de gala, largos, cortos y bandage en Xiliana Boutique, Jesús María, Lima. Consulta tallas y disponibilidad por WhatsApp y visita nuestra tienda." />
+    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <link rel="icon" href="./images/xiliana-logo-white.png" type="image/png" />
+    <title>Vestidos de fiesta en Jesús María, Lima | Xiliana Boutique</title>
+    <!-- SEO:HEAD -->
     <link rel="stylesheet" href="./styles.css" />
     <link rel="stylesheet" href="./experience.css?v=full-photo-2" />
   </head>
@@ -27,7 +30,7 @@
 
     <main>
       <section class="film" aria-label="Video de Xiliana Boutique">
-        <video id="hero-video" src="./images/xiliana-video.mp4" poster="./images/dress-01.jpg" muted loop playsinline preload="auto" aria-label="Video de la colección de vestidos de Xiliana Boutique"></video>
+        <video id="hero-video" src="./images/xiliana-video.mp4" poster="./images/dress-01.jpg" muted loop playsinline preload="metadata" aria-label="Video de la colección de vestidos de Xiliana Boutique"></video>
       </section>
 
       <section class="category-showcase" aria-labelledby="category-showcase-title">
@@ -36,7 +39,7 @@
       </section>
 
       <section class="catalog" id="coleccion" aria-labelledby="catalog-title">
-        <div class="section-heading"><div><p class="eyebrow">Colección de vestidos</p><h2 id="catalog-title">Encuentra el tuyo.</h2></div><p><span id="product-count">58</span> vestidos · precios del catálogo en soles</p></div>
+        <div class="section-heading"><div><p class="eyebrow">Xiliana Boutique · Jesús María, Lima</p><h1 id="catalog-title">Vestidos para lucirse.</h1></div><p><span id="product-count">58</span> vestidos · precios del catálogo en soles</p></div>
         <div class="catalog-controls"><div class="filters" id="filters" role="group" aria-label="Filtrar vestidos"></div><label class="search"><span class="sr-only">Buscar vestido</span><input id="search" type="search" placeholder="Buscar por nombre o color" autocomplete="off" /><span aria-hidden="true">⌕</span></label></div>
         <div class="product-grid" id="product-grid"></div>
         <p class="empty" id="empty" hidden>No encontramos vestidos con esa búsqueda. Prueba con otro nombre o color.</p>
@@ -58,6 +61,7 @@
     </footer>
 
     <dialog id="product-dialog" aria-labelledby="dialog-title"><button class="dialog-close" id="dialog-close" aria-label="Cerrar ficha">×</button><div id="dialog-content"></div></dialog>
-    <script type="module" src="./main.js?v=models-3"></script>
+    <noscript><style>.opening{display:none}.catalog-controls{display:none}</style></noscript>
+    <script type="module" src="./main.js?v=seo-4"></script>
   </body>
 </html>

@@ -14,11 +14,11 @@ const categoryShowcase = document.querySelector('#category-showcase-grid');
 let activeCategory = 'Todos';
 const featuredCategories = [
   { name: 'Gala', label: 'Vestidos de gala', image: './images/dress-01.jpg' },
-  { name: 'Largos', label: 'Vestidos largos', image: './images/catalog-28-ai.png' },
-  { name: 'Cortos con brillo', label: 'Cortos con brillo', image: './images/catalog-47-ai.png' },
-  { name: 'Cortos', label: 'Vestidos cortos', image: './images/catalog-50-ai.png' },
-  { name: 'Bandage', label: 'Bandage', image: './images/catalog-27-ai.png' },
-  { name: 'Liquidación', label: 'En liquidación', image: './images/catalog-58-ai.png' },
+  { name: 'Largos', label: 'Vestidos largos', image: displayImage(products.find(p => p.id === 28)) },
+  { name: 'Cortos con brillo', label: 'Cortos con brillo', image: displayImage(products.find(p => p.id === 47)) },
+  { name: 'Cortos', label: 'Vestidos cortos', image: displayImage(products.find(p => p.id === 50)) },
+  { name: 'Bandage', label: 'Bandage', image: displayImage(products.find(p => p.id === 27)) },
+  { name: 'Liquidación', label: 'En liquidación', image: displayImage(products.find(p => p.id === 58)) },
 ];
 
 const money = value => new Intl.NumberFormat('es-PE', { style: 'currency', currency: 'PEN' }).format(value);
@@ -47,7 +47,7 @@ function renderProducts() {
 function openProduct(id) {
   const product = products.find(item => item.id === id);
   if (!product) return;
-  dialogContent.innerHTML = `<div class="dialog-image${product.id > 17 && !aiImageIds.has(product.id) ? ' is-thumbnail' : ''}"><img src="${displayImage(product)}" alt="${escapeHtml(product.name)}" /></div><div class="dialog-info"><p class="eyebrow">Xiliana Boutique / ${escapeHtml(product.category)}</p><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p class="dialog-price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</p>${product.note && !/talla/i.test(product.note) ? `<p class="product-note">${escapeHtml(product.note)}</p>` : ''}${product.imageNote ? `<p class="image-warning">${escapeHtml(product.imageNote)}</p>` : ''}${product.id > 17 && !aiImageIds.has(product.id) ? '<p class="product-note">Foto extraída de una captura del catálogo. Pide una imagen de mayor tamaño a la boutique.</p>' : ''}<p class="availability">Prenda única y personalizada, sin talla definida por ahora. Coordina medidas, ajustes, disponibilidad y entrega con la boutique.</p><div class="order-shortcuts"><button type="button" class="button button-dark" data-order-id="${product.id}">Solicitar pedido ↗</button><button type="button" class="button order-visit" data-order-id="${product.id}" data-order-visit>Ver en tienda ↗</button></div></div>`;
+  dialogContent.innerHTML = `<div class="dialog-image${product.id > 17 && !aiImageIds.has(product.id) ? ' is-thumbnail' : ''}"><img src="${displayImage(product)}" alt="${escapeHtml(product.name)}" /></div><div class="dialog-info"><p class="eyebrow">Xiliana Boutique / ${escapeHtml(product.category)}</p><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p class="dialog-price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</p>${product.note && !/talla/i.test(product.note) ? `<p class="product-note">${escapeHtml(product.note)}</p>` : ''}${product.imageNote ? `<p class="image-warning">${escapeHtml(product.imageNote)}</p>` : ''}${aiImageIds.has(product.id) ? `<p class="product-note">Foto mejorada con IA. Los detalles finos pueden variar; confirma el diseño con la boutique. <a href="${product.image}" target="_blank" rel="noopener">Ver foto original ↗</a></p>` : product.id > 17 ? '<p class="product-note">Foto original del catálogo. Consulta una foto de mayor resolución con la boutique.</p>' : ''}<p class="availability">Prenda única y personalizada, sin talla definida por ahora. Coordina medidas, ajustes, disponibilidad y entrega con la boutique.</p><div class="order-shortcuts"><button type="button" class="button button-dark" data-order-id="${product.id}">Solicitar pedido ↗</button><button type="button" class="button order-visit" data-order-id="${product.id}" data-order-visit>Ver en tienda ↗</button></div></div>`;
   dialog.showModal();
 }
 

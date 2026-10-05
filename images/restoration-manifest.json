@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-05",
+  "method": "Conservative AI restoration of original cropped WhatsApp catalog photos. Original framing retained. Fine details cannot be verified from 256px originals.",
+  "publishedTo": "Local preview and public build; not deployed",
+  "restoredIds": [
+    18,
+    21,
+    22,
+    23,
+    25,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    37,
+    39,
+    40,
+    43,
+    44,
+    50,
+    53,
+    57,
+    58
+  ],
+  "originalPhotoFallbackIds": [
+    19,
+    20,
+    24,
+    26,
+    35,
+    36,
+    38,
+    41,
+    42,
+    45,
+    46,
+    47,
+    48,
+    49,
+    51,
+    52,
+    54,
+    55,
+    56
+  ],
+  "unmodifiedOriginalIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "restoredCount": 22,
+  "blockedCount": 19,
+  "blockedReason": "Image generator rejected output. One attempt per remaining source; no retries or garment changes to bypass rejection.",
+  "items": [
+    {
+      "id": 18,
+      "source": "catalog-18.jpg",
+      "displayed": "catalog-18-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 19,
+      "source": "catalog-19.jpg",
+      "displayed": "catalog-19.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 20,
+      "source": "catalog-20.jpg",
+      "displayed": "catalog-20.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 21,
+      "source": "catalog-21.jpg",
+      "displayed": "catalog-21-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 22,
+      "source": "catalog-22.jpg",
+      "displayed": "catalog-22-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 23,
+      "source": "catalog-23.jpg",
+      "displayed": "catalog-23-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 24,
+      "source": "catalog-24.jpg",
+      "displayed": "catalog-24.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 25,
+      "source": "catalog-25.jpg",
+      "displayed": "catalog-25-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 26,
+      "source": "catalog-26.jpg",
+      "displayed": "catalog-26.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 27,
+      "source": "catalog-27.jpg",
+      "displayed": "catalog-27-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 28,
+      "source": "catalog-28.jpg",
+      "displayed": "catalog-28-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 29,
+      "source": "catalog-29.jpg",
+      "displayed": "catalog-29-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 30,
+      "source": "catalog-30.jpg",
+      "displayed": "catalog-30-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 31,
+      "source": "catalog-31.jpg",
+      "displayed": "catalog-31-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 32,
+      "source": "catalog-32.jpg",
+      "displayed": "catalog-32-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 33,
+      "source": "catalog-33.jpg",
+      "displayed": "catalog-33-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 34,
+      "source": "catalog-34.jpg",
+      "displayed": "catalog-34-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 35,
+      "source": "catalog-35.jpg",
+      "displayed": "catalog-35.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 36,
+      "source": "catalog-36.jpg",
+      "displayed": "catalog-36.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 37,
+      "source": "catalog-37.jpg",
+      "displayed": "catalog-37-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 38,
+      "source": "catalog-38.jpg",
+      "displayed": "catalog-38.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 39,
+      "source": "catalog-39.jpg",
+      "displayed": "catalog-39-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 40,
+      "source": "catalog-40.jpg",
+      "displayed": "catalog-40-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 41,
+      "source": "catalog-41.jpg",
+      "displayed": "catalog-41.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 42,
+      "source": "catalog-42.jpg",
+      "displayed": "catalog-42.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 43,
+      "source": "catalog-43.jpg",
+      "displayed": "catalog-43-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 44,
+      "source": "catalog-44.jpg",
+      "displayed": "catalog-44-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 45,
+      "source": "catalog-45.jpg",
+      "displayed": "catalog-45.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 46,
+      "source": "catalog-46.jpg",
+      "displayed": "catalog-46.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 47,
+      "source": "catalog-47.jpg",
+      "displayed": "catalog-47.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 48,
+      "source": "catalog-48.jpg",
+      "displayed": "catalog-48.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 49,
+      "source": "catalog-49.jpg",
+      "displayed": "catalog-49.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 50,
+      "source": "catalog-50.jpg",
+      "displayed": "catalog-50-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 51,
+      "source": "catalog-51.jpg",
+      "displayed": "catalog-51.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 52,
+      "source": "catalog-52.jpg",
+      "displayed": "catalog-52.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 53,
+      "source": "catalog-53.jpg",
+      "displayed": "catalog-53-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 54,
+      "source": "catalog-54.jpg",
+      "displayed": "catalog-54.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 55,
+      "source": "catalog-55.jpg",
+      "displayed": "catalog-55.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 56,
+      "source": "catalog-56.jpg",
+      "displayed": "catalog-56.jpg",
+      "status": "generation blocked; original displayed"
+    },
+    {
+      "id": 57,
+      "source": "catalog-57.jpg",
+      "displayed": "catalog-57-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    },
+    {
+      "id": 58,
+      "source": "catalog-58.jpg",
+      "displayed": "catalog-58-faithful-v2.png",
+      "status": "restored and visually reviewed"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": 22,
+  "source": "catalog-22.jpg",
+  "output": "catalog-22-faithful-v2.png",
+  "prompt": "Use case: precise-object-edit. Edit target: this original cropped low-resolution WhatsApp catalog photo. Apply the approved conservative photographic restoration approach. Accuracy-critical ecommerce restoration, NOT a redesign and NOT a new studio product photo. Clean and enlarge the exact original photograph while tracing the existing visible garment shapes and decorative patterns faithfully. Preserve original pose, model, camera framing, background, lighting, square canvas and corner masking. Preserve original neckline, sleeve shape and length, seams, silhouette, hem as visible, fabric color and opacity, exact visible embroidery/beadwork/prints placement, scale and density. Do not invent ruffles, extra seams, extra embellishments, lining, accessories or new pattern motifs. Never replace the model or background. Never extend beyond the original crop or invent a missing head or hem. Where details are ambiguous retain realistic softness rather than invent crisp false details. The result must be recognizably the same original photograph and exact garment, merely cleaner. No added text or logos. Preserve any existing text without redesign.\nGarment-specific constraints: White fitted long mermaid dress, floral embroidered sheer long sleeves and floral neckline/bodice. Preserve precisely floral placement and white fabric, original mermaid flare.",
+  "tool": "Built-in image_gen"
+}

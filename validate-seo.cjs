@@ -2,6 +2,10 @@ const fs = require('node:fs');
 const path = require('node:path');
 const assert = require('node:assert/strict');
 const output = path.join(__dirname, 'public');
+const wrangler = JSON.parse(fs.readFileSync(path.join(__dirname, 'wrangler.jsonc'), 'utf8'));
+assert.equal(path.resolve(__dirname, wrangler.assets.directory), output, 'Wrangler debe publicar solo public/');
+assert.equal(wrangler.assets.not_found_handling, '404-page');
+assert.equal(wrangler.assets.html_handling, 'auto-trailing-slash');
 const origin = require('./site-config.json').url;
 const files = [];
 function walk(dir) {
@@ -17,6 +21,8 @@ let schemas = 0;
 for (const file of files) {
   assert(fs.statSync(file).size <= 25 * 1024 * 1024, `Archivo grande: ${file}`);
   assert(!path.relative(output, file).split(path.sep).includes('.git'), 'Se incluyó .git');
+  assert(!/\.(?:cjs|jsonc?|md|xlsx|pdf)$/i.test(file), `Archivo de trabajo en publicación: ${file}`);
+  assert(!/^catalog-\d+-(ai|model)\.png$/i.test(path.basename(file)), `Recreación retirada en publicación: ${file}`);
 }
 for (const file of pages) {
   const html = fs.readFileSync(file, 'utf8');
@@ -40,6 +46,8 @@ for (const file of pages) {
   }
 }
 const sitemap = fs.readFileSync(path.join(output, 'sitemap.xml'), 'utf8');
+assert(fs.readFileSync(path.join(output, '404.html'), 'utf8').includes('noindex'), '404 debe excluirse de indexación');
+assert(!fs.readFileSync(path.join(output, 'index.html'), 'utf8').includes('xilianaboutiqueoficial.com'), 'Dominio antiguo en portada');
 assert.equal((sitemap.match(/<loc>/g) || []).length, 65);
 assert.equal((sitemap.match(/<image:loc>/g) || []).length, 58);
 assert(fs.readFileSync(path.join(output, 'robots.txt'), 'utf8').includes(origin + '/sitemap.xml'));

@@ -1,0 +1,8 @@
+{
+  "tool": "Built-in image_gen",
+  "productId": 28,
+  "source": "catalog-28.jpg",
+  "result": "catalog-28-faithful-v2.png",
+  "prompt": "Use case: precise-object-edit. Edit target: attached original 256x256 cropped WhatsApp photograph of dress 28. This is an accuracy-critical ecommerce photo restoration, NOT a fashion redesign or a new product photograph. Improve readability and sharpness conservatively while preserving the exact visible dress, original cropped composition, model pose (one hand on hip, other arm bent), square framing, warm brown ornate interior background, and original lighting. Preserve the original visible garment silhouette, neckline, three-quarter sleeve length and shape, waist structure, and dark base fabric with the precise existing colored floral pattern placements, sizes and density as shown in the reference. Trace the reference faithfully, not a newly designed floral print. Do not add ruffles, tiered seams, extra draping, new embroidery, new jewelry, accessories, or changes to fabric transparency. Do not replace the model or change background to studio. Do not extend the cropped hem or model face beyond what is visible. Do not fabricate sharply defined fine details when source is ambiguous; retain natural softness there. The restored photograph must remain recognizably the same original photograph with the same dress and all visible design details, merely cleaner and larger.",
+  "status": "User-approved sample, active in local preview and public build. Fine print details remain inferred from the low resolution source."
+}

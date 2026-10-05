@@ -1,5 +1,7 @@
 import { products, categories } from './products.js';
 import { displayImage, aiImageIds, productPath } from './catalog-utils.js';
+import './order-ui.js';
+import { startVideo } from './video-audio.js';
 
 const grid = document.querySelector('#product-grid');
 const filters = document.querySelector('#filters');
@@ -22,7 +24,6 @@ const featuredCategories = [
 const money = value => new Intl.NumberFormat('es-PE', { style: 'currency', currency: 'PEN' }).format(value);
 const normalize = value => value.toLocaleLowerCase('es').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 const escapeHtml = value => String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
-const whatsappUrl = product => `https://wa.me/51930527248?text=${encodeURIComponent(`Hola Xiliana Boutique, quisiera consultar por ${product.name} (S/ ${product.price.toFixed(2)} en el catálogo). ¿Está disponible y qué tallas tienen?`)}`;
 
 function renderFilters() {
   filters.innerHTML = categories.map(category => `<button type="button" data-category="${escapeHtml(category)}" class="filter${category === activeCategory ? ' active' : ''}" aria-pressed="${category === activeCategory}">${escapeHtml(category)}</button>`).join('');
@@ -46,7 +47,7 @@ function renderProducts() {
 function openProduct(id) {
   const product = products.find(item => item.id === id);
   if (!product) return;
-  dialogContent.innerHTML = `<div class="dialog-image${product.id > 17 && !aiImageIds.has(product.id) ? ' is-thumbnail' : ''}"><img src="${displayImage(product)}" alt="${escapeHtml(product.name)}" /></div><div class="dialog-info"><p class="eyebrow">Xiliana Boutique / ${escapeHtml(product.category)}</p><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p class="dialog-price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</p>${product.note ? `<p class="product-note">${escapeHtml(product.note)}</p>` : ''}${product.imageNote ? `<p class="image-warning">${escapeHtml(product.imageNote)}</p>` : ''}${product.id > 17 && !aiImageIds.has(product.id) ? '<p class="product-note">Foto extraída de una captura del catálogo. Pide una imagen de mayor tamaño a la boutique.</p>' : ''}<p class="availability">Consulta talla, disponibilidad y entrega con la boutique antes de comprar.</p><a class="button button-dark" href="${whatsappUrl(product)}" target="_blank" rel="noopener noreferrer">Consultar por WhatsApp <span aria-hidden="true">↗</span></a></div>`;
+  dialogContent.innerHTML = `<div class="dialog-image${product.id > 17 && !aiImageIds.has(product.id) ? ' is-thumbnail' : ''}"><img src="${displayImage(product)}" alt="${escapeHtml(product.name)}" /></div><div class="dialog-info"><p class="eyebrow">Xiliana Boutique / ${escapeHtml(product.category)}</p><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p class="dialog-price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</p>${product.note ? `<p class="product-note">${escapeHtml(product.note)}</p>` : ''}${product.imageNote ? `<p class="image-warning">${escapeHtml(product.imageNote)}</p>` : ''}${product.id > 17 && !aiImageIds.has(product.id) ? '<p class="product-note">Foto extraída de una captura del catálogo. Pide una imagen de mayor tamaño a la boutique.</p>' : ''}<p class="availability">Consulta talla, disponibilidad y entrega con la boutique antes de comprar.</p><div class="order-shortcuts"><button type="button" class="button button-dark" data-order-id="${product.id}">Solicitar pedido ↗</button><button type="button" class="button order-visit" data-order-id="${product.id}" data-order-visit>Ver en tienda ↗</button></div></div>`;
   dialog.showModal();
 }
 
@@ -91,7 +92,7 @@ function closeOpening(skip = false) {
   window.setTimeout(() => opening.remove(), exitDuration);
   if (heroVideo) {
     heroVideo.currentTime = 0;
-    heroVideo.play().catch(() => {});
+    startVideo();
   }
 }
 
@@ -105,5 +106,5 @@ if (opening) {
     openingTimer = window.setTimeout(() => closeOpening(), 3800);
   });
 } else {
-  heroVideo?.play().catch(() => {});
+  startVideo();
 }

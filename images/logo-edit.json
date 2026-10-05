@@ -1,0 +1,6 @@
+{
+  "tool": "Built-in image_gen",
+  "source": "xiliana-logo-white.png",
+  "output": "xiliana-logo-gold-black.png",
+  "prompt": "Change only the cursive By Antonio Grau lettering to solid black. Preserve the exact gold XILIANA BOUTIQUE wordmark, lettering shapes, placement, scale, square canvas and white background."
+}

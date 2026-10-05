@@ -1,6 +1,7 @@
 import { products, categories } from './products.js';
-import { displayImage, aiImageIds, productPath } from './catalog-utils.js';
+import { displayImage, productPath } from './catalog-utils.js';
 import './order-ui.js';
+import { galleryMarkup } from './gallery.js';
 import { startVideo } from './video-audio.js';
 
 const grid = document.querySelector('#product-grid');
@@ -13,12 +14,12 @@ const dialogContent = document.querySelector('#dialog-content');
 const categoryShowcase = document.querySelector('#category-showcase-grid');
 let activeCategory = 'Todos';
 const featuredCategories = [
-  { name: 'Gala', label: 'Vestidos de gala', image: './images/dress-01.jpg' },
-  { name: 'Largos', label: 'Vestidos largos', image: displayImage(products.find(p => p.id === 28)) },
-  { name: 'Cortos con brillo', label: 'Cortos con brillo', image: displayImage(products.find(p => p.id === 47)) },
-  { name: 'Cortos', label: 'Vestidos cortos', image: displayImage(products.find(p => p.id === 50)) },
-  { name: 'Bandage', label: 'Bandage', image: displayImage(products.find(p => p.id === 27)) },
-  { name: 'Liquidación', label: 'En liquidación', image: displayImage(products.find(p => p.id === 58)) },
+  { name: 'Gala', label: 'Vestidos de gala', image: './images/xiliana-logo-gold-black.png' },
+  { name: 'Largos', label: 'Vestidos largos', image: displayImage(products.find(p => p.id === 24)) },
+  { name: 'Cortos con brillo', label: 'Cortos con brillo', image: displayImage(products.find(p => p.id === 39)) },
+  { name: 'Cortos', label: 'Vestidos cortos', image: displayImage(products.find(p => p.id === 10)) },
+  { name: 'Bandage', label: 'Bandage', image: displayImage(products.find(p => p.id === 14)) },
+  { name: 'Liquidación', label: 'En liquidación', image: displayImage(products.find(p => p.id === 17)) },
 ];
 
 const money = value => new Intl.NumberFormat('es-PE', { style: 'currency', currency: 'PEN' }).format(value);
@@ -37,17 +38,17 @@ categoryShowcase.innerHTML = featuredCategories.map(item => `<button type="butto
 function renderProducts() {
   const term = normalize(search.value.trim());
   const shown = products
-    .filter(product => (activeCategory === 'Todos' || product.category === activeCategory) && normalize(`${product.name} ${product.category}`).includes(term))
+    .filter(product => !product.photoPending && (activeCategory === 'Todos' || product.category === activeCategory) && normalize(`${product.name} ${product.category}`).includes(term))
     .sort((a, b) => categories.indexOf(a.category) - categories.indexOf(b.category) || a.id - b.id);
   count.textContent = shown.length;
   empty.hidden = shown.length > 0;
-  grid.innerHTML = shown.map(product => `<article class="product-card${product.id > 17 && !aiImageIds.has(product.id) ? ' is-thumbnail' : ''}"><a href="${productPath(product)}" class="product-open" data-id="${product.id}" aria-label="Ver ${escapeHtml(product.name)}"><span class="product-image"><img src="${displayImage(product)}" alt="${escapeHtml(product.name)}" loading="lazy" />${product.originalPrice ? '<span class="sale-tag">Oferta</span>' : ''}</span><span class="product-meta"><span class="category">${escapeHtml(product.category)}</span><span class="view-link">Ver vestido ↗</span></span><span class="product-name">${escapeHtml(product.name)}</span><span class="price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</span></a></article>`).join('');
+  grid.innerHTML = shown.map(product => `<article class="product-card${product.id > 17 && !product.photos.length ? ' is-thumbnail' : ''}"><a href="${productPath(product)}" class="product-open" data-id="${product.id}" aria-label="Ver ${escapeHtml(product.name)}"><span class="product-image"><img src="${displayImage(product)}" alt="${escapeHtml(product.name)}" loading="lazy" />${product.originalPrice ? '<span class="sale-tag">Oferta</span>' : ''}</span><span class="product-meta"><span class="category">${escapeHtml(product.category)}</span><span class="view-link">Ver vestido ↗</span></span><span class="product-name">${escapeHtml(product.name)}</span><span class="price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</span></a></article>`).join('');
 }
 
 function openProduct(id) {
   const product = products.find(item => item.id === id);
   if (!product) return;
-  dialogContent.innerHTML = `<div class="dialog-image${product.id > 17 && !aiImageIds.has(product.id) ? ' is-thumbnail' : ''}"><img src="${displayImage(product)}" alt="${escapeHtml(product.name)}" /></div><div class="dialog-info"><p class="eyebrow">Xiliana Boutique / ${escapeHtml(product.category)}</p><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p class="dialog-price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</p>${product.note && !/talla/i.test(product.note) ? `<p class="product-note">${escapeHtml(product.note)}</p>` : ''}${product.imageNote ? `<p class="image-warning">${escapeHtml(product.imageNote)}</p>` : ''}${aiImageIds.has(product.id) ? `<p class="product-note">Foto mejorada con IA. Los detalles finos pueden variar; confirma el diseño con la boutique. <a href="${product.image}" target="_blank" rel="noopener">Ver foto original ↗</a></p>` : product.id > 17 ? '<p class="product-note">Foto original del catálogo. Consulta una foto de mayor resolución con la boutique.</p>' : ''}<p class="availability">Prenda única y personalizada, sin talla definida por ahora. Coordina medidas, ajustes, disponibilidad y entrega con la boutique.</p><div class="order-shortcuts"><button type="button" class="button button-dark" data-order-id="${product.id}">Solicitar pedido ↗</button><button type="button" class="button order-visit" data-order-id="${product.id}" data-order-visit>Ver en tienda ↗</button></div></div>`;
+  dialogContent.innerHTML = `${galleryMarkup(product)}<div class="dialog-info"><p class="eyebrow">Xiliana Boutique / ${escapeHtml(product.category)}</p><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p class="dialog-price">${money(product.price)}${product.originalPrice ? `<del>${money(product.originalPrice)}</del>` : ''}</p>${product.note && !/talla/i.test(product.note) ? `<p class="product-note">${escapeHtml(product.note)}</p>` : ''}${product.imageNote ? `<p class="image-warning">${escapeHtml(product.imageNote)}</p>` : ''}${!product.photos.length && product.id > 17 ? '<p class="product-note">Foto real pendiente. Consulta el modelo con la boutique.</p>' : ''}<p class="availability">Prenda única y personalizada, sin talla definida por ahora. Coordina medidas, ajustes, disponibilidad y entrega con la boutique.</p><div class="order-shortcuts"><button type="button" class="button button-dark" data-order-id="${product.id}">Solicitar pedido ↗</button><button type="button" class="button order-visit" data-order-id="${product.id}" data-order-visit>Ver en tienda ↗</button></div></div>`;
   dialog.showModal();
 }
 

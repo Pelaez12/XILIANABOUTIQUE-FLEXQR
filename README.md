@@ -16,8 +16,9 @@ Luego abre `http://127.0.0.1:8090/`.
 ## Datos y fotos
 
 - `products.js` contiene los nombres, categorías, precios y notas. Es el lugar para actualizar el catálogo.
-- `images/dress-01.jpg` a `images/dress-17.jpg` son recortes de las fotografías mostradas en las fichas de WhatsApp Business. Algunos recortes conservan la marca de agua y los controles de galería visibles en WhatsApp.
-- `images/catalog-18.jpg` a `images/catalog-58.jpg` son las capturas originales de WhatsApp. Se muestran 22 restauraciones conservadoras (`catalog-XX-faithful-v2.png`) que mantienen el encuadre original. Las otras 19 muestran su captura original porque el generador rechazó su restauración. Las fichas restauradas enlazan la foto original; los detalles finos requieren confirmación con la boutique. `images/restoration-manifest.json` registra cada resultado. Las recreaciones anteriores `-ai.png` y `-model.png` se conservan como archivos de trabajo, pero no se publican.
+- Las capturas recortadas dress-XX.jpg y catalog-XX.jpg se eliminaron por solicitud del usuario.
+- `images/imagenes-reales/` conserva intactos los 166 archivos recibidos el 5 de octubre (156 archivos únicos). Se identificaron 20 productos del catálogo: sus fotos originales se copian sin modificar a `images/productos-reales/XL-XXX/`. `products.js` incluye las galerías, portada y dimensiones. Los otros 38 productos quedan pendientes de foto real; las capturas recortadas se eliminaron. Las 69 fotografías de prendas generadas con IA fueron eliminadas después de clasificar; el logo y el video se conservan.
+- `pendientes-dueno/` contiene 80 grupos de fotos por confirmar, con nombres y categorías provisionales. Incluye algunas prendas fuera de vestidos y vistas posteriores sin correspondencia segura. Abre `VER-FOTOS-PENDIENTES.html` para revisarlos y completa `PRECIOS-POR-CONFIRMAR.csv`. No se incluyen en la publicación. `review/real-classification.json` registra cada fuente y su grupo; `review/CLASIFICACION-REAL.md` resume los productos y las fotos que faltan.
 - La ficha titulada **“Vestido largo de gala de lentejuelas rojo brillantes”** mostraba una fotografía de un vestido oscuro multicolor. Se conservó la asociación tal como apareció y se advierte en la ficha.
 - Las prendas se presentan como únicas y personalizadas, sin talla definida por ahora. Medidas, ajustes, precio, disponibilidad y entrega se coordinan con la boutique.
 - Esta página prepara consultas a `+51 930 527 248` por WhatsApp; no envía mensajes ni procesa pagos.
@@ -50,7 +51,7 @@ Dominio principal: **https://xilianaboutique.comunidadfortaleza.com/**. Se confi
 
 La compilación genera 65 páginas estáticas: inicio, seis colecciones y 58 fichas de vestidos. Cada página incluye título, descripción, canonical, Open Graph y Twitter Card. El contenido y los enlaces de productos están en el HTML inicial; el catálogo conserva los filtros y la vista rápida con JavaScript.
 
-Se generan `public/sitemap.xml` (incluye imágenes), `public/robots.txt`, datos estructurados de ClothingStore, WebSite, Product, Offer y BreadcrumbList, una página 404 y cabeceras de caché para Cloudflare. No se inventan reseñas, calificaciones ni disponibilidad de stock. Las restauraciones con IA se señalan en las fichas y enlazan su captura original.
+Se generan `public/sitemap.xml` (incluye todas las fotos de las galerías), `public/robots.txt`, datos estructurados de ClothingStore, WebSite, Product, Offer y BreadcrumbList, una página 404 y cabeceras de caché para Cloudflare. No se inventan reseñas, calificaciones ni disponibilidad de stock. Las fotos actuales son originales; no se publican recreaciones de prendas con IA.
 
 Validación local: `node validate-seo.cjs` después de compilar.
 
@@ -64,3 +65,8 @@ Después de publicar:
 6. El propietario debe confirmar precios, detalles de las prendas, stock, horarios y condiciones de entrega; cuando estén disponibles se puede ampliar el marcado y la información visible.
 
 La preparación técnica facilita el rastreo y la indexación; no garantiza una posición específica ni que todas las páginas se indexen.
+
+## Retirada de capturas recortadas
+
+Se eliminaron las 58 capturas dress-XX.jpg y catalog-XX.jpg por solicitud del usuario. Se muestran 20 productos con fotos reales en el catálogo. Las 38 fichas restantes conservan sus datos y URL con aviso de foto pendiente, sin capturas ni imágenes de IA. Sus datos están en pendientes-dueno/PRODUCTOS-SIN-FOTO-REAL.json. Los originales nuevos y el logo se conservan.
+

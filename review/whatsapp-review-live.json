@@ -1,0 +1,393 @@
+{
+  "date": "2026-10-05",
+  "businessPhone": "+51 930 527 248",
+  "scope": [
+    "Gala Dresess",
+    "Vestidos Largos",
+    "Vestidos Cortos",
+    "Vestidos Cortos Brillos",
+    "Vestidos Bandage's"
+  ],
+  "status": "Pausado a petición del usuario para subir todos los archivos. Faltan fichas de largos y bandage; revisar modelos nuevos de cortos y completar recuperación de fotos oficiales.",
+  "reviewed": [
+    {
+      "productId": 1,
+      "name": "Vestido de largo gala nude con aplicaciones",
+      "price": 649,
+      "code": "1456",
+      "match": "No corresponde a ninguna foto recibida"
+    },
+    {
+      "productId": 2,
+      "name": "Vestido largo de gala de lentejuelas rojo brillantes",
+      "price": 649,
+      "code": "1543",
+      "note": "La foto muestra un vestido negro con lentejuelas multicolor, mangas de tul y cinturón; el título dice rojo",
+      "match": "No corresponde a ninguna foto recibida"
+    },
+    {
+      "productId": 3,
+      "name": "Vestido sirena largo color rojo con Bruselas",
+      "price": 449,
+      "code": "482",
+      "match": "No corresponde a ninguna foto recibida"
+    },
+    {
+      "productId": 4,
+      "name": "Vestido romano largo floreado",
+      "price": 439,
+      "code": "1440",
+      "match": "No corresponde a ninguna foto recibida"
+    },
+    {
+      "productId": 5,
+      "name": "Vestido largo color Fucsia",
+      "price": 389,
+      "code": "737",
+      "match": "R033",
+      "realPhotoMatch": [
+        33
+      ]
+    },
+    {
+      "productId": 6,
+      "name": "Vestido largo amarillo con lazo",
+      "price": 449,
+      "code": "1801",
+      "match": "R030 y R034",
+      "realPhotoMatch": [
+        30,
+        34
+      ]
+    },
+    {
+      "productId": 18,
+      "name": "Vestido estampado floreado",
+      "price": 629,
+      "code": "1842",
+      "match": "No corresponde a ninguna foto recibida"
+    },
+    {
+      "productId": 19,
+      "name": "Vestido largo floreado de tirantes",
+      "price": 499,
+      "code": "1839",
+      "match": "No corresponde a ninguna foto recibida"
+    },
+    {
+      "productId": 7,
+      "name": "Vestido corto azul",
+      "rawDetail": "iner\n\t\t\t132 button Atrás\n\t\t\t133 heading Detalles, Value: 2\n\t\t\t\t140 text Detalles\n\t\t\t134 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t135 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t136 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t141 container\n\t\t\t\t142 text Esperando red\n\t\t\t143 container\n\t\t\t\t144 button (disabled) Anterior\n\t\t\t\t\t145 container Anterior\n\t\t\t\t\t\t146 image ic-chevron-right\n\t\t\t\t147 button Siguiente\n\t\t\t\t\t148 container Siguiente\n\t\t\t\t\t\t149 image ic-chevron-right\n\t\t\t137 container\n\t\t\t\t150 text Vestido corto azul PEN 329.00 182\n\t\t\t\t138 button Enviar mensaje a la empresa\n\t\t\t\t139 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/",
+      "price": 329,
+      "code": "182",
+      "realPhotoMatch": []
+    },
+    {
+      "productId": 8,
+      "name": "Vestido corto color verde (S M)",
+      "rawDetail": "iner\n\t\t\t132 button Atrás\n\t\t\t133 heading Detalles, Value: 2\n\t\t\t\t134 text Detalles\n\t\t\t135 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t136 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t138 container\n\t\t\t\t139 text Esperando red\n\t\t\t140 container\n\t\t\t\t141 text Vestido corto color verde (S M) PEN 114.50  PEN 229.00\n\t\t\t\t142 image ⬇️\n\t\t\t\t143 text 50% Descuento. 172 y 170\n\t\t\t\t144 button Enviar mensaje a la empresa\n\t\t\t\t145 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 9,
+      "name": "Vestido corto de lentejuelas verde",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto de lentejuelas verde PEN 369.00 923\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 17,
+      "name": "Vestido corto dorado de una manga",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto dorado de una manga PEN 194.50  PEN 389.00\n\t\t\t\t143 image ⬇️\n\t\t\t\t144 text 50% Descuento. 708\n\t\t\t\t145 button Enviar mensaje a la empresa\n\t\t\t\t146 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        44
+      ]
+    },
+    {
+      "productId": 34,
+      "name": "Vestido de lentejuelas corto rojo",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido de lentejuelas corto rojo PEN 289.00 836\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 35,
+      "name": "Vestido corto de una manga color marrón",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto de una manga color marrón PEN 389.00 Prendas Importadas 948\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        6
+      ]
+    },
+    {
+      "productId": 36,
+      "name": "Vestido corto negro con plateado",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto negro con plateado PEN 75.60  PEN 189.00\n\t\t\t\t143 image ⬇️\n\t\t\t\t144 text 60% Descuento. 174\n\t\t\t\t145 button Enviar mensaje a la empresa\n\t\t\t\t146 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        11
+      ]
+    },
+    {
+      "productId": 37,
+      "name": "Vestido corto negro con mangas plateadas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto negro con mangas plateadas PEN 119.50  PEN 239.00\n\t\t\t\t143 image ⬇️\n\t\t\t\t144 text 50% Descuento. 165\n\t\t\t\t145 button Enviar mensaje a la empresa\n\t\t\t\t146 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 16,
+      "name": "Vestido (L) transparente con diamantes de imitación",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido (L) transparente con diamantes de imitación PEN 164.50  PEN 329.00\n\t\t\t\t143 image ⬇️\n\t\t\t\t144 text 50% Descuento\n\t\t\t\t145 link Description: https://www.xilianaboutiqueoficial.com/, Value: xilianaboutiqueoficial.com/\n\t\t\t\t146 text 1475\n\t\t\t\t147 button Enviar mensaje a la empresa\n\t\t\t\t148 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        31
+      ]
+    },
+    {
+      "productId": 38,
+      "name": "Vestido corto de lentejuelas rosado de una manga",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto de lentejuelas rosado de una manga PEN 389.00 1476\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        125
+      ]
+    },
+    {
+      "productId": 39,
+      "name": "Vestido verde de lentejuelas y mostacillas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido verde de lentejuelas y mostacillas PEN 329.00 644\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        5
+      ]
+    },
+    {
+      "productId": 40,
+      "name": "Vestido corto 3/4 de lentejuelas con terciopelo en el busto",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto 3/4 de lentejuelas con terciopelo en el busto PEN 399.00 COD 1618\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        14
+      ]
+    },
+    {
+      "productId": 41,
+      "name": "Vestido de lentejuelas palo rosa de transparencias",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido de lentejuelas palo rosa de transparencias PEN 389.00 1693\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 42,
+      "name": "VESTIDO CORTO",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text VESTIDO CORTO PEN 399.00 Negro con tirantes y pedrería 1690\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 43,
+      "name": "Vestido corto champagne de lentejuelas con cuello alto",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto champagne de lentejuelas con cuello alto PEN 389.00 1469\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 44,
+      "name": "Vestido corto blanco de lentejuelas tornasoladas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto blanco de lentejuelas tornasoladas PEN 349.00 Vestido corto blanco de lentejuelas tornasoladas de un hombro con caida de pedrería en cadenas COD 1805\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 45,
+      "name": "Vestido corto de tirantes",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto de tirantes PEN 369.00 Vestido corto negro con pedrería de tirantes con transparencia COD 1789\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 46,
+      "name": "Vestido corto rojo de pedreria",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto rojo de pedreria PEN 329.00 Vestido corto rojo con pedrería de tirantes COD 1808\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 47,
+      "name": "Vestido Corto Verde de Pedrería Plateadas y de Perlas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido Corto Verde de Pedrería Plateadas y de Perlas PEN 399.00 Prendas Importadas 1674\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 48,
+      "name": "Vestido largo de lentejuelas con diamantes",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido largo de lentejuelas con diamantes PEN 349.00 Prendas Importadas\n\t\t\t\t143 link Description: https://www.xilianaboutiqueoficial.com/, Value: xilianaboutiqueoficial.com/\n\t\t\t\t144 text 1160\n\t\t\t\t145 button Enviar mensaje a la empresa\n\t\t\t\t146 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 49,
+      "name": "Vestido corto rojo de lentejuelas rojas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto rojo de lentejuelas rojas PEN 298.00 Prendas Importadas 1675\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        52
+      ]
+    },
+    {
+      "productId": 50,
+      "name": "Vestido corto blanco con dorado de lentejuelas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto blanco con dorado de lentejuelas PEN 369.00 Prendas Importadas 1822\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 51,
+      "name": "Vestido corto de lentejuelas celeste y azul",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto de lentejuelas celeste y azul PEN 449.00 Prenda Importada 1905\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        147
+      ]
+    },
+    {
+      "productId": 52,
+      "name": "Vestido corto asimétrico de lentejuelas azul",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto asimétrico de lentejuelas azul PEN 389.00 Prendas Importadas\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        69,
+        70,
+        71
+      ]
+    },
+    {
+      "productId": 53,
+      "name": "Vestido corto azul de lentejuelas y flecos",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto azul de lentejuelas y flecos PEN 389.00 Prendas Importadas\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 54,
+      "name": "Vestido corto de diamantes de imitación plateadas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto de diamantes de imitación plateadas PEN 349.00 Prendas Importadas 1959\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        135
+      ]
+    },
+    {
+      "productId": 55,
+      "name": "Vestido de pedrería negro con plumas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido de pedrería negro con plumas PEN 469.00 Prendas Importadas 2002\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 56,
+      "name": "Vestido corto azul pedrería y strass",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto azul pedrería y strass PEN 389.00 Prendas Importadas 2008\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 57,
+      "name": "Vestido corto Blanco de lentejuelas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto Blanco de lentejuelas PEN 349.00 Prendas Importadas\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        2
+      ]
+    },
+    {
+      "productId": 58,
+      "name": "Vestido dorado corto asimétrico de flecos",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido dorado corto asimétrico de flecos PEN 389.00 Prendas Importadas 1965\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 20,
+      "name": "Vestido rojo largo de manga abanicada",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido rojo largo de manga abanicada PEN 289.00 Prendas Importadas COD 1879\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (36) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        128,
+        129
+      ]
+    },
+    {
+      "productId": 21,
+      "name": "Vestido largo anaranjado de mangas largas de rosas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido largo anaranjado de mangas largas de rosas PEN 369.00 Prendas Importadas\n\t\t\t\t143 link Description: https://www.xilianaboutiqueoficial.com/, Value: xilianaboutiqueoficial.com/\n\t\t\t\t144 text 1927\n\t\t\t\t145 button Enviar mensaje a la empresa\n\t\t\t\t146 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (36) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 22,
+      "name": "Vestido blanco de corte sirena, de manga larga de rosas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido blanco de corte sirena, de manga larga de rosas PEN 349.00 Prendas Importadas\n\t\t\t\t143 link Description: https://www.xilianaboutiqueoficial.com/, Value: xilianaboutiqueoficial.com/\n\t\t\t\t144 button Enviar mensaje a la empresa\n\t\t\t\t145 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (36) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        47,
+        48
+      ]
+    },
+    {
+      "productId": 23,
+      "name": "Vestido largo crema de mangas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido largo crema de mangas PEN 319.00 Prendas Importadas\n\t\t\t\t143 link Description: https://www.xilianaboutiqueoficial.com/, Value: xilianaboutiqueoficial.com/\n\t\t\t\t144 text 1928\n\t\t\t\t145 button Enviar mensaje a la empresa\n\t\t\t\t146 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (36) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        51,
+        56
+      ]
+    },
+    {
+      "productId": 24,
+      "name": "Vestido largo amarillo corte romano",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido largo amarillo corte romano PEN 449.00 Prendas Importadas 1948\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (36) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        122,
+        123
+      ]
+    },
+    {
+      "productId": 10,
+      "name": "Vestido corto con mangas y ajustado color azul con estampado floral",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto con mangas y ajustado color azul con estampado floral PEN 68.70  PEN 229.00\n\t\t\t\t143 image ⬇️\n\t\t\t\t144 text 70% Descuento 398\n\t\t\t\t145 button Enviar mensaje a la empresa\n\t\t\t\t146 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (36) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        155
+      ]
+    },
+    {
+      "productId": 11,
+      "name": "Vestido corto satín estampado",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto satín estampado PEN 86.70  PEN 289.00\n\t\t\t\t143 image ⬇️\n\t\t\t\t144 text 70% Descuento. 796\n\t\t\t\t145 button Enviar mensaje a la empresa\n\t\t\t\t146 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (36) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 12,
+      "name": "Vestido corto con volantes de cuello redondo",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 button (disabled) Anterior\n\t\t\t\t\t143 container Anterior\n\t\t\t\t\t\t144 image ic-chevron-right\n\t\t\t\t145 button Siguiente\n\t\t\t\t\t146 container Siguiente\n\t\t\t\t\t\t147 image ic-chevron-right\n\t\t\t148 container\n\t\t\t\t149 text Vestido corto con volantes de cuello redondo PEN 115.60  PEN 289.00\n\t\t\t\t150 image ⬇️\n\t\t\t\t151 text 60% Descuento 1537\n\t\t\t\t152 button Enviar mensaje a la empresa\n\t\t\t\t153 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (36) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": "nuevo-corto-licrado-azul",
+      "name": "Vestido corto licrado azul",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto licrado azul PEN 249.00 Vestido corto azul con botones de tirantes COD 1758\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (36) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": "nuevo-lila-rib",
+      "name": "Vestido lila en rib",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido lila en rib PEN 289.00 Vestido corto lila en rib con manga larga de escote cruzado y perlitas COD 1888\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (36) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": "nuevo-blanco-mini-perlas",
+      "name": "Vestido blanco mini elegante con perlas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido blanco mini elegante con perlas PEN 329.00 Prendas Importadas 1914\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (36) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": "nuevo-diagonal-plisado",
+      "name": "Vestido corto cuello diagonal, plisado y liso",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto cuello diagonal, plisado y liso PEN 319.00 Prendas Importadas 1898\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (36) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": "nuevo-verde-agua-tirantes",
+      "name": "Vestido corto verde agua con tirantes",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto verde agua con tirantes PEN 299.00 Prendas Importadas 1727\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (36) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": "nuevo-celeste-sirena",
+      "name": "Vestido corto celeste con corte sirena",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto celeste con corte sirena PEN 239.00 Prendas Importadas\n\t\t\t\t143 link Description: https://www.xilianaboutiqueoficial.com/, Value: xilianaboutiqueoficial.com/\n\t\t\t\t144 text 1926\n\t\t\t\t145 button Enviar mensaje a la empresa\n\t\t\t\t146 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (36) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": "nuevo-blanco-perlas",
+      "name": "Vestido blanco con perlas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido blanco con perlas PEN 319.00 1894\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (37) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 13,
+      "name": "Vestido Bandage Blanco/Negro",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido Bandage Blanco/Negro PEN 144.50  PEN 289.00\n\t\t\t\t143 image ⬇️\n\t\t\t\t144 text 50% Descuento. 126\n\t\t\t\t145 button Enviar mensaje a la empresa\n\t\t\t\t146 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (37) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": 14,
+      "name": "Vestido Bandage Color Verde Con Rayas",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido Bandage Color Verde Con Rayas PEN 379.00 122\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (38) WhatsApp Business, URL: web.whatsapp.com/",
+      "realPhotoMatch": [
+        152
+      ]
+    },
+    {
+      "productId": 15,
+      "name": "VESTIDO BANDAGE Rojo corto de pedrería plateada",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 button (disabled) Anterior\n\t\t\t\t\t143 container Anterior\n\t\t\t\t\t\t144 image ic-chevron-right\n\t\t\t\t145 button Siguiente\n\t\t\t\t\t146 container Siguiente\n\t\t\t\t\t\t147 image ic-chevron-right\n\t\t\t148 container\n\t\t\t\t149 text VESTIDO BANDAGE PEN 379.00 Rojo corto de pedrería plateada\n\t\t\t\t150 button Enviar mensaje a la empresa\n\t\t\t\t151 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (38) WhatsApp Business, URL: web.whatsapp.com/"
+    },
+    {
+      "productId": "nuevo-bandage-caqui",
+      "name": "VESTIDO BANDAGE Caqui ceñido",
+      "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text VESTIDO BANDAGE Caqui ceñido COD 1722\n\t\t\t\t143 button Enviar mensaje a la empresa\n\t\t\t\t144 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (38) WhatsApp Business, URL: web.whatsapp.com/"
+    }
+  ],
+  "notes": [
+    "Dos fichas blancas con perlas usan la misma foto: código 1914 a S/329 y código 1894 a S/319. Confirmar con dueño antes de publicar precio.",
+    "Vestido marrón código948 se titula una manga pero foto es strapless.",
+    "Candidatos nuevos: celeste sirena código1926 fotos R049 R050 R156; cuello diagonal código1898 foto R165; blanco perlas códigos1914/1894 fotos R113 R114. Verificar archivos en tamaño completo antes de asignar.",
+    "No se descargaron fotos oficiales nuevas; downloadMedia no completó.",
+    "Última ficha abierta bandage caqui código1722 sin precio; falta observar parte superior."
+  ]
+}

@@ -1,0 +1,230 @@
+[
+  {
+    "productId": 1,
+    "name": "Vestido de largo gala nude con aplicaciones",
+    "price": 649.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 2,
+    "name": "Vestido largo de gala de lentejuelas rojo brillantes",
+    "price": 649.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 3,
+    "name": "Vestido sirena largo color rojo con Bruselas",
+    "price": 449.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 4,
+    "name": "Vestido romano largo floreado",
+    "price": 439.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 7,
+    "name": "Vestido corto azul",
+    "price": 329.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 8,
+    "name": "Vestido corto verde",
+    "price": 114.5,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 9,
+    "name": "Vestido corto de lentejuelas verde",
+    "price": 369.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 11,
+    "name": "Vestido corto satín estampado",
+    "price": 86.7,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 12,
+    "name": "Vestido corto con volantes de cuello redondo",
+    "price": 115.6,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 13,
+    "name": "Vestido bandage blanco y negro",
+    "price": 144.5,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 15,
+    "name": "Vestido bandage rojo corto con pedrería plateada",
+    "price": 379.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 18,
+    "name": "Vestido estampado floreado",
+    "price": 629.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 19,
+    "name": "Vestido largo floreado de tirantes",
+    "price": 499.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 21,
+    "name": "Vestido largo anaranjado de mangas largas de rosas",
+    "price": 369.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 25,
+    "name": "Vestido largo verde limón",
+    "price": 599.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 26,
+    "name": "Vestido largo animal print",
+    "price": 599.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 27,
+    "name": "Vestido largo bandage rojo",
+    "price": 549.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 28,
+    "name": "Vestido largo floreado",
+    "price": 449.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 29,
+    "name": "Vestido estampado multicolor",
+    "price": 289.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 30,
+    "name": "Vestido animal print multicolor",
+    "price": 329.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 31,
+    "name": "Vestido floreado multicolor",
+    "price": 349.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 32,
+    "name": "Vestido largo blanco con estampado de flores",
+    "price": 269.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 33,
+    "name": "Vestido corte A animal print",
+    "price": 349.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 34,
+    "name": "Vestido de lentejuelas corto rojo",
+    "price": 289.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 37,
+    "name": "Vestido corto negro con mangas plateadas",
+    "price": 119.5,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 41,
+    "name": "Vestido de lentejuelas palo rosa de transparencias",
+    "price": 389.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 42,
+    "name": "Vestido corto negro con tirantes y pedrería",
+    "price": 399.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 43,
+    "name": "Vestido corto champagne de lentejuelas con cuello alto",
+    "price": 389.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 44,
+    "name": "Vestido corto blanco de lentejuelas tornasoladas",
+    "price": 349.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 45,
+    "name": "Vestido corto de tirantes con pedrería",
+    "price": 369.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 46,
+    "name": "Vestido corto rojo de pedrería",
+    "price": 329.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 47,
+    "name": "Vestido corto verde de pedrería plateada y perlas",
+    "price": 399.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 48,
+    "name": "Vestido largo de lentejuelas con diamantes",
+    "price": 349.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 50,
+    "name": "Vestido corto blanco con dorado de lentejuelas",
+    "price": 369.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 53,
+    "name": "Vestido corto azul de lentejuelas y flecos",
+    "price": 389.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 55,
+    "name": "Vestido de pedrería negro con plumas",
+    "price": 469.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 56,
+    "name": "Vestido corto azul de pedrería y strass",
+    "price": 389.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 58,
+    "name": "Vestido dorado corto asimétrico de flecos",
+    "price": 389.0,
+    "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  }
+]

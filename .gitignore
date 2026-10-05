@@ -14,3 +14,8 @@ chrome_cdp_profile*
 # Publicación generada
 public/
 .wrangler/
+
+# Originales de WhatsApp y revisión interna; publicar solo las fotos clasificadas.
+images/imagenes-reales/
+pendientes-dueno/
+review/*-sheet-*.jpg

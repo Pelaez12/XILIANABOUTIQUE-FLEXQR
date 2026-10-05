@@ -18,11 +18,12 @@ walk(output);
 const pages = files.filter(file => file.endsWith('index.html'));
 assert.equal(pages.length, 65, 'Se esperan inicio, 6 categorías y 58 vestidos');
 let schemas = 0;
+let galleryPhotos = 0;
 for (const file of files) {
   assert(fs.statSync(file).size <= 25 * 1024 * 1024, `Archivo grande: ${file}`);
   assert(!path.relative(output, file).split(path.sep).includes('.git'), 'Se incluyó .git');
   assert(!/\.(?:cjs|jsonc?|md|xlsx|pdf)$/i.test(file), `Archivo de trabajo en publicación: ${file}`);
-  assert(!/^catalog-\d+-(ai|model)\.png$/i.test(path.basename(file)), `Recreación retirada en publicación: ${file}`);
+  assert(!/^catalog-\d+-(ai|model|faithful[^.]*)\.png$/i.test(path.basename(file)), `Recreación retirada en publicación: ${file}`);
 }
 for (const file of pages) {
   const html = fs.readFileSync(file, 'utf8');
@@ -35,6 +36,15 @@ for (const file of pages) {
     const data = JSON.parse(match[1]);
     assert.equal(data['@context'], 'https://schema.org');
     schemas++;
+    for (const product of data['@graph'].filter(item => item['@type'] === 'Product')) {
+      if (!product.image) continue;
+      assert(Array.isArray(product.image) && product.image.length > 0);
+      galleryPhotos += product.image.length;
+      for (const photo of product.image) {
+        const target = path.join(output, decodeURIComponent(new URL(photo).pathname));
+        assert(fs.existsSync(target), `Foto de galería ausente: ${photo}`);
+      }
+    }
   }
   for (const match of html.matchAll(/(?:src|href)="([^"#]+)"/g)) {
     const value = match[1].replace(/&amp;/g, '&');
@@ -49,8 +59,9 @@ const sitemap = fs.readFileSync(path.join(output, 'sitemap.xml'), 'utf8');
 assert(fs.readFileSync(path.join(output, '404.html'), 'utf8').includes('noindex'), '404 debe excluirse de indexación');
 assert(!fs.readFileSync(path.join(output, 'index.html'), 'utf8').includes('xilianaboutiqueoficial.com'), 'Dominio antiguo en portada');
 assert.equal((sitemap.match(/<loc>/g) || []).length, 65);
-assert.equal((sitemap.match(/<image:loc>/g) || []).length, 58);
+assert.equal((sitemap.match(/<image:loc>/g) || []).length, galleryPhotos);
 assert(fs.readFileSync(path.join(output, 'robots.txt'), 'utf8').includes(origin + '/sitemap.xml'));
 assert.equal(schemas, 65);
-assert(fs.readFileSync(path.join(output, 'index.html'), 'utf8').includes('data-id="58"'));
-console.log('SEO validado: 65 páginas, 65 bloques JSON-LD, 58 imágenes de sitemap y todos los enlaces locales presentes.');
+assert(fs.readFileSync(path.join(output, 'index.html'), 'utf8').includes('data-id="57"'));
+assert(!fs.readFileSync(path.join(output, 'index.html'), 'utf8').includes('data-id="58"'));
+console.log(`SEO validado: 65 páginas, 65 bloques JSON-LD, ${galleryPhotos} imágenes de sitemap y todos los enlaces locales presentes.`);

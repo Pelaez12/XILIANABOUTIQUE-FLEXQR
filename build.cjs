@@ -21,7 +21,7 @@ function copy(source, relative) {
 }
 function media(directory) {
   for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
-    if (entry.name.startsWith('.') || /^catalog-\d+-(ai|model)\.png$/i.test(entry.name)) continue;
+    if (entry.name.startsWith('.') || entry.name === 'imagenes-reales' || /^catalog-\d+-(ai|model|faithful[^.]*)\.png$/i.test(entry.name)) continue;
     const source = path.join(directory, entry.name);
     if (entry.isDirectory()) media(source);
     else if (entry.isFile() && mediaTypes.has(path.extname(entry.name).toLowerCase())) {
@@ -29,7 +29,7 @@ function media(directory) {
     }
   }
 }
-for (const file of ['index.html', 'styles.css', 'experience.css', 'main.js', 'products.js', 'catalog-utils.js', 'order-data.js', 'order-ui.js', 'video-audio.js', '_headers']) {
+for (const file of ['index.html', 'styles.css', 'experience.css', 'main.js', 'products.js', 'catalog-utils.js', 'gallery.js', 'order-data.js', 'order-ui.js', 'video-audio.js', '_headers']) {
   copy(path.join(__dirname, file), file);
 }
 media(path.join(__dirname, 'images'));

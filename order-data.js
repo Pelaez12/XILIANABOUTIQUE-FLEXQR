@@ -7,6 +7,19 @@ export const boutique = {
 };
 
 export const money = value => new Intl.NumberFormat('es-PE', { style: 'currency', currency: 'PEN' }).format(value);
+export const visitDay = date => new Intl.DateTimeFormat('es-PE', { weekday: 'long', timeZone: 'UTC' }).format(new Date(`${date}T12:00:00Z`));
+export const visitTime = time => {
+  const [hour, minute] = time.split(':').map(Number);
+  return `${hour % 12 || 12}:${String(minute).padStart(2, '0')} ${hour < 12 ? 'a. m.' : 'p. m.'}`;
+};
+export function visitDateError(date, now = new Date()) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return 'Elige la fecha de tu visita.';
+  const day = new Date(`${date}T12:00:00Z`);
+  if (Number.isNaN(day.getTime()) || day.toISOString().slice(0, 10) !== date) return 'Elige una fecha válida.';
+  if (day.getUTCDay() === 0) return 'Domingo cerrado. Elige una fecha de lunes a sábado.';
+  if (date < limaNow(now).date) return 'Elige hoy o una fecha posterior.';
+  return '';
+}
 
 export function limaNow(now = new Date()) {
   const parts = Object.fromEntries(new Intl.DateTimeFormat('en-CA', {
@@ -17,6 +30,8 @@ export function limaNow(now = new Date()) {
 }
 
 export function visitError(date, time, now = new Date()) {
+  const dateIssue = visitDateError(date, now);
+  if (dateIssue) return dateIssue;
   if (!/^\d{4}-\d{2}-\d{2}$/.test(date) || !/^\d{2}:\d{2}$/.test(time)) return 'Elige una fecha y una hora para tu visita.';
   const day = new Date(`${date}T12:00:00Z`);
   if (Number.isNaN(day.getTime()) || day.toISOString().slice(0, 10) !== date) return 'Elige una fecha válida.';
@@ -40,19 +55,19 @@ export function orderMessage(product, data, path) {
     `Vestido: ${product.name}`, `Referencia: XL-${String(product.id).padStart(3, '0')}`,
     `Colección: ${product.category}`, `Enlace: ${boutique.url}${path}`,
     `Precio unitario del catálogo: ${money(product.price)}`, `Cantidad: ${data.quantity}`,
-    `Talla solicitada: ${data.size}`, `Subtotal: ${money(totals.subtotal)}`, '',
+    'Prenda única y personalizada, sin talla definida por ahora.', `Medidas o asesoría: ${data.size || 'Por coordinar con la boutique'}`, `Subtotal: ${money(totals.subtotal)}`, '',
     `Nombre: ${data.name}`, `Celular: ${data.phone}`,
   ];
   if (data.method === 'visit') {
-    lines.push('Modalidad: visita a la boutique', `Fecha solicitada: ${data.date.split('-').reverse().join('/')}`,
-      `Hora solicitada: ${data.time} (hora de Lima)`, `Tienda: ${boutique.address}`, 'Por favor, confirmen la visita y la disponibilidad del vestido.');
+    lines.push('Modalidad: visita a la boutique', `Visita solicitada: ${visitDay(data.date)}, ${data.date.split('-').reverse().join('/')} a las ${visitTime(data.time)} (hora de Lima)`,
+      `Tienda: ${boutique.address}`, 'Por favor, confirmen la visita y la disponibilidad del vestido.');
   } else {
     lines.push(`Modalidad: envío a ${data.method === 'province' ? 'provincia' : 'Lima Metropolitana'}`);
     if (data.method === 'province') lines.push(`Departamento: ${data.department}`, `Provincia: ${data.province}`);
     lines.push(`Distrito: ${data.district}`, `Dirección de entrega: ${data.address}`, `Referencia: ${data.reference || 'No indicada'}`);
     if (data.method === 'province') lines.push(`Envío a provincia: ${money(totals.shipping)}`, `Total de referencia: ${money(totals.total)}`);
     else lines.push('Costo de envío en Lima: por confirmar con la boutique', `Importe de prendas: ${money(totals.subtotal)} + envío por confirmar`);
-    lines.push('Por favor, confirmen stock, talla, entrega y forma de pago antes de realizar la compra.');
+    lines.push('Por favor, confirmen medidas, personalización, disponibilidad, entrega y forma de pago antes de realizar la compra.');
   }
   if (data.notes) lines.push('', `Comentarios: ${data.notes}`);
   return lines.join('\n');

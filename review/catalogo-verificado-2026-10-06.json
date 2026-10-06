@@ -1,0 +1,1803 @@
+{
+  "fecha": "2026-10-06",
+  "criterio": "Precios leídos visualmente de videos. Colores y descripciones del texto no validados por defecto. Los dos bandage amarillos son modelos distintos.",
+  "registros": [
+    {
+      "categoria_texto": "GALA DRESSES",
+      "nombre": "Vestido de gala en degradado",
+      "descripcion": "Vestido corte sirena de lentejuelas en degradado de blanco a verde",
+      "color": "Blanco a verde degradado",
+      "precio_regular_pen": null,
+      "precio_final_pen": 749,
+      "precio_texto_pen": 749.0,
+      "video": 5,
+      "nombre_video": "Vestido de gala en degradado",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "GALA DRESSES",
+      "nombre": "Vestido largo azul acero",
+      "descripcion": "Vestido largo azul acero de gasa y encaje blanco",
+      "color": "Azul acero",
+      "precio_regular_pen": null,
+      "precio_final_pen": 699,
+      "precio_texto_pen": 699.0,
+      "video": 5,
+      "nombre_video": "Vestido largo azul acero",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "GALA DRESSES",
+      "nombre": "Vestido largo palo rosa",
+      "descripcion": "Vestido de gasa y lentejuelas palo rosa, de tirantes posteriores",
+      "color": "Palo rosa",
+      "precio_regular_pen": null,
+      "precio_final_pen": 699,
+      "precio_texto_pen": 699.0,
+      "video": 5,
+      "nombre_video": "Vestido largo palo rosa",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "GALA DRESSES",
+      "nombre": "Vestido palo rosa gasa y satín",
+      "descripcion": "Vestido palo rosa de gasa y satín con escote pronunciado",
+      "color": "Palo rosa",
+      "precio_regular_pen": null,
+      "precio_final_pen": 649,
+      "precio_texto_pen": 649.0,
+      "video": 5,
+      "nombre_video": "Vestido palo rosa gasa y satín",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "GALA DRESSES",
+      "nombre": "Vestido de gasa azul",
+      "descripcion": "Vestido de gasa azul con encaje de mangas cortas",
+      "color": "Azul",
+      "precio_regular_pen": null,
+      "precio_final_pen": 649,
+      "precio_texto_pen": 649.0,
+      "video": 5,
+      "nombre_video": "Vestido de gasa azul",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "GALA DRESSES",
+      "nombre": "Vestido largo morado claro",
+      "descripcion": "Vestido largo de lentejuelas moradas en la parte baja, la parte superior...",
+      "color": "Morado claro",
+      "precio_regular_pen": null,
+      "precio_final_pen": 649,
+      "precio_texto_pen": 649.0,
+      "video": 5,
+      "nombre_video": "Vestido largo morado claro",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "GALA DRESSES",
+      "nombre": "Vestido sirena palo rosa de lentejuelas",
+      "descripcion": "Vestido largo sirena de lentejuelas palo rosa con caída, mangas pequeñas",
+      "color": "Palo rosa",
+      "precio_regular_pen": null,
+      "precio_final_pen": 569,
+      "precio_texto_pen": 569.0,
+      "video": 5,
+      "nombre_video": "Vestido sirena palo rosa de lentejuelas",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "GALA DRESSES",
+      "nombre": "Vestido vino strapless de tirantes con copas de pedrería",
+      "descripcion": "COD 1610",
+      "color": "Vino",
+      "precio_regular_pen": null,
+      "precio_final_pen": 549,
+      "precio_texto_pen": 549.0,
+      "video": 5,
+      "nombre_video": "Vestido vino strapless de tirantes con copas de pedrería",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "GALA DRESSES",
+      "nombre": "Vestido largo corte sirena negro con lazo y mangas",
+      "descripcion": "Prendas importadas",
+      "color": "Negro",
+      "precio_regular_pen": null,
+      "precio_final_pen": 549,
+      "precio_texto_pen": 549.0,
+      "video": 5,
+      "nombre_video": "Vestido largo corte sirena negro con lazo y mangas",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "GALA DRESSES",
+      "nombre": "Vestido largo azul",
+      "descripcion": "Vestido largo de caída fluida",
+      "color": "Azul",
+      "precio_regular_pen": null,
+      "precio_final_pen": 349,
+      "precio_texto_pen": 349.0,
+      "video": 5,
+      "nombre_video": "Vestido largo azul",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "GALA DRESSES",
+      "nombre": "Vestido crema de encaje y tul asimétrico",
+      "descripcion": "Falda asimétrica de encaje y tul (50% Descuento)",
+      "color": "Crema",
+      "precio_regular_pen": 389,
+      "precio_final_pen": 194.5,
+      "precio_texto_pen": 194.5,
+      "video": 5,
+      "nombre_video": "Vestido crema de encaje y tul asimétrico",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido estampado floreado",
+      "descripcion": "Vestido largo blanco floreado estampado de rosas con manga abanico",
+      "color": "Blanco floreado",
+      "precio_regular_pen": null,
+      "precio_final_pen": 629,
+      "precio_texto_pen": 629.0,
+      "video": 1,
+      "nombre_video": "Vestido estampado floreado",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido largo verde limón",
+      "descripcion": "Vestido largo verde limón de tirantes con caída en la falda",
+      "color": "Verde limón",
+      "precio_regular_pen": null,
+      "precio_final_pen": 599,
+      "precio_texto_pen": 599.0,
+      "video": 1,
+      "nombre_video": "Vestido largo verde limón",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido largo animal print",
+      "descripcion": "Prendas importadas",
+      "color": "Animal print",
+      "precio_regular_pen": null,
+      "precio_final_pen": 599,
+      "precio_texto_pen": 599.0,
+      "video": 1,
+      "nombre_video": "Vestido largo animal print",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido largo Bandage color Rojo",
+      "descripcion": "Prendas importadas",
+      "color": "Rojo",
+      "precio_regular_pen": null,
+      "precio_final_pen": 549,
+      "precio_texto_pen": 549.0,
+      "video": 1,
+      "nombre_video": "Vestido largo Bandage color Rojo",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido largo floreado de tirantes",
+      "descripcion": "Vestido largo rosa floreado de tirantes con cinturón",
+      "color": "Rosa floreado",
+      "precio_regular_pen": null,
+      "precio_final_pen": 499,
+      "precio_texto_pen": 499.0,
+      "video": 1,
+      "nombre_video": "Vestido largo floreado de tirantes",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido largo amarillo con lazo",
+      "descripcion": "Vestido largo amarillo strapless de gasa con lazo en la cintura",
+      "color": "Amarillo",
+      "precio_regular_pen": null,
+      "precio_final_pen": 449.0,
+      "estado": "No visible en las grabaciones recibidas; no validado",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido largo floreado",
+      "descripcion": "Prendas importadas",
+      "color": "Floreado",
+      "precio_regular_pen": null,
+      "precio_final_pen": 449,
+      "precio_texto_pen": 449.0,
+      "video": 1,
+      "nombre_video": "Vestido largo floreado",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido romano largo floreado",
+      "descripcion": "Corte estilo romano floreado",
+      "color": "Floreado multicolor",
+      "precio_regular_pen": null,
+      "precio_final_pen": 439.0,
+      "estado": "No visible en las grabaciones recibidas; no validado",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido largo color Fucsia",
+      "descripcion": "Vestido largo liso",
+      "color": "Fucsia",
+      "precio_regular_pen": null,
+      "precio_final_pen": 389.0,
+      "estado": "No visible en las grabaciones recibidas; no validado",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido largo anaranjado de mangas largas de rosas",
+      "descripcion": "Prendas importadas",
+      "color": "Anaranjado",
+      "precio_regular_pen": null,
+      "precio_final_pen": 369,
+      "precio_texto_pen": 369.0,
+      "video": 1,
+      "nombre_video": "Vestido largo anaranjado de mangas largas de rosas",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido floreado multicolor",
+      "descripcion": "Prendas importadas",
+      "color": "Multicolor floreado",
+      "precio_regular_pen": null,
+      "precio_final_pen": 349,
+      "precio_texto_pen": 349.0,
+      "video": 1,
+      "nombre_video": "Vestido floreado multicolor",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido blanco de corte sirena, de manga larga de rosas",
+      "descripcion": "Prendas importadas",
+      "color": "Blanco",
+      "precio_regular_pen": null,
+      "precio_final_pen": 349,
+      "precio_texto_pen": 349.0,
+      "video": 1,
+      "nombre_video": "Vestido blanco de corte sirena, de manga larga de rosas",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido Animal Print Multicolor",
+      "descripcion": "Prendas importadas",
+      "color": "Animal print multicolor",
+      "precio_regular_pen": null,
+      "precio_final_pen": 329,
+      "precio_texto_pen": 329.0,
+      "video": 1,
+      "nombre_video": "Vestido Animal Print Multicolor",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido largo crema de mangas",
+      "descripcion": "Prendas importadas",
+      "color": "Crema",
+      "precio_regular_pen": null,
+      "precio_final_pen": 319,
+      "precio_texto_pen": 319.0,
+      "video": 1,
+      "nombre_video": "Vestido largo crema de mangas",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido largo amarillo corte romano",
+      "descripcion": "Corte romano",
+      "color": "Amarillo",
+      "precio_regular_pen": null,
+      "precio_final_pen": 449,
+      "precio_texto_pen": 319.0,
+      "video": 1,
+      "nombre_video": "Vestido largo amarillo corte romano",
+      "estado": "Corregido según grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido rojo largo de manga abanicada",
+      "descripcion": "Prendas importadas",
+      "color": "Rojo",
+      "precio_regular_pen": null,
+      "precio_final_pen": 289,
+      "precio_texto_pen": 289.0,
+      "video": 1,
+      "nombre_video": "Vestido rojo largo de manga abanicada",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido estampado multicolor",
+      "descripcion": "Prendas importadas",
+      "color": "Multicolor",
+      "precio_regular_pen": null,
+      "precio_final_pen": 289,
+      "precio_texto_pen": 289.0,
+      "video": 1,
+      "nombre_video": "Vestido estampado multicolor",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido largo blanco con estampado flores",
+      "descripcion": "Prendas importadas",
+      "color": "Blanco floral",
+      "precio_regular_pen": null,
+      "precio_final_pen": 269,
+      "precio_texto_pen": 269.0,
+      "video": 1,
+      "nombre_video": "Vestido largo blanco con estampado flores",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido corte A animal print",
+      "descripcion": "Prendas importadas",
+      "color": "Animal print",
+      "precio_regular_pen": null,
+      "precio_final_pen": 349,
+      "precio_texto_pen": 239.0,
+      "video": 1,
+      "nombre_video": "Vestido corte A animal print",
+      "estado": "Corregido según grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Blusa cola de pato asimétrico blanco con negro",
+      "descripcion": "Prendas importadas",
+      "color": "Blanco con negro",
+      "precio_regular_pen": null,
+      "precio_final_pen": 239,
+      "precio_texto_pen": 239.0,
+      "video": 1,
+      "nombre_video": "Blusa cola de pato asimétrico blanco con negro",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": false
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido largo verde con estampado de rosas verdes",
+      "descripcion": "Prendas importadas",
+      "color": "Blanco con verde",
+      "precio_regular_pen": null,
+      "precio_final_pen": 229,
+      "precio_texto_pen": 229.0,
+      "video": 3,
+      "nombre_video": "Vestido largo verde con estampado de rosas verdes",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS LARGOS",
+      "nombre": "Vestido largo de lentejuelas con diamantes",
+      "descripcion": "Prendas importadas",
+      "color": "Negro / Plata",
+      "precio_regular_pen": null,
+      "precio_final_pen": 349,
+      "precio_texto_pen": 349.0,
+      "video": 2,
+      "nombre_video": "Vestido largo de lentejuelas con diamantes",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido Bandage negro con lazo blanco",
+      "descripcion": "Prendas importadas",
+      "color": "Negro con blanco",
+      "precio_regular_pen": null,
+      "precio_final_pen": 389,
+      "precio_texto_pen": 489.0,
+      "video": 4,
+      "nombre_video": "Vestido Bandage negro con lazo blanco",
+      "estado": "Corregido según grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido Bandage Dorado",
+      "descripcion": "Prendas importadas",
+      "color": "Dorado",
+      "precio_regular_pen": null,
+      "precio_final_pen": 449,
+      "precio_texto_pen": 449.0,
+      "video": 4,
+      "nombre_video": "Vestido Bandage Dorado",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido Bandage Negro/Blanco",
+      "descripcion": "Prendas importadas",
+      "color": "Negro / Blanco",
+      "precio_regular_pen": null,
+      "precio_final_pen": 449,
+      "precio_texto_pen": 449.0,
+      "video": 4,
+      "nombre_video": "Vestido Bandage Negro/Blanco",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido Bandage Amarillo",
+      "descripcion": "Prendas importadas",
+      "color": "Amarillo",
+      "precio_regular_pen": null,
+      "precio_final_pen": 429,
+      "precio_texto_pen": 429.0,
+      "video": 4,
+      "nombre_video": "Vestido Bandage Amarillo — midi",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido color verde terciopelo semi drapeado con manga y escote",
+      "descripcion": "Terciopelo semi drapeado",
+      "color": "Verde",
+      "precio_regular_pen": null,
+      "precio_final_pen": 429,
+      "precio_texto_pen": 429.0,
+      "video": 3,
+      "nombre_video": "Vestido color verde terciopelo semi drapeado con manga y escote",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Bandage Dress de colores",
+      "descripcion": "Vestido bandage dress de colores en línea con tirantes cruzados rojos",
+      "color": "Multicolor",
+      "precio_regular_pen": null,
+      "precio_final_pen": 399,
+      "precio_texto_pen": 399.0,
+      "video": 4,
+      "nombre_video": "Bandage Dress de colores",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido Bandage Amarillo",
+      "descripcion": "Prendas importadas",
+      "color": "Amarillo",
+      "precio_regular_pen": null,
+      "precio_final_pen": 389,
+      "precio_texto_pen": 389.0,
+      "video": 4,
+      "nombre_video": "Vestido Bandage Amarillo — mini",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido corto de una manga color marrón",
+      "descripcion": "Prendas importadas",
+      "color": "Marrón",
+      "precio_regular_pen": null,
+      "precio_final_pen": 389,
+      "precio_texto_pen": 389.0,
+      "video": 2,
+      "nombre_video": "Vestido corto de una manga color marrón",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido corto blanco drapeado con mangas largas",
+      "descripcion": "Prendas importadas",
+      "color": "Blanco",
+      "precio_regular_pen": null,
+      "precio_final_pen": 389,
+      "precio_texto_pen": 389.0,
+      "video": 3,
+      "nombre_video": "Vestido corto blanco drapeado con mangas largas",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "VESTIDO BANDAGE Caqui ceñido",
+      "descripcion": "Caqui ceñido",
+      "color": "Caqui",
+      "precio_regular_pen": null,
+      "precio_final_pen": 379.0,
+      "estado": "La grabación no muestra precio; confirmar con dueño",
+      "video": 4,
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido Bandage Color Verde Con Rayas",
+      "descripcion": "Vestido ajustado a rayas",
+      "color": "Verde con rayas",
+      "precio_regular_pen": null,
+      "precio_final_pen": 379,
+      "precio_texto_pen": 379.0,
+      "video": 4,
+      "nombre_video": "Vestido Bandage Color Verde Con Rayas",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido Bandage rojo",
+      "descripcion": "Bandage ajustado rojo",
+      "color": "Rojo",
+      "precio_regular_pen": null,
+      "precio_final_pen": 389,
+      "precio_texto_pen": 369.0,
+      "video": 4,
+      "nombre_video": "Vestido Bandage rojo",
+      "estado": "Corregido según grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Bandage dress nude con blanco",
+      "descripcion": "Bandage dress nude con blanco manga cero",
+      "color": "Nude / Blanco",
+      "precio_regular_pen": null,
+      "precio_final_pen": 389,
+      "precio_texto_pen": 369.0,
+      "video": 4,
+      "nombre_video": "Bandage dress nude con blanco",
+      "estado": "Corregido según grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido drapeado verde de mangas con escote",
+      "descripcion": "Prendas importadas",
+      "color": "Verde",
+      "precio_regular_pen": null,
+      "precio_final_pen": 359,
+      "precio_texto_pen": 369.0,
+      "video": 3,
+      "nombre_video": "Vestido drapeado verde de mangas con escote",
+      "estado": "Corregido según grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Conjunto Bandage",
+      "descripcion": "Prendas importadas",
+      "color": "Negro / Nude",
+      "precio_regular_pen": null,
+      "precio_final_pen": 349,
+      "precio_texto_pen": 349.0,
+      "video": 4,
+      "nombre_video": "Conjunto Bandage",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": false
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido blanco mini elegante con perlas",
+      "descripcion": "Mini elegante con perlas",
+      "color": "Blanco",
+      "precio_regular_pen": null,
+      "precio_final_pen": 329,
+      "precio_texto_pen": 329.0,
+      "video": 3,
+      "nombre_video": "Vestido blanco mini elegante con perlas",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido blanco con perlas",
+      "descripcion": "Vestido ajustado blanco con perlas",
+      "color": "Blanco",
+      "precio_regular_pen": null,
+      "precio_final_pen": 319,
+      "precio_texto_pen": 319.0,
+      "video": 3,
+      "nombre_video": "Vestido blanco con perlas",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido corto cuello diagonal, plisado y liso",
+      "descripcion": "Prendas importadas",
+      "color": "Teja / Ocre",
+      "precio_regular_pen": null,
+      "precio_final_pen": 319,
+      "precio_texto_pen": 319.0,
+      "video": 3,
+      "nombre_video": "Vestido corto cuello diagonal, plisado y liso",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido drapeado azul asimétrico",
+      "descripcion": "Prendas importadas",
+      "color": "Azul",
+      "precio_regular_pen": null,
+      "precio_final_pen": 389,
+      "precio_texto_pen": 319.0,
+      "video": 3,
+      "nombre_video": "Vestido drapeado azul asimétrico",
+      "estado": "Corregido según grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido corto verde agua con tirantes",
+      "descripcion": "Prendas importadas",
+      "color": "Verde agua",
+      "precio_regular_pen": null,
+      "precio_final_pen": 299,
+      "precio_texto_pen": 299.0,
+      "video": 3,
+      "nombre_video": "Vestido corto verde agua con tirantes",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido de cuello cuadrado de manga larga color rosado",
+      "descripcion": "Prendas importadas",
+      "color": "Rosado",
+      "precio_regular_pen": null,
+      "precio_final_pen": 299,
+      "precio_texto_pen": 289.0,
+      "video": 3,
+      "nombre_video": "Vestido de cuello cuadrado de manga larga color rosado",
+      "estado": "Corregido según grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido lila en rib",
+      "descripcion": "Vestido corto lila en rib con manga larga de escote cruzado y perlitas",
+      "color": "Lila",
+      "precio_regular_pen": null,
+      "precio_final_pen": 289,
+      "precio_texto_pen": 269.0,
+      "video": 3,
+      "nombre_video": "Vestido lila en rib",
+      "estado": "Corregido según grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido licra licrado azul",
+      "descripcion": "Vestido corto azul con botones de tirantes",
+      "color": "Azul",
+      "precio_regular_pen": null,
+      "precio_final_pen": 249,
+      "precio_texto_pen": 249.0,
+      "video": 3,
+      "nombre_video": "Vestido corto licrado azul",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido corto celeste con corte sirena",
+      "descripcion": "Prendas importadas",
+      "color": "Celeste",
+      "precio_regular_pen": null,
+      "precio_final_pen": 239,
+      "precio_texto_pen": 239.0,
+      "video": 3,
+      "nombre_video": "Vestido corto celeste con corte sirena",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido corto blanco con capa",
+      "descripcion": "Prendas importadas",
+      "color": "Blanco",
+      "precio_regular_pen": null,
+      "precio_final_pen": 239,
+      "precio_texto_pen": 239.0,
+      "video": 3,
+      "nombre_video": "Vestido corto blanco con capa",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Falda Bandage Dress",
+      "descripcion": "Falda Bandage Dress cruzada palo rosa, negro y melón",
+      "color": "Palo rosa, negro y melón",
+      "precio_regular_pen": null,
+      "precio_final_pen": 219,
+      "precio_texto_pen": 219.0,
+      "video": 4,
+      "nombre_video": "Falda Bandage Dress",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": false
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido Corto Bellmet asimétrica color verde",
+      "descripcion": "Prendas importadas",
+      "color": "Verde",
+      "precio_regular_pen": null,
+      "precio_final_pen": 189,
+      "precio_texto_pen": 189.0,
+      "video": 3,
+      "nombre_video": "Vestido Corto Bellmet asimétrica color verde",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido Bandage Blanco/Negro",
+      "descripcion": "50% Descuento",
+      "color": "Blanco con negro",
+      "precio_regular_pen": 289,
+      "precio_final_pen": 144.5,
+      "precio_texto_pen": 144.5,
+      "video": 4,
+      "nombre_video": "Vestido Bandage Blanco/Negro",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido corto con volantes de cuello redondo",
+      "descripcion": "60% Descuento",
+      "color": "Verde menta",
+      "precio_regular_pen": 289,
+      "precio_final_pen": 115.6,
+      "precio_texto_pen": 115.6,
+      "video": 3,
+      "nombre_video": "Vestido corto con volantes de cuello redondo",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestido corto satén estampado",
+      "descripcion": "70% Descuento",
+      "color": "Estampado satén",
+      "precio_regular_pen": 289,
+      "precio_final_pen": 86.7,
+      "precio_texto_pen": 86.7,
+      "video": 3,
+      "nombre_video": "Vestido corto satín estampado",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS",
+      "nombre": "Vestidos Corto con mangas y ajustado color azul con estampado floral",
+      "descripcion": "70% Descuento",
+      "color": "Azul floral",
+      "precio_regular_pen": 229,
+      "precio_final_pen": 68.7,
+      "precio_texto_pen": 86.7,
+      "video": 3,
+      "nombre_video": "Vestido corto con mangas y ajustado color azul con estampado floral",
+      "estado": "Corregido según grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido Bandage negro con rosado y perlas rosadas",
+      "descripcion": "Prendas importadas",
+      "color": "Negro con rosado",
+      "precio_regular_pen": null,
+      "precio_final_pen": 679,
+      "precio_texto_pen": 679.0,
+      "video": 4,
+      "nombre_video": "Vestido Bandage negro con rosado y perlas rosadas",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido Bandage blanco y crema de perlas",
+      "descripcion": "Prendas importadas",
+      "color": "Blanco / Crema",
+      "precio_regular_pen": null,
+      "precio_final_pen": 549,
+      "precio_texto_pen": 549.0,
+      "video": 4,
+      "nombre_video": "Vestido Bandage blanco y crema de perlas",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "VESTIDO CORTO Negro con tirantes y pedrería",
+      "descripcion": "Negro con tirantes y pedrería",
+      "color": "Negro",
+      "precio_regular_pen": null,
+      "precio_final_pen": 399,
+      "precio_texto_pen": 399.0,
+      "video": 2,
+      "nombre_video": "VESTIDO CORTO Negro con tirantes y pedrería",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido corto 3/4 de lentejuelas con terciopelo en el busto",
+      "descripcion": "COD 1618",
+      "color": "Verde esmeralda",
+      "precio_regular_pen": null,
+      "precio_final_pen": 399,
+      "precio_texto_pen": 399.0,
+      "video": 2,
+      "nombre_video": "Vestido corto 3/4 de lentejuelas con terciopelo en el busto",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido corto champagne de lentejuelas con cuello alto",
+      "descripcion": "Lentejuelas con cuello alto",
+      "color": "Champagne",
+      "precio_regular_pen": null,
+      "precio_final_pen": 389,
+      "precio_texto_pen": 389.0,
+      "video": 2,
+      "nombre_video": "Vestido corto champagne de lentejuelas con cuello alto",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido de lentejuelas palo rosa de transparencias",
+      "descripcion": "Lentejuelas palo rosa de transparencias",
+      "color": "Palo rosa",
+      "precio_regular_pen": null,
+      "precio_final_pen": 389,
+      "precio_texto_pen": 389.0,
+      "video": 2,
+      "nombre_video": "Vestido de lentejuelas palo rosa de transparencias",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido corto de lentejuelas rosado de una manga",
+      "descripcion": "Lentejuelas rosado de una manga",
+      "color": "Rosado",
+      "precio_regular_pen": null,
+      "precio_final_pen": 389,
+      "precio_texto_pen": 389.0,
+      "video": 2,
+      "nombre_video": "Vestido corto de lentejuelas rosado de una manga",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "VESTIDO BANDAGE Rojo corto de pedrería plateada",
+      "descripcion": "Rojo corto de pedrería plateada",
+      "color": "Rojo",
+      "precio_regular_pen": null,
+      "precio_final_pen": 379,
+      "precio_texto_pen": 379.0,
+      "video": 4,
+      "nombre_video": "VESTIDO BANDAGE Rojo corto de pedrería plateada",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido corto de tirantes negro con pedrería de tirantes con transparencia",
+      "descripcion": "Vestido corto negro con pedrería de tirantes con transparencia",
+      "color": "Negro",
+      "precio_regular_pen": null,
+      "precio_final_pen": 369,
+      "precio_texto_pen": 369.0,
+      "video": 2,
+      "nombre_video": "Vestido corto de tirantes negro con pedrería de tirantes con transparencia",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido corto de lentejuelas verde",
+      "descripcion": "Manga larga escotado de lentejuelas",
+      "color": "Verde",
+      "precio_regular_pen": null,
+      "precio_final_pen": 369,
+      "precio_texto_pen": 369.0,
+      "video": 2,
+      "nombre_video": "Vestido corto de lentejuelas verde",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido Bandage negro con aplicaciones plateadas",
+      "descripcion": "Prendas importadas",
+      "color": "Negro / Plata",
+      "precio_regular_pen": null,
+      "precio_final_pen": 389,
+      "precio_texto_pen": 369.0,
+      "video": 4,
+      "nombre_video": "Vestido Bandage negro con aplicaciones plateadas",
+      "estado": "Corregido según grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido bandage corto negro con aplicaciones plateadas",
+      "descripcion": "Prendas importadas",
+      "color": "Negro / Plata",
+      "precio_regular_pen": null,
+      "precio_final_pen": 389,
+      "precio_texto_pen": 369.0,
+      "video": 4,
+      "nombre_video": "Vestido Bandage corto negro con aplicaciones plateadas",
+      "estado": "Corregido según grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido corto azul con cinturón de Aplicaciones plateado",
+      "descripcion": "Prendas importadas",
+      "color": "Azul",
+      "precio_regular_pen": null,
+      "precio_final_pen": 369,
+      "precio_texto_pen": 369.0,
+      "video": 3,
+      "nombre_video": "Vestido corto azul con cinturón de Aplicaciones plateado",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido corto blanco de lentejuelas tornasoladas de un hombro con capa",
+      "descripcion": "Vestido corto blanco de lentejuelas tornasoladas de un hombro con capa",
+      "color": "Blanco tornasolado",
+      "precio_regular_pen": null,
+      "precio_final_pen": 349,
+      "precio_texto_pen": 349.0,
+      "video": 2,
+      "nombre_video": "Vestido corto blanco de lentejuelas tornasoladas",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido Corto Verde de Pedrería Plateadas y de Perlas",
+      "descripcion": "Prendas importadas",
+      "color": "Verde",
+      "precio_regular_pen": null,
+      "precio_final_pen": 399,
+      "precio_texto_pen": 349.0,
+      "video": 2,
+      "nombre_video": "Vestido Corto Verde de Pedrería Plateadas y de Perlas",
+      "estado": "Corregido según grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Bandage Dress negro con pedrería",
+      "descripcion": "Bandage dress negro con pedrería con copas con pedrería de tirantes",
+      "color": "Negro",
+      "precio_regular_pen": null,
+      "precio_final_pen": 349,
+      "precio_texto_pen": 349.0,
+      "video": 4,
+      "nombre_video": "Bandage Dress Negro con pedrería",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido verde de lentejuelas y mostacillas",
+      "descripcion": "644",
+      "color": "Verde",
+      "precio_regular_pen": null,
+      "precio_final_pen": 329,
+      "precio_texto_pen": 329.0,
+      "video": 2,
+      "nombre_video": "Vestido verde de lentejuelas y mostacillas",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido corto rojo de pedrería",
+      "descripcion": "Vestido corto rojo con copas de pedrería de tirantes",
+      "color": "Rojo",
+      "precio_regular_pen": null,
+      "precio_final_pen": 329,
+      "precio_texto_pen": 329.0,
+      "video": 2,
+      "nombre_video": "Vestido corto rojo de pedrería",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido corto azul",
+      "descripcion": "Manga larga cuello en V",
+      "color": "Azul eléctrico",
+      "precio_regular_pen": null,
+      "precio_final_pen": 329,
+      "precio_texto_pen": 329.0,
+      "video": 2,
+      "nombre_video": "Vestido corto azul",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido corto plomo con detalle de lentejuelas y pliegues",
+      "descripcion": "Prendas importadas",
+      "color": "Plomo",
+      "precio_regular_pen": null,
+      "precio_final_pen": 319,
+      "precio_texto_pen": 299.0,
+      "video": 3,
+      "nombre_video": "Vestido corto plomo con detalle de lentejuelas y pliegues",
+      "estado": "Corregido según grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido de lentejuelas corto rojo",
+      "descripcion": "Minivestido de lentejuelas rojo",
+      "color": "Rojo",
+      "precio_regular_pen": null,
+      "precio_final_pen": 289,
+      "precio_texto_pen": 289.0,
+      "video": 2,
+      "nombre_video": "Vestido de lentejuelas corto rojo",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Bralette negro con pedrería de colores",
+      "descripcion": "Bralette corto negro con pedrería de colores en la copa con tirantes regulables",
+      "color": "Negro con colores",
+      "precio_regular_pen": null,
+      "precio_final_pen": 199,
+      "precio_texto_pen": 199.0,
+      "video": 4,
+      "nombre_video": "Bralette negro con pedrería de colores",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": false
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido corto dorado de una manga",
+      "descripcion": "50% Descuento",
+      "color": "Dorado",
+      "precio_regular_pen": 389,
+      "precio_final_pen": 194.5,
+      "precio_texto_pen": 194.5,
+      "video": 2,
+      "nombre_video": "Vestido corto dorado de una manga",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido (L) transparente con diamantes de imitación",
+      "descripcion": "50% Descuento",
+      "color": "Azul",
+      "precio_regular_pen": 329,
+      "precio_final_pen": 164.5,
+      "precio_texto_pen": 164.5,
+      "video": 2,
+      "nombre_video": "Vestido (L) transparente con diamantes de imitación",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido corto negro con mangas plateadas",
+      "descripcion": "50% Descuento",
+      "color": "Negro con plata",
+      "precio_regular_pen": 239,
+      "precio_final_pen": 119.5,
+      "precio_texto_pen": 119.5,
+      "video": 2,
+      "nombre_video": "Vestido corto negro con mangas plateadas",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido corto color verde (S M)",
+      "descripcion": "50% Descuento",
+      "color": "Verde",
+      "precio_regular_pen": 229,
+      "precio_final_pen": 114.5,
+      "precio_texto_pen": 114.5,
+      "video": 2,
+      "nombre_video": "Vestido corto color verde (S M)",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    },
+    {
+      "categoria_texto": "VESTIDOS CORTOS CON BRILLOS",
+      "nombre": "Vestido corto negro con plateado",
+      "descripcion": "60% Descuento",
+      "color": "Negro con plateado",
+      "precio_regular_pen": 189,
+      "precio_final_pen": 75.6,
+      "precio_texto_pen": 75.6,
+      "video": 2,
+      "nombre_video": "Vestido corto negro con plateado",
+      "estado": "Precio confirmado en grabación",
+      "solo_vestido": true
+    }
+  ],
+  "observaciones_video": [
+    {
+      "video": 1,
+      "nombre": "Vestido estampado floreado",
+      "precio_final_pen": 629,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido largo floreado de tirantes",
+      "precio_final_pen": 499,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido rojo largo de manga abanicada",
+      "precio_final_pen": 289,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido largo anaranjado de mangas largas de rosas",
+      "precio_final_pen": 369,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido blanco de corte sirena, de manga larga de rosas",
+      "precio_final_pen": 349,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido largo crema de mangas",
+      "precio_final_pen": 319,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido largo amarillo corte romano",
+      "precio_final_pen": 449,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido largo verde limón",
+      "precio_final_pen": 599,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido largo animal print",
+      "precio_final_pen": 599,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido largo Bandage color Rojo",
+      "precio_final_pen": 549,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido largo floreado",
+      "precio_final_pen": 449,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido estampado multicolor",
+      "precio_final_pen": 289,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido Animal Print Multicolor",
+      "precio_final_pen": 329,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido floreado multicolor",
+      "precio_final_pen": 349,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido largo blanco con estampado flores",
+      "precio_final_pen": 269,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Vestido corte A animal print",
+      "precio_final_pen": 349,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 1,
+      "nombre": "Blusa cola de pato asimétrico blanco con negro",
+      "precio_final_pen": 239,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido corto azul",
+      "precio_final_pen": 329,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido corto de lentejuelas verde",
+      "precio_final_pen": 369,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido de lentejuelas corto rojo",
+      "precio_final_pen": 289,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido corto de una manga color marrón",
+      "precio_final_pen": 389,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido corto de lentejuelas rosado de una manga",
+      "precio_final_pen": 389,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido verde de lentejuelas y mostacillas",
+      "precio_final_pen": 329,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido corto 3/4 de lentejuelas con terciopelo en el busto",
+      "precio_final_pen": 399,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido de lentejuelas palo rosa de transparencias",
+      "precio_final_pen": 389,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "VESTIDO CORTO Negro con tirantes y pedrería",
+      "precio_final_pen": 399,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido corto champagne de lentejuelas con cuello alto",
+      "precio_final_pen": 389,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido corto blanco de lentejuelas tornasoladas",
+      "precio_final_pen": 349,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido corto de tirantes negro con pedrería de tirantes con transparencia",
+      "precio_final_pen": 369,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido corto rojo de pedrería",
+      "precio_final_pen": 329,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido Corto Verde de Pedrería Plateadas y de Perlas",
+      "precio_final_pen": 399,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido largo de lentejuelas con diamantes",
+      "precio_final_pen": 349,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido corto color verde (S M)",
+      "precio_final_pen": 114.5,
+      "precio_regular_pen": 229,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido corto dorado de una manga",
+      "precio_final_pen": 194.5,
+      "precio_regular_pen": 389,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido corto negro con plateado",
+      "precio_final_pen": 75.6,
+      "precio_regular_pen": 189,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido corto negro con mangas plateadas",
+      "precio_final_pen": 119.5,
+      "precio_regular_pen": 239,
+      "alias": null
+    },
+    {
+      "video": 2,
+      "nombre": "Vestido (L) transparente con diamantes de imitación",
+      "precio_final_pen": 164.5,
+      "precio_regular_pen": 329,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido corto licrado azul",
+      "precio_final_pen": 249,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido lila en rib",
+      "precio_final_pen": 289,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido blanco mini elegante con perlas",
+      "precio_final_pen": 329,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido corto cuello diagonal, plisado y liso",
+      "precio_final_pen": 319,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido corto verde agua con tirantes",
+      "precio_final_pen": 299,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido corto celeste con corte sirena",
+      "precio_final_pen": 239,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido blanco con perlas",
+      "precio_final_pen": 319,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido corto blanco con capa",
+      "precio_final_pen": 239,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido Corto Bellmet asimétrica color verde",
+      "precio_final_pen": 189,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido color verde terciopelo semi drapeado con manga y escote",
+      "precio_final_pen": 429,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido corto azul con cinturón de Aplicaciones plateado",
+      "precio_final_pen": 369,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido drapeado verde de mangas con escote",
+      "precio_final_pen": 359,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido corto blanco drapeado con mangas largas",
+      "precio_final_pen": 389,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido de cuello cuadrado de manga larga color rosado",
+      "precio_final_pen": 299,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido corto plomo con detalle de lentejuelas y pliegues",
+      "precio_final_pen": 319,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido largo verde con estampado de rosas verdes",
+      "precio_final_pen": 229,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido drapeado azul asimétrico",
+      "precio_final_pen": 389,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido corto con mangas y ajustado color azul con estampado floral",
+      "precio_final_pen": 68.7,
+      "precio_regular_pen": 229,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido corto satín estampado",
+      "precio_final_pen": 86.7,
+      "precio_regular_pen": 289,
+      "alias": null
+    },
+    {
+      "video": 3,
+      "nombre": "Vestido corto con volantes de cuello redondo",
+      "precio_final_pen": 115.6,
+      "precio_regular_pen": 289,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Vestido Bandage Color Verde Con Rayas",
+      "precio_final_pen": 379,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "VESTIDO BANDAGE Rojo corto de pedrería plateada",
+      "precio_final_pen": 379,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Bandage Dress de colores",
+      "precio_final_pen": 399,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Bandage Dress Negro con pedrería",
+      "precio_final_pen": 349,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Bandage dress nude con blanco",
+      "precio_final_pen": 389,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Vestido Bandage corto negro con aplicaciones plateadas",
+      "precio_final_pen": 389,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Bralette negro con pedrería de colores",
+      "precio_final_pen": 199,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Falda Bandage Dress",
+      "precio_final_pen": 219,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Vestido Bandage Dorado",
+      "precio_final_pen": 449,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Vestido Bandage negro con aplicaciones plateadas",
+      "precio_final_pen": 389,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Vestido Bandage rojo",
+      "precio_final_pen": 389,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Vestido Bandage negro con rosado y perlas rosadas",
+      "precio_final_pen": 679,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Vestido Bandage Negro/Blanco",
+      "precio_final_pen": 449,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Conjunto Bandage",
+      "precio_final_pen": 349,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Vestido Bandage blanco y crema de perlas",
+      "precio_final_pen": 549,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Vestido Bandage negro con lazo blanco",
+      "precio_final_pen": 389,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Vestido Bandage Blanco/Negro",
+      "precio_final_pen": 144.5,
+      "precio_regular_pen": 289,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Vestido Bandage Amarillo — mini",
+      "precio_final_pen": 389,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "Vestido Bandage Amarillo — midi",
+      "precio_final_pen": 429,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 4,
+      "nombre": "VESTIDO BANDAGE Caqui ceñido",
+      "precio_final_pen": null,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 5,
+      "nombre": "Vestido de gala en degradado",
+      "precio_final_pen": 749,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 5,
+      "nombre": "Vestido largo azul acero",
+      "precio_final_pen": 699,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 5,
+      "nombre": "Vestido largo palo rosa",
+      "precio_final_pen": 699,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 5,
+      "nombre": "Vestido palo rosa gasa y satín",
+      "precio_final_pen": 649,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 5,
+      "nombre": "Vestido de gasa azul",
+      "precio_final_pen": 649,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 5,
+      "nombre": "Vestido largo morado claro",
+      "precio_final_pen": 649,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 5,
+      "nombre": "Vestido sirena palo rosa de lentejuelas",
+      "precio_final_pen": 569,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 5,
+      "nombre": "Vestido vino strapless de tirantes con copas de pedrería",
+      "precio_final_pen": 549,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 5,
+      "nombre": "Vestido largo corte sirena negro con lazo y mangas",
+      "precio_final_pen": 549,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 5,
+      "nombre": "Vestido largo azul",
+      "precio_final_pen": 349,
+      "precio_regular_pen": null,
+      "alias": null
+    },
+    {
+      "video": 5,
+      "nombre": "Vestido crema de encaje y tul asimétrico",
+      "precio_final_pen": 194.5,
+      "precio_regular_pen": 389,
+      "alias": null
+    },
+    {
+      "video": 5,
+      "nombre": "Vestido largo de gala blanco con un hombro de lentejuelas",
+      "precio_final_pen": 649,
+      "precio_regular_pen": null,
+      "alias": null
+    }
+  ]
+}

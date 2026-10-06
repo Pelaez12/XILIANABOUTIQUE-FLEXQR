@@ -1,0 +1,572 @@
+[
+  {
+    "codigo": "PD-081",
+    "nombre": "Vestido corto negro de brillos plateados",
+    "precio": 549.0,
+    "categoria": "Cortos con brillo",
+    "indices": [
+      11
+    ],
+    "fecha": "2026-10-06"
+  },
+  {
+    "codigo": "Captura-2026-10-06-R160",
+    "nombre": "Vestido corto Blanco de una manga",
+    "precio": 289,
+    "categoria": "Cortos sin brillo",
+    "indices": [
+      160
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas adjuntas del usuario"
+  },
+  {
+    "codigo": "Captura-2026-10-06-R163",
+    "nombre": "Vestido corto drapeado",
+    "precio": 249,
+    "categoria": "Cortos sin brillo",
+    "indices": [
+      163
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas adjuntas del usuario"
+  },
+  {
+    "codigo": "Captura-2026-10-06-R140",
+    "nombre": "Vestido largo marrón con detalle plateados",
+    "precio": 319,
+    "categoria": "Cortos sin brillo",
+    "indices": [
+      140
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas adjuntas del usuario"
+  },
+  {
+    "codigo": "Captura-2026-10-06-R157",
+    "nombre": "Vestido corto con escote y detalles plateados",
+    "precio": 279,
+    "categoria": "Cortos sin brillo",
+    "indices": [
+      157
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas adjuntas del usuario"
+  },
+  {
+    "codigo": "Captura-2026-10-06-R113",
+    "nombre": "Vestido 3/4 blanco de mangas con strass plateadas",
+    "precio": 549,
+    "categoria": "Cortos sin brillo",
+    "indices": [
+      113,
+      114
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas adjuntas del usuario"
+  },
+  {
+    "codigo": "Captura-2026-10-06-R10",
+    "nombre": "Vestido corto satín (Talla S)",
+    "precio": 179,
+    "categoria": "Cortos sin brillo",
+    "indices": [
+      10,
+      159
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas adjuntas del usuario"
+  },
+  {
+    "codigo": "Captura-2026-10-06-R13",
+    "nombre": "Vestido corto drapeado marrón con blanco",
+    "precio": 389,
+    "categoria": "Cortos sin brillo",
+    "indices": [
+      13,
+      162
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas adjuntas del usuario"
+  },
+  {
+    "codigo": "Captura-2026-10-06-R161",
+    "nombre": "Vestido crema de Gaza con detalles estrellas doradas",
+    "precio": 289,
+    "categoria": "Cortos sin brillo",
+    "indices": [
+      161
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas adjuntas del usuario"
+  },
+  {
+    "codigo": "GALA-CAPTURA-R16",
+    "nombre": "Vestido Largo Color Pic Blue",
+    "precio": 579,
+    "categoria": "Gala",
+    "indices": [
+      16
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R39",
+    "nombre": "Vestido largo azul corte sirena con tirantes cruzados",
+    "precio": 499,
+    "categoria": "Gala",
+    "indices": [
+      39,
+      40,
+      42
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R124",
+    "nombre": "Vestido largo de gala dorado",
+    "precio": 549,
+    "categoria": "Gala",
+    "indices": [
+      124,
+      130
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R76",
+    "nombre": "Vestido de gala gamusa color guinda con perlas",
+    "precio": 589,
+    "categoria": "Gala",
+    "indices": [
+      76,
+      77
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R74",
+    "nombre": "Vestido elegante sirena color verde",
+    "precio": 389,
+    "categoria": "Gala",
+    "indices": [
+      74,
+      75
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R82",
+    "nombre": "Vestido largo de gala lentejuelas negro con mangas",
+    "precio": 729,
+    "categoria": "Gala",
+    "indices": [
+      82,
+      87,
+      98,
+      104
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R72",
+    "nombre": "Vestido fucsia con escote y pliegue izquierdo",
+    "precio": 549,
+    "categoria": "Gala",
+    "indices": [
+      72,
+      78
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R90",
+    "nombre": "Vestido largo de gala asimétrico de una manga dorado con negro",
+    "precio": 579,
+    "categoria": "Gala",
+    "indices": [
+      90,
+      91
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R68",
+    "nombre": "Vestido corte acampanado de tejido brillante",
+    "precio": 589,
+    "categoria": "Gala",
+    "indices": [
+      68,
+      73
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R79",
+    "nombre": "Vestido sirena color verde gamuzado con mangas y cuello cuadrado",
+    "precio": 519,
+    "categoria": "Gala",
+    "indices": [
+      79,
+      83
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R86",
+    "nombre": "Vestido sirena de lentejuelas verdes con detalles en los hombros",
+    "precio": 549,
+    "categoria": "Gala",
+    "indices": [
+      86,
+      92
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R84",
+    "nombre": "Vestido largo de mangas semi drapeado con detalles de brillos en…",
+    "precio": 549,
+    "categoria": "Gala",
+    "indices": [
+      84,
+      85
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R100",
+    "nombre": "Vestido asimétrico dorado largo de gala",
+    "precio": 649,
+    "categoria": "Gala",
+    "indices": [
+      100,
+      101
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R64",
+    "nombre": "Vestido rojo de gala con strass plateadas",
+    "precio": 389,
+    "categoria": "Gala",
+    "indices": [
+      64,
+      102,
+      103
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R62",
+    "nombre": "Vestido de gala rojo con aplicaciones plateadas",
+    "precio": 349,
+    "categoria": "Gala",
+    "indices": [
+      62
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R106",
+    "nombre": "Vestido largo con semi cola y detalles de pedrería plateados y mora…",
+    "precio": 699,
+    "categoria": "Gala",
+    "indices": [
+      106
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R105",
+    "nombre": "Vestido sirena de gala verde con perlas",
+    "precio": 729,
+    "categoria": "Gala",
+    "indices": [
+      105
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R23",
+    "nombre": "Vestido de gala de lentejuelas color Brown",
+    "precio": 589,
+    "categoria": "Gala",
+    "indices": [
+      23,
+      24
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R17",
+    "nombre": "Vestido de gala de lentejuelas rosa",
+    "precio": 469,
+    "categoria": "Gala",
+    "indices": [
+      17,
+      21
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R134",
+    "nombre": "Vestido de gala negro con detalles plateados",
+    "precio": 429,
+    "categoria": "Gala",
+    "indices": [
+      134,
+      136
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R112",
+    "nombre": "Vestido de gala de lentejuelas · modelo plomo",
+    "precio": 529,
+    "categoria": "Gala",
+    "indices": [
+      112,
+      116
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R138",
+    "nombre": "Vestido de gala de lentejuelas · modelo estampado",
+    "precio": 449,
+    "categoria": "Gala",
+    "indices": [
+      138,
+      139
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R137",
+    "nombre": "Vestido de gala crema con azul",
+    "precio": 569,
+    "categoria": "Gala",
+    "indices": [
+      137,
+      141
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R110",
+    "nombre": "Vestido largo de gala blanco con rayas moradas y morado y de cap…",
+    "precio": 579,
+    "categoria": "Gala",
+    "indices": [
+      110,
+      111
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R118",
+    "nombre": "Vestido largo crema de perlas y pedrería plateadas",
+    "precio": 669,
+    "categoria": "Gala",
+    "indices": [
+      118,
+      119
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "GALA-CAPTURA-R117",
+    "nombre": "Vestido largo de gala dorado con rayas doradas y blanco",
+    "precio": 539,
+    "categoria": "Gala",
+    "indices": [
+      117,
+      120
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Coincidencia visual con capturas completas de Gala Dresses. Nombres con puntos suspensivos conservan el texto visible."
+  },
+  {
+    "codigo": "PD-022",
+    "nombre": "Vestido largo verde limón",
+    "precio": 599,
+    "categoria": "Largos",
+    "indices": [
+      36,
+      37,
+      41
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Asociación explícita confirmada por el usuario"
+  },
+  {
+    "codigo": "R053",
+    "nombre": "Vestido negro largo de perlas con detalles",
+    "precio": 319,
+    "categoria": "Largos",
+    "indices": [
+      53,
+      54
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Asociación explícita confirmada por el usuario"
+  },
+  {
+    "codigo": "R151",
+    "nombre": "Conjunto Bandage",
+    "precio": 349,
+    "categoria": "Bandage",
+    "indices": [
+      108,
+      151
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Asociación explícita confirmada por el usuario"
+  },
+  {
+    "codigo": "R057",
+    "nombre": "Vestido Bandage Amarillo",
+    "precio": 389,
+    "categoria": "Bandage",
+    "indices": [
+      57,
+      58
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Asociación explícita confirmada por el usuario"
+  },
+  {
+    "codigo": "PD-015",
+    "nombre": "Vestido negro brillante",
+    "precio": 389,
+    "categoria": "Gala",
+    "indices": [
+      22
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Asociación explícita confirmada por el usuario"
+  },
+  {
+    "codigo": "PD-004",
+    "nombre": "Vestido negro asimétrico con lentejuelas",
+    "precio": 369,
+    "categoria": "Cortos con brillo",
+    "indices": [
+      7
+    ],
+    "codigo_catalogo": "1930",
+    "fecha": "2026-10-06",
+    "fuente": "Nombre, precio y foto confirmados por el usuario; prenda importada según catálogo"
+  },
+  {
+    "codigo": "PD-003",
+    "nombre": "Vestido corto escotado",
+    "precio": 239,
+    "categoria": "Cortos con brillo",
+    "indices": [
+      4
+    ],
+    "codigo_catalogo": "1983",
+    "fecha": "2026-10-06",
+    "fuente": "Nombre, precio y foto confirmados por el usuario; prenda importada según catálogo"
+  },
+  {
+    "codigo": "PD-002",
+    "nombre": "Vestido corto dorado con negro",
+    "precio": 249,
+    "categoria": "Cortos con brillo",
+    "indices": [
+      3
+    ],
+    "codigo_catalogo": null,
+    "fecha": "2026-10-06",
+    "fuente": "Nombre, precio y foto confirmados por el usuario; prenda importada según catálogo"
+  },
+  {
+    "codigo": "PD-001",
+    "nombre": "Vestido corto negro de tiras",
+    "precio": 79,
+    "categoria": "Cortos con brillo",
+    "indices": [
+      1
+    ],
+    "codigo_catalogo": null,
+    "fecha": "2026-10-06",
+    "fuente": "Nombre, precio y foto confirmados por el usuario; prenda importada según catálogo"
+  },
+  {
+    "codigo": "PD-008",
+    "nombre": "Vestido corto negro",
+    "precio": 219,
+    "categoria": "Cortos sin brillo",
+    "indices": [
+      12
+    ],
+    "codigo_catalogo": null,
+    "fecha": "2026-10-06",
+    "fuente": "Nombre, precio y foto confirmados por el usuario; prenda importada según catálogo"
+  },
+  {
+    "codigo": "PD-005",
+    "nombre": "Vestido corto negro con plateado",
+    "precio": 449,
+    "categoria": "Cortos con brillo",
+    "indices": [
+      8
+    ],
+    "codigo_catalogo": null,
+    "fecha": "2026-10-06",
+    "fuente": "Nombre, precio y foto confirmados por el usuario; prenda importada según catálogo"
+  },
+  {
+    "codigo": "PD-044",
+    "nombre": "Vestido Bandage corto negro con aplicaciones plateadas",
+    "precio": 389,
+    "categoria": "Bandage",
+    "indices": [
+      88,
+      89
+    ],
+    "codigo_catalogo": "2031",
+    "fecha": "2026-10-06",
+    "fuente": "Nombre, precio, código y fotos confirmados por el usuario"
+  },
+  {
+    "codigo": "PD-053",
+    "nombre": "Vestido crema de encaje y tull asimétrico",
+    "precio": 194.5,
+    "categoria": "Gala",
+    "indices": [
+      109
+    ],
+    "codigo_catalogo": "330",
+    "fecha": "2026-10-06",
+    "fuente": "Nombre, foto, precio y descuento confirmados por el usuario"
+  }
+]

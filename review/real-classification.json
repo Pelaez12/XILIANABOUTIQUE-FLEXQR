@@ -241,24 +241,6 @@
       ]
     },
     {
-      "productId": 36,
-      "name": "Vestido corto negro con plateado",
-      "category": "Cortos con brillo",
-      "price": 75.6,
-      "sourceIndices": [
-        11
-      ],
-      "photos": [
-        {
-          "src": "./images/productos-reales/XL-036/01-R011.jpeg",
-          "width": 1080,
-          "height": 1324,
-          "sourceIndex": 11,
-          "sha256": "018008eccd83dbc0503f91ad26348e3822d1b2f84d14b67abbca001743c16f41"
-        }
-      ]
-    },
-    {
       "productId": 38,
       "name": "Vestido corto de lentejuelas rosado de una manga",
       "category": "Cortos con brillo",
@@ -423,7 +405,7 @@
     {
       "code": "PD-001",
       "name": "Corto negro de tirantes cruzados",
-      "category": "Cortos",
+      "category": "Cortos con brillo",
       "price": null,
       "sourceIndices": [
         1
@@ -437,7 +419,7 @@
           "sha256": "ada3be708e742a438a03753ff45e507937ceec85e1c88599158428392f2e0cbd"
         }
       ],
-      "status": "No publicar: falta confirmar nombre, precio y disponibilidad"
+      "status": "Categoría confirmada por usuario; nombre oficial y precio pendientes"
     },
     {
       "code": "PD-002",
@@ -456,7 +438,7 @@
           "sha256": "222b5dbf22708c1c76e77e67506b54e3646fcebd3719ca7b5dbfade9d5482b29"
         }
       ],
-      "status": "No publicar: falta confirmar nombre, precio y disponibilidad"
+      "status": "Categoría confirmada por usuario; nombre oficial y precio pendientes"
     },
     {
       "code": "PD-003",
@@ -545,7 +527,7 @@
     {
       "code": "PD-007",
       "name": "Corto amarillo de tirantes",
-      "category": "Cortos",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         10,
@@ -591,7 +573,7 @@
     {
       "code": "PD-009",
       "name": "Corto champagne de manga larga con pedrería",
-      "category": "Cortos con brillo",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         13
@@ -992,7 +974,7 @@
     {
       "code": "PD-025",
       "name": "Midi celeste con capa corta",
-      "category": "Cortos",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         49,
@@ -1216,7 +1198,7 @@
     {
       "code": "PD-033",
       "name": "Largo rosa de manga larga con botones",
-      "category": "Largos",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         65,
@@ -1564,7 +1546,7 @@
     {
       "code": "PD-046",
       "name": "Corto verde de terciopelo asimétrico",
-      "category": "Cortos",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         96,
@@ -1591,7 +1573,7 @@
     {
       "code": "PD-047",
       "name": "Corto verde de terciopelo de manga larga",
-      "category": "Cortos",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         94,
@@ -1796,7 +1778,7 @@
     {
       "code": "PD-056",
       "name": "Midi blanco con mangas capa y abertura",
-      "category": "Cortos",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         113,
@@ -1977,7 +1959,7 @@
     {
       "code": "PD-063",
       "name": "Midi blanco de hombros descubiertos y manga larga",
-      "category": "Bandage",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         132,
@@ -2085,7 +2067,7 @@
     {
       "code": "PD-067",
       "name": "Largo burdeos de tirantes con aplicaciones",
-      "category": "Largos",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         140
@@ -2104,7 +2086,7 @@
     {
       "code": "PD-068",
       "name": "Corto celeste de mangas amplias",
-      "category": "Cortos",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         142,
@@ -2238,7 +2220,7 @@
     {
       "code": "PD-075",
       "name": "Midi negro de manga larga con abertura y pedrería",
-      "category": "Bandage",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         157
@@ -2257,7 +2239,7 @@
     {
       "code": "PD-076",
       "name": "Corto blanco asimétrico",
-      "category": "Cortos",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         160
@@ -2276,7 +2258,7 @@
     {
       "code": "PD-077",
       "name": "Midi crema halter con falda plisada",
-      "category": "Cortos",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         161
@@ -2295,7 +2277,7 @@
     {
       "code": "PD-078",
       "name": "Corto champagne de manga larga con lentejuelas",
-      "category": "Cortos con brillo",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         162
@@ -2314,7 +2296,7 @@
     {
       "code": "PD-079",
       "name": "Corto negro de tul de manga larga",
-      "category": "Cortos",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         163
@@ -2333,7 +2315,7 @@
     {
       "code": "PD-080",
       "name": "Midi dorado asimétrico satinado",
-      "category": "Cortos",
+      "category": "Cortos sin brillo",
       "price": null,
       "sourceIndices": [
         165
@@ -2348,6 +2330,25 @@
         }
       ],
       "status": "No publicar: falta confirmar nombre, precio y disponibilidad"
+    },
+    {
+      "code": "PD-081",
+      "name": "Vestido corto negro de brillos plateados",
+      "category": "Cortos con brillo",
+      "price": 549.0,
+      "sourceIndices": [
+        11
+      ],
+      "photos": [
+        {
+          "src": "./pendientes-dueno/PD-081-corto-negro-plateado-escote-halter-por-identificar/01-R011.jpeg",
+          "width": 1080,
+          "height": 1324,
+          "sourceIndex": 11,
+          "sha256": "018008eccd83dbc0503f91ad26348e3822d1b2f84d14b67abbca001743c16f41"
+        }
+      ],
+      "status": "Nombre y precio confirmados por el usuario; listo para incorporar al catálogo"
     }
   ],
   "withoutNewPhotos": [
@@ -2578,6 +2579,12 @@
       "name": "Vestido dorado corto asimétrico de flecos",
       "price": 389.0,
       "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+    },
+    {
+      "productId": 36,
+      "name": "Vestido corto negro con plateado",
+      "price": 75.6,
+      "reason": "R011 retirada: no coincide con foto oficial del código 174. Pendiente de foto exacta."
     }
   ]
 }

@@ -226,5 +226,11 @@
     "name": "Vestido dorado corto asimétrico de flecos",
     "price": 389.0,
     "reason": "Captura recortada eliminada a petición del dueño de la web; pendiente de foto real"
+  },
+  {
+    "productId": 36,
+    "name": "Vestido corto negro con plateado",
+    "price": 75.6,
+    "reason": "R011 retirada: no coincide con foto oficial del código 174. Pendiente de foto exacta."
   }
 ]

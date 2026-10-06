@@ -16,7 +16,8 @@ function walk(dir) {
 }
 walk(output);
 const pages = files.filter(file => file.endsWith('index.html'));
-assert.equal(pages.length, 65, 'Se esperan inicio, 6 categorías y 58 vestidos');
+const expectedPages = 93; // Inicio, 6 categorías y 86 productos confirmados.
+assert.equal(pages.length, expectedPages);
 let schemas = 0;
 let galleryPhotos = 0;
 for (const file of files) {
@@ -58,10 +59,10 @@ for (const file of pages) {
 const sitemap = fs.readFileSync(path.join(output, 'sitemap.xml'), 'utf8');
 assert(fs.readFileSync(path.join(output, '404.html'), 'utf8').includes('noindex'), '404 debe excluirse de indexación');
 assert(!fs.readFileSync(path.join(output, 'index.html'), 'utf8').includes('xilianaboutiqueoficial.com'), 'Dominio antiguo en portada');
-assert.equal((sitemap.match(/<loc>/g) || []).length, 65);
+assert.equal((sitemap.match(/<loc>/g) || []).length, expectedPages);
 assert.equal((sitemap.match(/<image:loc>/g) || []).length, galleryPhotos);
 assert(fs.readFileSync(path.join(output, 'robots.txt'), 'utf8').includes(origin + '/sitemap.xml'));
-assert.equal(schemas, 65);
+assert.equal(schemas, expectedPages);
 assert(fs.readFileSync(path.join(output, 'index.html'), 'utf8').includes('data-id="57"'));
 assert(!fs.readFileSync(path.join(output, 'index.html'), 'utf8').includes('data-id="58"'));
-console.log(`SEO validado: 65 páginas, 65 bloques JSON-LD, ${galleryPhotos} imágenes de sitemap y todos los enlaces locales presentes.`);
+console.log(`SEO validado: ${expectedPages} páginas, ${expectedPages} bloques JSON-LD, ${galleryPhotos} imágenes de sitemap y todos los enlaces locales presentes.`);

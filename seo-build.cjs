@@ -57,7 +57,7 @@ module.exports = async function buildSEO(output) {
   let homepage = fs.readFileSync(path.join(output, 'index.html'), 'utf8');
   homepage = homepage.replace('<!-- SEO:HEAD -->', head(config.title, config.description, '/', './images/xiliana-logo-gold-black.png', [business, website, { '@type': 'CollectionPage', '@id': `${base}/#catalogo`, url: `${base}/`, name: config.title, inLanguage: 'es-PE', isPartOf: { '@id': website['@id'] }, mainEntity: itemList(ordered) }]));
   homepage = homepage.replace('<div class="product-grid" id="product-grid"></div>', categoryLinks + `<div class="product-grid" id="product-grid">${cards(ordered)}</div>`);
-  const tileProducts = [1, 24, 39, 10, 14, 17];
+  const tileProducts = categories.filter(c => c !== 'Todos').map(c => products.find(p => p.category === c).id);
   homepage = homepage.replace('<div class="category-showcase-grid" id="category-showcase-grid"></div>', `<div class="category-showcase-grid" id="category-showcase-grid">${categories.filter(c => c !== 'Todos').map((c, i) => `<a class="category-tile" href="${categoryPath(c)}"><img src="${image(products.find(p => p.id === tileProducts[i]))}" alt="Vestidos ${escape(c.toLowerCase())}" ${dimensions(products.find(p => p.id === tileProducts[i]))} loading="lazy" /><span>${escape(c)}</span><small>Explorar colección ↗</small></a>`).join('')}</div>`);
   write('index.html', homepage);
   const urls = [{ path: '/', images: [] }];

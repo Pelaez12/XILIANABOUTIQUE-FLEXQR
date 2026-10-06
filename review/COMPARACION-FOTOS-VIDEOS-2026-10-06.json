@@ -1,0 +1,1160 @@
+{
+  "criterio": "Se compara diseño, escote, mangas, corte y aplicaciones. Una coincidencia de color no basta. Los archivos originales se conservan. Las miniaturas del video no permiten certificar detalles invisibles.",
+  "coincidencias": [
+    {
+      "nombre": "Vestido de gala en degradado",
+      "precio": 749,
+      "categoria": "Gala",
+      "video": 5,
+      "indices": [
+        27,
+        28,
+        29
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido de gasa azul",
+      "precio": 649,
+      "categoria": "Gala",
+      "video": 5,
+      "indices": [
+        15
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido largo morado claro",
+      "precio": 649,
+      "categoria": "Gala",
+      "video": 5,
+      "indices": [
+        35,
+        38
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido largo corte sirena negro con lazo y mangas",
+      "precio": 549,
+      "categoria": "Gala",
+      "video": 5,
+      "indices": [
+        43,
+        45,
+        46
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido corto cuello diagonal, plisado y liso",
+      "precio": 319,
+      "categoria": "Cortos sin brillo",
+      "video": 3,
+      "indices": [
+        165
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido corto celeste con corte sirena",
+      "precio": 239,
+      "categoria": "Cortos sin brillo",
+      "video": 3,
+      "indices": [
+        49,
+        50,
+        156
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido Corto Bellmet asimétrica color verde",
+      "precio": 189,
+      "categoria": "Cortos sin brillo",
+      "video": 3,
+      "indices": [
+        93,
+        96
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido color verde terciopelo semi drapeado con manga y escote",
+      "precio": 429,
+      "categoria": "Cortos sin brillo",
+      "video": 3,
+      "indices": [
+        94,
+        95,
+        166
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido corto blanco drapeado con mangas largas",
+      "precio": 389,
+      "categoria": "Cortos sin brillo",
+      "video": 3,
+      "indices": [
+        132,
+        133
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido de cuello cuadrado de manga larga color rosado",
+      "precio": 299,
+      "categoria": "Cortos sin brillo",
+      "video": 3,
+      "indices": [
+        65,
+        66,
+        164
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido drapeado azul asimétrico",
+      "precio": 389,
+      "categoria": "Cortos sin brillo",
+      "video": 3,
+      "indices": [
+        142,
+        153
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Bandage dress nude con blanco",
+      "precio": 389,
+      "categoria": "Bandage",
+      "video": 4,
+      "indices": [
+        154
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido Bandage Dorado",
+      "precio": 449,
+      "categoria": "Bandage",
+      "video": 4,
+      "indices": [
+        126,
+        127
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido Bandage negro con aplicaciones plateadas",
+      "precio": 389,
+      "categoria": "Bandage",
+      "video": 4,
+      "indices": [
+        150
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido Bandage rojo",
+      "precio": 389,
+      "categoria": "Bandage",
+      "video": 4,
+      "indices": [
+        107
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido Bandage negro con rosado y perlas rosadas",
+      "precio": 679,
+      "categoria": "Bandage",
+      "video": 4,
+      "indices": [
+        60
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido Bandage negro con lazo blanco",
+      "precio": 389,
+      "categoria": "Bandage",
+      "video": 4,
+      "indices": [
+        26,
+        145
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido Bandage Amarillo — mini",
+      "precio": 389,
+      "categoria": "Bandage",
+      "video": 4,
+      "indices": [
+        149
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido Bandage Amarillo — midi",
+      "precio": 429,
+      "categoria": "Bandage",
+      "video": 4,
+      "indices": [
+        55,
+        59,
+        148
+      ],
+      "estado": "Coincidencia visual confirmada",
+      "origen": "Nueva asociación mediante grabación"
+    },
+    {
+      "nombre": "Vestido largo fucsia",
+      "precio": 389.0,
+      "categoria": "Largos",
+      "video": null,
+      "indices": [
+        33
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido largo amarillo con lazo",
+      "precio": 449.0,
+      "categoria": "Largos",
+      "video": null,
+      "indices": [
+        30,
+        34
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido corto azul con estampado floral",
+      "precio": 68.7,
+      "categoria": "Cortos sin brillo",
+      "video": null,
+      "indices": [
+        155
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video",
+      "etiquetas": [
+        "Liquidación"
+      ],
+      "precio_regular": 229,
+      "descuento_porcentaje": 70
+    },
+    {
+      "nombre": "Vestido bandage verde con rayas",
+      "precio": 379.0,
+      "categoria": "Bandage",
+      "video": null,
+      "indices": [
+        152
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido transparente con diamantes de imitación",
+      "precio": 164.5,
+      "categoria": "Liquidación",
+      "video": null,
+      "indices": [
+        31
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video",
+      "etiquetas": [
+        "Liquidación"
+      ],
+      "precio_regular": 329,
+      "descuento_porcentaje": 50
+    },
+    {
+      "nombre": "Vestido corto dorado de una manga",
+      "precio": 194.5,
+      "categoria": "Liquidación",
+      "video": null,
+      "indices": [
+        44
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video",
+      "etiquetas": [
+        "Liquidación"
+      ],
+      "precio_regular": 389,
+      "descuento_porcentaje": 50
+    },
+    {
+      "nombre": "Vestido rojo largo de manga abanicada",
+      "precio": 289.0,
+      "categoria": "Largos",
+      "video": null,
+      "indices": [
+        128,
+        129
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido blanco de corte sirena de manga larga de rosas",
+      "precio": 349.0,
+      "categoria": "Largos",
+      "video": null,
+      "indices": [
+        47,
+        48
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido largo crema de mangas",
+      "precio": 319.0,
+      "categoria": "Largos",
+      "video": null,
+      "indices": [
+        51,
+        56
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido largo amarillo corte romano",
+      "precio": 449.0,
+      "categoria": "Largos",
+      "video": null,
+      "indices": [
+        122,
+        123
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido corto de una manga color marrón",
+      "precio": 389.0,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        6
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido corto de lentejuelas rosado de una manga",
+      "precio": 389.0,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        125
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido verde de lentejuelas y mostacillas",
+      "precio": 329.0,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        5
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido corto 3/4 de lentejuelas con terciopelo en el busto",
+      "precio": 399.0,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        14
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido corto rojo de lentejuelas",
+      "precio": 298.0,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        52
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido corto de lentejuelas celeste y azul",
+      "precio": 449.0,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        147
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido corto asimétrico de lentejuelas azul",
+      "precio": 389.0,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        69,
+        70,
+        71
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido corto de diamantes de imitación plateadas",
+      "precio": 349.0,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        135
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido corto blanco de lentejuelas",
+      "precio": 349.0,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        2
+      ],
+      "estado": "Asociación real previamente revisada",
+      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
+    },
+    {
+      "nombre": "Vestido corto negro de brillos plateados",
+      "precio": 549.0,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        11
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-081"
+    },
+    {
+      "nombre": "Vestido corto Blanco de una manga",
+      "precio": 289,
+      "categoria": "Cortos sin brillo",
+      "video": null,
+      "indices": [
+        160
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · Captura-2026-10-06-R160"
+    },
+    {
+      "nombre": "Vestido corto drapeado",
+      "precio": 249,
+      "categoria": "Cortos sin brillo",
+      "video": null,
+      "indices": [
+        163
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · Captura-2026-10-06-R163"
+    },
+    {
+      "nombre": "Vestido largo marrón con detalle plateados",
+      "precio": 319,
+      "categoria": "Cortos sin brillo",
+      "video": null,
+      "indices": [
+        140
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · Captura-2026-10-06-R140"
+    },
+    {
+      "nombre": "Vestido corto con escote y detalles plateados",
+      "precio": 279,
+      "categoria": "Cortos sin brillo",
+      "video": null,
+      "indices": [
+        157
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · Captura-2026-10-06-R157"
+    },
+    {
+      "nombre": "Vestido 3/4 blanco de mangas con strass plateadas",
+      "precio": 549,
+      "categoria": "Cortos sin brillo",
+      "video": null,
+      "indices": [
+        113,
+        114
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · Captura-2026-10-06-R113"
+    },
+    {
+      "nombre": "Vestido corto satín (Talla S)",
+      "precio": 179,
+      "categoria": "Cortos sin brillo",
+      "video": null,
+      "indices": [
+        10,
+        159
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · Captura-2026-10-06-R10"
+    },
+    {
+      "nombre": "Vestido corto drapeado marrón con blanco",
+      "precio": 389,
+      "categoria": "Cortos sin brillo",
+      "video": null,
+      "indices": [
+        13,
+        162
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · Captura-2026-10-06-R13"
+    },
+    {
+      "nombre": "Vestido crema de Gaza con detalles estrellas doradas",
+      "precio": 289,
+      "categoria": "Cortos sin brillo",
+      "video": null,
+      "indices": [
+        161
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · Captura-2026-10-06-R161"
+    },
+    {
+      "nombre": "Vestido Largo Color Pic Blue",
+      "precio": 579,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        16
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R16"
+    },
+    {
+      "nombre": "Vestido largo azul corte sirena con tirantes cruzados",
+      "precio": 499,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        39,
+        40,
+        42
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R39"
+    },
+    {
+      "nombre": "Vestido largo de gala dorado",
+      "precio": 549,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        124,
+        130
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R124"
+    },
+    {
+      "nombre": "Vestido de gala gamusa color guinda con perlas",
+      "precio": 589,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        76,
+        77
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R76"
+    },
+    {
+      "nombre": "Vestido elegante sirena color verde",
+      "precio": 389,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        74,
+        75
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R74"
+    },
+    {
+      "nombre": "Vestido largo de gala lentejuelas negro con mangas",
+      "precio": 729,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        82,
+        87,
+        98,
+        104
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R82"
+    },
+    {
+      "nombre": "Vestido fucsia con escote y pliegue izquierdo",
+      "precio": 549,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        72,
+        78
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R72"
+    },
+    {
+      "nombre": "Vestido largo de gala asimétrico de una manga dorado con negro",
+      "precio": 579,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        90,
+        91
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R90"
+    },
+    {
+      "nombre": "Vestido corte acampanado de tejido brillante",
+      "precio": 589,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        68,
+        73
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R68"
+    },
+    {
+      "nombre": "Vestido sirena color verde gamuzado con mangas y cuello cuadrado",
+      "precio": 519,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        79,
+        83
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R79"
+    },
+    {
+      "nombre": "Vestido sirena de lentejuelas verdes con detalles en los hombros",
+      "precio": 549,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        86,
+        92
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R86"
+    },
+    {
+      "nombre": "Vestido largo de mangas semi drapeado con detalles de brillos en…",
+      "precio": 549,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        84,
+        85
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R84"
+    },
+    {
+      "nombre": "Vestido asimétrico dorado largo de gala",
+      "precio": 649,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        100,
+        101
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R100"
+    },
+    {
+      "nombre": "Vestido rojo de gala con strass plateadas",
+      "precio": 389,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        64,
+        102,
+        103
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R64"
+    },
+    {
+      "nombre": "Vestido de gala rojo con aplicaciones plateadas",
+      "precio": 349,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        62
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R62"
+    },
+    {
+      "nombre": "Vestido largo con semi cola y detalles de pedrería plateados y mora…",
+      "precio": 699,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        106
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R106"
+    },
+    {
+      "nombre": "Vestido sirena de gala verde con perlas",
+      "precio": 729,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        105
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R105"
+    },
+    {
+      "nombre": "Vestido de gala de lentejuelas color Brown",
+      "precio": 589,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        23,
+        24
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R23"
+    },
+    {
+      "nombre": "Vestido de gala de lentejuelas rosa",
+      "precio": 469,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        17,
+        21
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R17"
+    },
+    {
+      "nombre": "Vestido de gala negro con detalles plateados",
+      "precio": 429,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        134,
+        136
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R134"
+    },
+    {
+      "nombre": "Vestido de gala de lentejuelas · modelo plomo",
+      "precio": 529,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        112,
+        116
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R112"
+    },
+    {
+      "nombre": "Vestido de gala de lentejuelas · modelo estampado",
+      "precio": 449,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        138,
+        139
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R138"
+    },
+    {
+      "nombre": "Vestido de gala crema con azul",
+      "precio": 569,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        137,
+        141
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R137"
+    },
+    {
+      "nombre": "Vestido largo de gala blanco con rayas moradas y morado y de cap…",
+      "precio": 579,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        110,
+        111
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R110"
+    },
+    {
+      "nombre": "Vestido largo crema de perlas y pedrería plateadas",
+      "precio": 669,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        118,
+        119
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R118"
+    },
+    {
+      "nombre": "Vestido largo de gala dorado con rayas doradas y blanco",
+      "precio": 539,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        117,
+        120
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · GALA-CAPTURA-R117"
+    },
+    {
+      "nombre": "Vestido largo verde limón",
+      "precio": 599,
+      "categoria": "Largos",
+      "video": null,
+      "indices": [
+        36,
+        37,
+        41
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-022"
+    },
+    {
+      "nombre": "Vestido negro largo de perlas con detalles",
+      "precio": 319,
+      "categoria": "Largos",
+      "video": null,
+      "indices": [
+        53,
+        54
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · R053"
+    },
+    {
+      "nombre": "Conjunto Bandage",
+      "precio": 349,
+      "categoria": "Bandage",
+      "video": null,
+      "indices": [
+        108,
+        151
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · R151"
+    },
+    {
+      "nombre": "Vestido Bandage Amarillo",
+      "precio": 389,
+      "categoria": "Bandage",
+      "video": null,
+      "indices": [
+        57,
+        58
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · R057"
+    },
+    {
+      "nombre": "Vestido negro brillante",
+      "precio": 389,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        22
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-015"
+    },
+    {
+      "nombre": "Vestido negro asimétrico con lentejuelas",
+      "precio": 369,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        7
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-004"
+    },
+    {
+      "nombre": "Vestido corto escotado",
+      "precio": 239,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        4
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-003"
+    },
+    {
+      "nombre": "Vestido corto dorado con negro",
+      "precio": 249,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        3
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-002"
+    },
+    {
+      "nombre": "Vestido corto negro de tiras",
+      "precio": 79,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        1
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-001"
+    },
+    {
+      "nombre": "Vestido corto negro",
+      "precio": 219,
+      "categoria": "Cortos sin brillo",
+      "video": null,
+      "indices": [
+        12
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-008"
+    },
+    {
+      "nombre": "Vestido corto negro con plateado",
+      "precio": 449,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        8
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-005"
+    },
+    {
+      "nombre": "Vestido Bandage corto negro con aplicaciones plateadas",
+      "precio": 389,
+      "categoria": "Bandage",
+      "video": null,
+      "indices": [
+        88,
+        89
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-044"
+    },
+    {
+      "nombre": "Vestido crema de encaje y tull asimétrico",
+      "precio": 194.5,
+      "categoria": "Gala",
+      "video": null,
+      "indices": [
+        109
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-053",
+      "etiquetas": [
+        "Liquidación"
+      ],
+      "precio_regular": 389,
+      "descuento_porcentaje": 50
+    }
+  ],
+  "pendientes": [
+    {
+      "codigo": "PD-006",
+      "nombre_provisional": "Midi azul halter con abertura",
+      "categoria": "Bandage",
+      "indices": [
+        9,
+        158
+      ],
+      "estado": "Sin asociación exacta confirmada"
+    },
+    {
+      "codigo": "PD-013",
+      "nombre_provisional": "Midi fucsia de tirantes con aberturas",
+      "categoria": "Bandage",
+      "indices": [
+        18,
+        19
+      ],
+      "estado": "Sin asociación exacta confirmada"
+    },
+    {
+      "codigo": "PD-014",
+      "nombre_provisional": "Corto dorado strapless asimétrico",
+      "categoria": "Cortos con brillo",
+      "indices": [
+        20
+      ],
+      "estado": "Sin asociación exacta confirmada"
+    },
+    {
+      "codigo": "PD-017",
+      "nombre_provisional": "Midi gris vista posterior por identificar",
+      "categoria": "Por identificar",
+      "indices": [
+        25
+      ],
+      "estado": "Sin asociación exacta confirmada"
+    },
+    {
+      "codigo": "PD-020",
+      "nombre_provisional": "Corto burdeos con pieza estampada asimétrica",
+      "categoria": "Cortos",
+      "indices": [
+        32
+      ],
+      "estado": "Sin asociación exacta confirmada"
+    },
+    {
+      "codigo": "PD-030",
+      "nombre_provisional": "Midi plateado y negro de tirantes",
+      "categoria": "Cortos con brillo",
+      "indices": [
+        61,
+        63
+      ],
+      "estado": "Sin asociación exacta confirmada"
+    },
+    {
+      "codigo": "PD-034",
+      "nombre_provisional": "Corto burdeos de manga larga con pedrería",
+      "categoria": "Cortos con brillo",
+      "indices": [
+        67
+      ],
+      "estado": "Sin asociación exacta confirmada"
+    },
+    {
+      "codigo": "PD-040",
+      "nombre_provisional": "Corto gris con cola y hombros descubiertos",
+      "categoria": "Gala",
+      "indices": [
+        80,
+        81,
+        97,
+        99
+      ],
+      "estado": "Sin asociación exacta confirmada"
+    },
+    {
+      "codigo": "PD-057",
+      "nombre_provisional": "Capa negra de tul y encaje",
+      "categoria": "Fuera de vestidos",
+      "indices": [
+        115,
+        121
+      ],
+      "estado": "Sin asociación exacta confirmada"
+    },
+    {
+      "codigo": "PD-062",
+      "nombre_provisional": "Corto negro vista posterior por identificar",
+      "categoria": "Por identificar",
+      "indices": [
+        131
+      ],
+      "estado": "Sin asociación exacta confirmada"
+    },
+    {
+      "codigo": "PD-069",
+      "nombre_provisional": "Vestido dorado con flecos y abertura",
+      "categoria": "Gala",
+      "indices": [
+        143
+      ],
+      "estado": "Sin asociación exacta confirmada"
+    },
+    {
+      "codigo": "PD-070",
+      "nombre_provisional": "Midi fucsia con aberturas",
+      "categoria": "Bandage",
+      "indices": [
+        144
+      ],
+      "estado": "Sin asociación exacta confirmada"
+    },
+    {
+      "codigo": "PD-071",
+      "nombre_provisional": "Conjunto negro y blanco con top peplum",
+      "categoria": "Fuera de vestidos",
+      "indices": [
+        146
+      ],
+      "estado": "Sin asociación exacta confirmada"
+    }
+  ],
+  "total_archivos": 166,
+  "fotos_asociadas": 146,
+  "asociaciones_nuevas": 19
+}

@@ -1,0 +1,1964 @@
+[
+  {
+    "id": 59,
+    "name": "Vestido de gala en degradado",
+    "category": "Gala",
+    "price": 749,
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-059/01-R027.jpeg",
+        "width": 1039,
+        "height": 1280,
+        "sourceIndex": 27,
+        "sha256": "e38b1263981fde4aca99519e888d2694018d2130f9ff2ee6b1347a27b33d177c"
+      },
+      {
+        "src": "./images/productos-reales/XL-059/02-R028.jpeg",
+        "width": 1050,
+        "height": 1280,
+        "sourceIndex": 28,
+        "sha256": "8d31294d3f4393dd23d398f7dfad8415b4ae25d25d3e658c17268790e5ea658a"
+      },
+      {
+        "src": "./images/productos-reales/XL-059/03-R029.jpeg",
+        "width": 1049,
+        "height": 1280,
+        "sourceIndex": 29,
+        "sha256": "e8d61f5c8913d269b60fea7618f1409f29edc5e62bd2619911860ba6352b0963"
+      }
+    ],
+    "image": "./images/productos-reales/XL-059/01-R027.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 60,
+    "name": "Vestido de gasa azul",
+    "category": "Gala",
+    "price": 649,
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-060/01-R015.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 15,
+        "sha256": "123e3c5ba6f7bffbdcc0277e6aa3e1d659b0b19dfcce68008a56b2ff1d2f0c0b"
+      }
+    ],
+    "image": "./images/productos-reales/XL-060/01-R015.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 61,
+    "name": "Vestido largo morado claro",
+    "category": "Gala",
+    "price": 649,
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-061/01-R035.jpeg",
+        "width": 1080,
+        "height": 1436,
+        "sourceIndex": 35,
+        "sha256": "0ccde1b3f77c2bae799a69742dcb5c7fb3296b2bb6a4ac189aa80190f0ee6dff"
+      },
+      {
+        "src": "./images/productos-reales/XL-061/02-R038.jpeg",
+        "width": 1080,
+        "height": 1426,
+        "sourceIndex": 38,
+        "sha256": "ccc20befa8d803df994d05efa710f75b0ae85d4f491c332730689cd4ac8f43aa"
+      }
+    ],
+    "image": "./images/productos-reales/XL-061/01-R035.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 62,
+    "name": "Vestido largo corte sirena negro con lazo y mangas",
+    "category": "Gala",
+    "price": 549,
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-062/01-R043.jpeg",
+        "width": 1037,
+        "height": 1393,
+        "sourceIndex": 43,
+        "sha256": "9cccada37c6106ba0e256426a2180fec660570978a1d60c49edafe7cb132be57"
+      },
+      {
+        "src": "./images/productos-reales/XL-062/02-R045.jpeg",
+        "width": 1049,
+        "height": 1421,
+        "sourceIndex": 45,
+        "sha256": "f630b1822a102b869f8e5738cb014edceefac967dc94ac444b8bca3175a49cef"
+      },
+      {
+        "src": "./images/productos-reales/XL-062/03-R046.jpeg",
+        "width": 1052,
+        "height": 1406,
+        "sourceIndex": 46,
+        "sha256": "8432f069d177a1de64bcce9c804d0f5fb8d74475be7e9a9001b82d6fcb05d96a"
+      }
+    ],
+    "image": "./images/productos-reales/XL-062/01-R043.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 63,
+    "name": "Vestido corto cuello diagonal, plisado y liso",
+    "category": "Cortos",
+    "price": 319,
+    "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-063/01-R165.jpeg",
+        "width": 802,
+        "height": 1028,
+        "sourceIndex": 165,
+        "sha256": "141bc8f5d1f6ea8ddf72b087f01d93d239874f7f8da65640d85b6524c66bf25b"
+      }
+    ],
+    "image": "./images/productos-reales/XL-063/01-R165.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 64,
+    "name": "Vestido corto celeste con corte sirena",
+    "category": "Cortos",
+    "price": 239,
+    "note": "Hazlo tuyo con tus zapatos favoritos y sal a disfrutar. Tu estilo empieza por cómo te sientes.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-064/01-R049.jpeg",
+        "width": 1080,
+        "height": 1402,
+        "sourceIndex": 49,
+        "sha256": "a05dfb30e55964443c41cea1c699a01ace361248368c23549504199b4b2b96c6"
+      },
+      {
+        "src": "./images/productos-reales/XL-064/02-R050.jpeg",
+        "width": 1080,
+        "height": 1440,
+        "sourceIndex": 50,
+        "sha256": "c852ed93b872bc7d681c92bc9d7cf0ab0c9c525ff02f4c2cab38f751311f1708"
+      },
+      {
+        "src": "./images/productos-reales/XL-064/03-R156.jpeg",
+        "width": 1254,
+        "height": 1254,
+        "sourceIndex": 156,
+        "sha256": "d3229b5f023c1630384e653640afa50f42f8f448f582af4fe50c4ce78494feb6"
+      }
+    ],
+    "image": "./images/productos-reales/XL-064/01-R049.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 65,
+    "name": "Vestido Corto Bellmet asimétrica color verde",
+    "category": "Cortos",
+    "price": 189,
+    "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-065/01-R093.jpeg",
+        "width": 1080,
+        "height": 1408,
+        "sourceIndex": 93,
+        "sha256": "bd97a29c94ad972ca165318fbd239a466e0c5072b2844dd5d1f5bc93d59f7dcc"
+      },
+      {
+        "src": "./images/productos-reales/XL-065/02-R096.jpeg",
+        "width": 1080,
+        "height": 1429,
+        "sourceIndex": 96,
+        "sha256": "4872754fd0a95b22b4be759b395b1f280f15a909d6240ede019bf641db80d2af"
+      }
+    ],
+    "image": "./images/productos-reales/XL-065/01-R093.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 66,
+    "name": "Vestido color verde terciopelo semi drapeado con manga y escote",
+    "category": "Cortos",
+    "price": 429,
+    "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-066/01-R094.jpeg",
+        "width": 1080,
+        "height": 1340,
+        "sourceIndex": 94,
+        "sha256": "078a7404f30f1c3b3aa9c751cfa82c6145ad9c9dff7980ea5be767d230e87988"
+      },
+      {
+        "src": "./images/productos-reales/XL-066/02-R095.jpeg",
+        "width": 1080,
+        "height": 1354,
+        "sourceIndex": 95,
+        "sha256": "31a3bb6b723cf3750e7c51dc02ca55d93e94963926ea2e7d67353bb866066960"
+      },
+      {
+        "src": "./images/productos-reales/XL-066/03-R166.jpeg",
+        "width": 1080,
+        "height": 1340,
+        "sourceIndex": 166,
+        "sha256": "078a7404f30f1c3b3aa9c751cfa82c6145ad9c9dff7980ea5be767d230e87988"
+      }
+    ],
+    "image": "./images/productos-reales/XL-066/01-R094.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 67,
+    "name": "Vestido corto blanco drapeado con mangas largas",
+    "category": "Cortos",
+    "price": 389,
+    "note": "Hazlo tuyo con tus zapatos favoritos y sal a disfrutar. Tu estilo empieza por cómo te sientes.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-067/01-R132.jpeg",
+        "width": 1599,
+        "height": 1584,
+        "sourceIndex": 132,
+        "sha256": "c51a9b7c19797c4187e917d58ef7a73ba814973364373c9fc7089f8c14d4688e"
+      },
+      {
+        "src": "./images/productos-reales/XL-067/02-R133.jpeg",
+        "width": 1599,
+        "height": 1569,
+        "sourceIndex": 133,
+        "sha256": "3efa0bd9743db8f27fdadc97bfa29673064573682beb62174ccaa0711d8e3a25"
+      }
+    ],
+    "image": "./images/productos-reales/XL-067/01-R132.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 68,
+    "name": "Vestido de cuello cuadrado de manga larga color rosado",
+    "category": "Cortos",
+    "price": 299,
+    "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-068/01-R065.jpeg",
+        "width": 1080,
+        "height": 1418,
+        "sourceIndex": 65,
+        "sha256": "8ea8c0cffaacbfcc7ceb53cc8064a3f7ed7294dcf108675690c928661a4d8936"
+      },
+      {
+        "src": "./images/productos-reales/XL-068/02-R066.jpeg",
+        "width": 1080,
+        "height": 1395,
+        "sourceIndex": 66,
+        "sha256": "d0f9593adc07e3ec2fc6d1a7a76f13ee5f703daf2b42f57ee175d7d043d010b8"
+      },
+      {
+        "src": "./images/productos-reales/XL-068/03-R164.jpeg",
+        "width": 1080,
+        "height": 1418,
+        "sourceIndex": 164,
+        "sha256": "8ea8c0cffaacbfcc7ceb53cc8064a3f7ed7294dcf108675690c928661a4d8936"
+      }
+    ],
+    "image": "./images/productos-reales/XL-068/01-R065.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 69,
+    "name": "Vestido drapeado azul asimétrico",
+    "category": "Cortos",
+    "price": 389,
+    "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-069/01-R142.jpeg",
+        "width": 1149,
+        "height": 1369,
+        "sourceIndex": 142,
+        "sha256": "201d754056c2d9d589c8155c53fac313bf44cca6861cb7bd3aef44cacd65ce8f"
+      },
+      {
+        "src": "./images/productos-reales/XL-069/02-R153.jpeg",
+        "width": 1149,
+        "height": 1369,
+        "sourceIndex": 153,
+        "sha256": "201d754056c2d9d589c8155c53fac313bf44cca6861cb7bd3aef44cacd65ce8f"
+      }
+    ],
+    "image": "./images/productos-reales/XL-069/01-R142.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 70,
+    "name": "Bandage dress nude con blanco",
+    "category": "Bandage",
+    "price": 389,
+    "note": "Coqueto y con personalidad: un vestido para arreglarte a tu manera y salir sintiéndote fabulosa.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-070/01-R154.jpeg",
+        "width": 1080,
+        "height": 1391,
+        "sourceIndex": 154,
+        "sha256": "d72dc80a916e165f9ba2575b9e4c8a7bc1cca36a3901dc462da67f9a1938941f"
+      }
+    ],
+    "image": "./images/productos-reales/XL-070/01-R154.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 71,
+    "name": "Vestido Bandage Dorado",
+    "category": "Bandage",
+    "price": 449,
+    "note": "Un look con actitud para una noche que promete. Combínalo con tus accesorios favoritos y disfruta tu momento.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-071/01-R126.jpeg",
+        "width": 962,
+        "height": 1280,
+        "sourceIndex": 126,
+        "sha256": "8259704d2318f73bffb81230b4ea5168a042cba82b78362d4303d80aac4fa726"
+      },
+      {
+        "src": "./images/productos-reales/XL-071/02-R127.jpeg",
+        "width": 979,
+        "height": 1280,
+        "sourceIndex": 127,
+        "sha256": "895723ed9541e083a74937dc6fdcfc7f24b405f94aca35ee9ec96d063785c937"
+      }
+    ],
+    "image": "./images/productos-reales/XL-071/01-R126.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 72,
+    "name": "Vestido Bandage negro con aplicaciones plateadas",
+    "category": "Bandage",
+    "price": 389,
+    "note": "Coqueto y con personalidad: un vestido para arreglarte a tu manera y salir sintiéndote fabulosa.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-072/01-R150.jpeg",
+        "width": 1080,
+        "height": 1067,
+        "sourceIndex": 150,
+        "sha256": "e4c392a437e0b5a6a53f83c163425ef181037ffcbfc3dc11220ac83c45b0dc25"
+      }
+    ],
+    "image": "./images/productos-reales/XL-072/01-R150.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 73,
+    "name": "Vestido Bandage rojo",
+    "category": "Bandage",
+    "price": 389,
+    "note": "Un look con actitud para una noche que promete. Combínalo con tus accesorios favoritos y disfruta tu momento.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-073/01-R107.jpeg",
+        "width": 1049,
+        "height": 1499,
+        "sourceIndex": 107,
+        "sha256": "9d1e168cc22512f15d912407e409068661a4e127c74e1d2338ad7fd1e876e1db"
+      }
+    ],
+    "image": "./images/productos-reales/XL-073/01-R107.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 74,
+    "name": "Vestido Bandage negro con rosado y perlas rosadas",
+    "category": "Bandage",
+    "price": 679,
+    "note": "Coqueto y con personalidad: un vestido para arreglarte a tu manera y salir sintiéndote fabulosa.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-074/01-R060.jpeg",
+        "width": 1080,
+        "height": 1396,
+        "sourceIndex": 60,
+        "sha256": "099a9477f48aa69b568de2251fc40d75c2cd5fa25070cbed9f2b14072d52ecb4"
+      }
+    ],
+    "image": "./images/productos-reales/XL-074/01-R060.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 75,
+    "name": "Vestido Bandage negro con lazo blanco",
+    "category": "Bandage",
+    "price": 389,
+    "note": "Un look con actitud para una noche que promete. Combínalo con tus accesorios favoritos y disfruta tu momento.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-075/01-R026.jpeg",
+        "width": 1080,
+        "height": 1064,
+        "sourceIndex": 26,
+        "sha256": "2ba8745a457d26f3fd75e11dd86556926ffd88eb1f66ed483a35377109a944a6"
+      },
+      {
+        "src": "./images/productos-reales/XL-075/02-R145.jpeg",
+        "width": 1080,
+        "height": 1064,
+        "sourceIndex": 145,
+        "sha256": "2ba8745a457d26f3fd75e11dd86556926ffd88eb1f66ed483a35377109a944a6"
+      }
+    ],
+    "image": "./images/productos-reales/XL-075/01-R026.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 76,
+    "name": "Vestido Bandage Amarillo — mini",
+    "category": "Bandage",
+    "price": 389,
+    "note": "Coqueto y con personalidad: un vestido para arreglarte a tu manera y salir sintiéndote fabulosa.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-076/01-R149.jpeg",
+        "width": 1080,
+        "height": 1072,
+        "sourceIndex": 149,
+        "sha256": "63b60584937c3f059700912bfe42b36f90a477304d5885d5c763af25b8254e6c"
+      }
+    ],
+    "image": "./images/productos-reales/XL-076/01-R149.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 77,
+    "name": "Vestido Bandage Amarillo — midi",
+    "category": "Bandage",
+    "price": 429,
+    "note": "Un look con actitud para una noche que promete. Combínalo con tus accesorios favoritos y disfruta tu momento.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-077/01-R055.jpeg",
+        "width": 1080,
+        "height": 1416,
+        "sourceIndex": 55,
+        "sha256": "15d5ffb090f350a6a3f2eaf6cef0fc43dc0cc93b73b17b15af969fd82caa67ef"
+      },
+      {
+        "src": "./images/productos-reales/XL-077/02-R059.jpeg",
+        "width": 1080,
+        "height": 1435,
+        "sourceIndex": 59,
+        "sha256": "c65fdbc8c989063df0a7c2d94fe254380324bad5798cda258afb10dd03cc536a"
+      },
+      {
+        "src": "./images/productos-reales/XL-077/03-R148.jpeg",
+        "width": 1080,
+        "height": 1066,
+        "sourceIndex": 148,
+        "sha256": "88bf63b51531042de9f7be056eea6c3da8a82224ee3b88d084a34ce72f7d3199"
+      }
+    ],
+    "image": "./images/productos-reales/XL-077/01-R055.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 5,
+    "name": "Vestido largo fucsia",
+    "category": "Largos",
+    "price": 389,
+    "note": "Para una ocasión especial y una entrada con encanto. Elige cómo combinarlo y luce tu personalidad.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-005/01-R033.jpeg",
+        "width": 721,
+        "height": 960,
+        "sourceIndex": 33,
+        "sha256": "30fe9caf5edf08338e8490353aede7506a26dd5867a4f09714bf80dc7dcc575a"
+      }
+    ],
+    "image": "./images/productos-reales/XL-005/01-R033.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 6,
+    "name": "Vestido largo amarillo con lazo",
+    "category": "Largos",
+    "price": 449,
+    "note": "Un vestido para disfrutar una celebración con estilo propio. Añade tus accesorios favoritos y haz del look algo muy tuyo.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-006/01-R030.jpeg",
+        "width": 1200,
+        "height": 1600,
+        "sourceIndex": 30,
+        "sha256": "91cf26e82eced7a96b8bd05234e1d7de8a26fa9d0a208daf50e4331fbed98cfb"
+      },
+      {
+        "src": "./images/productos-reales/XL-006/02-R034.jpeg",
+        "width": 1200,
+        "height": 1600,
+        "sourceIndex": 34,
+        "sha256": "e73a87e884331528a2ed832d835a4564ca3ff27e1590b2e1c2f52c55972686ae"
+      }
+    ],
+    "image": "./images/productos-reales/XL-006/01-R030.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 10,
+    "name": "Vestido corto azul con estampado floral",
+    "category": "Cortos",
+    "price": 68.7,
+    "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-010/01-R155.jpeg",
+        "width": 1254,
+        "height": 1254,
+        "sourceIndex": 155,
+        "sha256": "505bec5f90cee04eeb4dd7d8089062fce0f93e2b8e0fa146407e3c98a74b59fa"
+      }
+    ],
+    "image": "./images/productos-reales/XL-010/01-R155.jpeg",
+    "photoPending": false,
+    "originalPrice": 229,
+    "tags": [
+      "Liquidación"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Vestido bandage verde con rayas",
+    "category": "Bandage",
+    "price": 379,
+    "note": "Un look con actitud para una noche que promete. Combínalo con tus accesorios favoritos y disfruta tu momento.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-014/01-R152.jpeg",
+        "width": 1080,
+        "height": 1414,
+        "sourceIndex": 152,
+        "sha256": "26a084c15847ec50b00fe829a8e4486fdbcef97fae1fb08610d7806176522716"
+      }
+    ],
+    "image": "./images/productos-reales/XL-014/01-R152.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 16,
+    "name": "Vestido transparente con diamantes de imitación",
+    "category": "Liquidación",
+    "price": 164.5,
+    "note": "Tu próximo look especial también puede ser una bonita oportunidad. Consulta disponibilidad y encuentra tu favorito.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-016/01-R031.jpeg",
+        "width": 720,
+        "height": 960,
+        "sourceIndex": 31,
+        "sha256": "188e3e3a21cac6fd9d0f8a2749348e800db16ba989df7177d6e2729ce090ab42"
+      }
+    ],
+    "image": "./images/productos-reales/XL-016/01-R031.jpeg",
+    "photoPending": false,
+    "originalPrice": 329,
+    "tags": [
+      "Liquidación"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Vestido corto dorado de una manga",
+    "category": "Liquidación",
+    "price": 194.5,
+    "note": "Tu próximo look especial también puede ser una bonita oportunidad. Consulta disponibilidad y encuentra tu favorito.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-017/01-R044.jpeg",
+        "width": 1080,
+        "height": 1529,
+        "sourceIndex": 44,
+        "sha256": "b7b33d1e67b27383b77c56b4678b49178d020293639d538f62040042133fe317"
+      }
+    ],
+    "image": "./images/productos-reales/XL-017/01-R044.jpeg",
+    "photoPending": false,
+    "originalPrice": 389,
+    "tags": [
+      "Liquidación"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Vestido rojo largo de manga abanicada",
+    "category": "Largos",
+    "price": 289,
+    "note": "Para una ocasión especial y una entrada con encanto. Elige cómo combinarlo y luce tu personalidad.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-020/01-R128.jpeg",
+        "width": 1210,
+        "height": 1599,
+        "sourceIndex": 128,
+        "sha256": "aecb75b0578e222a994e93226456fa60d9834ed8919448a8964611605e726df7"
+      },
+      {
+        "src": "./images/productos-reales/XL-020/02-R129.jpeg",
+        "width": 1212,
+        "height": 1599,
+        "sourceIndex": 129,
+        "sha256": "ec8c1a85e96cbec40b82158aaf0045d7fc8e7a347cb9263be83e5b6274592365"
+      }
+    ],
+    "image": "./images/productos-reales/XL-020/01-R128.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 22,
+    "name": "Vestido blanco de corte sirena de manga larga de rosas",
+    "category": "Largos",
+    "price": 349,
+    "note": "Un vestido para disfrutar una celebración con estilo propio. Añade tus accesorios favoritos y haz del look algo muy tuyo.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-022/01-R047.jpeg",
+        "width": 1080,
+        "height": 1440,
+        "sourceIndex": 47,
+        "sha256": "5d6ead9da3f9d8aeefd0c42eea665f60050195af288e76339d90c1db4b8e02b0"
+      },
+      {
+        "src": "./images/productos-reales/XL-022/02-R048.jpeg",
+        "width": 1080,
+        "height": 1440,
+        "sourceIndex": 48,
+        "sha256": "d92bbc44737069d85d421275051574bccfa3257ea91065c2f68ca5150934195c"
+      }
+    ],
+    "image": "./images/productos-reales/XL-022/01-R047.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 23,
+    "name": "Vestido largo crema de mangas",
+    "category": "Largos",
+    "price": 319,
+    "note": "Para una ocasión especial y una entrada con encanto. Elige cómo combinarlo y luce tu personalidad.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-023/01-R051.jpeg",
+        "width": 1080,
+        "height": 1440,
+        "sourceIndex": 51,
+        "sha256": "c0d28966a0fc913eae3b82eef54cd1a74f2703e82fa6b0882487dfa4c7892802"
+      },
+      {
+        "src": "./images/productos-reales/XL-023/02-R056.jpeg",
+        "width": 1080,
+        "height": 1436,
+        "sourceIndex": 56,
+        "sha256": "b5dc4ffd3f3a91a705b6fcbd1b2575c924d5237741eaa2c6789251e1eec27d78"
+      }
+    ],
+    "image": "./images/productos-reales/XL-023/01-R051.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 24,
+    "name": "Vestido largo amarillo corte romano",
+    "category": "Largos",
+    "price": 449,
+    "note": "Un vestido para disfrutar una celebración con estilo propio. Añade tus accesorios favoritos y haz del look algo muy tuyo.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-024/01-R122.jpeg",
+        "width": 968,
+        "height": 1280,
+        "sourceIndex": 122,
+        "sha256": "3fe243e513713f6ca5578b1f03db9436466d924574b40d1c35be5db54d75f3dd"
+      },
+      {
+        "src": "./images/productos-reales/XL-024/02-R123.jpeg",
+        "width": 962,
+        "height": 1280,
+        "sourceIndex": 123,
+        "sha256": "19be18c719e1728adda8d4461f3aec140134c5b612d344afa1e710294b71b71a"
+      }
+    ],
+    "image": "./images/productos-reales/XL-024/01-R122.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 35,
+    "name": "Vestido corto de una manga color marrón",
+    "category": "Cortos con brillo",
+    "price": 389,
+    "note": "Para las chicas que disfrutan arreglarse y hacerse notar. Lleva este look con confianza y tu toque personal.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-035/01-R006.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 6,
+        "sha256": "4ebd4a8a8c11408c1c3ea0c3a1db07438b0444418e5424dd8ba62e003a236fca"
+      }
+    ],
+    "image": "./images/productos-reales/XL-035/01-R006.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 38,
+    "name": "Vestido corto de lentejuelas rosado de una manga",
+    "category": "Cortos con brillo",
+    "price": 389,
+    "note": "Hoy tienes permiso para brillar. Un look para celebrar con actitud y sentirte preciosa en cada foto.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-038/01-R125.jpeg",
+        "width": 721,
+        "height": 960,
+        "sourceIndex": 125,
+        "sha256": "23c8c69ea89f15e28d28b6c93e3ad5bc4b712b27f91773b950d39c8098fb15ae"
+      }
+    ],
+    "image": "./images/productos-reales/XL-038/01-R125.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 39,
+    "name": "Vestido verde de lentejuelas y mostacillas",
+    "category": "Cortos con brillo",
+    "price": 329,
+    "note": "Un toque de brillo para tu próxima noche especial. Combínalo a tu gusto y deja que tu sonrisa complete el look.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-039/01-R005.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 5,
+        "sha256": "938e677191242337dcb62556a281cb3e1f708a17e1d5d7a4ab7a41a4fe2abdf4"
+      }
+    ],
+    "image": "./images/productos-reales/XL-039/01-R005.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 40,
+    "name": "Vestido corto 3/4 de lentejuelas con terciopelo en el busto",
+    "category": "Cortos con brillo",
+    "price": 399,
+    "note": "Para las chicas que disfrutan arreglarse y hacerse notar. Lleva este look con confianza y tu toque personal.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-040/01-R014.jpeg",
+        "width": 1254,
+        "height": 1254,
+        "sourceIndex": 14,
+        "sha256": "70a2f58e6de3f7b4111b0d8b261d0f78e54e89376630fd320be14623ca61e759"
+      }
+    ],
+    "image": "./images/productos-reales/XL-040/01-R014.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 49,
+    "name": "Vestido corto rojo de lentejuelas",
+    "category": "Cortos con brillo",
+    "price": 298,
+    "note": "Hoy tienes permiso para brillar. Un look para celebrar con actitud y sentirte preciosa en cada foto.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-049/01-R052.jpeg",
+        "width": 720,
+        "height": 960,
+        "sourceIndex": 52,
+        "sha256": "2abf80354df7f5676041a230bae4c95d27561a4008994a1efbbe5860087ea925"
+      }
+    ],
+    "image": "./images/productos-reales/XL-049/01-R052.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 51,
+    "name": "Vestido corto de lentejuelas celeste y azul",
+    "category": "Cortos con brillo",
+    "price": 449,
+    "note": "Un toque de brillo para tu próxima noche especial. Combínalo a tu gusto y deja que tu sonrisa complete el look.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-051/01-R147.jpeg",
+        "width": 1254,
+        "height": 1254,
+        "sourceIndex": 147,
+        "sha256": "618a7b69cb8bf5c6006baede67255363669236ea021cc815b966bd122347359a"
+      }
+    ],
+    "image": "./images/productos-reales/XL-051/01-R147.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 52,
+    "name": "Vestido corto asimétrico de lentejuelas azul",
+    "category": "Cortos con brillo",
+    "price": 389,
+    "note": "Para las chicas que disfrutan arreglarse y hacerse notar. Lleva este look con confianza y tu toque personal.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-052/01-R069.jpeg",
+        "width": 1080,
+        "height": 1405,
+        "sourceIndex": 69,
+        "sha256": "8c8ff9fc0638b24073e7c6fb0930fbc3662d0f35ff50f883d6f9961862b7ded9"
+      },
+      {
+        "src": "./images/productos-reales/XL-052/02-R070.jpeg",
+        "width": 1080,
+        "height": 1294,
+        "sourceIndex": 70,
+        "sha256": "50abae93a0dafcf0a234601098a286ee416ba0b71aa400f091efd72443ff8048"
+      },
+      {
+        "src": "./images/productos-reales/XL-052/03-R071.jpeg",
+        "width": 1076,
+        "height": 1346,
+        "sourceIndex": 71,
+        "sha256": "be385c1e8204d075df50e0adb98a3fd5e0fb74f4d3788129f1334f026c90bb5b"
+      }
+    ],
+    "image": "./images/productos-reales/XL-052/01-R069.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 54,
+    "name": "Vestido corto de diamantes de imitación plateadas",
+    "category": "Cortos con brillo",
+    "price": 349,
+    "note": "Hoy tienes permiso para brillar. Un look para celebrar con actitud y sentirte preciosa en cada foto.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-054/01-R135.jpeg",
+        "width": 1199,
+        "height": 1599,
+        "sourceIndex": 135,
+        "sha256": "224c3d96d5e4eb16b976ffe20d6b66abee5ee551d80a978a538f17761bcca84d"
+      }
+    ],
+    "image": "./images/productos-reales/XL-054/01-R135.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 57,
+    "name": "Vestido corto blanco de lentejuelas",
+    "category": "Cortos con brillo",
+    "price": 349,
+    "note": "Un toque de brillo para tu próxima noche especial. Combínalo a tu gusto y deja que tu sonrisa complete el look.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-057/01-R002.jpeg",
+        "width": 1023,
+        "height": 1537,
+        "sourceIndex": 2,
+        "sha256": "f20850bd3ef5ff033b694e179d9c2f60da91d6664a93f74229d140c73b142487"
+      }
+    ],
+    "image": "./images/productos-reales/XL-057/01-R002.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 78,
+    "name": "Vestido corto negro de brillos plateados",
+    "category": "Cortos con brillo",
+    "price": 549,
+    "note": "Para las chicas que disfrutan arreglarse y hacerse notar. Lleva este look con confianza y tu toque personal.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-078/01-R011.jpeg",
+        "width": 1080,
+        "height": 1324,
+        "sourceIndex": 11,
+        "sha256": "018008eccd83dbc0503f91ad26348e3822d1b2f84d14b67abbca001743c16f41"
+      }
+    ],
+    "image": "./images/productos-reales/XL-078/01-R011.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 79,
+    "name": "Vestido corto Blanco de una manga",
+    "category": "Cortos",
+    "price": 289,
+    "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-079/01-R160.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 160,
+        "sha256": "7602b882ca38522f9d3fcf68ba2f5fe1e3e279952c7792f3dea04e123133607f"
+      }
+    ],
+    "image": "./images/productos-reales/XL-079/01-R160.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 80,
+    "name": "Vestido corto drapeado",
+    "category": "Cortos",
+    "price": 249,
+    "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-080/01-R163.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 163,
+        "sha256": "c52a2c7f354e9f60ebfba347e6cb23aaedacf2ae7fdc542969796522e76bfbe3"
+      }
+    ],
+    "image": "./images/productos-reales/XL-080/01-R163.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 81,
+    "name": "Vestido largo marrón con detalle plateados",
+    "category": "Cortos",
+    "price": 319,
+    "note": "Hazlo tuyo con tus zapatos favoritos y sal a disfrutar. Tu estilo empieza por cómo te sientes.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-081/01-R140.jpeg",
+        "width": 1080,
+        "height": 1068,
+        "sourceIndex": 140,
+        "sha256": "4cb418ae0b55020a6b043802d53273598ab418e7e8d1cc7393b0847d8fc124e1"
+      }
+    ],
+    "image": "./images/productos-reales/XL-081/01-R140.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 82,
+    "name": "Vestido corto con escote y detalles plateados",
+    "category": "Cortos",
+    "price": 279,
+    "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-082/01-R157.jpeg",
+        "width": 1254,
+        "height": 1254,
+        "sourceIndex": 157,
+        "sha256": "f5186b5586ddd81d9059e08e007f74f93fef268c491b4aa432275e73d01b5a45"
+      }
+    ],
+    "image": "./images/productos-reales/XL-082/01-R157.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 83,
+    "name": "Vestido 3/4 blanco de mangas con strass plateadas",
+    "category": "Cortos",
+    "price": 549,
+    "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-083/01-R113.jpeg",
+        "width": 1080,
+        "height": 1428,
+        "sourceIndex": 113,
+        "sha256": "dfd7bca328a9e0bf51e580f6fa557a95c6d23a8f8ef1915da29983213d881d52"
+      },
+      {
+        "src": "./images/productos-reales/XL-083/02-R114.jpeg",
+        "width": 1080,
+        "height": 1416,
+        "sourceIndex": 114,
+        "sha256": "d6f29708554ff97ae59373831b476ac155c21cebcbce21022074eafe9e6a59ff"
+      }
+    ],
+    "image": "./images/productos-reales/XL-083/01-R113.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 84,
+    "name": "Vestido corto satín (Talla S)",
+    "category": "Cortos",
+    "price": 179,
+    "note": "Hazlo tuyo con tus zapatos favoritos y sal a disfrutar. Tu estilo empieza por cómo te sientes.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-084/01-R010.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 10,
+        "sha256": "053f4eabe30b638b8b7e5c993631976dfee6509dc5faa237f124edef9bf60d0d"
+      },
+      {
+        "src": "./images/productos-reales/XL-084/02-R159.jpeg",
+        "width": 1254,
+        "height": 1254,
+        "sourceIndex": 159,
+        "sha256": "9b83d80b0a866d19aefcfb2a849f26ee9ae99dad1d2e4d3dd6dd583b4d2c2af3"
+      }
+    ],
+    "image": "./images/productos-reales/XL-084/01-R010.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 85,
+    "name": "Vestido corto drapeado marrón con blanco",
+    "category": "Cortos",
+    "price": 389,
+    "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-085/01-R013.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 13,
+        "sha256": "81b953d5c7cfb48cec1945ee0f559fe1a69b1a760404c7e74e43721022cca6c2"
+      },
+      {
+        "src": "./images/productos-reales/XL-085/02-R162.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 162,
+        "sha256": "e409e5307dee8c9343f35d3eebbbaae994016d25d3d8367f92a721d0400d4668"
+      }
+    ],
+    "image": "./images/productos-reales/XL-085/01-R013.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 86,
+    "name": "Vestido crema de Gaza con detalles estrellas doradas",
+    "category": "Cortos",
+    "price": 289,
+    "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-086/01-R161.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 161,
+        "sha256": "2f1412982d5c632f2723f53ce25cf7c8aadca8bde57d3da628d7844cd0b5ed20"
+      }
+    ],
+    "image": "./images/productos-reales/XL-086/01-R161.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 87,
+    "name": "Vestido Largo Color Pic Blue",
+    "category": "Gala",
+    "price": 579,
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-087/01-R016.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 16,
+        "sha256": "368a2db30156ea9337fab1a2685a41d60aae12cf3b617765dc38df3e540d8504"
+      }
+    ],
+    "image": "./images/productos-reales/XL-087/01-R016.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 88,
+    "name": "Vestido largo azul corte sirena con tirantes cruzados",
+    "category": "Gala",
+    "price": 499,
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-088/01-R039.jpeg",
+        "width": 900,
+        "height": 1200,
+        "sourceIndex": 39,
+        "sha256": "c9d2b3094de3a3756e3348c684c44f5a24a2fbe97d5ed8355a0364947cbe5657"
+      },
+      {
+        "src": "./images/productos-reales/XL-088/02-R040.jpeg",
+        "width": 900,
+        "height": 1200,
+        "sourceIndex": 40,
+        "sha256": "0cf2c9009f19d2a37909750c5d2e412a77f0734a3796267fa2b8ed7b84a7da8c"
+      },
+      {
+        "src": "./images/productos-reales/XL-088/03-R042.jpeg",
+        "width": 900,
+        "height": 1200,
+        "sourceIndex": 42,
+        "sha256": "432378daffa413bc4f262a7007663d625be440f2531fdcea07c852f569ca7279"
+      }
+    ],
+    "image": "./images/productos-reales/XL-088/01-R039.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 89,
+    "name": "Vestido largo de gala dorado",
+    "category": "Gala",
+    "price": 549,
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-089/01-R124.jpeg",
+        "width": 962,
+        "height": 1280,
+        "sourceIndex": 124,
+        "sha256": "a0b9220406ac082b0bb45555c669966feed4bf4a09fee2d1cfdb47e2690327ee"
+      },
+      {
+        "src": "./images/productos-reales/XL-089/02-R130.jpeg",
+        "width": 966,
+        "height": 1280,
+        "sourceIndex": 130,
+        "sha256": "7bfd94b1886d73297f342f7df3832c15e6bc93ca148562d9041ac6c99ef9c190"
+      }
+    ],
+    "image": "./images/productos-reales/XL-089/01-R124.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 90,
+    "name": "Vestido de gala gamusa color guinda con perlas",
+    "category": "Gala",
+    "price": 589,
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-090/01-R076.jpeg",
+        "width": 1080,
+        "height": 1403,
+        "sourceIndex": 76,
+        "sha256": "7888701665f9c1f3e7d589cb82ba245b92c8f327a455f4e77cab1204b7252839"
+      },
+      {
+        "src": "./images/productos-reales/XL-090/02-R077.jpeg",
+        "width": 1080,
+        "height": 1404,
+        "sourceIndex": 77,
+        "sha256": "cb33860d5748212d477e80e3daccf10bc31d2538dda1c03f766b22797eb1a77a"
+      }
+    ],
+    "image": "./images/productos-reales/XL-090/01-R076.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 91,
+    "name": "Vestido elegante sirena color verde",
+    "category": "Gala",
+    "price": 389,
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-091/01-R074.jpeg",
+        "width": 1080,
+        "height": 1423,
+        "sourceIndex": 74,
+        "sha256": "e074705cbc55b67c86bea58eeb38e954ecd73322c982a7ba7005b96c9f18e5b6"
+      },
+      {
+        "src": "./images/productos-reales/XL-091/02-R075.jpeg",
+        "width": 1080,
+        "height": 1424,
+        "sourceIndex": 75,
+        "sha256": "519c610fc1955fc1e4320d773bb0f6d740a0c1771fc4d5007d976530ad035bb0"
+      }
+    ],
+    "image": "./images/productos-reales/XL-091/01-R074.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 92,
+    "name": "Vestido largo de gala lentejuelas negro con mangas",
+    "category": "Gala",
+    "price": 729,
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-092/01-R082.jpeg",
+        "width": 1080,
+        "height": 1425,
+        "sourceIndex": 82,
+        "sha256": "c6fe9a4e7e9d4f7b9ed9ebe32fdd2322b7c3d7422c46d1650fb9a74fa1988724"
+      },
+      {
+        "src": "./images/productos-reales/XL-092/02-R087.jpeg",
+        "width": 1080,
+        "height": 1419,
+        "sourceIndex": 87,
+        "sha256": "db975c818075423aa1d94a118e5ba7d5e8e3daf2950493323b394ad76d73811d"
+      },
+      {
+        "src": "./images/productos-reales/XL-092/03-R098.jpeg",
+        "width": 1080,
+        "height": 1425,
+        "sourceIndex": 98,
+        "sha256": "c6fe9a4e7e9d4f7b9ed9ebe32fdd2322b7c3d7422c46d1650fb9a74fa1988724"
+      },
+      {
+        "src": "./images/productos-reales/XL-092/04-R104.jpeg",
+        "width": 1080,
+        "height": 1419,
+        "sourceIndex": 104,
+        "sha256": "db975c818075423aa1d94a118e5ba7d5e8e3daf2950493323b394ad76d73811d"
+      }
+    ],
+    "image": "./images/productos-reales/XL-092/01-R082.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 93,
+    "name": "Vestido fucsia con escote y pliegue izquierdo",
+    "category": "Gala",
+    "price": 549,
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-093/01-R072.jpeg",
+        "width": 1080,
+        "height": 1341,
+        "sourceIndex": 72,
+        "sha256": "e41c2f8a0508ae5c8eb11f544a29eea7c31aa436d171a2bcd6076b84333c7bde"
+      },
+      {
+        "src": "./images/productos-reales/XL-093/02-R078.jpeg",
+        "width": 1080,
+        "height": 1343,
+        "sourceIndex": 78,
+        "sha256": "16cb2d930772eee946a187ca882dbf64e3c82026fd907eebda628555ff9b5985"
+      }
+    ],
+    "image": "./images/productos-reales/XL-093/01-R072.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 94,
+    "name": "Vestido largo de gala asimétrico de una manga dorado con negro",
+    "category": "Gala",
+    "price": 579,
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-094/01-R090.jpeg",
+        "width": 1080,
+        "height": 1429,
+        "sourceIndex": 90,
+        "sha256": "35b22a83254437802f718ae243ac6d3db492a7e9750ab6ffcd99a845eae4c0f0"
+      },
+      {
+        "src": "./images/productos-reales/XL-094/02-R091.jpeg",
+        "width": 1080,
+        "height": 1420,
+        "sourceIndex": 91,
+        "sha256": "d1328ff3ecd8b20f13d74c656ba50112218c63719c81958b9a38cb66f02a2a85"
+      }
+    ],
+    "image": "./images/productos-reales/XL-094/01-R090.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 95,
+    "name": "Vestido corte acampanado de tejido brillante",
+    "category": "Gala",
+    "price": 589,
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-095/01-R068.jpeg",
+        "width": 1080,
+        "height": 1410,
+        "sourceIndex": 68,
+        "sha256": "0d673ffa000bd6cabb80b46f53d97408c9eadaff3b2bfcf81786835f038a09c5"
+      },
+      {
+        "src": "./images/productos-reales/XL-095/02-R073.jpeg",
+        "width": 1080,
+        "height": 1413,
+        "sourceIndex": 73,
+        "sha256": "92a12469c9101454b8bf6a233a7b0213240ca58c3a746a4bdeda2d032cb84bcd"
+      }
+    ],
+    "image": "./images/productos-reales/XL-095/01-R068.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 96,
+    "name": "Vestido sirena color verde gamuzado con mangas y cuello cuadrado",
+    "category": "Gala",
+    "price": 519,
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-096/01-R079.jpeg",
+        "width": 1080,
+        "height": 1434,
+        "sourceIndex": 79,
+        "sha256": "c4c4e1d71606824f62bcb81d49977e25cd7a4e4753234c4a6bbcb774fb4fba24"
+      },
+      {
+        "src": "./images/productos-reales/XL-096/02-R083.jpeg",
+        "width": 1080,
+        "height": 1420,
+        "sourceIndex": 83,
+        "sha256": "be145b8b483abc40efce690a96fc806dd72b53a1d7b8541638f2cd4036f898e0"
+      }
+    ],
+    "image": "./images/productos-reales/XL-096/01-R079.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 97,
+    "name": "Vestido sirena de lentejuelas verdes con detalles en los hombros",
+    "category": "Gala",
+    "price": 549,
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-097/01-R086.jpeg",
+        "width": 1080,
+        "height": 1387,
+        "sourceIndex": 86,
+        "sha256": "b9f63aef190bd589dba2941bfc515b3bbfbfbc4cb943859f7b18232ba7bbe7ca"
+      },
+      {
+        "src": "./images/productos-reales/XL-097/02-R092.jpeg",
+        "width": 950,
+        "height": 1415,
+        "sourceIndex": 92,
+        "sha256": "191d25f992705d809296f48b9783b62a89e41f526eeac0e05830180fabdab156"
+      }
+    ],
+    "image": "./images/productos-reales/XL-097/01-R086.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 98,
+    "name": "Vestido largo de mangas semi drapeado con detalles de brillos en",
+    "category": "Gala",
+    "price": 549,
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-098/01-R084.jpeg",
+        "width": 1080,
+        "height": 1398,
+        "sourceIndex": 84,
+        "sha256": "07f3edf011008d6eb3b87ab8584d29dd9e26380a99a985afecdbbf3b30c3df23"
+      },
+      {
+        "src": "./images/productos-reales/XL-098/02-R085.jpeg",
+        "width": 1080,
+        "height": 1415,
+        "sourceIndex": 85,
+        "sha256": "7381e7ce4fb1968a22f28512bbcf685f8dd6a9151359f30ff0aefd4ba01da969"
+      }
+    ],
+    "image": "./images/productos-reales/XL-098/01-R084.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 99,
+    "name": "Vestido asimétrico dorado largo de gala",
+    "category": "Gala",
+    "price": 649,
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-099/01-R100.jpeg",
+        "width": 1080,
+        "height": 1417,
+        "sourceIndex": 100,
+        "sha256": "d363435eb93bc12bdc7124850528c1d9142b51bf32a4c8e7117d05cb785fe5a1"
+      },
+      {
+        "src": "./images/productos-reales/XL-099/02-R101.jpeg",
+        "width": 1080,
+        "height": 1416,
+        "sourceIndex": 101,
+        "sha256": "c0912d3c3b393b6d73e3f628c2df593e94d4e4a0f892a3bc800c0dbc9f12391e"
+      }
+    ],
+    "image": "./images/productos-reales/XL-099/01-R100.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 100,
+    "name": "Vestido rojo de gala con strass plateadas",
+    "category": "Gala",
+    "price": 389,
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-100/01-R064.jpeg",
+        "width": 879,
+        "height": 1078,
+        "sourceIndex": 64,
+        "sha256": "2832ab7798415432eb1e0d175e38dbee020e4574f6cdaf3455c8cb1921b6e510"
+      },
+      {
+        "src": "./images/productos-reales/XL-100/02-R102.jpeg",
+        "width": 1080,
+        "height": 1064,
+        "sourceIndex": 102,
+        "sha256": "e575ccfd8876d1b5af69a0b5fcf1e437511515af34418866fe66323c06cc82f3"
+      },
+      {
+        "src": "./images/productos-reales/XL-100/03-R103.jpeg",
+        "width": 1080,
+        "height": 1077,
+        "sourceIndex": 103,
+        "sha256": "cb386a5be34088f5dd1a486cd43eba80411d5bac286498d5b06e73e64fae7500"
+      }
+    ],
+    "image": "./images/productos-reales/XL-100/01-R064.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 101,
+    "name": "Vestido de gala rojo con aplicaciones plateadas",
+    "category": "Gala",
+    "price": 349,
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-101/01-R062.jpeg",
+        "width": 1080,
+        "height": 1438,
+        "sourceIndex": 62,
+        "sha256": "bafc2f3f9090d965f9d423ec0c70f27538c99561c87829af35e85dcebda6c09b"
+      }
+    ],
+    "image": "./images/productos-reales/XL-101/01-R062.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 102,
+    "name": "Vestido largo con semi cola y detalles de pedrería plateados y mora",
+    "category": "Gala",
+    "price": 699,
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-102/01-R106.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 106,
+        "sha256": "c7ced2eadd297ce426a23163392c0f483c7cc3ddbfc5f155c62eea0f08dcf832"
+      }
+    ],
+    "image": "./images/productos-reales/XL-102/01-R106.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 103,
+    "name": "Vestido sirena de gala verde con perlas",
+    "category": "Gala",
+    "price": 729,
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-103/01-R105.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 105,
+        "sha256": "57795f3306284e50bf1231dcc03e94706a7e8f43783b0c903d1d1a00fbb9165c"
+      }
+    ],
+    "image": "./images/productos-reales/XL-103/01-R105.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 104,
+    "name": "Vestido de gala de lentejuelas color Brown",
+    "category": "Gala",
+    "price": 589,
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-104/01-R023.jpeg",
+        "width": 1211,
+        "height": 1599,
+        "sourceIndex": 23,
+        "sha256": "acf995fde1ad3c683cdf3c752d797c8a8471a96f698c89600d67fc511e90428f"
+      },
+      {
+        "src": "./images/productos-reales/XL-104/02-R024.jpeg",
+        "width": 1240,
+        "height": 1599,
+        "sourceIndex": 24,
+        "sha256": "7ed5617f73e4873f17e3252d0a93a8fe02704cdd6a0c518a8e801dbcd3feadf5"
+      }
+    ],
+    "image": "./images/productos-reales/XL-104/01-R023.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 105,
+    "name": "Vestido de gala de lentejuelas rosa",
+    "category": "Gala",
+    "price": 469,
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-105/01-R017.jpeg",
+        "width": 1080,
+        "height": 1365,
+        "sourceIndex": 17,
+        "sha256": "6dc6350d7f48f8d1d7b0e7a8c750caa1eb7289671b7dd1c8d8496b6968905288"
+      },
+      {
+        "src": "./images/productos-reales/XL-105/02-R021.jpeg",
+        "width": 1080,
+        "height": 1385,
+        "sourceIndex": 21,
+        "sha256": "6757d34b9117ee2d3d8de20c34046512b7698e36710efa649900b20e68f3c8bf"
+      }
+    ],
+    "image": "./images/productos-reales/XL-105/01-R017.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 106,
+    "name": "Vestido de gala negro con detalles plateados",
+    "category": "Gala",
+    "price": 429,
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-106/01-R134.jpeg",
+        "width": 1080,
+        "height": 1429,
+        "sourceIndex": 134,
+        "sha256": "481ffe3d5124426e94bbd6addf1011c3e4941eac4cff40607b49d1b7b4278ef7"
+      },
+      {
+        "src": "./images/productos-reales/XL-106/02-R136.jpeg",
+        "width": 1080,
+        "height": 1441,
+        "sourceIndex": 136,
+        "sha256": "1acac8237be89a65c61cca4c74bbf534789ad8dc42e18e7992543c1a94b22ec8"
+      }
+    ],
+    "image": "./images/productos-reales/XL-106/01-R134.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 107,
+    "name": "Vestido de gala de lentejuelas · modelo plomo",
+    "category": "Gala",
+    "price": 529,
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-107/01-R112.jpeg",
+        "width": 1080,
+        "height": 1402,
+        "sourceIndex": 112,
+        "sha256": "c2ee45bc8d4f3145341d96b00a120c2062946f0d6919c2e833891f4b39e075ce"
+      },
+      {
+        "src": "./images/productos-reales/XL-107/02-R116.jpeg",
+        "width": 1080,
+        "height": 1400,
+        "sourceIndex": 116,
+        "sha256": "e4a4e97e9e7715ea4fc77c0ad2fd34ae60b18d756015d5a2f02689836bbd7b5d"
+      }
+    ],
+    "image": "./images/productos-reales/XL-107/01-R112.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 108,
+    "name": "Vestido de gala de lentejuelas · modelo estampado",
+    "category": "Gala",
+    "price": 449,
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-108/01-R138.jpeg",
+        "width": 1080,
+        "height": 1433,
+        "sourceIndex": 138,
+        "sha256": "5c39cf738eaf6bea31f788be06efc1ba9db112185c66b20fe1c67113f4f94816"
+      },
+      {
+        "src": "./images/productos-reales/XL-108/02-R139.jpeg",
+        "width": 1057,
+        "height": 1428,
+        "sourceIndex": 139,
+        "sha256": "65ab7f7bab0305f7eb23ce777ea021a6b37ff139f61a877e9528a59ae2c40843"
+      }
+    ],
+    "image": "./images/productos-reales/XL-108/01-R138.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 109,
+    "name": "Vestido de gala crema con azul",
+    "category": "Gala",
+    "price": 569,
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-109/01-R137.jpeg",
+        "width": 1080,
+        "height": 1417,
+        "sourceIndex": 137,
+        "sha256": "4015dff32a174120013ecf19a165361b083e899f415f1d8d67bcd193b0afb464"
+      },
+      {
+        "src": "./images/productos-reales/XL-109/02-R141.jpeg",
+        "width": 1080,
+        "height": 1390,
+        "sourceIndex": 141,
+        "sha256": "3f3965a6ddb681e2e43a5597c61eebe61a5b9e21b6bed398e7c9ed4e3c8c82b8"
+      }
+    ],
+    "image": "./images/productos-reales/XL-109/01-R137.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 110,
+    "name": "Vestido largo de gala blanco con rayas moradas y morado y de cap",
+    "category": "Gala",
+    "price": 579,
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-110/01-R110.jpeg",
+        "width": 1080,
+        "height": 1426,
+        "sourceIndex": 110,
+        "sha256": "ba849692a6af8e4a2929ac306b826b2649de93078eab5f7b8bfefc4e365bcf8d"
+      },
+      {
+        "src": "./images/productos-reales/XL-110/02-R111.jpeg",
+        "width": 1080,
+        "height": 1431,
+        "sourceIndex": 111,
+        "sha256": "c5c5d73eee4dfb549058028e45ef23e5259324e40840c27db1ded0063681f604"
+      }
+    ],
+    "image": "./images/productos-reales/XL-110/01-R110.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 111,
+    "name": "Vestido largo crema de perlas y pedrería plateadas",
+    "category": "Gala",
+    "price": 669,
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-111/01-R118.jpeg",
+        "width": 1080,
+        "height": 1444,
+        "sourceIndex": 118,
+        "sha256": "e904d672d6ff9fbb22f5d415b37b78b16669fae79c4fc410e67da1396d9bb8a8"
+      },
+      {
+        "src": "./images/productos-reales/XL-111/02-R119.jpeg",
+        "width": 1080,
+        "height": 1457,
+        "sourceIndex": 119,
+        "sha256": "d8bdcef42337c4768b4b0a837e88f923affa801cbf98d3e9a4817dcfe6e9fe16"
+      }
+    ],
+    "image": "./images/productos-reales/XL-111/01-R118.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 112,
+    "name": "Vestido largo de gala dorado con rayas doradas y blanco",
+    "category": "Gala",
+    "price": 539,
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-112/01-R117.jpeg",
+        "width": 1080,
+        "height": 1436,
+        "sourceIndex": 117,
+        "sha256": "bd9d2ba2482b38380c994eb489bea84a2e2c41b868484fe9b7ff244f320b49f9"
+      },
+      {
+        "src": "./images/productos-reales/XL-112/02-R120.jpeg",
+        "width": 1080,
+        "height": 1427,
+        "sourceIndex": 120,
+        "sha256": "4d5a0bfcb4d4ab0d90f040775492c17d995a32d4868fe1b4fb6acfa2d84f3101"
+      }
+    ],
+    "image": "./images/productos-reales/XL-112/01-R117.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 113,
+    "name": "Vestido largo verde limón",
+    "category": "Largos",
+    "price": 599,
+    "note": "Para una ocasión especial y una entrada con encanto. Elige cómo combinarlo y luce tu personalidad.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-113/01-R036.jpeg",
+        "width": 900,
+        "height": 1200,
+        "sourceIndex": 36,
+        "sha256": "90703a81fd02418ab175ce6e040d468e0591bfc978b102716419a73c00dcebfb"
+      },
+      {
+        "src": "./images/productos-reales/XL-113/02-R037.jpeg",
+        "width": 900,
+        "height": 1200,
+        "sourceIndex": 37,
+        "sha256": "8be2c8933c44105ef5be363d008b582c47edb80328bb4ce0e0bd0a7502eb8fb5"
+      },
+      {
+        "src": "./images/productos-reales/XL-113/03-R041.jpeg",
+        "width": 900,
+        "height": 1200,
+        "sourceIndex": 41,
+        "sha256": "a123725e4064a6c1600b3d5b24900107fcd2ecb613758ca99b13f4115d61a1aa"
+      }
+    ],
+    "image": "./images/productos-reales/XL-113/01-R036.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 114,
+    "name": "Vestido negro largo de perlas con detalles",
+    "category": "Largos",
+    "price": 319,
+    "note": "Un vestido para disfrutar una celebración con estilo propio. Añade tus accesorios favoritos y haz del look algo muy tuyo.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-114/01-R053.jpeg",
+        "width": 1079,
+        "height": 1440,
+        "sourceIndex": 53,
+        "sha256": "cfd62b16184f910e7f65aa6c11595329ed3fd6aab7c0bbc9bb94dacb42025e4d"
+      },
+      {
+        "src": "./images/productos-reales/XL-114/02-R054.jpeg",
+        "width": 1080,
+        "height": 1411,
+        "sourceIndex": 54,
+        "sha256": "b08f712d27d32728e43e7b314755fe34e6e5dfc6f885b24b7fd5a57ad573134e"
+      }
+    ],
+    "image": "./images/productos-reales/XL-114/01-R053.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 115,
+    "name": "Conjunto Bandage",
+    "category": "Bandage",
+    "price": 349,
+    "note": "Coqueto y con personalidad: un vestido para arreglarte a tu manera y salir sintiéndote fabulosa.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-115/01-R108.jpeg",
+        "width": 1122,
+        "height": 1402,
+        "sourceIndex": 108,
+        "sha256": "45b608548f3af9c63a0c944937a6e475013e9d92ee899db069f0fa4fc49e8c4a"
+      },
+      {
+        "src": "./images/productos-reales/XL-115/02-R151.jpeg",
+        "width": 1122,
+        "height": 1402,
+        "sourceIndex": 151,
+        "sha256": "45b608548f3af9c63a0c944937a6e475013e9d92ee899db069f0fa4fc49e8c4a"
+      }
+    ],
+    "image": "./images/productos-reales/XL-115/01-R108.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 116,
+    "name": "Vestido Bandage Amarillo",
+    "category": "Bandage",
+    "price": 389,
+    "note": "Un look con actitud para una noche que promete. Combínalo con tus accesorios favoritos y disfruta tu momento.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-116/01-R057.jpeg",
+        "width": 1080,
+        "height": 1417,
+        "sourceIndex": 57,
+        "sha256": "2c3a499b1f1a1160f1771d00f08d6ea8bb37bbdc6b4fcc54c2e2cf39f4972cfc"
+      },
+      {
+        "src": "./images/productos-reales/XL-116/02-R058.jpeg",
+        "width": 1080,
+        "height": 1392,
+        "sourceIndex": 58,
+        "sha256": "1a36e0b59f1987acfea82d9b5d8bee8c6e14294debd2bea69fcf1283d84dac29"
+      }
+    ],
+    "image": "./images/productos-reales/XL-116/01-R057.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 117,
+    "name": "Vestido negro brillante",
+    "category": "Gala",
+    "price": 389,
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-117/01-R022.jpeg",
+        "width": 1080,
+        "height": 1326,
+        "sourceIndex": 22,
+        "sha256": "d9741d4f17c7af2b9c7a65a41b5e5f4a88a2656ffe075e52ab60761b771729e1"
+      }
+    ],
+    "image": "./images/productos-reales/XL-117/01-R022.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 118,
+    "name": "Vestido negro asimétrico con lentejuelas",
+    "category": "Cortos con brillo",
+    "price": 369,
+    "note": "Hoy tienes permiso para brillar. Un look para celebrar con actitud y sentirte preciosa en cada foto.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-118/01-R007.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 7,
+        "sha256": "a93c64057dea693d2e0783c5b498ff36cfbc621c126d62833ef6562c92b3a571"
+      }
+    ],
+    "image": "./images/productos-reales/XL-118/01-R007.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 119,
+    "name": "Vestido corto escotado",
+    "category": "Cortos con brillo",
+    "price": 239,
+    "note": "Un toque de brillo para tu próxima noche especial. Combínalo a tu gusto y deja que tu sonrisa complete el look.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-119/01-R004.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 4,
+        "sha256": "6820d227983fd0fa88a645474ae339463a3f73e4e7e6f0d5d1b6da527ac58019"
+      }
+    ],
+    "image": "./images/productos-reales/XL-119/01-R004.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 120,
+    "name": "Vestido corto dorado con negro",
+    "category": "Cortos con brillo",
+    "price": 249,
+    "note": "Para las chicas que disfrutan arreglarse y hacerse notar. Lleva este look con confianza y tu toque personal.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-120/01-R003.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 3,
+        "sha256": "222b5dbf22708c1c76e77e67506b54e3646fcebd3719ca7b5dbfade9d5482b29"
+      }
+    ],
+    "image": "./images/productos-reales/XL-120/01-R003.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 121,
+    "name": "Vestido corto negro de tiras",
+    "category": "Cortos con brillo",
+    "price": 79,
+    "note": "Hoy tienes permiso para brillar. Un look para celebrar con actitud y sentirte preciosa en cada foto.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-121/01-R001.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 1,
+        "sha256": "ada3be708e742a438a03753ff45e507937ceec85e1c88599158428392f2e0cbd"
+      }
+    ],
+    "image": "./images/productos-reales/XL-121/01-R001.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 122,
+    "name": "Vestido corto negro",
+    "category": "Cortos",
+    "price": 219,
+    "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-122/01-R012.jpeg",
+        "width": 1254,
+        "height": 1254,
+        "sourceIndex": 12,
+        "sha256": "4dc8539a633a4c38d47a5c2c7ac03876f899f0d764e02e62a176287689ecd095"
+      }
+    ],
+    "image": "./images/productos-reales/XL-122/01-R012.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 123,
+    "name": "Vestido corto negro con plateado",
+    "category": "Cortos con brillo",
+    "price": 449,
+    "note": "Para las chicas que disfrutan arreglarse y hacerse notar. Lleva este look con confianza y tu toque personal.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-123/01-R008.jpeg",
+        "width": 1080,
+        "height": 1332,
+        "sourceIndex": 8,
+        "sha256": "e4129a242647a0c66e38797486fc52b6adde77203e12221ea9324d11989470aa"
+      }
+    ],
+    "image": "./images/productos-reales/XL-123/01-R008.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 124,
+    "name": "Vestido Bandage corto negro con aplicaciones plateadas",
+    "category": "Bandage",
+    "price": 389,
+    "note": "Un look con actitud para una noche que promete. Combínalo con tus accesorios favoritos y disfruta tu momento.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-124/01-R088.jpeg",
+        "width": 1080,
+        "height": 1426,
+        "sourceIndex": 88,
+        "sha256": "38117524cc9ef4a02e0dd8fa681cebf19ffafd618a9cd296ec77d3d676db0509"
+      },
+      {
+        "src": "./images/productos-reales/XL-124/02-R089.jpeg",
+        "width": 1080,
+        "height": 1433,
+        "sourceIndex": 89,
+        "sha256": "2c7e1dd2498740ad527072e55164092fd3e7ae5141e6e3d2ec69e29477678b7b"
+      }
+    ],
+    "image": "./images/productos-reales/XL-124/01-R088.jpeg",
+    "photoPending": false
+  }
+]

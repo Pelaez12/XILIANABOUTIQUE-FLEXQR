@@ -1,0 +1,26 @@
+[
+  {
+    "indice": 155,
+    "precio_regular": 229,
+    "precio_oferta": 68.7,
+    "descuento_porcentaje": 70
+  },
+  {
+    "indice": 31,
+    "precio_regular": 329,
+    "precio_oferta": 164.5,
+    "descuento_porcentaje": 50
+  },
+  {
+    "indice": 44,
+    "precio_regular": 389,
+    "precio_oferta": 194.5,
+    "descuento_porcentaje": 50
+  },
+  {
+    "indice": 109,
+    "precio_regular": 389,
+    "precio_oferta": 194.5,
+    "descuento_porcentaje": 50
+  }
+]

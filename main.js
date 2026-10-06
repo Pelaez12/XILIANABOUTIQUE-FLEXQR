@@ -14,7 +14,7 @@ const dialogContent = document.querySelector('#dialog-content');
 const categoryShowcase = document.querySelector('#category-showcase-grid');
 let activeCategory = 'Todos';
 const featuredCategories = [
-  { name: 'Gala', label: 'Vestidos de gala', image: './images/xiliana-logo-gold-black.png' },
+  { name: 'Gala', label: 'Vestidos de gala', image: displayImage(products.find(p => p.category === 'Gala')) },
   { name: 'Largos', label: 'Vestidos largos', image: displayImage(products.find(p => p.id === 24)) },
   { name: 'Cortos con brillo', label: 'Cortos con brillo', image: displayImage(products.find(p => p.id === 39)) },
   { name: 'Cortos', label: 'Vestidos cortos', image: displayImage(products.find(p => p.id === 10)) },

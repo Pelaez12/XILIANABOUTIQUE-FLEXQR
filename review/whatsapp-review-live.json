@@ -117,9 +117,8 @@
       "productId": 36,
       "name": "Vestido corto negro con plateado",
       "rawDetail": "iner\n\t\t\t133 button Atrás\n\t\t\t134 heading Detalles, Value: 2\n\t\t\t\t135 text Detalles\n\t\t\t136 button (collapsed) Description: Tu carrito, Secondary Actions: Expand\n\t\t\t137 button (collapsed) Description: Enlace al producto, Secondary Actions: Expand\n\t\t\t138 button (collapsed) Description: Menú, Secondary Actions: Expand\n\t\t\t139 container\n\t\t\t\t140 text Esperando red\n\t\t\t141 container\n\t\t\t\t142 text Vestido corto negro con plateado PEN 75.60  PEN 189.00\n\t\t\t\t143 image ⬇️\n\t\t\t\t144 text 60% Descuento. 174\n\t\t\t\t145 button Enviar mensaje a la empresa\n\t\t\t\t146 button Añadir al carrito\n\nThe focused UI element is 1 AXWebArea (35) WhatsApp Business, URL: web.whatsapp.com/",
-      "realPhotoMatch": [
-        11
-      ]
+      "realPhotoMatch": [],
+      "note": "R011 no coincide: escote y dibujo diferentes. Foto preservada en PD-081."
     },
     {
       "productId": 37,

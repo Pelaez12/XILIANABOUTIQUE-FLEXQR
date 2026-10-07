@@ -36,8 +36,14 @@ body.opening-active .site-header .brand-logo{opacity:0}
 @keyframes opening-slogan-fade{0%,48%{opacity:0}60%,100%{opacity:1}}
 @media(prefers-reduced-motion:reduce){.opening.is-playing .opening__dots i{animation:none}.opening.is-playing .opening__logo{animation:opening-logo-fade 3.8s linear both;transform:none}.opening.is-playing .opening__slogan{animation:opening-slogan-fade 3.8s linear both;transform:none}.opening__progress{display:none}.opening.is-exiting{transition:opacity .2s ease}}
 
+.collection-heading{text-align:center;padding:28px 0 24px}
+.collection-heading h1{font-family:Georgia,serif;font-size:clamp(38px,6vw,76px);font-weight:400;letter-spacing:.02em;line-height:1.12;margin:0 0 20px;text-wrap:balance}
+.collection-heading p{max-width:650px;margin:0 auto;font-size:15px;line-height:1.7;color:#444}
+.collection-count{font-size:13px;color:#444;margin:22px 0 30px}
+.collection-products .product-name,.collection-products .price{justify-content:center;text-align:center}
+.collection-products .product-name{min-height:0}
 .category-showcase{max-width:1440px;margin:auto;padding:78px 5vw 18px}
-.category-showcase h2{margin:0 0 22px;font-size:clamp(18px,2.2vw,27px);font-weight:500;letter-spacing:-.025em}
+.category-showcase h1{margin:0 0 22px;font-size:clamp(18px,2.2vw,27px);font-weight:500;letter-spacing:-.025em}
 .category-showcase-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
 .category-tile{position:relative;display:block;width:100%;aspect-ratio:3/4.3;overflow:hidden;border:0;padding:0;background:#b8b9b6;color:#fff;text-align:center;isolation:isolate}
 .category-tile::after{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(180deg,#0000 28%,#0008 74%,#0009 100%);pointer-events:none}
@@ -63,7 +69,7 @@ body.opening-active .site-header .brand-logo{opacity:0}
 .seo-product>h1{font-size:clamp(36px,5vw,64px);font-weight:500;letter-spacing:-.04em}
 @media(max-width:640px){.product-detail{grid-template-columns:1fr;gap:20px}.section-heading h1{font-size:47px}}
 .product-image{aspect-ratio:4/5}
-.product-image img{width:100%;height:100%;object-fit:cover;object-position:center;box-shadow:none}
+.product-image img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;box-shadow:none}
 .dialog-image img{object-fit:contain}
 .product-card.is-thumbnail .product-image{background:#ece9e4;display:block}
 .product-card.is-thumbnail .product-image img{width:100%;height:100%;object-fit:cover;box-shadow:none}
@@ -71,7 +77,7 @@ body.opening-active .site-header .brand-logo{opacity:0}
 .dialog-image.is-thumbnail img{width:100%;height:auto;aspect-ratio:1;object-fit:contain;box-shadow:none}
 .product-image:has(img[src*="catalog-"]){aspect-ratio:1}
 .product-detail>img[src*="catalog-"]{aspect-ratio:1;object-fit:contain}
-.category-showcase-grid .category-tile{aspect-ratio:1}
+.category-showcase-grid .category-tile{aspect-ratio:3/4.8;text-decoration:none}
 @media(max-width:640px){.category-showcase{padding:52px 18px 0}.category-showcase-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.category-tile{aspect-ratio:3/4.6}.category-tile span{left:7px;right:7px;bottom:15%;font-size:clamp(17px,4.5vw,26px)}.category-tile small{left:5px;right:5px;bottom:6%;font-size:8px;letter-spacing:.08em}.catalog{padding-top:62px}}
 
 .site-footer{display:block;max-width:1440px;margin:auto;padding:64px 5vw 28px}
@@ -98,6 +104,20 @@ body.opening-active .site-header .brand-logo{opacity:0}
 .visit-date-row{display:grid;grid-template-columns:1fr 1fr;gap:0 16px;align-items:start}.visit-date-row>label:last-child{grid-column:1/-1}.visit-date-field{position:relative;min-width:0;margin-bottom:16px}.visit-date-field>label{margin-bottom:7px}#visit-date-display{display:block;text-align:left;width:100%;min-height:46px;padding:11px 12px;background:#fff;border:1px solid #d4cfc6;color:#171717;font:400 16px Arial,sans-serif}.visit-date-row input[readonly]{background:#f6f4ef;color:#655f57}.visit-calendar{position:relative;margin-top:8px;border:1px solid #d4cfc6;background:#fff;padding:12px;box-shadow:0 4px 16px #0001;min-width:240px}.calendar-heading{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:12px}.calendar-heading strong{text-transform:capitalize;font-size:13px}.calendar-heading button{border:1px solid #ddd;background:#fff;width:32px;height:32px;font-size:23px}.calendar-week,.calendar-days{display:grid;grid-template-columns:repeat(7,1fr);gap:3px;text-align:center}.calendar-week{font-size:11px;color:#776b57;margin-bottom:7px}.calendar-days button{background:white;border:1px solid #eee;min-height:32px;font-size:12px;color:#171717;padding:2px}.calendar-days button:hover:not(:disabled),.calendar-days button[aria-pressed=true]{background:#f0e4cf;border-color:#8b6f3c}.calendar-days button:disabled{color:#aaa;background:#f5f5f5;cursor:not-allowed;text-decoration:line-through}.calendar-heading button:disabled{opacity:.3;cursor:not-allowed}.visit-feedback{font-size:13px;line-height:1.5;padding:10px 12px;background:#fff1e8;color:#873e18}.visit-calendar button:focus-visible,#visit-date-display:focus-visible{outline:2px solid #887039;outline-offset:2px}@media(max-width:640px){.visit-date-row{grid-template-columns:1fr;gap:0}.visit-calendar{min-width:0;max-width:100%}}
 
 /* Fotografías originales: mostrar el vestido completo y sus otras vistas. */
+.boutique-contact{display:grid;grid-template-columns:1.25fr 1fr 1fr;gap:40px;padding:40px 0;border-top:1px solid #ddd;border-bottom:1px solid #ddd;margin-bottom:30px}
+.boutique-contact h2{font:400 30px/1.2 Georgia,serif;margin:0 0 16px}
+.boutique-contact h3{font-size:15px;margin:0 0 18px}
+.boutique-contact p,.boutique-contact address{font:14px/1.8 Arial,sans-serif;color:#454545;margin:12px 0}
+.boutique-contact a{display:inline-block;font-size:14px;text-decoration:underline;text-underline-offset:4px;overflow-wrap:anywhere}
+.boutique-contact .contact-whatsapp{display:inline-flex;align-items:center;gap:10px;background:#eaf5ef;color:#174c34;padding:14px 16px;border:1px solid #b8d9c7;text-decoration:none;font-weight:600}
+.contact-whatsapp img{width:22px;height:22px}
+.boutique-contact .contact-phone{display:block;margin:14px 0 0}
+.whatsapp-help{position:fixed;right:24px;bottom:24px;z-index:20;display:flex;align-items:center;gap:16px;padding:12px 14px 12px 20px;border:1px solid #d2dfd7;border-radius:40px;background:white;color:#173a29;box-shadow:0 4px 22px #0002;max-width:calc(100vw - 32px)}
+.whatsapp-help strong{display:block;font-size:14px}.whatsapp-help small{display:block;font-size:12px;margin-top:4px;color:#425449}
+.whatsapp-help img{width:38px;height:38px}.whatsapp-help:hover{border-color:#26764b;background:#f4faf6}
+.whatsapp-help:focus-visible,.boutique-contact a:focus-visible{outline:3px solid #927341;outline-offset:4px}
+body:has(dialog[open]) .whatsapp-help,body:has(.opening:not(.is-exiting)) .whatsapp-help{display:none}
+@media(max-width:760px){.boutique-contact{grid-template-columns:1fr;gap:24px}.whatsapp-help{right:14px;bottom:14px;padding:10px 12px 10px 16px;gap:12px}.whatsapp-help strong{font-size:13px}.whatsapp-help small{font-size:11px}.site-footer{padding-bottom:120px}}
 .product-gallery{min-width:0;background:#fff}
 .gallery-main{display:block;width:100%;height:auto;aspect-ratio:3/4;object-fit:contain;background:#fff}
 .gallery-thumbs{display:flex;gap:10px;overflow-x:auto;padding:14px 3px 5px;scrollbar-width:thin}
@@ -105,8 +125,54 @@ body.opening-active .site-header .brand-logo{opacity:0}
 .gallery-thumbs button[aria-pressed=true]{border:2px solid #97763d;padding:2px}
 .gallery-thumbs button:focus-visible{outline:2px solid #97763d;outline-offset:2px}
 .gallery-thumbs img{width:100%;height:82px;object-fit:contain}
+.gallery-thumbs button{flex-basis:84px}
+.gallery-thumbs button span{display:block;font-size:11px;line-height:1.3;padding:6px 1px 2px;color:#333;white-space:normal}
 .gallery-count{font-size:12px;color:#655f57;margin:7px 0 14px}
 .product-image:has(img[src*="productos-reales/"]){aspect-ratio:3/4;background:#fff}
 .product-image img[src*="productos-reales/"]{object-fit:contain;transform:none}
 #dialog-content>.product-gallery{padding:16px;align-self:start}
 @media(max-width:640px){#dialog-content .gallery-main{max-height:60dvh;aspect-ratio:3/4}.gallery-thumbs button{flex-basis:56px}.gallery-thumbs img{height:70px}}
+.collection-tools{display:flex;align-items:center;justify-content:space-between;gap:24px;margin:26px 0 34px}
+.collection-tools .collection-count{margin:0;font-size:14px}
+.collection-search{position:relative;width:min(100%,380px);flex-shrink:0}
+.collection-search>label{display:block;font-size:13px;font-weight:700;margin-bottom:9px}
+.collection-search-field{display:flex;align-items:center;border:1px solid #b5b5b5;background:#fff;padding-right:15px}
+.collection-search-field:focus-within{outline:2px solid #987e4e;outline-offset:2px}
+.collection-search-field input{width:100%;min-width:0;padding:14px;border:0;background:transparent;outline:0;font-size:14px;color:#171717}
+.collection-search-field input::placeholder{color:#595959}
+.collection-search-field>span{font-size:25px}
+.collection-suggestions{position:absolute;left:0;right:0;top:100%;z-index:30;list-style:none;margin:5px 0 0;padding:0;background:#fff;border:1px solid #b5b5b5;max-height:340px;overflow-y:auto}
+.collection-suggestions li{display:flex;flex-direction:column;gap:6px;padding:14px;font-size:14px;line-height:1.4;cursor:pointer;border-bottom:1px solid #e5e5e5}
+.collection-suggestions li:last-child{border-bottom:0}
+.collection-suggestions small{font-size:12px;color:#4c4c4c}
+.collection-suggestions li:hover,.collection-suggestions li[aria-selected=true]{background:#f4f1eb}
+.collection-empty{text-align:center;padding:50px 0 20px}
+.collection-empty h2{font-size:24px;font-weight:400}
+.collection-empty p{font-size:15px;line-height:1.7;color:#444}
+.collection-empty .button{margin-top:12px}
+body:has(#collection-query[aria-expanded="true"]) .whatsapp-help{visibility:hidden}
+[hidden]{display:none!important}
+@media(max-width:760px){.collection-tools{flex-direction:column-reverse;align-items:stretch;gap:20px}.collection-search{width:100%}.collection-heading{padding-top:10px}.category-showcase{padding-bottom:60px}}
+/* Asistencia de WhatsApp, accesible desde todas las colecciones. */
+.whatsapp-help{left:24px;right:auto;border:0;box-shadow:0 3px 8px #0002}
+.whatsapp-help img{order:-1}
+.whatsapp-panel{position:fixed;left:24px;bottom:104px;z-index:30;width:350px;max-width:calc(100vw - 32px);max-height:calc(100dvh - 130px);overflow:auto;background:#fff;border:1px solid #c5d6cd;border-radius:14px;color:#173a29}
+.whatsapp-panel-header{display:flex;align-items:flex-start;justify-content:space-between;gap:8px;padding:20px 16px 18px 20px;background:#075e54;color:white}
+.whatsapp-panel-header p{margin:0 0 7px;font-size:12px;letter-spacing:.05em}
+.whatsapp-panel-header h2{margin:0;font-family:Georgia,serif;font-size:24px;font-weight:400;line-height:1.2;letter-spacing:0}
+.whatsapp-close{flex:none;width:40px;height:40px;margin-top:-7px;border:0;border-radius:50%;font-size:28px;line-height:1;background:transparent;color:white}
+.whatsapp-close:hover{background:#ffffff20}
+.whatsapp-panel-body{padding:20px;background:#f7faf8}
+.whatsapp-greeting{margin:0 0 22px;font-size:14px;line-height:1.65;color:#234137}
+.whatsapp-panel label{display:block;font-size:13px;font-weight:700;margin-bottom:9px}
+.whatsapp-panel textarea{display:block;resize:vertical;width:100%;min-height:94px;max-height:180px;padding:12px;border:1px solid #a8b9af;border-radius:7px;font:16px/1.5 Arial,Helvetica,sans-serif;color:#171717;background:white}
+.whatsapp-panel textarea:focus{outline:2px solid #087c45;outline-offset:2px}
+.whatsapp-message-hint{margin:10px 0 16px;font-size:12px;line-height:1.5;color:#425449}
+.whatsapp-send{display:flex;align-items:center;justify-content:center;gap:9px;width:100%;min-height:48px;border:0;border-radius:7px;background:#087c45;color:white;font-size:14px;font-weight:700;padding:10px}
+.whatsapp-send:hover{background:#056537}
+.whatsapp-send img{width:23px;height:23px;filter:brightness(0) invert(1)}
+.whatsapp-panel-hours{margin:16px 0 0;text-align:center;font-size:11px;line-height:1.6;color:#425449}
+.whatsapp-panel button:focus-visible{outline:3px solid #b39758;outline-offset:3px}
+body:has(dialog[open]) .whatsapp-widget,body:has(.opening:not(.is-exiting)) .whatsapp-widget{display:none}
+body:has(#collection-query[aria-expanded="true"]) .whatsapp-widget{visibility:hidden}
+@media(max-width:760px){.whatsapp-help{left:14px;right:auto}.whatsapp-panel{left:14px;bottom:92px;max-width:calc(100vw - 28px)}}

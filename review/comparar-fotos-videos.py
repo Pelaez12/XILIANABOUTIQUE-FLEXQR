@@ -39,6 +39,7 @@ for x in classification['matched']:
  matches.append(dict(nombre=x['name'],precio=x['price'],categoria='Cortos sin brillo' if x['productId']==10 else x['category'],video=None,indices=x['sourceIndices'],estado='Asociación real previamente revisada',origen='Catálogo y revisión previa; no se atribuye evidencia nueva al video'))
 confirmations=json.loads((out/'confirmaciones-usuario.json').read_text(encoding='utf-8-sig')) if (out/'confirmaciones-usuario.json').exists() else []
 for x in confirmations:
+ matches=[m for m in matches if not set(m['indices']).intersection(x['indices'])]
  matches.append(dict(nombre=x['nombre'],precio=x['precio'],categoria=x['categoria'],video=None,indices=x['indices'],estado='Nombre y precio confirmados por el usuario',origen='Confirmación del usuario · '+x['codigo']))
 offers=json.loads((out/'liquidacion-confirmada.json').read_text(encoding='utf-8-sig'))
 for m in matches:
@@ -69,7 +70,8 @@ page+='<h2 id="sin-identificar">Sin identificar: productos del catálogo sin fot
 gala_missing=json.loads((out/'gala-sin-foto-confirmada.json').read_text(encoding='utf-8-sig'))
 for item in gala_missing:page+=f'<section><h3>{html.escape(item["nombre"])}</h3><p>Gala · S/ {item["precio"]:.2f} · Falta asociar una foto original.</p></section>'
 page+='<h2>Sin identificar: fotos pendientes de nombre y precio</h2><p>No se asigna un precio hasta confirmar el modelo correspondiente. Se mantiene la agrupación previa de vistas para revisión.</p>'
-page+='<p><strong>Capturas adicionales:</strong> PD-001 y PD-002 son Cortos con brillo, según la confirmación del usuario. Aún falta su nombre oficial y precio. Las capturas permiten asociar ocho modelos adicionales. Hay diferencias de precio para celeste corte sirena (video S/239, captura S/299) y drapeado de mangas azul (video S/389, captura S/379); se conservan los precios anteriores hasta aclararlas.</p>'
+page+='<p><a href="AUDITORIA-FRENTE-ESPALDA-2026-10-07.html">Ver revisión de frente y espalda y las vistas que faltan ↗</a></p>'
+if not pending:page+='<p>Ya no quedan fotos originales pendientes de identificar. Los modelos sin foto confirmada siguen listados arriba.</p>'
 for p in pending:page+=f'<section><h3>{p["codigo"]} · {html.escape(p["nombre_provisional"])}</h3><p>{html.escape(p["categoria"])}</p><div class="photos">{imgs(p["indices"])}</div></section>'
 suggestions={'Vestido vino strapless de tirantes con copas de pedrería':[64,102,103],'Vestido sirena palo rosa de lentejuelas':[17,21],'Vestido largo azul acero':[68,73],'Vestido corto blanco con capa':[113,114,160]}
 confirmed={norm(m['nombre']) for m in matches}

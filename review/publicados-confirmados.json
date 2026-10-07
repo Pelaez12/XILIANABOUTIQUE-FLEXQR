@@ -11,21 +11,24 @@
         "width": 1039,
         "height": 1280,
         "sourceIndex": 27,
-        "sha256": "e38b1263981fde4aca99519e888d2694018d2130f9ff2ee6b1347a27b33d177c"
-      },
-      {
-        "src": "./images/productos-reales/XL-059/02-R028.jpeg",
-        "width": 1050,
-        "height": 1280,
-        "sourceIndex": 28,
-        "sha256": "8d31294d3f4393dd23d398f7dfad8415b4ae25d25d3e658c17268790e5ea658a"
+        "sha256": "e38b1263981fde4aca99519e888d2694018d2130f9ff2ee6b1347a27b33d177c",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-059/03-R029.jpeg",
         "width": 1049,
         "height": 1280,
         "sourceIndex": 29,
-        "sha256": "e8d61f5c8913d269b60fea7618f1409f29edc5e62bd2619911860ba6352b0963"
+        "sha256": "e8d61f5c8913d269b60fea7618f1409f29edc5e62bd2619911860ba6352b0963",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-059/02-R028.jpeg",
+        "width": 1050,
+        "height": 1280,
+        "sourceIndex": 28,
+        "sha256": "8d31294d3f4393dd23d398f7dfad8415b4ae25d25d3e658c17268790e5ea658a",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-059/01-R027.jpeg",
@@ -43,7 +46,8 @@
         "width": 1086,
         "height": 1448,
         "sourceIndex": 15,
-        "sha256": "123e3c5ba6f7bffbdcc0277e6aa3e1d659b0b19dfcce68008a56b2ff1d2f0c0b"
+        "sha256": "123e3c5ba6f7bffbdcc0277e6aa3e1d659b0b19dfcce68008a56b2ff1d2f0c0b",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-060/01-R015.jpeg",
@@ -61,14 +65,16 @@
         "width": 1080,
         "height": 1436,
         "sourceIndex": 35,
-        "sha256": "0ccde1b3f77c2bae799a69742dcb5c7fb3296b2bb6a4ac189aa80190f0ee6dff"
+        "sha256": "0ccde1b3f77c2bae799a69742dcb5c7fb3296b2bb6a4ac189aa80190f0ee6dff",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-061/02-R038.jpeg",
         "width": 1080,
         "height": 1426,
         "sourceIndex": 38,
-        "sha256": "ccc20befa8d803df994d05efa710f75b0ae85d4f491c332730689cd4ac8f43aa"
+        "sha256": "ccc20befa8d803df994d05efa710f75b0ae85d4f491c332730689cd4ac8f43aa",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-061/01-R035.jpeg",
@@ -86,21 +92,24 @@
         "width": 1037,
         "height": 1393,
         "sourceIndex": 43,
-        "sha256": "9cccada37c6106ba0e256426a2180fec660570978a1d60c49edafe7cb132be57"
-      },
-      {
-        "src": "./images/productos-reales/XL-062/02-R045.jpeg",
-        "width": 1049,
-        "height": 1421,
-        "sourceIndex": 45,
-        "sha256": "f630b1822a102b869f8e5738cb014edceefac967dc94ac444b8bca3175a49cef"
+        "sha256": "9cccada37c6106ba0e256426a2180fec660570978a1d60c49edafe7cb132be57",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-062/03-R046.jpeg",
         "width": 1052,
         "height": 1406,
         "sourceIndex": 46,
-        "sha256": "8432f069d177a1de64bcce9c804d0f5fb8d74475be7e9a9001b82d6fcb05d96a"
+        "sha256": "8432f069d177a1de64bcce9c804d0f5fb8d74475be7e9a9001b82d6fcb05d96a",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-062/02-R045.jpeg",
+        "width": 1049,
+        "height": 1421,
+        "sourceIndex": 45,
+        "sha256": "f630b1822a102b869f8e5738cb014edceefac967dc94ac444b8bca3175a49cef",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-062/01-R043.jpeg",
@@ -118,7 +127,8 @@
         "width": 802,
         "height": 1028,
         "sourceIndex": 165,
-        "sha256": "141bc8f5d1f6ea8ddf72b087f01d93d239874f7f8da65640d85b6524c66bf25b"
+        "sha256": "141bc8f5d1f6ea8ddf72b087f01d93d239874f7f8da65640d85b6524c66bf25b",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-063/01-R165.jpeg",
@@ -136,21 +146,24 @@
         "width": 1080,
         "height": 1402,
         "sourceIndex": 49,
-        "sha256": "a05dfb30e55964443c41cea1c699a01ace361248368c23549504199b4b2b96c6"
-      },
-      {
-        "src": "./images/productos-reales/XL-064/02-R050.jpeg",
-        "width": 1080,
-        "height": 1440,
-        "sourceIndex": 50,
-        "sha256": "c852ed93b872bc7d681c92bc9d7cf0ab0c9c525ff02f4c2cab38f751311f1708"
+        "sha256": "a05dfb30e55964443c41cea1c699a01ace361248368c23549504199b4b2b96c6",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-064/03-R156.jpeg",
         "width": 1254,
         "height": 1254,
         "sourceIndex": 156,
-        "sha256": "d3229b5f023c1630384e653640afa50f42f8f448f582af4fe50c4ce78494feb6"
+        "sha256": "d3229b5f023c1630384e653640afa50f42f8f448f582af4fe50c4ce78494feb6",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-064/02-R050.jpeg",
+        "width": 1080,
+        "height": 1440,
+        "sourceIndex": 50,
+        "sha256": "c852ed93b872bc7d681c92bc9d7cf0ab0c9c525ff02f4c2cab38f751311f1708",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-064/01-R049.jpeg",
@@ -164,21 +177,23 @@
     "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
     "photos": [
       {
-        "src": "./images/productos-reales/XL-065/01-R093.jpeg",
-        "width": 1080,
-        "height": 1408,
-        "sourceIndex": 93,
-        "sha256": "bd97a29c94ad972ca165318fbd239a466e0c5072b2844dd5d1f5bc93d59f7dcc"
-      },
-      {
         "src": "./images/productos-reales/XL-065/02-R096.jpeg",
         "width": 1080,
         "height": 1429,
         "sourceIndex": 96,
-        "sha256": "4872754fd0a95b22b4be759b395b1f280f15a909d6240ede019bf641db80d2af"
+        "sha256": "4872754fd0a95b22b4be759b395b1f280f15a909d6240ede019bf641db80d2af",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-065/01-R093.jpeg",
+        "width": 1080,
+        "height": 1408,
+        "sourceIndex": 93,
+        "sha256": "bd97a29c94ad972ca165318fbd239a466e0c5072b2844dd5d1f5bc93d59f7dcc",
+        "view": "Espalda"
       }
     ],
-    "image": "./images/productos-reales/XL-065/01-R093.jpeg",
+    "image": "./images/productos-reales/XL-065/02-R096.jpeg",
     "photoPending": false
   },
   {
@@ -193,21 +208,16 @@
         "width": 1080,
         "height": 1340,
         "sourceIndex": 94,
-        "sha256": "078a7404f30f1c3b3aa9c751cfa82c6145ad9c9dff7980ea5be767d230e87988"
+        "sha256": "078a7404f30f1c3b3aa9c751cfa82c6145ad9c9dff7980ea5be767d230e87988",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-066/02-R095.jpeg",
         "width": 1080,
         "height": 1354,
         "sourceIndex": 95,
-        "sha256": "31a3bb6b723cf3750e7c51dc02ca55d93e94963926ea2e7d67353bb866066960"
-      },
-      {
-        "src": "./images/productos-reales/XL-066/03-R166.jpeg",
-        "width": 1080,
-        "height": 1340,
-        "sourceIndex": 166,
-        "sha256": "078a7404f30f1c3b3aa9c751cfa82c6145ad9c9dff7980ea5be767d230e87988"
+        "sha256": "31a3bb6b723cf3750e7c51dc02ca55d93e94963926ea2e7d67353bb866066960",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-066/01-R094.jpeg",
@@ -225,14 +235,16 @@
         "width": 1599,
         "height": 1584,
         "sourceIndex": 132,
-        "sha256": "c51a9b7c19797c4187e917d58ef7a73ba814973364373c9fc7089f8c14d4688e"
+        "sha256": "c51a9b7c19797c4187e917d58ef7a73ba814973364373c9fc7089f8c14d4688e",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-067/02-R133.jpeg",
         "width": 1599,
         "height": 1569,
         "sourceIndex": 133,
-        "sha256": "3efa0bd9743db8f27fdadc97bfa29673064573682beb62174ccaa0711d8e3a25"
+        "sha256": "3efa0bd9743db8f27fdadc97bfa29673064573682beb62174ccaa0711d8e3a25",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-067/01-R132.jpeg",
@@ -250,21 +262,16 @@
         "width": 1080,
         "height": 1418,
         "sourceIndex": 65,
-        "sha256": "8ea8c0cffaacbfcc7ceb53cc8064a3f7ed7294dcf108675690c928661a4d8936"
+        "sha256": "8ea8c0cffaacbfcc7ceb53cc8064a3f7ed7294dcf108675690c928661a4d8936",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-068/02-R066.jpeg",
         "width": 1080,
         "height": 1395,
         "sourceIndex": 66,
-        "sha256": "d0f9593adc07e3ec2fc6d1a7a76f13ee5f703daf2b42f57ee175d7d043d010b8"
-      },
-      {
-        "src": "./images/productos-reales/XL-068/03-R164.jpeg",
-        "width": 1080,
-        "height": 1418,
-        "sourceIndex": 164,
-        "sha256": "8ea8c0cffaacbfcc7ceb53cc8064a3f7ed7294dcf108675690c928661a4d8936"
+        "sha256": "d0f9593adc07e3ec2fc6d1a7a76f13ee5f703daf2b42f57ee175d7d043d010b8",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-068/01-R065.jpeg",
@@ -282,14 +289,8 @@
         "width": 1149,
         "height": 1369,
         "sourceIndex": 142,
-        "sha256": "201d754056c2d9d589c8155c53fac313bf44cca6861cb7bd3aef44cacd65ce8f"
-      },
-      {
-        "src": "./images/productos-reales/XL-069/02-R153.jpeg",
-        "width": 1149,
-        "height": 1369,
-        "sourceIndex": 153,
-        "sha256": "201d754056c2d9d589c8155c53fac313bf44cca6861cb7bd3aef44cacd65ce8f"
+        "sha256": "201d754056c2d9d589c8155c53fac313bf44cca6861cb7bd3aef44cacd65ce8f",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-069/01-R142.jpeg",
@@ -307,7 +308,8 @@
         "width": 1080,
         "height": 1391,
         "sourceIndex": 154,
-        "sha256": "d72dc80a916e165f9ba2575b9e4c8a7bc1cca36a3901dc462da67f9a1938941f"
+        "sha256": "d72dc80a916e165f9ba2575b9e4c8a7bc1cca36a3901dc462da67f9a1938941f",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-070/01-R154.jpeg",
@@ -325,14 +327,16 @@
         "width": 962,
         "height": 1280,
         "sourceIndex": 126,
-        "sha256": "8259704d2318f73bffb81230b4ea5168a042cba82b78362d4303d80aac4fa726"
+        "sha256": "8259704d2318f73bffb81230b4ea5168a042cba82b78362d4303d80aac4fa726",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-071/02-R127.jpeg",
         "width": 979,
         "height": 1280,
         "sourceIndex": 127,
-        "sha256": "895723ed9541e083a74937dc6fdcfc7f24b405f94aca35ee9ec96d063785c937"
+        "sha256": "895723ed9541e083a74937dc6fdcfc7f24b405f94aca35ee9ec96d063785c937",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-071/01-R126.jpeg",
@@ -350,7 +354,8 @@
         "width": 1080,
         "height": 1067,
         "sourceIndex": 150,
-        "sha256": "e4c392a437e0b5a6a53f83c163425ef181037ffcbfc3dc11220ac83c45b0dc25"
+        "sha256": "e4c392a437e0b5a6a53f83c163425ef181037ffcbfc3dc11220ac83c45b0dc25",
+        "view": "Frente y espalda"
       }
     ],
     "image": "./images/productos-reales/XL-072/01-R150.jpeg",
@@ -368,7 +373,8 @@
         "width": 1049,
         "height": 1499,
         "sourceIndex": 107,
-        "sha256": "9d1e168cc22512f15d912407e409068661a4e127c74e1d2338ad7fd1e876e1db"
+        "sha256": "9d1e168cc22512f15d912407e409068661a4e127c74e1d2338ad7fd1e876e1db",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-073/01-R107.jpeg",
@@ -386,7 +392,8 @@
         "width": 1080,
         "height": 1396,
         "sourceIndex": 60,
-        "sha256": "099a9477f48aa69b568de2251fc40d75c2cd5fa25070cbed9f2b14072d52ecb4"
+        "sha256": "099a9477f48aa69b568de2251fc40d75c2cd5fa25070cbed9f2b14072d52ecb4",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-074/01-R060.jpeg",
@@ -404,14 +411,8 @@
         "width": 1080,
         "height": 1064,
         "sourceIndex": 26,
-        "sha256": "2ba8745a457d26f3fd75e11dd86556926ffd88eb1f66ed483a35377109a944a6"
-      },
-      {
-        "src": "./images/productos-reales/XL-075/02-R145.jpeg",
-        "width": 1080,
-        "height": 1064,
-        "sourceIndex": 145,
-        "sha256": "2ba8745a457d26f3fd75e11dd86556926ffd88eb1f66ed483a35377109a944a6"
+        "sha256": "2ba8745a457d26f3fd75e11dd86556926ffd88eb1f66ed483a35377109a944a6",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-075/01-R026.jpeg",
@@ -429,7 +430,8 @@
         "width": 1080,
         "height": 1072,
         "sourceIndex": 149,
-        "sha256": "63b60584937c3f059700912bfe42b36f90a477304d5885d5c763af25b8254e6c"
+        "sha256": "63b60584937c3f059700912bfe42b36f90a477304d5885d5c763af25b8254e6c",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-076/01-R149.jpeg",
@@ -447,21 +449,24 @@
         "width": 1080,
         "height": 1416,
         "sourceIndex": 55,
-        "sha256": "15d5ffb090f350a6a3f2eaf6cef0fc43dc0cc93b73b17b15af969fd82caa67ef"
-      },
-      {
-        "src": "./images/productos-reales/XL-077/02-R059.jpeg",
-        "width": 1080,
-        "height": 1435,
-        "sourceIndex": 59,
-        "sha256": "c65fdbc8c989063df0a7c2d94fe254380324bad5798cda258afb10dd03cc536a"
+        "sha256": "15d5ffb090f350a6a3f2eaf6cef0fc43dc0cc93b73b17b15af969fd82caa67ef",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-077/03-R148.jpeg",
         "width": 1080,
         "height": 1066,
         "sourceIndex": 148,
-        "sha256": "88bf63b51531042de9f7be056eea6c3da8a82224ee3b88d084a34ce72f7d3199"
+        "sha256": "88bf63b51531042de9f7be056eea6c3da8a82224ee3b88d084a34ce72f7d3199",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-077/02-R059.jpeg",
+        "width": 1080,
+        "height": 1435,
+        "sourceIndex": 59,
+        "sha256": "c65fdbc8c989063df0a7c2d94fe254380324bad5798cda258afb10dd03cc536a",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-077/01-R055.jpeg",
@@ -479,7 +484,8 @@
         "width": 721,
         "height": 960,
         "sourceIndex": 33,
-        "sha256": "30fe9caf5edf08338e8490353aede7506a26dd5867a4f09714bf80dc7dcc575a"
+        "sha256": "30fe9caf5edf08338e8490353aede7506a26dd5867a4f09714bf80dc7dcc575a",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-005/01-R033.jpeg",
@@ -497,14 +503,16 @@
         "width": 1200,
         "height": 1600,
         "sourceIndex": 30,
-        "sha256": "91cf26e82eced7a96b8bd05234e1d7de8a26fa9d0a208daf50e4331fbed98cfb"
+        "sha256": "91cf26e82eced7a96b8bd05234e1d7de8a26fa9d0a208daf50e4331fbed98cfb",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-006/02-R034.jpeg",
         "width": 1200,
         "height": 1600,
         "sourceIndex": 34,
-        "sha256": "e73a87e884331528a2ed832d835a4564ca3ff27e1590b2e1c2f52c55972686ae"
+        "sha256": "e73a87e884331528a2ed832d835a4564ca3ff27e1590b2e1c2f52c55972686ae",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-006/01-R030.jpeg",
@@ -522,7 +530,8 @@
         "width": 1254,
         "height": 1254,
         "sourceIndex": 155,
-        "sha256": "505bec5f90cee04eeb4dd7d8089062fce0f93e2b8e0fa146407e3c98a74b59fa"
+        "sha256": "505bec5f90cee04eeb4dd7d8089062fce0f93e2b8e0fa146407e3c98a74b59fa",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-010/01-R155.jpeg",
@@ -544,7 +553,8 @@
         "width": 1080,
         "height": 1414,
         "sourceIndex": 152,
-        "sha256": "26a084c15847ec50b00fe829a8e4486fdbcef97fae1fb08610d7806176522716"
+        "sha256": "26a084c15847ec50b00fe829a8e4486fdbcef97fae1fb08610d7806176522716",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-014/01-R152.jpeg",
@@ -562,7 +572,8 @@
         "width": 720,
         "height": 960,
         "sourceIndex": 31,
-        "sha256": "188e3e3a21cac6fd9d0f8a2749348e800db16ba989df7177d6e2729ce090ab42"
+        "sha256": "188e3e3a21cac6fd9d0f8a2749348e800db16ba989df7177d6e2729ce090ab42",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-016/01-R031.jpeg",
@@ -584,7 +595,8 @@
         "width": 1080,
         "height": 1529,
         "sourceIndex": 44,
-        "sha256": "b7b33d1e67b27383b77c56b4678b49178d020293639d538f62040042133fe317"
+        "sha256": "b7b33d1e67b27383b77c56b4678b49178d020293639d538f62040042133fe317",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-017/01-R044.jpeg",
@@ -606,14 +618,16 @@
         "width": 1210,
         "height": 1599,
         "sourceIndex": 128,
-        "sha256": "aecb75b0578e222a994e93226456fa60d9834ed8919448a8964611605e726df7"
+        "sha256": "aecb75b0578e222a994e93226456fa60d9834ed8919448a8964611605e726df7",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-020/02-R129.jpeg",
         "width": 1212,
         "height": 1599,
         "sourceIndex": 129,
-        "sha256": "ec8c1a85e96cbec40b82158aaf0045d7fc8e7a347cb9263be83e5b6274592365"
+        "sha256": "ec8c1a85e96cbec40b82158aaf0045d7fc8e7a347cb9263be83e5b6274592365",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-020/01-R128.jpeg",
@@ -631,14 +645,16 @@
         "width": 1080,
         "height": 1440,
         "sourceIndex": 47,
-        "sha256": "5d6ead9da3f9d8aeefd0c42eea665f60050195af288e76339d90c1db4b8e02b0"
+        "sha256": "5d6ead9da3f9d8aeefd0c42eea665f60050195af288e76339d90c1db4b8e02b0",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-022/02-R048.jpeg",
         "width": 1080,
         "height": 1440,
         "sourceIndex": 48,
-        "sha256": "d92bbc44737069d85d421275051574bccfa3257ea91065c2f68ca5150934195c"
+        "sha256": "d92bbc44737069d85d421275051574bccfa3257ea91065c2f68ca5150934195c",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-022/01-R047.jpeg",
@@ -656,14 +672,16 @@
         "width": 1080,
         "height": 1440,
         "sourceIndex": 51,
-        "sha256": "c0d28966a0fc913eae3b82eef54cd1a74f2703e82fa6b0882487dfa4c7892802"
+        "sha256": "c0d28966a0fc913eae3b82eef54cd1a74f2703e82fa6b0882487dfa4c7892802",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-023/02-R056.jpeg",
         "width": 1080,
         "height": 1436,
         "sourceIndex": 56,
-        "sha256": "b5dc4ffd3f3a91a705b6fcbd1b2575c924d5237741eaa2c6789251e1eec27d78"
+        "sha256": "b5dc4ffd3f3a91a705b6fcbd1b2575c924d5237741eaa2c6789251e1eec27d78",
+        "view": "Detalle"
       }
     ],
     "image": "./images/productos-reales/XL-023/01-R051.jpeg",
@@ -681,14 +699,16 @@
         "width": 968,
         "height": 1280,
         "sourceIndex": 122,
-        "sha256": "3fe243e513713f6ca5578b1f03db9436466d924574b40d1c35be5db54d75f3dd"
+        "sha256": "3fe243e513713f6ca5578b1f03db9436466d924574b40d1c35be5db54d75f3dd",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-024/02-R123.jpeg",
         "width": 962,
         "height": 1280,
         "sourceIndex": 123,
-        "sha256": "19be18c719e1728adda8d4461f3aec140134c5b612d344afa1e710294b71b71a"
+        "sha256": "19be18c719e1728adda8d4461f3aec140134c5b612d344afa1e710294b71b71a",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-024/01-R122.jpeg",
@@ -706,7 +726,8 @@
         "width": 1086,
         "height": 1448,
         "sourceIndex": 6,
-        "sha256": "4ebd4a8a8c11408c1c3ea0c3a1db07438b0444418e5424dd8ba62e003a236fca"
+        "sha256": "4ebd4a8a8c11408c1c3ea0c3a1db07438b0444418e5424dd8ba62e003a236fca",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-035/01-R006.jpeg",
@@ -724,7 +745,8 @@
         "width": 721,
         "height": 960,
         "sourceIndex": 125,
-        "sha256": "23c8c69ea89f15e28d28b6c93e3ad5bc4b712b27f91773b950d39c8098fb15ae"
+        "sha256": "23c8c69ea89f15e28d28b6c93e3ad5bc4b712b27f91773b950d39c8098fb15ae",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-038/01-R125.jpeg",
@@ -742,7 +764,8 @@
         "width": 1086,
         "height": 1448,
         "sourceIndex": 5,
-        "sha256": "938e677191242337dcb62556a281cb3e1f708a17e1d5d7a4ab7a41a4fe2abdf4"
+        "sha256": "938e677191242337dcb62556a281cb3e1f708a17e1d5d7a4ab7a41a4fe2abdf4",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-039/01-R005.jpeg",
@@ -760,7 +783,8 @@
         "width": 1254,
         "height": 1254,
         "sourceIndex": 14,
-        "sha256": "70a2f58e6de3f7b4111b0d8b261d0f78e54e89376630fd320be14623ca61e759"
+        "sha256": "70a2f58e6de3f7b4111b0d8b261d0f78e54e89376630fd320be14623ca61e759",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-040/01-R014.jpeg",
@@ -778,7 +802,8 @@
         "width": 720,
         "height": 960,
         "sourceIndex": 52,
-        "sha256": "2abf80354df7f5676041a230bae4c95d27561a4008994a1efbbe5860087ea925"
+        "sha256": "2abf80354df7f5676041a230bae4c95d27561a4008994a1efbbe5860087ea925",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-049/01-R052.jpeg",
@@ -796,7 +821,8 @@
         "width": 1254,
         "height": 1254,
         "sourceIndex": 147,
-        "sha256": "618a7b69cb8bf5c6006baede67255363669236ea021cc815b966bd122347359a"
+        "sha256": "618a7b69cb8bf5c6006baede67255363669236ea021cc815b966bd122347359a",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-051/01-R147.jpeg",
@@ -814,42 +840,27 @@
         "width": 1080,
         "height": 1405,
         "sourceIndex": 69,
-        "sha256": "8c8ff9fc0638b24073e7c6fb0930fbc3662d0f35ff50f883d6f9961862b7ded9"
+        "sha256": "8c8ff9fc0638b24073e7c6fb0930fbc3662d0f35ff50f883d6f9961862b7ded9",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-052/02-R070.jpeg",
         "width": 1080,
         "height": 1294,
         "sourceIndex": 70,
-        "sha256": "50abae93a0dafcf0a234601098a286ee416ba0b71aa400f091efd72443ff8048"
+        "sha256": "50abae93a0dafcf0a234601098a286ee416ba0b71aa400f091efd72443ff8048",
+        "view": "Espalda"
       },
       {
         "src": "./images/productos-reales/XL-052/03-R071.jpeg",
         "width": 1076,
         "height": 1346,
         "sourceIndex": 71,
-        "sha256": "be385c1e8204d075df50e0adb98a3fd5e0fb74f4d3788129f1334f026c90bb5b"
+        "sha256": "be385c1e8204d075df50e0adb98a3fd5e0fb74f4d3788129f1334f026c90bb5b",
+        "view": "Lateral"
       }
     ],
     "image": "./images/productos-reales/XL-052/01-R069.jpeg",
-    "photoPending": false
-  },
-  {
-    "id": 54,
-    "name": "Vestido corto de diamantes de imitación plateadas",
-    "category": "Cortos con brillo",
-    "price": 349.0,
-    "note": "Hoy tienes permiso para brillar. Un look para celebrar con actitud y sentirte preciosa en cada foto.",
-    "photos": [
-      {
-        "src": "./images/productos-reales/XL-054/01-R135.jpeg",
-        "width": 1199,
-        "height": 1599,
-        "sourceIndex": 135,
-        "sha256": "224c3d96d5e4eb16b976ffe20d6b66abee5ee551d80a978a538f17761bcca84d"
-      }
-    ],
-    "image": "./images/productos-reales/XL-054/01-R135.jpeg",
     "photoPending": false
   },
   {
@@ -857,14 +868,15 @@
     "name": "Vestido corto blanco de lentejuelas",
     "category": "Cortos con brillo",
     "price": 349.0,
-    "note": "Un toque de brillo para tu próxima noche especial. Combínalo a tu gusto y deja que tu sonrisa complete el look.",
+    "note": "Hoy tienes permiso para brillar. Un look para celebrar con actitud y sentirte preciosa en cada foto.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-057/01-R002.jpeg",
         "width": 1023,
         "height": 1537,
         "sourceIndex": 2,
-        "sha256": "f20850bd3ef5ff033b694e179d9c2f60da91d6664a93f74229d140c73b142487"
+        "sha256": "f20850bd3ef5ff033b694e179d9c2f60da91d6664a93f74229d140c73b142487",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-057/01-R002.jpeg",
@@ -875,14 +887,15 @@
     "name": "Vestido corto negro de brillos plateados",
     "category": "Cortos con brillo",
     "price": 549.0,
-    "note": "Para las chicas que disfrutan arreglarse y hacerse notar. Lleva este look con confianza y tu toque personal.",
+    "note": "Un toque de brillo para tu próxima noche especial. Combínalo a tu gusto y deja que tu sonrisa complete el look.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-078/01-R011.jpeg",
         "width": 1080,
         "height": 1324,
         "sourceIndex": 11,
-        "sha256": "018008eccd83dbc0503f91ad26348e3822d1b2f84d14b67abbca001743c16f41"
+        "sha256": "018008eccd83dbc0503f91ad26348e3822d1b2f84d14b67abbca001743c16f41",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-078/01-R011.jpeg",
@@ -893,14 +906,15 @@
     "name": "Vestido corto Blanco de una manga",
     "category": "Cortos",
     "price": 289,
-    "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
+    "note": "Hazlo tuyo con tus zapatos favoritos y sal a disfrutar. Tu estilo empieza por cómo te sientes.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-079/01-R160.jpeg",
         "width": 1086,
         "height": 1448,
         "sourceIndex": 160,
-        "sha256": "7602b882ca38522f9d3fcf68ba2f5fe1e3e279952c7792f3dea04e123133607f"
+        "sha256": "7602b882ca38522f9d3fcf68ba2f5fe1e3e279952c7792f3dea04e123133607f",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-079/01-R160.jpeg",
@@ -911,14 +925,15 @@
     "name": "Vestido corto drapeado",
     "category": "Cortos",
     "price": 249,
-    "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
+    "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-080/01-R163.jpeg",
         "width": 1086,
         "height": 1448,
         "sourceIndex": 163,
-        "sha256": "c52a2c7f354e9f60ebfba347e6cb23aaedacf2ae7fdc542969796522e76bfbe3"
+        "sha256": "c52a2c7f354e9f60ebfba347e6cb23aaedacf2ae7fdc542969796522e76bfbe3",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-080/01-R163.jpeg",
@@ -929,14 +944,15 @@
     "name": "Vestido largo marrón con detalle plateados",
     "category": "Cortos",
     "price": 319,
-    "note": "Hazlo tuyo con tus zapatos favoritos y sal a disfrutar. Tu estilo empieza por cómo te sientes.",
+    "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-081/01-R140.jpeg",
         "width": 1080,
         "height": 1068,
         "sourceIndex": 140,
-        "sha256": "4cb418ae0b55020a6b043802d53273598ab418e7e8d1cc7393b0847d8fc124e1"
+        "sha256": "4cb418ae0b55020a6b043802d53273598ab418e7e8d1cc7393b0847d8fc124e1",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-081/01-R140.jpeg",
@@ -947,14 +963,15 @@
     "name": "Vestido corto con escote y detalles plateados",
     "category": "Cortos",
     "price": 279,
-    "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
+    "note": "Hazlo tuyo con tus zapatos favoritos y sal a disfrutar. Tu estilo empieza por cómo te sientes.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-082/01-R157.jpeg",
         "width": 1254,
         "height": 1254,
         "sourceIndex": 157,
-        "sha256": "f5186b5586ddd81d9059e08e007f74f93fef268c491b4aa432275e73d01b5a45"
+        "sha256": "f5186b5586ddd81d9059e08e007f74f93fef268c491b4aa432275e73d01b5a45",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-082/01-R157.jpeg",
@@ -965,21 +982,23 @@
     "name": "Vestido 3/4 blanco de mangas con strass plateadas",
     "category": "Cortos",
     "price": 549,
-    "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
+    "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-083/01-R113.jpeg",
         "width": 1080,
         "height": 1428,
         "sourceIndex": 113,
-        "sha256": "dfd7bca328a9e0bf51e580f6fa557a95c6d23a8f8ef1915da29983213d881d52"
+        "sha256": "dfd7bca328a9e0bf51e580f6fa557a95c6d23a8f8ef1915da29983213d881d52",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-083/02-R114.jpeg",
         "width": 1080,
         "height": 1416,
         "sourceIndex": 114,
-        "sha256": "d6f29708554ff97ae59373831b476ac155c21cebcbce21022074eafe9e6a59ff"
+        "sha256": "d6f29708554ff97ae59373831b476ac155c21cebcbce21022074eafe9e6a59ff",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-083/01-R113.jpeg",
@@ -990,21 +1009,23 @@
     "name": "Vestido corto satín (Talla S)",
     "category": "Cortos",
     "price": 179,
-    "note": "Hazlo tuyo con tus zapatos favoritos y sal a disfrutar. Tu estilo empieza por cómo te sientes.",
+    "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-084/01-R010.jpeg",
         "width": 1086,
         "height": 1448,
         "sourceIndex": 10,
-        "sha256": "053f4eabe30b638b8b7e5c993631976dfee6509dc5faa237f124edef9bf60d0d"
+        "sha256": "053f4eabe30b638b8b7e5c993631976dfee6509dc5faa237f124edef9bf60d0d",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-084/02-R159.jpeg",
         "width": 1254,
         "height": 1254,
         "sourceIndex": 159,
-        "sha256": "9b83d80b0a866d19aefcfb2a849f26ee9ae99dad1d2e4d3dd6dd583b4d2c2af3"
+        "sha256": "9b83d80b0a866d19aefcfb2a849f26ee9ae99dad1d2e4d3dd6dd583b4d2c2af3",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-084/01-R010.jpeg",
@@ -1015,21 +1036,23 @@
     "name": "Vestido corto drapeado marrón con blanco",
     "category": "Cortos",
     "price": 389,
-    "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
+    "note": "Hazlo tuyo con tus zapatos favoritos y sal a disfrutar. Tu estilo empieza por cómo te sientes.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-085/01-R013.jpeg",
         "width": 1086,
         "height": 1448,
         "sourceIndex": 13,
-        "sha256": "81b953d5c7cfb48cec1945ee0f559fe1a69b1a760404c7e74e43721022cca6c2"
+        "sha256": "81b953d5c7cfb48cec1945ee0f559fe1a69b1a760404c7e74e43721022cca6c2",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-085/02-R162.jpeg",
         "width": 1086,
         "height": 1448,
         "sourceIndex": 162,
-        "sha256": "e409e5307dee8c9343f35d3eebbbaae994016d25d3d8367f92a721d0400d4668"
+        "sha256": "e409e5307dee8c9343f35d3eebbbaae994016d25d3d8367f92a721d0400d4668",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-085/01-R013.jpeg",
@@ -1040,14 +1063,15 @@
     "name": "Vestido crema de Gaza con detalles estrellas doradas",
     "category": "Cortos",
     "price": 289,
-    "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
+    "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-086/01-R161.jpeg",
         "width": 1086,
         "height": 1448,
         "sourceIndex": 161,
-        "sha256": "2f1412982d5c632f2723f53ce25cf7c8aadca8bde57d3da628d7844cd0b5ed20"
+        "sha256": "2f1412982d5c632f2723f53ce25cf7c8aadca8bde57d3da628d7844cd0b5ed20",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-086/01-R161.jpeg",
@@ -1058,14 +1082,15 @@
     "name": "Vestido Largo Color Pic Blue",
     "category": "Gala",
     "price": 579,
-    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-087/01-R016.jpeg",
         "width": 1086,
         "height": 1448,
         "sourceIndex": 16,
-        "sha256": "368a2db30156ea9337fab1a2685a41d60aae12cf3b617765dc38df3e540d8504"
+        "sha256": "368a2db30156ea9337fab1a2685a41d60aae12cf3b617765dc38df3e540d8504",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-087/01-R016.jpeg",
@@ -1076,28 +1101,31 @@
     "name": "Vestido largo azul corte sirena con tirantes cruzados",
     "category": "Gala",
     "price": 499,
-    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-088/01-R039.jpeg",
         "width": 900,
         "height": 1200,
         "sourceIndex": 39,
-        "sha256": "c9d2b3094de3a3756e3348c684c44f5a24a2fbe97d5ed8355a0364947cbe5657"
+        "sha256": "c9d2b3094de3a3756e3348c684c44f5a24a2fbe97d5ed8355a0364947cbe5657",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-088/02-R040.jpeg",
         "width": 900,
         "height": 1200,
         "sourceIndex": 40,
-        "sha256": "0cf2c9009f19d2a37909750c5d2e412a77f0734a3796267fa2b8ed7b84a7da8c"
+        "sha256": "0cf2c9009f19d2a37909750c5d2e412a77f0734a3796267fa2b8ed7b84a7da8c",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-088/03-R042.jpeg",
         "width": 900,
         "height": 1200,
         "sourceIndex": 42,
-        "sha256": "432378daffa413bc4f262a7007663d625be440f2531fdcea07c852f569ca7279"
+        "sha256": "432378daffa413bc4f262a7007663d625be440f2531fdcea07c852f569ca7279",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-088/01-R039.jpeg",
@@ -1108,21 +1136,23 @@
     "name": "Vestido largo de gala dorado",
     "category": "Gala",
     "price": 549,
-    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-089/01-R124.jpeg",
         "width": 962,
         "height": 1280,
         "sourceIndex": 124,
-        "sha256": "a0b9220406ac082b0bb45555c669966feed4bf4a09fee2d1cfdb47e2690327ee"
+        "sha256": "a0b9220406ac082b0bb45555c669966feed4bf4a09fee2d1cfdb47e2690327ee",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-089/02-R130.jpeg",
         "width": 966,
         "height": 1280,
         "sourceIndex": 130,
-        "sha256": "7bfd94b1886d73297f342f7df3832c15e6bc93ca148562d9041ac6c99ef9c190"
+        "sha256": "7bfd94b1886d73297f342f7df3832c15e6bc93ca148562d9041ac6c99ef9c190",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-089/01-R124.jpeg",
@@ -1133,21 +1163,23 @@
     "name": "Vestido de gala gamusa color guinda con perlas",
     "category": "Gala",
     "price": 589,
-    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-090/01-R076.jpeg",
         "width": 1080,
         "height": 1403,
         "sourceIndex": 76,
-        "sha256": "7888701665f9c1f3e7d589cb82ba245b92c8f327a455f4e77cab1204b7252839"
+        "sha256": "7888701665f9c1f3e7d589cb82ba245b92c8f327a455f4e77cab1204b7252839",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-090/02-R077.jpeg",
         "width": 1080,
         "height": 1404,
         "sourceIndex": 77,
-        "sha256": "cb33860d5748212d477e80e3daccf10bc31d2538dda1c03f766b22797eb1a77a"
+        "sha256": "cb33860d5748212d477e80e3daccf10bc31d2538dda1c03f766b22797eb1a77a",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-090/01-R076.jpeg",
@@ -1158,21 +1190,23 @@
     "name": "Vestido elegante sirena color verde",
     "category": "Gala",
     "price": 389,
-    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-091/01-R074.jpeg",
         "width": 1080,
         "height": 1423,
         "sourceIndex": 74,
-        "sha256": "e074705cbc55b67c86bea58eeb38e954ecd73322c982a7ba7005b96c9f18e5b6"
+        "sha256": "e074705cbc55b67c86bea58eeb38e954ecd73322c982a7ba7005b96c9f18e5b6",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-091/02-R075.jpeg",
         "width": 1080,
         "height": 1424,
         "sourceIndex": 75,
-        "sha256": "519c610fc1955fc1e4320d773bb0f6d740a0c1771fc4d5007d976530ad035bb0"
+        "sha256": "519c610fc1955fc1e4320d773bb0f6d740a0c1771fc4d5007d976530ad035bb0",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-091/01-R074.jpeg",
@@ -1183,35 +1217,23 @@
     "name": "Vestido largo de gala lentejuelas negro con mangas",
     "category": "Gala",
     "price": 729,
-    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-092/01-R082.jpeg",
         "width": 1080,
         "height": 1425,
         "sourceIndex": 82,
-        "sha256": "c6fe9a4e7e9d4f7b9ed9ebe32fdd2322b7c3d7422c46d1650fb9a74fa1988724"
+        "sha256": "c6fe9a4e7e9d4f7b9ed9ebe32fdd2322b7c3d7422c46d1650fb9a74fa1988724",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-092/02-R087.jpeg",
         "width": 1080,
         "height": 1419,
         "sourceIndex": 87,
-        "sha256": "db975c818075423aa1d94a118e5ba7d5e8e3daf2950493323b394ad76d73811d"
-      },
-      {
-        "src": "./images/productos-reales/XL-092/03-R098.jpeg",
-        "width": 1080,
-        "height": 1425,
-        "sourceIndex": 98,
-        "sha256": "c6fe9a4e7e9d4f7b9ed9ebe32fdd2322b7c3d7422c46d1650fb9a74fa1988724"
-      },
-      {
-        "src": "./images/productos-reales/XL-092/04-R104.jpeg",
-        "width": 1080,
-        "height": 1419,
-        "sourceIndex": 104,
-        "sha256": "db975c818075423aa1d94a118e5ba7d5e8e3daf2950493323b394ad76d73811d"
+        "sha256": "db975c818075423aa1d94a118e5ba7d5e8e3daf2950493323b394ad76d73811d",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-092/01-R082.jpeg",
@@ -1222,21 +1244,23 @@
     "name": "Vestido fucsia con escote y pliegue izquierdo",
     "category": "Gala",
     "price": 549,
-    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-093/01-R072.jpeg",
         "width": 1080,
         "height": 1341,
         "sourceIndex": 72,
-        "sha256": "e41c2f8a0508ae5c8eb11f544a29eea7c31aa436d171a2bcd6076b84333c7bde"
+        "sha256": "e41c2f8a0508ae5c8eb11f544a29eea7c31aa436d171a2bcd6076b84333c7bde",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-093/02-R078.jpeg",
         "width": 1080,
         "height": 1343,
         "sourceIndex": 78,
-        "sha256": "16cb2d930772eee946a187ca882dbf64e3c82026fd907eebda628555ff9b5985"
+        "sha256": "16cb2d930772eee946a187ca882dbf64e3c82026fd907eebda628555ff9b5985",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-093/01-R072.jpeg",
@@ -1247,21 +1271,23 @@
     "name": "Vestido largo de gala asimétrico de una manga dorado con negro",
     "category": "Gala",
     "price": 579,
-    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-094/01-R090.jpeg",
         "width": 1080,
         "height": 1429,
         "sourceIndex": 90,
-        "sha256": "35b22a83254437802f718ae243ac6d3db492a7e9750ab6ffcd99a845eae4c0f0"
+        "sha256": "35b22a83254437802f718ae243ac6d3db492a7e9750ab6ffcd99a845eae4c0f0",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-094/02-R091.jpeg",
         "width": 1080,
         "height": 1420,
         "sourceIndex": 91,
-        "sha256": "d1328ff3ecd8b20f13d74c656ba50112218c63719c81958b9a38cb66f02a2a85"
+        "sha256": "d1328ff3ecd8b20f13d74c656ba50112218c63719c81958b9a38cb66f02a2a85",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-094/01-R090.jpeg",
@@ -1272,24 +1298,26 @@
     "name": "Vestido corte acampanado de tejido brillante",
     "category": "Gala",
     "price": 589,
-    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
-      {
-        "src": "./images/productos-reales/XL-095/01-R068.jpeg",
-        "width": 1080,
-        "height": 1410,
-        "sourceIndex": 68,
-        "sha256": "0d673ffa000bd6cabb80b46f53d97408c9eadaff3b2bfcf81786835f038a09c5"
-      },
       {
         "src": "./images/productos-reales/XL-095/02-R073.jpeg",
         "width": 1080,
         "height": 1413,
         "sourceIndex": 73,
-        "sha256": "92a12469c9101454b8bf6a233a7b0213240ca58c3a746a4bdeda2d032cb84bcd"
+        "sha256": "92a12469c9101454b8bf6a233a7b0213240ca58c3a746a4bdeda2d032cb84bcd",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-095/01-R068.jpeg",
+        "width": 1080,
+        "height": 1410,
+        "sourceIndex": 68,
+        "sha256": "0d673ffa000bd6cabb80b46f53d97408c9eadaff3b2bfcf81786835f038a09c5",
+        "view": "Espalda"
       }
     ],
-    "image": "./images/productos-reales/XL-095/01-R068.jpeg",
+    "image": "./images/productos-reales/XL-095/02-R073.jpeg",
     "photoPending": false
   },
   {
@@ -1297,24 +1325,26 @@
     "name": "Vestido sirena color verde gamuzado con mangas y cuello cuadrado",
     "category": "Gala",
     "price": 519,
-    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
-      {
-        "src": "./images/productos-reales/XL-096/01-R079.jpeg",
-        "width": 1080,
-        "height": 1434,
-        "sourceIndex": 79,
-        "sha256": "c4c4e1d71606824f62bcb81d49977e25cd7a4e4753234c4a6bbcb774fb4fba24"
-      },
       {
         "src": "./images/productos-reales/XL-096/02-R083.jpeg",
         "width": 1080,
         "height": 1420,
         "sourceIndex": 83,
-        "sha256": "be145b8b483abc40efce690a96fc806dd72b53a1d7b8541638f2cd4036f898e0"
+        "sha256": "be145b8b483abc40efce690a96fc806dd72b53a1d7b8541638f2cd4036f898e0",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-096/01-R079.jpeg",
+        "width": 1080,
+        "height": 1434,
+        "sourceIndex": 79,
+        "sha256": "c4c4e1d71606824f62bcb81d49977e25cd7a4e4753234c4a6bbcb774fb4fba24",
+        "view": "Espalda"
       }
     ],
-    "image": "./images/productos-reales/XL-096/01-R079.jpeg",
+    "image": "./images/productos-reales/XL-096/02-R083.jpeg",
     "photoPending": false
   },
   {
@@ -1322,21 +1352,23 @@
     "name": "Vestido sirena de lentejuelas verdes con detalles en los hombros",
     "category": "Gala",
     "price": 549,
-    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-097/01-R086.jpeg",
         "width": 1080,
         "height": 1387,
         "sourceIndex": 86,
-        "sha256": "b9f63aef190bd589dba2941bfc515b3bbfbfbc4cb943859f7b18232ba7bbe7ca"
+        "sha256": "b9f63aef190bd589dba2941bfc515b3bbfbfbc4cb943859f7b18232ba7bbe7ca",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-097/02-R092.jpeg",
         "width": 950,
         "height": 1415,
         "sourceIndex": 92,
-        "sha256": "191d25f992705d809296f48b9783b62a89e41f526eeac0e05830180fabdab156"
+        "sha256": "191d25f992705d809296f48b9783b62a89e41f526eeac0e05830180fabdab156",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-097/01-R086.jpeg",
@@ -1347,21 +1379,23 @@
     "name": "Vestido largo de mangas semi drapeado con detalles de brillos en",
     "category": "Gala",
     "price": 549,
-    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-098/01-R084.jpeg",
         "width": 1080,
         "height": 1398,
         "sourceIndex": 84,
-        "sha256": "07f3edf011008d6eb3b87ab8584d29dd9e26380a99a985afecdbbf3b30c3df23"
+        "sha256": "07f3edf011008d6eb3b87ab8584d29dd9e26380a99a985afecdbbf3b30c3df23",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-098/02-R085.jpeg",
         "width": 1080,
         "height": 1415,
         "sourceIndex": 85,
-        "sha256": "7381e7ce4fb1968a22f28512bbcf685f8dd6a9151359f30ff0aefd4ba01da969"
+        "sha256": "7381e7ce4fb1968a22f28512bbcf685f8dd6a9151359f30ff0aefd4ba01da969",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-098/01-R084.jpeg",
@@ -1372,21 +1406,23 @@
     "name": "Vestido asimétrico dorado largo de gala",
     "category": "Gala",
     "price": 649,
-    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-099/01-R100.jpeg",
         "width": 1080,
         "height": 1417,
         "sourceIndex": 100,
-        "sha256": "d363435eb93bc12bdc7124850528c1d9142b51bf32a4c8e7117d05cb785fe5a1"
+        "sha256": "d363435eb93bc12bdc7124850528c1d9142b51bf32a4c8e7117d05cb785fe5a1",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-099/02-R101.jpeg",
         "width": 1080,
         "height": 1416,
         "sourceIndex": 101,
-        "sha256": "c0912d3c3b393b6d73e3f628c2df593e94d4e4a0f892a3bc800c0dbc9f12391e"
+        "sha256": "c0912d3c3b393b6d73e3f628c2df593e94d4e4a0f892a3bc800c0dbc9f12391e",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-099/01-R100.jpeg",
@@ -1397,28 +1433,31 @@
     "name": "Vestido rojo de gala con strass plateadas",
     "category": "Gala",
     "price": 389,
-    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-100/01-R064.jpeg",
         "width": 879,
         "height": 1078,
         "sourceIndex": 64,
-        "sha256": "2832ab7798415432eb1e0d175e38dbee020e4574f6cdaf3455c8cb1921b6e510"
+        "sha256": "2832ab7798415432eb1e0d175e38dbee020e4574f6cdaf3455c8cb1921b6e510",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-100/02-R102.jpeg",
         "width": 1080,
         "height": 1064,
         "sourceIndex": 102,
-        "sha256": "e575ccfd8876d1b5af69a0b5fcf1e437511515af34418866fe66323c06cc82f3"
+        "sha256": "e575ccfd8876d1b5af69a0b5fcf1e437511515af34418866fe66323c06cc82f3",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-100/03-R103.jpeg",
         "width": 1080,
         "height": 1077,
         "sourceIndex": 103,
-        "sha256": "cb386a5be34088f5dd1a486cd43eba80411d5bac286498d5b06e73e64fae7500"
+        "sha256": "cb386a5be34088f5dd1a486cd43eba80411d5bac286498d5b06e73e64fae7500",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-100/01-R064.jpeg",
@@ -1429,14 +1468,15 @@
     "name": "Vestido de gala rojo con aplicaciones plateadas",
     "category": "Gala",
     "price": 349,
-    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-101/01-R062.jpeg",
         "width": 1080,
         "height": 1438,
         "sourceIndex": 62,
-        "sha256": "bafc2f3f9090d965f9d423ec0c70f27538c99561c87829af35e85dcebda6c09b"
+        "sha256": "bafc2f3f9090d965f9d423ec0c70f27538c99561c87829af35e85dcebda6c09b",
+        "view": "Frente y lateral"
       }
     ],
     "image": "./images/productos-reales/XL-101/01-R062.jpeg",
@@ -1447,14 +1487,15 @@
     "name": "Vestido largo con semi cola y detalles de pedrería plateados y mora",
     "category": "Gala",
     "price": 699,
-    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-102/01-R106.jpeg",
         "width": 1086,
         "height": 1448,
         "sourceIndex": 106,
-        "sha256": "c7ced2eadd297ce426a23163392c0f483c7cc3ddbfc5f155c62eea0f08dcf832"
+        "sha256": "c7ced2eadd297ce426a23163392c0f483c7cc3ddbfc5f155c62eea0f08dcf832",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-102/01-R106.jpeg",
@@ -1465,14 +1506,15 @@
     "name": "Vestido sirena de gala verde con perlas",
     "category": "Gala",
     "price": 729,
-    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-103/01-R105.jpeg",
         "width": 1086,
         "height": 1448,
         "sourceIndex": 105,
-        "sha256": "57795f3306284e50bf1231dcc03e94706a7e8f43783b0c903d1d1a00fbb9165c"
+        "sha256": "57795f3306284e50bf1231dcc03e94706a7e8f43783b0c903d1d1a00fbb9165c",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-103/01-R105.jpeg",
@@ -1483,21 +1525,23 @@
     "name": "Vestido de gala de lentejuelas color Brown",
     "category": "Gala",
     "price": 589,
-    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-104/01-R023.jpeg",
         "width": 1211,
         "height": 1599,
         "sourceIndex": 23,
-        "sha256": "acf995fde1ad3c683cdf3c752d797c8a8471a96f698c89600d67fc511e90428f"
+        "sha256": "acf995fde1ad3c683cdf3c752d797c8a8471a96f698c89600d67fc511e90428f",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-104/02-R024.jpeg",
         "width": 1240,
         "height": 1599,
         "sourceIndex": 24,
-        "sha256": "7ed5617f73e4873f17e3252d0a93a8fe02704cdd6a0c518a8e801dbcd3feadf5"
+        "sha256": "7ed5617f73e4873f17e3252d0a93a8fe02704cdd6a0c518a8e801dbcd3feadf5",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-104/01-R023.jpeg",
@@ -1508,21 +1552,23 @@
     "name": "Vestido de gala de lentejuelas rosa",
     "category": "Gala",
     "price": 469,
-    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-105/01-R017.jpeg",
         "width": 1080,
         "height": 1365,
         "sourceIndex": 17,
-        "sha256": "6dc6350d7f48f8d1d7b0e7a8c750caa1eb7289671b7dd1c8d8496b6968905288"
+        "sha256": "6dc6350d7f48f8d1d7b0e7a8c750caa1eb7289671b7dd1c8d8496b6968905288",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-105/02-R021.jpeg",
         "width": 1080,
         "height": 1385,
         "sourceIndex": 21,
-        "sha256": "6757d34b9117ee2d3d8de20c34046512b7698e36710efa649900b20e68f3c8bf"
+        "sha256": "6757d34b9117ee2d3d8de20c34046512b7698e36710efa649900b20e68f3c8bf",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-105/01-R017.jpeg",
@@ -1533,21 +1579,23 @@
     "name": "Vestido de gala negro con detalles plateados",
     "category": "Gala",
     "price": 429,
-    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-106/01-R134.jpeg",
         "width": 1080,
         "height": 1429,
         "sourceIndex": 134,
-        "sha256": "481ffe3d5124426e94bbd6addf1011c3e4941eac4cff40607b49d1b7b4278ef7"
+        "sha256": "481ffe3d5124426e94bbd6addf1011c3e4941eac4cff40607b49d1b7b4278ef7",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-106/02-R136.jpeg",
         "width": 1080,
         "height": 1441,
         "sourceIndex": 136,
-        "sha256": "1acac8237be89a65c61cca4c74bbf534789ad8dc42e18e7992543c1a94b22ec8"
+        "sha256": "1acac8237be89a65c61cca4c74bbf534789ad8dc42e18e7992543c1a94b22ec8",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-106/01-R134.jpeg",
@@ -1558,21 +1606,23 @@
     "name": "Vestido de gala de lentejuelas · modelo plomo",
     "category": "Gala",
     "price": 529,
-    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-107/01-R112.jpeg",
         "width": 1080,
         "height": 1402,
         "sourceIndex": 112,
-        "sha256": "c2ee45bc8d4f3145341d96b00a120c2062946f0d6919c2e833891f4b39e075ce"
+        "sha256": "c2ee45bc8d4f3145341d96b00a120c2062946f0d6919c2e833891f4b39e075ce",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-107/02-R116.jpeg",
         "width": 1080,
         "height": 1400,
         "sourceIndex": 116,
-        "sha256": "e4a4e97e9e7715ea4fc77c0ad2fd34ae60b18d756015d5a2f02689836bbd7b5d"
+        "sha256": "e4a4e97e9e7715ea4fc77c0ad2fd34ae60b18d756015d5a2f02689836bbd7b5d",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-107/01-R112.jpeg",
@@ -1583,21 +1633,23 @@
     "name": "Vestido de gala de lentejuelas · modelo estampado",
     "category": "Gala",
     "price": 449,
-    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-108/01-R138.jpeg",
         "width": 1080,
         "height": 1433,
         "sourceIndex": 138,
-        "sha256": "5c39cf738eaf6bea31f788be06efc1ba9db112185c66b20fe1c67113f4f94816"
+        "sha256": "5c39cf738eaf6bea31f788be06efc1ba9db112185c66b20fe1c67113f4f94816",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-108/02-R139.jpeg",
         "width": 1057,
         "height": 1428,
         "sourceIndex": 139,
-        "sha256": "65ab7f7bab0305f7eb23ce777ea021a6b37ff139f61a877e9528a59ae2c40843"
+        "sha256": "65ab7f7bab0305f7eb23ce777ea021a6b37ff139f61a877e9528a59ae2c40843",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-108/01-R138.jpeg",
@@ -1608,24 +1660,26 @@
     "name": "Vestido de gala crema con azul",
     "category": "Gala",
     "price": 569,
-    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
-      {
-        "src": "./images/productos-reales/XL-109/01-R137.jpeg",
-        "width": 1080,
-        "height": 1417,
-        "sourceIndex": 137,
-        "sha256": "4015dff32a174120013ecf19a165361b083e899f415f1d8d67bcd193b0afb464"
-      },
       {
         "src": "./images/productos-reales/XL-109/02-R141.jpeg",
         "width": 1080,
         "height": 1390,
         "sourceIndex": 141,
-        "sha256": "3f3965a6ddb681e2e43a5597c61eebe61a5b9e21b6bed398e7c9ed4e3c8c82b8"
+        "sha256": "3f3965a6ddb681e2e43a5597c61eebe61a5b9e21b6bed398e7c9ed4e3c8c82b8",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-109/01-R137.jpeg",
+        "width": 1080,
+        "height": 1417,
+        "sourceIndex": 137,
+        "sha256": "4015dff32a174120013ecf19a165361b083e899f415f1d8d67bcd193b0afb464",
+        "view": "Espalda"
       }
     ],
-    "image": "./images/productos-reales/XL-109/01-R137.jpeg",
+    "image": "./images/productos-reales/XL-109/02-R141.jpeg",
     "photoPending": false
   },
   {
@@ -1633,24 +1687,26 @@
     "name": "Vestido largo de gala blanco con rayas moradas y morado y de cap",
     "category": "Gala",
     "price": 579,
-    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
-      {
-        "src": "./images/productos-reales/XL-110/01-R110.jpeg",
-        "width": 1080,
-        "height": 1426,
-        "sourceIndex": 110,
-        "sha256": "ba849692a6af8e4a2929ac306b826b2649de93078eab5f7b8bfefc4e365bcf8d"
-      },
       {
         "src": "./images/productos-reales/XL-110/02-R111.jpeg",
         "width": 1080,
         "height": 1431,
         "sourceIndex": 111,
-        "sha256": "c5c5d73eee4dfb549058028e45ef23e5259324e40840c27db1ded0063681f604"
+        "sha256": "c5c5d73eee4dfb549058028e45ef23e5259324e40840c27db1ded0063681f604",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-110/01-R110.jpeg",
+        "width": 1080,
+        "height": 1426,
+        "sourceIndex": 110,
+        "sha256": "ba849692a6af8e4a2929ac306b826b2649de93078eab5f7b8bfefc4e365bcf8d",
+        "view": "Espalda"
       }
     ],
-    "image": "./images/productos-reales/XL-110/01-R110.jpeg",
+    "image": "./images/productos-reales/XL-110/02-R111.jpeg",
     "photoPending": false
   },
   {
@@ -1658,24 +1714,26 @@
     "name": "Vestido largo crema de perlas y pedrería plateadas",
     "category": "Gala",
     "price": 669,
-    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
-      {
-        "src": "./images/productos-reales/XL-111/01-R118.jpeg",
-        "width": 1080,
-        "height": 1444,
-        "sourceIndex": 118,
-        "sha256": "e904d672d6ff9fbb22f5d415b37b78b16669fae79c4fc410e67da1396d9bb8a8"
-      },
       {
         "src": "./images/productos-reales/XL-111/02-R119.jpeg",
         "width": 1080,
         "height": 1457,
         "sourceIndex": 119,
-        "sha256": "d8bdcef42337c4768b4b0a837e88f923affa801cbf98d3e9a4817dcfe6e9fe16"
+        "sha256": "d8bdcef42337c4768b4b0a837e88f923affa801cbf98d3e9a4817dcfe6e9fe16",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-111/01-R118.jpeg",
+        "width": 1080,
+        "height": 1444,
+        "sourceIndex": 118,
+        "sha256": "e904d672d6ff9fbb22f5d415b37b78b16669fae79c4fc410e67da1396d9bb8a8",
+        "view": "Espalda"
       }
     ],
-    "image": "./images/productos-reales/XL-111/01-R118.jpeg",
+    "image": "./images/productos-reales/XL-111/02-R119.jpeg",
     "photoPending": false
   },
   {
@@ -1683,21 +1741,23 @@
     "name": "Vestido largo de gala dorado con rayas doradas y blanco",
     "category": "Gala",
     "price": 539,
-    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-112/01-R117.jpeg",
         "width": 1080,
         "height": 1436,
         "sourceIndex": 117,
-        "sha256": "bd9d2ba2482b38380c994eb489bea84a2e2c41b868484fe9b7ff244f320b49f9"
+        "sha256": "bd9d2ba2482b38380c994eb489bea84a2e2c41b868484fe9b7ff244f320b49f9",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-112/02-R120.jpeg",
         "width": 1080,
         "height": 1427,
         "sourceIndex": 120,
-        "sha256": "4d5a0bfcb4d4ab0d90f040775492c17d995a32d4868fe1b4fb6acfa2d84f3101"
+        "sha256": "4d5a0bfcb4d4ab0d90f040775492c17d995a32d4868fe1b4fb6acfa2d84f3101",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-112/01-R117.jpeg",
@@ -1708,28 +1768,31 @@
     "name": "Vestido largo verde limón",
     "category": "Largos",
     "price": 599,
-    "note": "Para una ocasión especial y una entrada con encanto. Elige cómo combinarlo y luce tu personalidad.",
+    "note": "Un vestido para disfrutar una celebración con estilo propio. Añade tus accesorios favoritos y haz del look algo muy tuyo.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-113/01-R036.jpeg",
         "width": 900,
         "height": 1200,
         "sourceIndex": 36,
-        "sha256": "90703a81fd02418ab175ce6e040d468e0591bfc978b102716419a73c00dcebfb"
+        "sha256": "90703a81fd02418ab175ce6e040d468e0591bfc978b102716419a73c00dcebfb",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-113/02-R037.jpeg",
         "width": 900,
         "height": 1200,
         "sourceIndex": 37,
-        "sha256": "8be2c8933c44105ef5be363d008b582c47edb80328bb4ce0e0bd0a7502eb8fb5"
+        "sha256": "8be2c8933c44105ef5be363d008b582c47edb80328bb4ce0e0bd0a7502eb8fb5",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-113/03-R041.jpeg",
         "width": 900,
         "height": 1200,
         "sourceIndex": 41,
-        "sha256": "a123725e4064a6c1600b3d5b24900107fcd2ecb613758ca99b13f4115d61a1aa"
+        "sha256": "a123725e4064a6c1600b3d5b24900107fcd2ecb613758ca99b13f4115d61a1aa",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-113/01-R036.jpeg",
@@ -1740,21 +1803,23 @@
     "name": "Vestido negro largo de perlas con detalles",
     "category": "Largos",
     "price": 319,
-    "note": "Un vestido para disfrutar una celebración con estilo propio. Añade tus accesorios favoritos y haz del look algo muy tuyo.",
+    "note": "Para una ocasión especial y una entrada con encanto. Elige cómo combinarlo y luce tu personalidad.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-114/01-R053.jpeg",
         "width": 1079,
         "height": 1440,
         "sourceIndex": 53,
-        "sha256": "cfd62b16184f910e7f65aa6c11595329ed3fd6aab7c0bbc9bb94dacb42025e4d"
+        "sha256": "cfd62b16184f910e7f65aa6c11595329ed3fd6aab7c0bbc9bb94dacb42025e4d",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-114/02-R054.jpeg",
         "width": 1080,
         "height": 1411,
         "sourceIndex": 54,
-        "sha256": "b08f712d27d32728e43e7b314755fe34e6e5dfc6f885b24b7fd5a57ad573134e"
+        "sha256": "b08f712d27d32728e43e7b314755fe34e6e5dfc6f885b24b7fd5a57ad573134e",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-114/01-R053.jpeg",
@@ -1765,21 +1830,15 @@
     "name": "Conjunto Bandage",
     "category": "Bandage",
     "price": 349,
-    "note": "Coqueto y con personalidad: un vestido para arreglarte a tu manera y salir sintiéndote fabulosa.",
+    "note": "Un look con actitud para una noche que promete. Combínalo con tus accesorios favoritos y disfruta tu momento.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-115/01-R108.jpeg",
         "width": 1122,
         "height": 1402,
         "sourceIndex": 108,
-        "sha256": "45b608548f3af9c63a0c944937a6e475013e9d92ee899db069f0fa4fc49e8c4a"
-      },
-      {
-        "src": "./images/productos-reales/XL-115/02-R151.jpeg",
-        "width": 1122,
-        "height": 1402,
-        "sourceIndex": 151,
-        "sha256": "45b608548f3af9c63a0c944937a6e475013e9d92ee899db069f0fa4fc49e8c4a"
+        "sha256": "45b608548f3af9c63a0c944937a6e475013e9d92ee899db069f0fa4fc49e8c4a",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-115/01-R108.jpeg",
@@ -1790,21 +1849,23 @@
     "name": "Vestido Bandage Amarillo",
     "category": "Bandage",
     "price": 389,
-    "note": "Un look con actitud para una noche que promete. Combínalo con tus accesorios favoritos y disfruta tu momento.",
+    "note": "Coqueto y con personalidad: un vestido para arreglarte a tu manera y salir sintiéndote fabulosa.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-116/01-R057.jpeg",
         "width": 1080,
         "height": 1417,
         "sourceIndex": 57,
-        "sha256": "2c3a499b1f1a1160f1771d00f08d6ea8bb37bbdc6b4fcc54c2e2cf39f4972cfc"
+        "sha256": "2c3a499b1f1a1160f1771d00f08d6ea8bb37bbdc6b4fcc54c2e2cf39f4972cfc",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-116/02-R058.jpeg",
         "width": 1080,
         "height": 1392,
         "sourceIndex": 58,
-        "sha256": "1a36e0b59f1987acfea82d9b5d8bee8c6e14294debd2bea69fcf1283d84dac29"
+        "sha256": "1a36e0b59f1987acfea82d9b5d8bee8c6e14294debd2bea69fcf1283d84dac29",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-116/01-R057.jpeg",
@@ -1815,14 +1876,15 @@
     "name": "Vestido negro brillante",
     "category": "Gala",
     "price": 389,
-    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
+    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-117/01-R022.jpeg",
         "width": 1080,
         "height": 1326,
         "sourceIndex": 22,
-        "sha256": "d9741d4f17c7af2b9c7a65a41b5e5f4a88a2656ffe075e52ab60761b771729e1"
+        "sha256": "d9741d4f17c7af2b9c7a65a41b5e5f4a88a2656ffe075e52ab60761b771729e1",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-117/01-R022.jpeg",
@@ -1833,14 +1895,15 @@
     "name": "Vestido negro asimétrico con lentejuelas",
     "category": "Cortos con brillo",
     "price": 369,
-    "note": "Hoy tienes permiso para brillar. Un look para celebrar con actitud y sentirte preciosa en cada foto.",
+    "note": "Para las chicas que disfrutan arreglarse y hacerse notar. Lleva este look con confianza y tu toque personal.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-118/01-R007.jpeg",
         "width": 1086,
         "height": 1448,
         "sourceIndex": 7,
-        "sha256": "a93c64057dea693d2e0783c5b498ff36cfbc621c126d62833ef6562c92b3a571"
+        "sha256": "a93c64057dea693d2e0783c5b498ff36cfbc621c126d62833ef6562c92b3a571",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-118/01-R007.jpeg",
@@ -1851,14 +1914,15 @@
     "name": "Vestido corto escotado",
     "category": "Cortos con brillo",
     "price": 239,
-    "note": "Un toque de brillo para tu próxima noche especial. Combínalo a tu gusto y deja que tu sonrisa complete el look.",
+    "note": "Hoy tienes permiso para brillar. Un look para celebrar con actitud y sentirte preciosa en cada foto.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-119/01-R004.jpeg",
         "width": 1086,
         "height": 1448,
         "sourceIndex": 4,
-        "sha256": "6820d227983fd0fa88a645474ae339463a3f73e4e7e6f0d5d1b6da527ac58019"
+        "sha256": "6820d227983fd0fa88a645474ae339463a3f73e4e7e6f0d5d1b6da527ac58019",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-119/01-R004.jpeg",
@@ -1869,14 +1933,15 @@
     "name": "Vestido corto dorado con negro",
     "category": "Cortos con brillo",
     "price": 249,
-    "note": "Para las chicas que disfrutan arreglarse y hacerse notar. Lleva este look con confianza y tu toque personal.",
+    "note": "Un toque de brillo para tu próxima noche especial. Combínalo a tu gusto y deja que tu sonrisa complete el look.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-120/01-R003.jpeg",
         "width": 1086,
         "height": 1448,
         "sourceIndex": 3,
-        "sha256": "222b5dbf22708c1c76e77e67506b54e3646fcebd3719ca7b5dbfade9d5482b29"
+        "sha256": "222b5dbf22708c1c76e77e67506b54e3646fcebd3719ca7b5dbfade9d5482b29",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-120/01-R003.jpeg",
@@ -1887,14 +1952,15 @@
     "name": "Vestido corto negro de tiras",
     "category": "Cortos con brillo",
     "price": 79,
-    "note": "Hoy tienes permiso para brillar. Un look para celebrar con actitud y sentirte preciosa en cada foto.",
+    "note": "Para las chicas que disfrutan arreglarse y hacerse notar. Lleva este look con confianza y tu toque personal.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-121/01-R001.jpeg",
         "width": 1086,
         "height": 1448,
         "sourceIndex": 1,
-        "sha256": "ada3be708e742a438a03753ff45e507937ceec85e1c88599158428392f2e0cbd"
+        "sha256": "ada3be708e742a438a03753ff45e507937ceec85e1c88599158428392f2e0cbd",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-121/01-R001.jpeg",
@@ -1905,14 +1971,15 @@
     "name": "Vestido corto negro",
     "category": "Cortos",
     "price": 219,
-    "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
+    "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-122/01-R012.jpeg",
         "width": 1254,
         "height": 1254,
         "sourceIndex": 12,
-        "sha256": "4dc8539a633a4c38d47a5c2c7ac03876f899f0d764e02e62a176287689ecd095"
+        "sha256": "4dc8539a633a4c38d47a5c2c7ac03876f899f0d764e02e62a176287689ecd095",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-122/01-R012.jpeg",
@@ -1923,14 +1990,15 @@
     "name": "Vestido corto negro con plateado",
     "category": "Cortos con brillo",
     "price": 449,
-    "note": "Para las chicas que disfrutan arreglarse y hacerse notar. Lleva este look con confianza y tu toque personal.",
+    "note": "Un toque de brillo para tu próxima noche especial. Combínalo a tu gusto y deja que tu sonrisa complete el look.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-123/01-R008.jpeg",
         "width": 1080,
         "height": 1332,
         "sourceIndex": 8,
-        "sha256": "e4129a242647a0c66e38797486fc52b6adde77203e12221ea9324d11989470aa"
+        "sha256": "e4129a242647a0c66e38797486fc52b6adde77203e12221ea9324d11989470aa",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-123/01-R008.jpeg",
@@ -1941,21 +2009,23 @@
     "name": "Vestido Bandage corto negro con aplicaciones plateadas",
     "category": "Bandage",
     "price": 389,
-    "note": "Un look con actitud para una noche que promete. Combínalo con tus accesorios favoritos y disfruta tu momento.",
+    "note": "Coqueto y con personalidad: un vestido para arreglarte a tu manera y salir sintiéndote fabulosa.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-124/01-R088.jpeg",
         "width": 1080,
         "height": 1426,
         "sourceIndex": 88,
-        "sha256": "38117524cc9ef4a02e0dd8fa681cebf19ffafd618a9cd296ec77d3d676db0509"
+        "sha256": "38117524cc9ef4a02e0dd8fa681cebf19ffafd618a9cd296ec77d3d676db0509",
+        "view": "Frente"
       },
       {
         "src": "./images/productos-reales/XL-124/02-R089.jpeg",
         "width": 1080,
         "height": 1433,
         "sourceIndex": 89,
-        "sha256": "2c7e1dd2498740ad527072e55164092fd3e7ae5141e6e3d2ec69e29477678b7b"
+        "sha256": "2c7e1dd2498740ad527072e55164092fd3e7ae5141e6e3d2ec69e29477678b7b",
+        "view": "Espalda"
       }
     ],
     "image": "./images/productos-reales/XL-124/01-R088.jpeg",
@@ -1966,14 +2036,15 @@
     "name": "Vestido crema de encaje y tull asimétrico",
     "category": "Gala",
     "price": 194.5,
-    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-125/01-R109.jpeg",
         "width": 1086,
         "height": 1448,
         "sourceIndex": 109,
-        "sha256": "99d252d060118e033a40f30a1d1507b2a0d0b27fa08825f5f4a82b75c73a3134"
+        "sha256": "99d252d060118e033a40f30a1d1507b2a0d0b27fa08825f5f4a82b75c73a3134",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-125/01-R109.jpeg",
@@ -1982,5 +2053,263 @@
     "tags": [
       "Liquidación"
     ]
+  },
+  {
+    "id": 126,
+    "name": "Vestido Bandage Negro/Blanco",
+    "category": "Bandage",
+    "price": 449,
+    "note": "Un look con actitud para una noche que promete. Combínalo con tus accesorios favoritos y disfruta tu momento.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-126/01-R146.jpeg",
+        "width": 1080,
+        "height": 1030,
+        "sourceIndex": 146,
+        "sha256": "2dd43c10318df6591660df8916f42be7fdbfa2688d63623917e8b754e5c8bfc6",
+        "view": "Frente"
+      }
+    ],
+    "image": "./images/productos-reales/XL-126/01-R146.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 127,
+    "name": "Vestido vino strapless de tirantes con copas de pedrería",
+    "category": "Gala",
+    "price": 549,
+    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-127/01-R032.jpeg",
+        "width": 720,
+        "height": 960,
+        "sourceIndex": 32,
+        "sha256": "ef15ba35d02f2cbf4b26e09a94a9d865d745dbf3ac41f34ff653bd4a906567e0",
+        "view": "Frente"
+      }
+    ],
+    "image": "./images/productos-reales/XL-127/01-R032.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 128,
+    "name": "Vestido Bandage Rosado",
+    "category": "Bandage",
+    "price": 419,
+    "note": "Un look con actitud para una noche que promete. Combínalo con tus accesorios favoritos y disfruta tu momento.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-128/01-R144.jpeg",
+        "width": 1080,
+        "height": 1413,
+        "sourceIndex": 144,
+        "sha256": "35f16072b634db106427841e46f468c0a6dfb8317c50a8faa229ed6a1441aded",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-128/02-R019.jpeg",
+        "width": 1080,
+        "height": 1419,
+        "sourceIndex": 19,
+        "sha256": "aba2debcec0d1319770d68b889ccc0594e807491b230d96816abeefe2165154c",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-128/01-R144.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 129,
+    "name": "Vestido Bandage dorado de flecos",
+    "category": "Bandage",
+    "price": 389,
+    "note": "Coqueto y con personalidad: un vestido para arreglarte a tu manera y salir sintiéndote fabulosa.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-129/01-R143.jpeg",
+        "width": 1080,
+        "height": 1436,
+        "sourceIndex": 143,
+        "sha256": "0ec32e3102b0e7539156fbbc8ebe08955282741fe6ee502a3906104e5d067bd2",
+        "view": "Frente"
+      }
+    ],
+    "image": "./images/productos-reales/XL-129/01-R143.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 130,
+    "name": "Vestido corto plomo con detalle de lentejuelas y pliegue",
+    "category": "Cortos",
+    "price": 319,
+    "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-130/01-R080.jpeg",
+        "width": 1080,
+        "height": 1423,
+        "sourceIndex": 80,
+        "sha256": "4866415c5a50b5a803838ec05bfa22aed53af67bbc3ea50b8165bca1950ec2f6",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-130/02-R081.jpeg",
+        "width": 1080,
+        "height": 1435,
+        "sourceIndex": 81,
+        "sha256": "e10fa9e6d5c97e426625c4288c21e2e9f1199eaf8d2baa04eec70e6832cfc5cf",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-130/01-R080.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 131,
+    "name": "Vestido drapeado azul asimétrico",
+    "category": "Cortos",
+    "price": 389,
+    "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-131/01-R009.jpeg",
+        "width": 1086,
+        "height": 1448,
+        "sourceIndex": 9,
+        "sha256": "df4ac16c8b980d74ec18424e24cb392a7e8c4c8ba6f2647f8378837f0ca012a0",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-131/02-R158.jpeg",
+        "width": 1254,
+        "height": 1254,
+        "sourceIndex": 158,
+        "sha256": "8cdd7f81b0d963ddd6e34b067bf9c9ed78e6fbf29b3d7aca73d5695e11f4bed3",
+        "view": "Frente"
+      }
+    ],
+    "image": "./images/productos-reales/XL-131/01-R009.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 54,
+    "name": "Vestido corto de diamantes de imitación plateadas",
+    "category": "Cortos con brillo",
+    "price": 349,
+    "note": "Para las chicas que disfrutan arreglarse y hacerse notar. Lleva este look con confianza y tu toque personal.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-054/01-R135.png",
+        "width": 1080,
+        "height": 1429,
+        "sourceIndex": 135,
+        "sha256": "ccfb65f7138fd6d72ed722dfca050494016e952c11ff3b10526c8cc9d214ea6f",
+        "view": "Frente",
+        "sourceAttachment": "images/fotos-confirmadas/vestido-diamantes-plateados-frente-2026-10-07.png"
+      },
+      {
+        "src": "./images/productos-reales/XL-054/02-R131.jpeg",
+        "width": 1230,
+        "height": 1599,
+        "sourceIndex": 131,
+        "sha256": "fb07b30cceedb03e9d109f72de7f0d02a8ee74ae82b0e549ee0e9026df3303a2",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-054/01-R135.png",
+    "photoPending": false
+  },
+  {
+    "id": 132,
+    "name": "Vestido corto de lentejuelas con detalles de perlas",
+    "category": "Cortos con brillo",
+    "price": 419,
+    "note": "Hoy tienes permiso para brillar. Un look para celebrar con actitud y sentirte preciosa en cada foto.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-132/01-R020.jpeg",
+        "width": 1080,
+        "height": 1442,
+        "sourceIndex": 20,
+        "sha256": "035eb28ca27b681a160ec03abcb174fc00fbdefcc8f43a0ed5a5593c9f512e6e",
+        "view": "Frente"
+      }
+    ],
+    "image": "./images/productos-reales/XL-132/01-R020.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 133,
+    "name": "Vestido de lentejuelas vintage color azul",
+    "category": "Cortos con brillo",
+    "price": 489,
+    "note": "Un toque de brillo para tu próxima noche especial. Combínalo a tu gusto y deja que tu sonrisa complete el look.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-133/extra-01.jpg",
+        "width": 505,
+        "height": 702,
+        "sourceAttachment": "images/fotos-confirmadas/vintage-azul-captura-original-2026-10-07.png",
+        "view": "Frente",
+        "sha256": "9e74db32ab5536d7ccd448a6f11ea9ee92e3980978ba7cd599500f1409116a15"
+      },
+      {
+        "src": "./images/productos-reales/XL-133/01-R025.jpeg",
+        "width": 1080,
+        "height": 1417,
+        "sourceIndex": 25,
+        "sha256": "b99fe3030fe303446c966564e4e58be701944751a5b87907707d26ea3e44ab1b",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-133/extra-01.jpg",
+    "photoPending": false
+  },
+  {
+    "id": 134,
+    "name": "Vestido de pedrería negro con plumas",
+    "category": "Cortos con brillo",
+    "price": 469,
+    "note": "Para las chicas que disfrutan arreglarse y hacerse notar. Lleva este look con confianza y tu toque personal.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-134/01-R061.jpeg",
+        "width": 1080,
+        "height": 1370,
+        "sourceIndex": 61,
+        "sha256": "a6186e8b98b49842f86ecbb4678c7d0e6adb1750521958f2aac2d1fc13c46a7f",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-134/02-R063.jpeg",
+        "width": 1080,
+        "height": 1360,
+        "sourceIndex": 63,
+        "sha256": "5137cfc4fd9cf8ee8fa80548e2894e45c6a40c458cc08690ffdbaa05f55965f4",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-134/01-R061.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 135,
+    "name": "Vestido corto guinda de perlas",
+    "category": "Cortos con brillo",
+    "price": 389,
+    "note": "Hoy tienes permiso para brillar. Un look para celebrar con actitud y sentirte preciosa en cada foto.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-135/01-R067.jpeg",
+        "width": 1080,
+        "height": 1062,
+        "sourceIndex": 67,
+        "sha256": "26410cb1564c2770bce245e0701eb3acefff85cc133cdf1952c67e523339abc7",
+        "view": "Frente"
+      }
+    ],
+    "image": "./images/productos-reales/XL-135/01-R067.jpeg",
+    "photoPending": false
   }
 ]

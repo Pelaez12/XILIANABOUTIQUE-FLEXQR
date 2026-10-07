@@ -499,9 +499,9 @@
     },
     {
       "code": "PD-006",
-      "name": "Midi azul halter con abertura",
-      "category": "Bandage",
-      "price": null,
+      "name": "Vestido drapeado azul asimétrico",
+      "category": "Cortos sin brillo",
+      "price": 389,
       "sourceIndices": [
         9,
         158
@@ -522,7 +522,7 @@
           "sha256": "8cdd7f81b0d963ddd6e34b067bf9c9ed78e6fbf29b3d7aca73d5695e11f4bed3"
         }
       ],
-      "status": "No publicar: falta confirmar nombre, precio y disponibilidad"
+      "status": "Confirmado por el usuario"
     },
     {
       "code": "PD-007",
@@ -2105,9 +2105,9 @@
     },
     {
       "code": "PD-069",
-      "name": "Vestido dorado con flecos y abertura",
-      "category": "Gala",
-      "price": null,
+      "name": "Vestido Bandage dorado de flecos",
+      "category": "Bandage",
+      "price": 389,
       "sourceIndices": [
         143
       ],
@@ -2120,7 +2120,7 @@
           "sha256": "0ec32e3102b0e7539156fbbc8ebe08955282741fe6ee502a3906104e5d067bd2"
         }
       ],
-      "status": "No publicar: falta confirmar nombre, precio y disponibilidad"
+      "status": "Confirmado por el usuario; código 2070"
     },
     {
       "code": "PD-070",

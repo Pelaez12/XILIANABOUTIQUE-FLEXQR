@@ -438,17 +438,6 @@
       "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
     },
     {
-      "nombre": "Vestido corto de diamantes de imitación plateadas",
-      "precio": 349.0,
-      "categoria": "Cortos con brillo",
-      "video": null,
-      "indices": [
-        135
-      ],
-      "estado": "Asociación real previamente revisada",
-      "origen": "Catálogo y revisión previa; no se atribuye evidencia nueva al video"
-    },
-    {
       "nombre": "Vestido corto blanco de lentejuelas",
       "precio": 349.0,
       "categoria": "Cortos con brillo",
@@ -1026,135 +1015,151 @@
       ],
       "precio_regular": 389,
       "descuento_porcentaje": 50
-    }
-  ],
-  "pendientes": [
+    },
     {
-      "codigo": "PD-006",
-      "nombre_provisional": "Midi azul halter con abertura",
+      "nombre": "Shall de tull con encaje negro",
+      "precio": 189,
+      "categoria": "Fuera de vestidos",
+      "video": null,
+      "indices": [
+        115,
+        121
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-057"
+    },
+    {
+      "nombre": "Vestido Bandage Negro/Blanco",
+      "precio": 449,
       "categoria": "Bandage",
+      "video": null,
       "indices": [
-        9,
-        158
+        146
       ],
-      "estado": "Sin asociación exacta confirmada"
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · R146"
     },
     {
-      "codigo": "PD-013",
-      "nombre_provisional": "Midi fucsia de tirantes con aberturas",
-      "categoria": "Bandage",
-      "indices": [
-        18,
-        19
-      ],
-      "estado": "Sin asociación exacta confirmada"
-    },
-    {
-      "codigo": "PD-014",
-      "nombre_provisional": "Corto dorado strapless asimétrico",
-      "categoria": "Cortos con brillo",
-      "indices": [
-        20
-      ],
-      "estado": "Sin asociación exacta confirmada"
-    },
-    {
-      "codigo": "PD-017",
-      "nombre_provisional": "Midi gris vista posterior por identificar",
-      "categoria": "Por identificar",
-      "indices": [
-        25
-      ],
-      "estado": "Sin asociación exacta confirmada"
-    },
-    {
-      "codigo": "PD-020",
-      "nombre_provisional": "Corto burdeos con pieza estampada asimétrica",
-      "categoria": "Cortos",
+      "nombre": "Vestido vino strapless de tirantes con copas de pedrería",
+      "precio": 549,
+      "categoria": "Gala",
+      "video": null,
       "indices": [
         32
       ],
-      "estado": "Sin asociación exacta confirmada"
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · R032"
     },
     {
-      "codigo": "PD-030",
-      "nombre_provisional": "Midi plateado y negro de tirantes",
-      "categoria": "Cortos con brillo",
+      "nombre": "Vestido Bandage Rosado",
+      "precio": 419,
+      "categoria": "Bandage",
+      "video": null,
       "indices": [
-        61,
-        63
+        144,
+        19,
+        18
       ],
-      "estado": "Sin asociación exacta confirmada"
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-070 / PD-013"
     },
     {
-      "codigo": "PD-034",
-      "nombre_provisional": "Corto burdeos de manga larga con pedrería",
-      "categoria": "Cortos con brillo",
+      "nombre": "Vestido Bandage dorado de flecos",
+      "precio": 389,
+      "categoria": "Bandage",
+      "video": null,
       "indices": [
-        67
+        143
       ],
-      "estado": "Sin asociación exacta confirmada"
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-069"
     },
     {
-      "codigo": "PD-040",
-      "nombre_provisional": "Corto gris con cola y hombros descubiertos",
-      "categoria": "Gala",
+      "nombre": "Vestido corto plomo con detalle de lentejuelas y pliegue",
+      "precio": 319,
+      "categoria": "Cortos sin brillo",
+      "video": null,
       "indices": [
         80,
         81,
         97,
         99
       ],
-      "estado": "Sin asociación exacta confirmada"
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · R080-R081-R097-R099"
     },
     {
-      "codigo": "PD-057",
-      "nombre_provisional": "Capa negra de tul y encaje",
-      "categoria": "Fuera de vestidos",
+      "nombre": "Vestido drapeado azul asimétrico",
+      "precio": 389,
+      "categoria": "Cortos sin brillo",
+      "video": null,
       "indices": [
-        115,
-        121
+        9,
+        158
       ],
-      "estado": "Sin asociación exacta confirmada"
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-006"
     },
     {
-      "codigo": "PD-062",
-      "nombre_provisional": "Corto negro vista posterior por identificar",
-      "categoria": "Por identificar",
+      "nombre": "Vestido corto de diamantes de imitación plateadas",
+      "precio": 349,
+      "categoria": "Cortos con brillo",
+      "video": null,
       "indices": [
+        135,
         131
       ],
-      "estado": "Sin asociación exacta confirmada"
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-062"
     },
     {
-      "codigo": "PD-069",
-      "nombre_provisional": "Vestido dorado con flecos y abertura",
-      "categoria": "Gala",
+      "nombre": "Vestido corto de lentejuelas con detalles de perlas",
+      "precio": 419,
+      "categoria": "Cortos con brillo",
+      "video": null,
       "indices": [
-        143
+        20
       ],
-      "estado": "Sin asociación exacta confirmada"
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-014"
     },
     {
-      "codigo": "PD-070",
-      "nombre_provisional": "Midi fucsia con aberturas",
-      "categoria": "Bandage",
+      "nombre": "Vestido de lentejuelas vintage color azul",
+      "precio": 489,
+      "categoria": "Cortos con brillo",
+      "video": null,
       "indices": [
-        144
+        25
       ],
-      "estado": "Sin asociación exacta confirmada"
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-017"
     },
     {
-      "codigo": "PD-071",
-      "nombre_provisional": "Conjunto negro y blanco con top peplum",
-      "categoria": "Fuera de vestidos",
+      "nombre": "Vestido de pedrería negro con plumas",
+      "precio": 469,
+      "categoria": "Cortos con brillo",
+      "video": null,
       "indices": [
-        146
+        61,
+        63
       ],
-      "estado": "Sin asociación exacta confirmada"
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-030"
+    },
+    {
+      "nombre": "Vestido corto guinda de perlas",
+      "precio": 389,
+      "categoria": "Cortos con brillo",
+      "video": null,
+      "indices": [
+        67
+      ],
+      "estado": "Nombre y precio confirmados por el usuario",
+      "origen": "Confirmación del usuario · PD-034"
     }
   ],
+  "pendientes": [],
   "total_archivos": 166,
-  "fotos_asociadas": 146,
+  "fotos_asociadas": 166,
   "asociaciones_nuevas": 19
 }

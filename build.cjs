@@ -29,7 +29,7 @@ function media(directory) {
     }
   }
 }
-for (const file of ['index.html', 'styles.css', 'experience.css', 'main.js', 'products.js', 'catalog-utils.js', 'gallery.js', 'order-data.js', 'order-ui.js', 'video-audio.js', '_headers']) {
+for (const file of ['index.html', 'styles.css', 'experience.css', 'main.js', 'products.js', 'catalog-utils.js', 'gallery.js', 'order-data.js', 'order-ui.js', 'video-audio.js', 'collection-search.js', 'whatsapp-help.js', '_headers']) {
   copy(path.join(__dirname, file), file);
 }
 media(path.join(__dirname, 'images'));

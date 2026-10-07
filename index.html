@@ -35,16 +35,9 @@
         <p id="video-status" class="video-status" role="status"></p>
       </section>
 
-      <section class="category-showcase" aria-labelledby="category-showcase-title">
-        <h2 id="category-showcase-title">¿Para qué ocasión buscas tu vestido?</h2>
+      <section class="category-showcase" id="coleccion" aria-labelledby="category-showcase-title">
+        <h1 id="category-showcase-title">¿Para qué ocasión buscas tu vestido?</h1>
         <div class="category-showcase-grid" id="category-showcase-grid"></div>
-      </section>
-
-      <section class="catalog" id="coleccion" aria-labelledby="catalog-title">
-        <div class="section-heading"><div><p class="eyebrow">Xiliana Boutique · Jesús María, Lima</p><h1 id="catalog-title">Vestidos para lucirte.</h1></div><p><span id="product-count">20</span> vestidos · precios del catálogo en soles</p></div>
-        <div class="catalog-controls"><div class="filters" id="filters" role="group" aria-label="Filtrar vestidos"></div><label class="search"><span class="sr-only">Buscar vestido</span><input id="search" type="search" placeholder="Buscar por nombre o color" autocomplete="off" /><span aria-hidden="true">⌕</span></label></div>
-        <div class="product-grid" id="product-grid"></div>
-        <p class="empty" id="empty" hidden>No encontramos vestidos con esa búsqueda. Prueba con otro nombre o color.</p>
       </section>
 
       <section class="contact-strip"><div><p class="eyebrow">Atención personal</p><h2>¿Cuál te queda mejor?</h2><p>Prendas únicas y personalizadas. Por ahora, sin talla definida: coordinamos contigo las medidas y los detalles.</p></div><a class="button button-light" href="https://wa.me/51930527248?text=Hola%20Xiliana%20Boutique%2C%20quiero%20consultar%20por%20sus%20vestidos." target="_blank" rel="noopener noreferrer">Hablar por WhatsApp <span aria-hidden="true">↗</span></a></section>
@@ -53,6 +46,12 @@
 
     <footer class="site-footer" id="contacto">
       <div class="footer-main"><a class="brand-logo" href="#inicio" aria-label="Xiliana Boutique, inicio"><img src="./images/xiliana-logo-gold-black.png" alt="Xiliana Boutique by Antonio Grau" /></a><p>Solo una vida para lucirte.</p><a class="official-link" href="https://xilianaboutique.comunidadfortaleza.com/">Sitio oficial ↗</a></div>
+<div class="boutique-contact" aria-label="Contacto de Xiliana Boutique">
+  <div><h2>Hablemos de tu próximo look.</h2><p>Te ayudamos con el modelo, las medidas y los detalles de tu pedido.</p><a class="contact-whatsapp" href="https://wa.me/51930527248?text=Hola%20Xiliana%2C%20me%20gustar%C3%ADa%20que%20me%20ayuden%20a%20elegir%20un%20vestido." target="_blank" rel="noopener noreferrer"><img src="/images/social/whatsapp.svg" alt="" />Escríbenos por WhatsApp ↗</a><a class="contact-phone" href="tel:+51930527248">+51 930 527 248</a></div>
+  <div><h3>Ven a conocernos</h3><address>Av. Horacio Urteaga 1438, Tienda 166<br>Centro Comercial El Rey<br>Jesús María, Lima</address><a href="https://www.google.com/maps/search/?api=1&amp;query=Xiliana%20Boutique%20Horacio%20Urteaga%201438%20Jes%C3%BAs%20Mar%C3%ADa" target="_blank" rel="noopener noreferrer">Cómo llegar ↗</a><p>Lunes a sábado: 11:00 a. m. a 8:00 p. m.<br>Domingo cerrado</p></div>
+  <div><h3>También por correo</h3><p>Para consultas y coordinación con la boutique.</p><a class="contact-email" href="mailto:xilianaboutique@gmail.com">xilianaboutique@gmail.com ↗</a><p>Tu visita, disponibilidad y entrega se confirman con nuestro equipo.</p></div>
+</div>
+
       <nav class="social-links" aria-label="Redes y contacto de Xiliana Boutique">
         <a href="https://www.instagram.com/xilianaboutiqueof/" target="_blank" rel="noopener noreferrer" aria-label="Instagram de Xiliana Boutique"><img src="./images/social/instagram.svg" alt="" /><span>Instagram</span><span aria-hidden="true">↗</span></a>
         <a href="https://www.tiktok.com/@xilianaboutique" target="_blank" rel="noopener noreferrer" aria-label="TikTok de Xiliana Boutique"><img src="./images/social/tiktok.svg" alt="" /><span>TikTok</span><span aria-hidden="true">↗</span></a>
@@ -62,7 +61,16 @@
       <div class="footer-bottom"><small>Prendas únicas y personalizadas, sin talla definida por ahora. Medidas, precios y disponibilidad se coordinan con Xiliana Boutique.</small><div class="creator-credit"><span>Sitio creado por <strong>FLEXCOREOS</strong></span><a href="tel:+51992272521">¿Quieres un sitio así? Llámanos al <strong>992 272 521</strong> ↗</a></div></div>
     </footer>
 
-    <dialog id="product-dialog" aria-labelledby="dialog-title"><button class="dialog-close" id="dialog-close" aria-label="Cerrar ficha">×</button><div id="dialog-content"></div></dialog>
+<div class="whatsapp-widget">
+  <section class="whatsapp-panel" id="whatsapp-panel" role="dialog" aria-modal="false" aria-labelledby="whatsapp-title" hidden>
+    <header class="whatsapp-panel-header"><div><p>Xiliana Boutique</p><h2 id="whatsapp-title">¿Te ayudamos a elegir?</h2></div><button type="button" class="whatsapp-close" aria-label="Cerrar ayuda de WhatsApp">×</button></header>
+    <div class="whatsapp-panel-body"><p class="whatsapp-greeting">¡Hola, linda! Cuéntanos qué vestido te gustó. Te ayudamos con las medidas, la disponibilidad y tu pedido.</p><form action="https://wa.me/51930527248" method="get" target="_blank"><label for="whatsapp-message">Tu mensaje</label><textarea id="whatsapp-message" name="text" rows="3" maxlength="1200" required>Hola Xiliana Boutique, ¿me ayudan a elegir un vestido?</textarea><p class="whatsapp-message-hint">Continúa en WhatsApp para enviar tu mensaje a la boutique.</p><button class="whatsapp-send" type="submit"><img src="/images/social/whatsapp.svg" alt="" />Continuar en WhatsApp ↗</button></form><p class="whatsapp-panel-hours">Lun. a sáb. · 11:00 a. m. a 8:00 p. m.</p></div>
+  </section>
+  <a class="whatsapp-help" href="https://wa.me/51930527248?text=Hola%20Xiliana%20Boutique%2C%20%C2%BFme%20ayudan%20a%20elegir%20un%20vestido%3F" target="_blank" rel="noopener noreferrer" aria-label="Abrir ayuda de WhatsApp" aria-controls="whatsapp-panel" aria-expanded="false" aria-haspopup="dialog"><span><strong>¿Necesitas ayuda?</strong><small>Escríbenos un mensajito</small></span><img src="/images/social/whatsapp.svg" alt="" /></a>
+</div>
+<script type="module" src="/whatsapp-help.js"></script>
+
+
     <noscript><style>.opening{display:none}.catalog-controls{display:none}.video-sound{display:none}</style><p>Activa JavaScript para usar el formulario. También puedes consultar tu vestido directamente por <a href="https://wa.me/51930527248">WhatsApp</a>.</p></noscript>
     <script type="module" src="./main.js?v=real-photos-2"></script>
   </body>

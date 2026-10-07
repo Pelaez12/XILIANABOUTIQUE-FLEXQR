@@ -1,0 +1,754 @@
+[
+  {
+    "id": 59,
+    "nombre": "Vestido de gala en degradado",
+    "vistas": {
+      "27": "Frente",
+      "28": "Espalda",
+      "29": "Frente"
+    }
+  },
+  {
+    "id": 60,
+    "nombre": "Vestido de gasa azul",
+    "vistas": {
+      "15": "Frente"
+    }
+  },
+  {
+    "id": 61,
+    "nombre": "Vestido largo morado claro",
+    "vistas": {
+      "35": "Frente",
+      "38": "Espalda"
+    }
+  },
+  {
+    "id": 62,
+    "nombre": "Vestido largo corte sirena negro con lazo y mangas",
+    "vistas": {
+      "43": "Frente",
+      "45": "Espalda",
+      "46": "Frente"
+    }
+  },
+  {
+    "id": 63,
+    "nombre": "Vestido corto cuello diagonal, plisado y liso",
+    "vistas": {
+      "165": "Frente"
+    }
+  },
+  {
+    "id": 64,
+    "nombre": "Vestido corto celeste con corte sirena",
+    "vistas": {
+      "49": "Frente",
+      "50": "Espalda",
+      "156": "Frente"
+    }
+  },
+  {
+    "id": 65,
+    "nombre": "Vestido Corto Bellmet asimétrica color verde",
+    "vistas": {
+      "93": "Espalda",
+      "96": "Frente"
+    }
+  },
+  {
+    "id": 66,
+    "nombre": "Vestido color verde terciopelo semi drapeado con manga y escote",
+    "vistas": {
+      "94": "Frente",
+      "95": "Espalda",
+      "166": "Frente"
+    }
+  },
+  {
+    "id": 67,
+    "nombre": "Vestido corto blanco drapeado con mangas largas",
+    "vistas": {
+      "132": "Frente",
+      "133": "Espalda"
+    }
+  },
+  {
+    "id": 68,
+    "nombre": "Vestido de cuello cuadrado de manga larga color rosado",
+    "vistas": {
+      "65": "Frente",
+      "66": "Espalda",
+      "164": "Frente"
+    }
+  },
+  {
+    "id": 69,
+    "nombre": "Vestido drapeado azul asimétrico",
+    "vistas": {
+      "142": "Frente",
+      "153": "Frente"
+    }
+  },
+  {
+    "id": 70,
+    "nombre": "Bandage dress nude con blanco",
+    "vistas": {
+      "154": "Frente"
+    }
+  },
+  {
+    "id": 71,
+    "nombre": "Vestido Bandage Dorado",
+    "vistas": {
+      "126": "Frente",
+      "127": "Espalda"
+    }
+  },
+  {
+    "id": 72,
+    "nombre": "Vestido Bandage negro con aplicaciones plateadas",
+    "vistas": {
+      "150": "Frente y espalda"
+    }
+  },
+  {
+    "id": 73,
+    "nombre": "Vestido Bandage rojo",
+    "vistas": {
+      "107": "Frente"
+    }
+  },
+  {
+    "id": 74,
+    "nombre": "Vestido Bandage negro con rosado y perlas rosadas",
+    "vistas": {
+      "60": "Frente"
+    }
+  },
+  {
+    "id": 75,
+    "nombre": "Vestido Bandage negro con lazo blanco",
+    "vistas": {
+      "26": "Frente",
+      "145": "Frente"
+    }
+  },
+  {
+    "id": 76,
+    "nombre": "Vestido Bandage Amarillo — mini",
+    "vistas": {
+      "149": "Frente"
+    }
+  },
+  {
+    "id": 77,
+    "nombre": "Vestido Bandage Amarillo — midi",
+    "vistas": {
+      "55": "Frente",
+      "59": "Espalda",
+      "148": "Frente"
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Vestido largo fucsia",
+    "vistas": {
+      "33": "Frente"
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Vestido largo amarillo con lazo",
+    "vistas": {
+      "30": "Frente",
+      "34": "Espalda"
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Vestido corto azul con estampado floral",
+    "vistas": {
+      "155": "Frente"
+    }
+  },
+  {
+    "id": 14,
+    "nombre": "Vestido bandage verde con rayas",
+    "vistas": {
+      "152": "Frente"
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "Vestido transparente con diamantes de imitación",
+    "vistas": {
+      "31": "Frente"
+    }
+  },
+  {
+    "id": 17,
+    "nombre": "Vestido corto dorado de una manga",
+    "vistas": {
+      "44": "Frente"
+    }
+  },
+  {
+    "id": 20,
+    "nombre": "Vestido rojo largo de manga abanicada",
+    "vistas": {
+      "128": "Frente",
+      "129": "Espalda"
+    }
+  },
+  {
+    "id": 22,
+    "nombre": "Vestido blanco de corte sirena de manga larga de rosas",
+    "vistas": {
+      "47": "Frente",
+      "48": "Espalda"
+    }
+  },
+  {
+    "id": 23,
+    "nombre": "Vestido largo crema de mangas",
+    "vistas": {
+      "51": "Frente",
+      "56": "Detalle"
+    }
+  },
+  {
+    "id": 24,
+    "nombre": "Vestido largo amarillo corte romano",
+    "vistas": {
+      "122": "Frente",
+      "123": "Espalda"
+    }
+  },
+  {
+    "id": 35,
+    "nombre": "Vestido corto de una manga color marrón",
+    "vistas": {
+      "6": "Frente"
+    }
+  },
+  {
+    "id": 38,
+    "nombre": "Vestido corto de lentejuelas rosado de una manga",
+    "vistas": {
+      "125": "Frente"
+    }
+  },
+  {
+    "id": 39,
+    "nombre": "Vestido verde de lentejuelas y mostacillas",
+    "vistas": {
+      "5": "Frente"
+    }
+  },
+  {
+    "id": 40,
+    "nombre": "Vestido corto 3/4 de lentejuelas con terciopelo en el busto",
+    "vistas": {
+      "14": "Frente"
+    }
+  },
+  {
+    "id": 49,
+    "nombre": "Vestido corto rojo de lentejuelas",
+    "vistas": {
+      "52": "Frente"
+    }
+  },
+  {
+    "id": 51,
+    "nombre": "Vestido corto de lentejuelas celeste y azul",
+    "vistas": {
+      "147": "Frente"
+    }
+  },
+  {
+    "id": 52,
+    "nombre": "Vestido corto asimétrico de lentejuelas azul",
+    "vistas": {
+      "69": "Frente",
+      "70": "Espalda",
+      "71": "Lateral"
+    }
+  },
+  {
+    "id": 57,
+    "nombre": "Vestido corto blanco de lentejuelas",
+    "vistas": {
+      "2": "Frente"
+    }
+  },
+  {
+    "id": 78,
+    "nombre": "Vestido corto negro de brillos plateados",
+    "vistas": {
+      "11": "Frente"
+    }
+  },
+  {
+    "id": 79,
+    "nombre": "Vestido corto Blanco de una manga",
+    "vistas": {
+      "160": "Frente"
+    }
+  },
+  {
+    "id": 80,
+    "nombre": "Vestido corto drapeado",
+    "vistas": {
+      "163": "Frente"
+    }
+  },
+  {
+    "id": 81,
+    "nombre": "Vestido largo marrón con detalle plateados",
+    "vistas": {
+      "140": "Frente"
+    }
+  },
+  {
+    "id": 82,
+    "nombre": "Vestido corto con escote y detalles plateados",
+    "vistas": {
+      "157": "Frente"
+    }
+  },
+  {
+    "id": 83,
+    "nombre": "Vestido 3/4 blanco de mangas con strass plateadas",
+    "vistas": {
+      "113": "Frente",
+      "114": "Espalda"
+    }
+  },
+  {
+    "id": 84,
+    "nombre": "Vestido corto satín (Talla S)",
+    "vistas": {
+      "10": "Frente",
+      "159": "Frente"
+    }
+  },
+  {
+    "id": 85,
+    "nombre": "Vestido corto drapeado marrón con blanco",
+    "vistas": {
+      "13": "Frente",
+      "162": "Frente"
+    }
+  },
+  {
+    "id": 86,
+    "nombre": "Vestido crema de Gaza con detalles estrellas doradas",
+    "vistas": {
+      "161": "Frente"
+    }
+  },
+  {
+    "id": 87,
+    "nombre": "Vestido Largo Color Pic Blue",
+    "vistas": {
+      "16": "Frente"
+    }
+  },
+  {
+    "id": 88,
+    "nombre": "Vestido largo azul corte sirena con tirantes cruzados",
+    "vistas": {
+      "39": "Frente",
+      "40": "Frente",
+      "42": "Espalda"
+    }
+  },
+  {
+    "id": 89,
+    "nombre": "Vestido largo de gala dorado",
+    "vistas": {
+      "124": "Frente",
+      "130": "Espalda"
+    }
+  },
+  {
+    "id": 90,
+    "nombre": "Vestido de gala gamusa color guinda con perlas",
+    "vistas": {
+      "76": "Frente",
+      "77": "Espalda"
+    }
+  },
+  {
+    "id": 91,
+    "nombre": "Vestido elegante sirena color verde",
+    "vistas": {
+      "74": "Frente",
+      "75": "Espalda"
+    }
+  },
+  {
+    "id": 92,
+    "nombre": "Vestido largo de gala lentejuelas negro con mangas",
+    "vistas": {
+      "82": "Frente",
+      "87": "Espalda",
+      "98": "Frente",
+      "104": "Espalda"
+    }
+  },
+  {
+    "id": 93,
+    "nombre": "Vestido fucsia con escote y pliegue izquierdo",
+    "vistas": {
+      "72": "Frente",
+      "78": "Espalda"
+    }
+  },
+  {
+    "id": 94,
+    "nombre": "Vestido largo de gala asimétrico de una manga dorado con negro",
+    "vistas": {
+      "90": "Frente",
+      "91": "Espalda"
+    }
+  },
+  {
+    "id": 95,
+    "nombre": "Vestido corte acampanado de tejido brillante",
+    "vistas": {
+      "68": "Espalda",
+      "73": "Frente"
+    }
+  },
+  {
+    "id": 96,
+    "nombre": "Vestido sirena color verde gamuzado con mangas y cuello cuadrado",
+    "vistas": {
+      "79": "Espalda",
+      "83": "Frente"
+    }
+  },
+  {
+    "id": 97,
+    "nombre": "Vestido sirena de lentejuelas verdes con detalles en los hombros",
+    "vistas": {
+      "86": "Frente",
+      "92": "Espalda"
+    }
+  },
+  {
+    "id": 98,
+    "nombre": "Vestido largo de mangas semi drapeado con detalles de brillos en",
+    "vistas": {
+      "84": "Frente",
+      "85": "Espalda"
+    }
+  },
+  {
+    "id": 99,
+    "nombre": "Vestido asimétrico dorado largo de gala",
+    "vistas": {
+      "100": "Frente",
+      "101": "Espalda"
+    }
+  },
+  {
+    "id": 100,
+    "nombre": "Vestido rojo de gala con strass plateadas",
+    "vistas": {
+      "64": "Frente",
+      "102": "Frente",
+      "103": "Espalda"
+    }
+  },
+  {
+    "id": 101,
+    "nombre": "Vestido de gala rojo con aplicaciones plateadas",
+    "vistas": {
+      "62": "Frente y lateral"
+    }
+  },
+  {
+    "id": 102,
+    "nombre": "Vestido largo con semi cola y detalles de pedrería plateados y mora",
+    "vistas": {
+      "106": "Frente"
+    }
+  },
+  {
+    "id": 103,
+    "nombre": "Vestido sirena de gala verde con perlas",
+    "vistas": {
+      "105": "Frente"
+    }
+  },
+  {
+    "id": 104,
+    "nombre": "Vestido de gala de lentejuelas color Brown",
+    "vistas": {
+      "23": "Frente",
+      "24": "Espalda"
+    }
+  },
+  {
+    "id": 105,
+    "nombre": "Vestido de gala de lentejuelas rosa",
+    "vistas": {
+      "17": "Frente",
+      "21": "Frente"
+    }
+  },
+  {
+    "id": 106,
+    "nombre": "Vestido de gala negro con detalles plateados",
+    "vistas": {
+      "134": "Frente",
+      "136": "Espalda"
+    }
+  },
+  {
+    "id": 107,
+    "nombre": "Vestido de gala de lentejuelas · modelo plomo",
+    "vistas": {
+      "112": "Frente",
+      "116": "Espalda"
+    }
+  },
+  {
+    "id": 108,
+    "nombre": "Vestido de gala de lentejuelas · modelo estampado",
+    "vistas": {
+      "138": "Frente",
+      "139": "Espalda"
+    }
+  },
+  {
+    "id": 109,
+    "nombre": "Vestido de gala crema con azul",
+    "vistas": {
+      "137": "Espalda",
+      "141": "Frente"
+    }
+  },
+  {
+    "id": 110,
+    "nombre": "Vestido largo de gala blanco con rayas moradas y morado y de cap",
+    "vistas": {
+      "110": "Espalda",
+      "111": "Frente"
+    }
+  },
+  {
+    "id": 111,
+    "nombre": "Vestido largo crema de perlas y pedrería plateadas",
+    "vistas": {
+      "118": "Espalda",
+      "119": "Frente"
+    }
+  },
+  {
+    "id": 112,
+    "nombre": "Vestido largo de gala dorado con rayas doradas y blanco",
+    "vistas": {
+      "117": "Frente",
+      "120": "Espalda"
+    }
+  },
+  {
+    "id": 113,
+    "nombre": "Vestido largo verde limón",
+    "vistas": {
+      "36": "Frente",
+      "37": "Frente",
+      "41": "Espalda"
+    }
+  },
+  {
+    "id": 114,
+    "nombre": "Vestido negro largo de perlas con detalles",
+    "vistas": {
+      "53": "Frente",
+      "54": "Espalda"
+    }
+  },
+  {
+    "id": 115,
+    "nombre": "Conjunto Bandage",
+    "vistas": {
+      "108": "Frente",
+      "151": "Frente"
+    }
+  },
+  {
+    "id": 116,
+    "nombre": "Vestido Bandage Amarillo",
+    "vistas": {
+      "57": "Frente",
+      "58": "Espalda"
+    }
+  },
+  {
+    "id": 117,
+    "nombre": "Vestido negro brillante",
+    "vistas": {
+      "22": "Frente"
+    }
+  },
+  {
+    "id": 118,
+    "nombre": "Vestido negro asimétrico con lentejuelas",
+    "vistas": {
+      "7": "Frente"
+    }
+  },
+  {
+    "id": 119,
+    "nombre": "Vestido corto escotado",
+    "vistas": {
+      "4": "Frente"
+    }
+  },
+  {
+    "id": 120,
+    "nombre": "Vestido corto dorado con negro",
+    "vistas": {
+      "3": "Frente"
+    }
+  },
+  {
+    "id": 121,
+    "nombre": "Vestido corto negro de tiras",
+    "vistas": {
+      "1": "Frente"
+    }
+  },
+  {
+    "id": 122,
+    "nombre": "Vestido corto negro",
+    "vistas": {
+      "12": "Frente"
+    }
+  },
+  {
+    "id": 123,
+    "nombre": "Vestido corto negro con plateado",
+    "vistas": {
+      "8": "Frente"
+    }
+  },
+  {
+    "id": 124,
+    "nombre": "Vestido Bandage corto negro con aplicaciones plateadas",
+    "vistas": {
+      "88": "Frente",
+      "89": "Espalda"
+    }
+  },
+  {
+    "id": 125,
+    "nombre": "Vestido crema de encaje y tull asimétrico",
+    "vistas": {
+      "109": "Frente"
+    }
+  },
+  {
+    "id": 126,
+    "nombre": "Vestido Bandage Negro/Blanco",
+    "vistas": {
+      "146": "Frente"
+    }
+  },
+  {
+    "id": 127,
+    "nombre": "Vestido vino strapless de tirantes con copas de pedrería",
+    "vistas": {
+      "32": "Frente"
+    }
+  },
+  {
+    "id": 128,
+    "nombre": "Vestido Bandage Rosado",
+    "vistas": {
+      "144": "Frente",
+      "19": "Espalda"
+    }
+  },
+  {
+    "id": 129,
+    "nombre": "Vestido Bandage dorado de flecos",
+    "vistas": {
+      "143": "Frente"
+    }
+  },
+  {
+    "id": 130,
+    "nombre": "Vestido corto plomo con detalle de lentejuelas y pliegue",
+    "vistas": {
+      "80": "Frente",
+      "81": "Espalda",
+      "97": "Espalda",
+      "99": "Frente"
+    }
+  },
+  {
+    "id": 131,
+    "nombre": "Vestido drapeado azul asimétrico",
+    "vistas": {
+      "9": "Frente",
+      "158": "Frente"
+    }
+  },
+  {
+    "id": 54,
+    "nombre": "Vestido corto de diamantes de imitación plateadas",
+    "vistas": {
+      "135": "Frente",
+      "131": "Espalda"
+    }
+  },
+  {
+    "id": 132,
+    "nombre": "Vestido corto de lentejuelas con detalles de perlas",
+    "vistas": {
+      "20": "Frente"
+    }
+  },
+  {
+    "id": 133,
+    "nombre": "Vestido de lentejuelas vintage color azul",
+    "vistas": {
+      "25": "Espalda"
+    },
+    "fotos_adicionales": [
+      {
+        "path": "images/fotos-confirmadas/vintage-azul-frente-2026-10-07.jpg",
+        "view": "Frente",
+        "sourceAttachment": "images/fotos-confirmadas/vintage-azul-captura-original-2026-10-07.png",
+        "crop": [
+          70,
+          70,
+          575,
+          772
+        ]
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "nombre": "Vestido de pedrería negro con plumas",
+    "vistas": {
+      "61": "Frente",
+      "63": "Espalda"
+    }
+  },
+  {
+    "id": 135,
+    "nombre": "Vestido corto guinda de perlas",
+    "vistas": {
+      "67": "Frente"
+    }
+  }
+]

@@ -1,0 +1,265 @@
+{
+  "fecha": "2026-10-07",
+  "archivos_zip_revisados": 166,
+  "archivos_zip_nuevos": 0,
+  "productos_revisados": 96,
+  "fotos_publicadas": 155,
+  "productos_con_frente_y_espalda": 47,
+  "portadas_corregidas": [
+    65,
+    95,
+    96,
+    105,
+    109,
+    110,
+    111,
+    133
+  ],
+  "pendientes_de_espalda": [
+    {
+      "id": 60,
+      "nombre": "Vestido de gasa azul",
+      "categoria": "Gala"
+    },
+    {
+      "id": 63,
+      "nombre": "Vestido corto cuello diagonal, plisado y liso",
+      "categoria": "Cortos"
+    },
+    {
+      "id": 69,
+      "nombre": "Vestido drapeado azul asimétrico",
+      "categoria": "Cortos"
+    },
+    {
+      "id": 70,
+      "nombre": "Bandage dress nude con blanco",
+      "categoria": "Bandage"
+    },
+    {
+      "id": 73,
+      "nombre": "Vestido Bandage rojo",
+      "categoria": "Bandage"
+    },
+    {
+      "id": 74,
+      "nombre": "Vestido Bandage negro con rosado y perlas rosadas",
+      "categoria": "Bandage"
+    },
+    {
+      "id": 75,
+      "nombre": "Vestido Bandage negro con lazo blanco",
+      "categoria": "Bandage"
+    },
+    {
+      "id": 76,
+      "nombre": "Vestido Bandage Amarillo — mini",
+      "categoria": "Bandage"
+    },
+    {
+      "id": 5,
+      "nombre": "Vestido largo fucsia",
+      "categoria": "Largos"
+    },
+    {
+      "id": 10,
+      "nombre": "Vestido corto azul con estampado floral",
+      "categoria": "Cortos"
+    },
+    {
+      "id": 14,
+      "nombre": "Vestido bandage verde con rayas",
+      "categoria": "Bandage"
+    },
+    {
+      "id": 16,
+      "nombre": "Vestido transparente con diamantes de imitación",
+      "categoria": "Liquidación"
+    },
+    {
+      "id": 17,
+      "nombre": "Vestido corto dorado de una manga",
+      "categoria": "Liquidación"
+    },
+    {
+      "id": 23,
+      "nombre": "Vestido largo crema de mangas",
+      "categoria": "Largos"
+    },
+    {
+      "id": 35,
+      "nombre": "Vestido corto de una manga color marrón",
+      "categoria": "Cortos con brillo"
+    },
+    {
+      "id": 38,
+      "nombre": "Vestido corto de lentejuelas rosado de una manga",
+      "categoria": "Cortos con brillo"
+    },
+    {
+      "id": 39,
+      "nombre": "Vestido verde de lentejuelas y mostacillas",
+      "categoria": "Cortos con brillo"
+    },
+    {
+      "id": 40,
+      "nombre": "Vestido corto 3/4 de lentejuelas con terciopelo en el busto",
+      "categoria": "Cortos con brillo"
+    },
+    {
+      "id": 49,
+      "nombre": "Vestido corto rojo de lentejuelas",
+      "categoria": "Cortos con brillo"
+    },
+    {
+      "id": 51,
+      "nombre": "Vestido corto de lentejuelas celeste y azul",
+      "categoria": "Cortos con brillo"
+    },
+    {
+      "id": 57,
+      "nombre": "Vestido corto blanco de lentejuelas",
+      "categoria": "Cortos con brillo"
+    },
+    {
+      "id": 78,
+      "nombre": "Vestido corto negro de brillos plateados",
+      "categoria": "Cortos con brillo"
+    },
+    {
+      "id": 79,
+      "nombre": "Vestido corto Blanco de una manga",
+      "categoria": "Cortos"
+    },
+    {
+      "id": 80,
+      "nombre": "Vestido corto drapeado",
+      "categoria": "Cortos"
+    },
+    {
+      "id": 81,
+      "nombre": "Vestido largo marrón con detalle plateados",
+      "categoria": "Cortos"
+    },
+    {
+      "id": 82,
+      "nombre": "Vestido corto con escote y detalles plateados",
+      "categoria": "Cortos"
+    },
+    {
+      "id": 84,
+      "nombre": "Vestido corto satín (Talla S)",
+      "categoria": "Cortos"
+    },
+    {
+      "id": 85,
+      "nombre": "Vestido corto drapeado marrón con blanco",
+      "categoria": "Cortos"
+    },
+    {
+      "id": 86,
+      "nombre": "Vestido crema de Gaza con detalles estrellas doradas",
+      "categoria": "Cortos"
+    },
+    {
+      "id": 87,
+      "nombre": "Vestido Largo Color Pic Blue",
+      "categoria": "Gala"
+    },
+    {
+      "id": 101,
+      "nombre": "Vestido de gala rojo con aplicaciones plateadas",
+      "categoria": "Gala"
+    },
+    {
+      "id": 102,
+      "nombre": "Vestido largo con semi cola y detalles de pedrería plateados y mora",
+      "categoria": "Gala"
+    },
+    {
+      "id": 103,
+      "nombre": "Vestido sirena de gala verde con perlas",
+      "categoria": "Gala"
+    },
+    {
+      "id": 105,
+      "nombre": "Vestido de gala de lentejuelas rosa",
+      "categoria": "Gala"
+    },
+    {
+      "id": 115,
+      "nombre": "Conjunto Bandage",
+      "categoria": "Bandage"
+    },
+    {
+      "id": 117,
+      "nombre": "Vestido negro brillante",
+      "categoria": "Gala"
+    },
+    {
+      "id": 118,
+      "nombre": "Vestido negro asimétrico con lentejuelas",
+      "categoria": "Cortos con brillo"
+    },
+    {
+      "id": 119,
+      "nombre": "Vestido corto escotado",
+      "categoria": "Cortos con brillo"
+    },
+    {
+      "id": 120,
+      "nombre": "Vestido corto dorado con negro",
+      "categoria": "Cortos con brillo"
+    },
+    {
+      "id": 121,
+      "nombre": "Vestido corto negro de tiras",
+      "categoria": "Cortos con brillo"
+    },
+    {
+      "id": 122,
+      "nombre": "Vestido corto negro",
+      "categoria": "Cortos"
+    },
+    {
+      "id": 123,
+      "nombre": "Vestido corto negro con plateado",
+      "categoria": "Cortos con brillo"
+    },
+    {
+      "id": 125,
+      "nombre": "Vestido crema de encaje y tull asimétrico",
+      "categoria": "Gala"
+    },
+    {
+      "id": 126,
+      "nombre": "Vestido Bandage Negro/Blanco",
+      "categoria": "Bandage"
+    },
+    {
+      "id": 127,
+      "nombre": "Vestido vino strapless de tirantes con copas de pedrería",
+      "categoria": "Gala"
+    },
+    {
+      "id": 129,
+      "nombre": "Vestido Bandage dorado de flecos",
+      "categoria": "Bandage"
+    },
+    {
+      "id": 131,
+      "nombre": "Vestido drapeado azul asimétrico",
+      "categoria": "Cortos"
+    },
+    {
+      "id": 132,
+      "nombre": "Vestido corto de lentejuelas con detalles de perlas",
+      "categoria": "Cortos con brillo"
+    },
+    {
+      "id": 135,
+      "nombre": "Vestido corto guinda de perlas",
+      "categoria": "Cortos con brillo"
+    }
+  ]
+}

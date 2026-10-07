@@ -568,5 +568,159 @@
     "codigo_catalogo": "330",
     "fecha": "2026-10-06",
     "fuente": "Nombre, foto, precio y descuento confirmados por el usuario"
+  },
+  {
+    "codigo": "PD-057",
+    "nombre": "Shall de tull con encaje negro",
+    "precio": 189,
+    "categoria": "Fuera de vestidos",
+    "indices": [
+      115,
+      121
+    ],
+    "codigo_catalogo": null,
+    "fecha": "2026-10-06",
+    "fuente": "Asociación explícita confirmada por el usuario"
+  },
+  {
+    "codigo": "R146",
+    "nombre": "Vestido Bandage Negro/Blanco",
+    "precio": 449,
+    "categoria": "Bandage",
+    "indices": [
+      146
+    ],
+    "codigo_catalogo": null,
+    "fecha": "2026-10-06",
+    "fuente": "Asociación explícita confirmada por el usuario"
+  },
+  {
+    "codigo": "R032",
+    "nombre": "Vestido vino strapless de tirantes con copas de pedrería",
+    "precio": 549,
+    "categoria": "Gala",
+    "indices": [
+      32
+    ],
+    "codigo_catalogo": "1610",
+    "fecha": "2026-10-06",
+    "fuente": "Asociación explícita confirmada por el usuario"
+  },
+  {
+    "codigo": "PD-070 / PD-013",
+    "nombre": "Vestido Bandage Rosado",
+    "precio": 419,
+    "categoria": "Bandage",
+    "indices": [
+      144,
+      19,
+      18
+    ],
+    "codigo_catalogo": "2057",
+    "fecha": "2026-10-06",
+    "fuente": "Confirmado por el usuario; R019 es espalda y R018 repite la vista frontal R144"
+  },
+  {
+    "codigo": "PD-069",
+    "nombre": "Vestido Bandage dorado de flecos",
+    "precio": 389,
+    "categoria": "Bandage",
+    "indices": [
+      143
+    ],
+    "codigo_catalogo": "2070",
+    "fecha": "2026-10-06",
+    "fuente": "Nombre, categoría, foto y precio confirmados por el usuario y captura"
+  },
+  {
+    "codigo": "R080-R081-R097-R099",
+    "nombre": "Vestido corto plomo con detalle de lentejuelas y pliegue",
+    "precio": 319,
+    "categoria": "Cortos sin brillo",
+    "indices": [
+      80,
+      81,
+      97,
+      99
+    ],
+    "codigo_catalogo": "2014",
+    "fecha": "2026-10-06",
+    "fuente": "Asociación y precio confirmados por el usuario"
+  },
+  {
+    "codigo": "PD-006",
+    "nombre": "Vestido drapeado azul asimétrico",
+    "precio": 389,
+    "categoria": "Cortos sin brillo",
+    "indices": [
+      9,
+      158
+    ],
+    "fecha": "2026-10-06",
+    "fuente": "Nombre, precio, fotos y categoría confirmados por el usuario"
+  },
+  {
+    "codigo": "PD-062",
+    "nombre": "Vestido corto de diamantes de imitación plateadas",
+    "precio": 349,
+    "categoria": "Cortos con brillo",
+    "indices": [
+      135,
+      131
+    ],
+    "fecha": "2026-10-07",
+    "fuente": "Confirmación del usuario y foto frontal adjunta",
+    "fotos_reemplazo": {
+      "135": "images/fotos-confirmadas/vestido-diamantes-plateados-frente-2026-10-07.png"
+    }
+  },
+  {
+    "codigo": "PD-014",
+    "nombre": "Vestido corto de lentejuelas con detalles de perlas",
+    "precio": 419,
+    "categoria": "Cortos con brillo",
+    "indices": [
+      20
+    ],
+    "fecha": "2026-10-07",
+    "sku": "2063",
+    "fuente": "Coincidencia visual con captura del catálogo adjunta"
+  },
+  {
+    "codigo": "PD-017",
+    "nombre": "Vestido de lentejuelas vintage color azul",
+    "precio": 489,
+    "categoria": "Cortos con brillo",
+    "indices": [
+      25
+    ],
+    "fecha": "2026-10-07",
+    "sku": "2061",
+    "fuente": "Coincidencia visual de la vista posterior con captura frontal del catálogo"
+  },
+  {
+    "codigo": "PD-030",
+    "nombre": "Vestido de pedrería negro con plumas",
+    "precio": 469,
+    "categoria": "Cortos con brillo",
+    "indices": [
+      61,
+      63
+    ],
+    "fecha": "2026-10-07",
+    "sku": "2002",
+    "fuente": "Coincidencia visual con captura del catálogo adjunta"
+  },
+  {
+    "codigo": "PD-034",
+    "nombre": "Vestido corto guinda de perlas",
+    "precio": 389,
+    "categoria": "Cortos con brillo",
+    "indices": [
+      67
+    ],
+    "fecha": "2026-10-07",
+    "sku": "2001",
+    "fuente": "Coincidencia visual con captura del catálogo adjunta"
   }
 ]

@@ -6,7 +6,7 @@ export const boutique = {
   hours: 'Lunes a sábado, 11:00 a. m. a 8:00 p. m. · Domingo cerrado',
 };
 
-export const money = value => new Intl.NumberFormat('es-PE', { style: 'currency', currency: 'PEN' }).format(value);
+export const money = value => value == null ? 'Precio por confirmar' : new Intl.NumberFormat('es-PE', { style: 'currency', currency: 'PEN' }).format(value);
 export const visitDay = date => new Intl.DateTimeFormat('es-PE', { weekday: 'long', timeZone: 'UTC' }).format(new Date(`${date}T12:00:00Z`));
 export const visitTime = time => {
   const [hour, minute] = time.split(':').map(Number);
@@ -43,9 +43,9 @@ export function visitError(date, time, now = new Date()) {
 }
 
 export function orderTotals(product, quantity, method) {
-  const subtotal = Math.round(product.price * quantity * 100) / 100;
+  const subtotal = product.price == null ? null : Math.round(product.price * quantity * 100) / 100;
   const shipping = method === 'province' ? boutique.provinceShipping : method === 'lima' ? null : 0;
-  return { subtotal, shipping, total: shipping === null ? null : subtotal + shipping };
+  return { subtotal, shipping, total: shipping === null || subtotal === null ? null : subtotal + shipping };
 }
 
 export function orderMessage(product, data, path) {

@@ -58,3 +58,7 @@ for index,m in enumerate(report['coincidencias']):
 (r/'products.js').write_text('// Catálogo confirmado con fotografías reales. Disponibilidad y medidas se coordinan con la boutique.\nexport const products = '+json.dumps(products,ensure_ascii=False,indent=2)+';\nexport const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación"];\n',encoding='utf-8')
 (r/'review/publicados-confirmados.json').write_text(json.dumps(products,ensure_ascii=False,indent=2),encoding='utf-8')
 print('Publicados:',len(products),'Fotos:',sum(len(p['photos']) for p in products))
+
+# Apply the subsequent owner corrections and attachment audit after rebuilding.
+import runpy
+runpy.run_path(str(r/'review/actualizar-2026-10-08.py'))

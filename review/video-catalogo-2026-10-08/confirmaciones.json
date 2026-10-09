@@ -1,0 +1,19 @@
+{
+  "fuente": "20261009-0005-03.6416792.mp4",
+  "duracion_segundos": 198.3,
+  "fecha_revision_lima": "2026-10-08",
+  "criterio": "Lectura visual de los 198 segundos. Asociaciones por fotografía y nombre; las categorías corregidas por la boutique tienen prioridad sobre las colecciones antiguas de WhatsApp.",
+  "confirmados": [
+    {"id":127,"nombre":"Vestido vino strapless de tirantes con copas de pedrería","precio":549,"categoria":"Cortos","fuente":{"tipo":"Confirmación del usuario con captura de la web","fecha":"2026-10-09","precio_conservado":549}},
+    {"id":147,"nombre":"Vestido Bandage Blanco/Negro","precio":144.5,"precio_regular":289,"frame":"F188","segundo":187,"categoria":"Bandage"},
+    {"id":148,"nombre":"Vestido Bandage Asimétrico","precio":389,"frame":"F147","segundo":146,"categoria":"Bandage"},
+    {"codigo":"AC-021","nombre":"Bralette negro con pedrería de colores","precio":199,"frame":"F125","segundo":124,"categoria":"Accesorios","foto":"review/importacion-2026-10-08/N021.jpeg"}
+  ],
+  "pendientes": [
+  ],
+  "observaciones": [
+    "No se sustituyen prendas distintas que comparten un nombre parecido: Negro/Blanco S/449 es diferente de Blanco/Negro S/144.50.",
+    "No se extraen recortes del video para presentarlos como fotos originales de producto.",
+    "Las listas contienen accesorios y modelos sin fotografía original asociada. Se conservan fuera de las fichas de vestidos hasta asociarlos con certeza."
+  ]
+}

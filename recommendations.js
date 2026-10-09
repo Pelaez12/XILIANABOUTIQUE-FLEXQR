@@ -55,7 +55,7 @@ export function recommendProducts(current, catalogue, limit = 4) {
     .map(product => {
       const shared = [...features(product)].filter(feature => currentFeatures.has(feature));
       const sameCategory = product.category === current.category;
-      const priceDistance = Math.abs(Math.log(product.price / current.price));
+      const priceDistance = current.price > 0 ? Math.abs(Math.log(product.price / current.price)) : 0;
       const styleScore = shared.reduce((score, feature) => score + (details.has(feature) ? 10 : colours.has(feature) ? 8 : 6), 0);
       return { product, reason: reasonFor(shared, sameCategory, current.category),
         score: (sameCategory ? 60 : 0) + styleScore + 12 * Math.exp(-3 * priceDistance), priceDistance };

@@ -1874,7 +1874,7 @@
   {
     "id": 117,
     "name": "Vestido negro brillante",
-    "category": "Gala",
+    "category": "Cortos con brillo",
     "price": 389,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
@@ -2076,9 +2076,9 @@
   {
     "id": 127,
     "name": "Vestido vino strapless de tirantes con copas de pedrería",
-    "category": "Gala",
+    "category": "Cortos",
     "price": 549,
-    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "note": "Haz de tu entrada un momento inolvidable. Su diseño asimétrico y caída lateral te acompañan para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-127/01-R032.jpeg",
@@ -2090,7 +2090,12 @@
       }
     ],
     "image": "./images/productos-reales/XL-127/01-R032.jpeg",
-    "photoPending": false
+    "photoPending": false,
+    "priceSource": {
+      "tipo": "Confirmación del usuario con captura de la web",
+      "fecha": "2026-10-09",
+      "precio_conservado": 549
+    }
   },
   {
     "id": 128,
@@ -2311,5 +2316,341 @@
     ],
     "image": "./images/productos-reales/XL-135/01-R067.jpeg",
     "photoPending": false
+  },
+  {
+    "id": 136,
+    "name": "Vestido largo de gala verde agua de lentejuelas",
+    "category": "Gala",
+    "price": 649,
+    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-136/01-N001.jpeg",
+        "width": 1080,
+        "height": 1423,
+        "sha256": "af2720beabbad2734d759a59b8e0af98052065fb5e9c0061551f5525d7c6e606",
+        "view": "Frente",
+        "sourceAttachment": "review/importacion-2026-10-08/N001.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-136/02-N002.jpeg",
+        "width": 1080,
+        "height": 1437,
+        "sha256": "36311de49939844a239178ba7b96d0c620638df5d239bb270f403d6a68ef682c",
+        "view": "Espalda",
+        "sourceAttachment": "review/importacion-2026-10-08/N002.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-136/01-N001.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 137,
+    "name": "Vestido sirena palo rosa de lentejuelas",
+    "category": "Gala",
+    "price": 569,
+    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-137/01-N004.jpeg",
+        "width": 1080,
+        "height": 1413,
+        "sha256": "6246602197c9d989add99a7c22878c9077fd94d29aa649678d429950579a4455",
+        "view": "Frente",
+        "sourceAttachment": "review/importacion-2026-10-08/N004.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-137/02-N005.jpeg",
+        "width": 1080,
+        "height": 1410,
+        "sha256": "57b34fbd9c2a0eb4180ada6feaf4078553fb913ead7220ceb3bd847c237f77c4",
+        "view": "Frente · otra pose",
+        "sourceAttachment": "review/importacion-2026-10-08/N005.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-137/01-N004.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 138,
+    "name": "Vestido palo rosa gasa y satín",
+    "category": "Gala",
+    "price": 649,
+    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-138/01-N006.jpeg",
+        "width": 1080,
+        "height": 1415,
+        "sha256": "53b20d2f2783c86f3967267cbf0a4e59ff24da18e179464914b6e3e08438699f",
+        "view": "Frente",
+        "sourceAttachment": "review/importacion-2026-10-08/N006.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-138/02-N007.jpeg",
+        "width": 1080,
+        "height": 1421,
+        "sha256": "51201bec07168e494e5120d173db103afae6a4a611a3b3a3593d252e95fc9055",
+        "view": "Espalda",
+        "sourceAttachment": "review/importacion-2026-10-08/N007.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-138/01-N006.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 139,
+    "name": "Vestido largo azul acero",
+    "category": "Gala",
+    "price": 699,
+    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-139/01-N008.jpeg",
+        "width": 1080,
+        "height": 1416,
+        "sha256": "9f95f826b3e646631bd19584cd50e55b3f9027474558721793cf670f391f1f1f",
+        "view": "Frente",
+        "sourceAttachment": "review/importacion-2026-10-08/N008.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-139/02-N010.jpeg",
+        "width": 1080,
+        "height": 1417,
+        "sha256": "2399ed7a857fb7ff999e74aa743d1b7153f39c576b1371336403cb4867a9f272",
+        "view": "Espalda",
+        "sourceAttachment": "review/importacion-2026-10-08/N010.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-139/03-N009.jpeg",
+        "width": 1080,
+        "height": 1411,
+        "sha256": "bb0d8f5c4ea0a87060c9eeb9d1cd9b9404041b18cef5961fa9863496c4db3f32",
+        "view": "Frente · otra pose",
+        "sourceAttachment": "review/importacion-2026-10-08/N009.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-139/01-N008.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 140,
+    "name": "Vestido vino strapless de tirantes con copas de pedrería",
+    "category": "Gala",
+    "price": 549,
+    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-140/01-N011.jpeg",
+        "width": 1080,
+        "height": 1428,
+        "sha256": "333632bc1945dd951507b69de1a21145e9058cbb6e5136d0b869c1bc0acdaccb",
+        "view": "Frente",
+        "sourceAttachment": "review/importacion-2026-10-08/N011.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-140/02-N012.jpeg",
+        "width": 1080,
+        "height": 1053,
+        "sha256": "35e391affc9d536fa8ace59c918c6ae5a9bcd428da9ea14c335d5b142c9849d2",
+        "view": "Frente · otra pose",
+        "sourceAttachment": "review/importacion-2026-10-08/N012.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-140/01-N011.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 141,
+    "name": "Vestido largo azul",
+    "category": "Gala",
+    "price": 349,
+    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-141/01-N013.jpeg",
+        "width": 1080,
+        "height": 1074,
+        "sha256": "103210a44d671182bd0a9d9ed1e688de666211951bcfce46399c607c086e1dc3",
+        "view": "Frente",
+        "sourceAttachment": "review/importacion-2026-10-08/N013.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-141/01-N013.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 142,
+    "name": "Vestido largo de gala rojo de malla con lentejuelas",
+    "category": "Gala",
+    "price": 719,
+    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-142/01-N014.jpeg",
+        "width": 1080,
+        "height": 1425,
+        "sha256": "4a9eea59e6edfdcc222ff882b708669fd7e54513c73d3ce6209607251a8e26cb",
+        "view": "Frente",
+        "sourceAttachment": "review/importacion-2026-10-08/N014.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-142/02-N015.jpeg",
+        "width": 1080,
+        "height": 1426,
+        "sha256": "f45be251ac7316fee4da47af2efa51d0404949ae30162e20b21b3f1b2c1e4b68",
+        "view": "Frente · otra pose",
+        "sourceAttachment": "review/importacion-2026-10-08/N015.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-142/01-N014.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 143,
+    "name": "Vestido Bandage blanco y crema de perlas",
+    "category": "Bandage",
+    "price": 549,
+    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-143/01-N017.jpeg",
+        "width": 1108,
+        "height": 1420,
+        "sha256": "bff09edd55842c2d2b5cc53eb0151b1f801a673cd9d603074882d19dad74cb37",
+        "view": "Frente",
+        "sourceAttachment": "review/importacion-2026-10-08/N017.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-143/01-N017.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 144,
+    "name": "VESTIDO BANDAGE Caqui ceñido",
+    "category": "Bandage",
+    "price": 379,
+    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-144/01-N020.jpeg",
+        "width": 1080,
+        "height": 1414,
+        "sha256": "3ea648f2cb78ebea3edb6ecca4374a6a1b7361a87189a72bdef9a3470243dd6f",
+        "view": "Frente",
+        "sourceAttachment": "review/importacion-2026-10-08/N020.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-144/01-N020.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 145,
+    "name": "Bandage Dress negro con pedrería",
+    "category": "Bandage",
+    "price": 349,
+    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-145/01-N022.jpeg",
+        "width": 750,
+        "height": 1000,
+        "sha256": "67c9d3d29a31685955b39658869c3963922ae519e2939f7430d4b0f3db6e7eee",
+        "view": "Frente",
+        "sourceAttachment": "review/importacion-2026-10-08/N022.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-145/02-N023.jpeg",
+        "width": 750,
+        "height": 1000,
+        "sha256": "a472bad488a71eafc0b6f6431883f091405146bff9391e1ad2fee2eecb1f0427",
+        "view": "Espalda",
+        "sourceAttachment": "review/importacion-2026-10-08/N023.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-145/03-N024.jpeg",
+        "width": 750,
+        "height": 1000,
+        "sha256": "efd047708d77d8591e76d6bbb7b45e6dab65e1d983cc3608cb1c8a73d7e480f2",
+        "view": "Frente · detalle",
+        "sourceAttachment": "review/importacion-2026-10-08/N024.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-145/01-N022.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 146,
+    "name": "Bandage Dress de colores",
+    "category": "Bandage",
+    "price": 399,
+    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-146/01-N025.jpeg",
+        "width": 1000,
+        "height": 1000,
+        "sha256": "f849dba2dc3afe31eaa0e550fd1602e688e1135e720cc73d3d2e730d2f78fc72",
+        "view": "Frente",
+        "sourceAttachment": "review/importacion-2026-10-08/N025.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-146/02-N026.jpeg",
+        "width": 1020,
+        "height": 1600,
+        "sha256": "279801b72b3bfe107303230fcbf7645004494b311441adf04954753bd12cd285",
+        "view": "Espalda",
+        "sourceAttachment": "review/importacion-2026-10-08/N026.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-146/01-N025.jpeg",
+    "photoPending": false
+  },
+  {
+    "id": 147,
+    "name": "Vestido Bandage Blanco/Negro",
+    "category": "Bandage",
+    "price": 144.5,
+    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-147/01-N027.jpeg",
+        "width": 1096,
+        "height": 1435,
+        "sha256": "e1dccd4b7001eb33b1a3bfd309ce34e64e09dfbc79a2618a1ec1212284bba056",
+        "view": "Frente",
+        "sourceAttachment": "review/importacion-2026-10-08/N027.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-147/01-N027.jpeg",
+    "photoPending": false,
+    "originalPrice": 289,
+    "priceSource": {
+      "video": "20261009-0005-03.6416792.mp4",
+      "second": 187
+    }
+  },
+  {
+    "id": 148,
+    "name": "Vestido Bandage Asimétrico",
+    "category": "Bandage",
+    "price": 389,
+    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-148/01-N028.jpeg",
+        "width": 1024,
+        "height": 1536,
+        "sha256": "c6a5c96be8ec293b55099af40ea31ab2bc2f25f9b41b845ac60607589b4ecb13",
+        "view": "Frente",
+        "sourceAttachment": "review/importacion-2026-10-08/N028.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-148/01-N028.jpeg",
+    "photoPending": false,
+    "priceSource": {
+      "video": "20261009-0005-03.6416792.mp4",
+      "second": 146
+    }
   }
 ]

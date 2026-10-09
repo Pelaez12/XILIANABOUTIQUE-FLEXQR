@@ -24,20 +24,8 @@
     "estado": "Sin foto original identificada"
   },
   {
-    "nombre": "Vestido largo de gala verde agua de lentejuelas",
-    "precio": 649,
-    "categoria": "Gala",
-    "estado": "Sin foto original identificada"
-  },
-  {
     "nombre": "Vestido largo de gala morado con lentejuelas",
     "precio": 649,
-    "categoria": "Gala",
-    "estado": "Sin foto original identificada"
-  },
-  {
-    "nombre": "Vestido largo de gala rojo de malla con lentejuelas",
-    "precio": 719,
     "categoria": "Gala",
     "estado": "Sin foto original identificada"
   },
@@ -50,30 +38,6 @@
   {
     "nombre": "Vestido largo palo rosa",
     "precio": 699,
-    "categoria": "Gala",
-    "estado": "Sin foto original identificada"
-  },
-  {
-    "nombre": "Vestido largo azul acero",
-    "precio": 699,
-    "categoria": "Gala",
-    "estado": "Sin foto original identificada"
-  },
-  {
-    "nombre": "Vestido palo rosa gasa y satín",
-    "precio": 649,
-    "categoria": "Gala",
-    "estado": "Sin foto original identificada"
-  },
-  {
-    "nombre": "Vestido sirena palo rosa de lentejuelas",
-    "precio": 569,
-    "categoria": "Gala",
-    "estado": "Sin foto original identificada"
-  },
-  {
-    "nombre": "Vestido largo azul",
-    "precio": 349,
     "categoria": "Gala",
     "estado": "Sin foto original identificada"
   },

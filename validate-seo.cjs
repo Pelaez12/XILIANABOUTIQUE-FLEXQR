@@ -16,7 +16,9 @@ function walk(dir) {
 }
 walk(output);
 const pages = files.filter(file => file.endsWith('index.html'));
-const expectedPages = 103; // Inicio, 6 categorías y 96 productos confirmados.
+const productSource = fs.readFileSync(path.join(__dirname, 'products.js'), 'utf8');
+const products = JSON.parse(productSource.match(/export const products = ([\s\S]*?);\s*export const categories/)[1]);
+const expectedPages = 7 + products.length;
 assert.equal(pages.length, expectedPages);
 let schemas = 0;
 let galleryPhotos = 0;
@@ -63,14 +65,17 @@ assert.equal((sitemap.match(/<loc>/g) || []).length, expectedPages);
 assert.equal((sitemap.match(/<image:loc>/g) || []).length, galleryPhotos);
 assert(fs.readFileSync(path.join(output, 'robots.txt'), 'utf8').includes(origin + '/sitemap.xml'));
 assert.equal(schemas, expectedPages);
-const productSource = fs.readFileSync(path.join(__dirname, 'products.js'), 'utf8');
-const products = JSON.parse(productSource.match(/export const products = ([\s\S]*?);\s*export const categories/)[1]);
 for (const product of products) {
   assert(product.photos[0].view.startsWith('Frente'), `Portada de espalda: ${product.name}`);
   assert.equal(product.image, product.photos[0].src, `Portada distinta a foto 1: ${product.name}`);
   assert.equal(new Set(product.photos.map(photo => photo.sha256)).size, product.photos.length, `Fotos idénticas repetidas: ${product.name}`);
   const directory = fs.readdirSync(path.join(output, 'vestidos')).find(name => name.startsWith(product.id + '-'));
   const html = fs.readFileSync(path.join(output, 'vestidos', directory, 'index.html'), 'utf8');
+  if (product.price == null) {
+    assert(html.includes('Precio por confirmar'), `Precio pendiente omitido: ${product.name}`);
+    const schema = JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1]);
+    assert(!schema['@graph'].find(item => item['@type'] === 'Product').offers, `Oferta inventada: ${product.name}`);
+  }
   assert(html.includes(`<img class="gallery-main" src="${product.image.replace(/^\.\//, '/')}"`), `Primera foto incorrecta: ${product.name}`);
   assert.equal((html.match(/data-gallery-photo=/g) || []).length, product.photos.length > 1 ? product.photos.length : 0, `Miniaturas incorrectas: ${product.name}`);
   if (product.photos.length === 1) assert(!html.includes('class="gallery-count"'), `Contador innecesario: ${product.name}`);

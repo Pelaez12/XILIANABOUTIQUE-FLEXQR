@@ -1,0 +1,469 @@
+{
+  "total_fotos": 50,
+  "duplicados_visuales": [
+    {
+      "n": 3,
+      "producto": "XL-016",
+      "motivo": "Misma fotografía, archivo recomprimido; no añadida"
+    },
+    {
+      "n": 14,
+      "producto": "XL-017",
+      "motivo": "Misma fotografía, archivo recomprimido; no añadida"
+    },
+    {
+      "n": 26,
+      "producto": "XL-122",
+      "motivo": "Misma fotografía, archivo recomprimido; no añadida"
+    }
+  ],
+  "modelos_nuevos": [
+    {
+      "grupo": "NV-001",
+      "nombre_descriptivo": "Blanco asimétrico con cadenas",
+      "fotos": [
+        {
+          "n": 1,
+          "path": "review\\importacion-2026-10-10\\N001.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 2,
+          "path": "review\\importacion-2026-10-10\\N002.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-002",
+      "nombre_descriptivo": "Azul con pedrería y flecos",
+      "fotos": [
+        {
+          "n": 4,
+          "path": "review\\importacion-2026-10-10\\N004.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 5,
+          "path": "review\\importacion-2026-10-10\\N005.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-003",
+      "nombre_descriptivo": "Rosado corsé con pedrería",
+      "fotos": [
+        {
+          "n": 6,
+          "path": "review\\importacion-2026-10-10\\N006.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 7,
+          "path": "review\\importacion-2026-10-10\\N007.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-004",
+      "nombre_descriptivo": "Rojo corto con cadenas",
+      "fotos": [
+        {
+          "n": 8,
+          "path": "review\\importacion-2026-10-10\\N008.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 9,
+          "path": "review\\importacion-2026-10-10\\N009.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-005",
+      "nombre_descriptivo": "Blanco y dorado de lentejuelas",
+      "fotos": [
+        {
+          "n": 11,
+          "path": "review\\importacion-2026-10-10\\N011.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 12,
+          "path": "review\\importacion-2026-10-10\\N012.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-006",
+      "nombre_descriptivo": "Verde corsé largo con abertura",
+      "fotos": [
+        {
+          "n": 18,
+          "path": "review\\importacion-2026-10-10\\N018.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 19,
+          "path": "review\\importacion-2026-10-10\\N019.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-007",
+      "nombre_descriptivo": "Negro geométrico con escote",
+      "fotos": [
+        {
+          "n": 22,
+          "path": "review\\importacion-2026-10-10\\N022.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 23,
+          "path": "review\\importacion-2026-10-10\\N023.jpeg",
+          "vista": "Lateral"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-008",
+      "nombre_descriptivo": "Negro corsé con cadenas",
+      "fotos": [
+        {
+          "n": 24,
+          "path": "review\\importacion-2026-10-10\\N024.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 25,
+          "path": "review\\importacion-2026-10-10\\N025.jpeg",
+          "vista": "Frente · otra pose"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-009",
+      "nombre_descriptivo": "Negro corto con copas y pedrería",
+      "fotos": [
+        {
+          "n": 27,
+          "path": "review\\importacion-2026-10-10\\N027.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 28,
+          "path": "review\\importacion-2026-10-10\\N028.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-010",
+      "nombre_descriptivo": "Largo multicolor geométrico",
+      "fotos": [
+        {
+          "n": 30,
+          "path": "review\\importacion-2026-10-10\\N030.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 49,
+          "path": "review\\importacion-2026-10-10\\N049.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-011",
+      "nombre_descriptivo": "Negro largo de cuello alto",
+      "fotos": [
+        {
+          "n": 32,
+          "path": "review\\importacion-2026-10-10\\N032.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 33,
+          "path": "review\\importacion-2026-10-10\\N033.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-012",
+      "nombre_descriptivo": "Largo nude con pedrería",
+      "fotos": [
+        {
+          "n": 35,
+          "path": "review\\importacion-2026-10-10\\N035.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 36,
+          "path": "review\\importacion-2026-10-10\\N036.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-013",
+      "nombre_descriptivo": "Azul largo con encaje",
+      "fotos": [
+        {
+          "n": 38,
+          "path": "review\\importacion-2026-10-10\\N038.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 37,
+          "path": "review\\importacion-2026-10-10\\N037.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-014",
+      "nombre_descriptivo": "Rojo largo de hombros descubiertos",
+      "fotos": [
+        {
+          "n": 39,
+          "path": "review\\importacion-2026-10-10\\N039.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 40,
+          "path": "review\\importacion-2026-10-10\\N040.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-015",
+      "nombre_descriptivo": "Rojo largo de encaje",
+      "fotos": [
+        {
+          "n": 41,
+          "path": "review\\importacion-2026-10-10\\N041.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 42,
+          "path": "review\\importacion-2026-10-10\\N042.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-016",
+      "nombre_descriptivo": "Blanco de una manga con brillo",
+      "fotos": [
+        {
+          "n": 43,
+          "path": "review\\importacion-2026-10-10\\N043.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 44,
+          "path": "review\\importacion-2026-10-10\\N044.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-017",
+      "nombre_descriptivo": "Palo rosa largo con tirantes cruzados",
+      "fotos": [
+        {
+          "n": 47,
+          "path": "review\\importacion-2026-10-10\\N047.jpeg",
+          "vista": "Frente"
+        },
+        {
+          "n": 48,
+          "path": "review\\importacion-2026-10-10\\N048.jpeg",
+          "vista": "Espalda"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-018",
+      "nombre_descriptivo": "Rojo corto de hombros descubiertos",
+      "fotos": [
+        {
+          "n": 10,
+          "path": "review\\importacion-2026-10-10\\N010.jpeg",
+          "vista": "Frente"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-019",
+      "nombre_descriptivo": "Negro corto con falda animal print",
+      "fotos": [
+        {
+          "n": 13,
+          "path": "review\\importacion-2026-10-10\\N013.jpeg",
+          "vista": "Frente"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-020",
+      "nombre_descriptivo": "Crema corto con detalles dorados",
+      "fotos": [
+        {
+          "n": 15,
+          "path": "review\\importacion-2026-10-10\\N015.jpeg",
+          "vista": "Frente"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-021",
+      "nombre_descriptivo": "Verde corto con transparencias",
+      "fotos": [
+        {
+          "n": 16,
+          "path": "review\\importacion-2026-10-10\\N016.jpeg",
+          "vista": "Frente"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-022",
+      "nombre_descriptivo": "Verde corto de manga larga",
+      "fotos": [
+        {
+          "n": 17,
+          "path": "review\\importacion-2026-10-10\\N017.jpeg",
+          "vista": "Frente"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-023",
+      "nombre_descriptivo": "Verde corto corsé con cadenas",
+      "fotos": [
+        {
+          "n": 20,
+          "path": "review\\importacion-2026-10-10\\N020.jpeg",
+          "vista": "Frente"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-024",
+      "nombre_descriptivo": "Negro corto con mangas plateadas",
+      "fotos": [
+        {
+          "n": 21,
+          "path": "review\\importacion-2026-10-10\\N021.jpeg",
+          "vista": "Frente"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-025",
+      "nombre_descriptivo": "Rosado largo floral",
+      "fotos": [
+        {
+          "n": 29,
+          "path": "review\\importacion-2026-10-10\\N029.jpeg",
+          "vista": "Frente"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-026",
+      "nombre_descriptivo": "Negro largo satinado con cinturón",
+      "fotos": [
+        {
+          "n": 31,
+          "path": "review\\importacion-2026-10-10\\N031.jpeg",
+          "vista": "Frente"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-027",
+      "nombre_descriptivo": "Plomo largo de tirantes con brillo",
+      "fotos": [
+        {
+          "n": 34,
+          "path": "review\\importacion-2026-10-10\\N034.jpeg",
+          "vista": "Frente"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-028",
+      "nombre_descriptivo": "Blanco largo con escote de encaje",
+      "fotos": [
+        {
+          "n": 45,
+          "path": "review\\importacion-2026-10-10\\N045.jpeg",
+          "vista": "Frente"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-029",
+      "nombre_descriptivo": "Nude largo con volantes",
+      "fotos": [
+        {
+          "n": 46,
+          "path": "review\\importacion-2026-10-10\\N046.jpeg",
+          "vista": "Frente"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    },
+    {
+      "grupo": "NV-030",
+      "nombre_descriptivo": "Verde largo asimétrico con manga capa",
+      "fotos": [
+        {
+          "n": 50,
+          "path": "review\\importacion-2026-10-10\\N050.jpeg",
+          "vista": "Frente"
+        }
+      ],
+      "estado": "Modelo nuevo: nombre de catálogo y precio por asociar"
+    }
+  ],
+  "parejas": 17,
+  "una_vista": 13
+}

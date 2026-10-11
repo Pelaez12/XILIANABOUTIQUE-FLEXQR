@@ -57,7 +57,7 @@ export const products = [
   {
     "id": 61,
     "name": "Vestido largo morado claro",
-    "category": "Gala",
+    "category": "Largos",
     "price": 649,
     "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
@@ -84,7 +84,7 @@ export const products = [
   {
     "id": 62,
     "name": "Vestido largo corte sirena negro con lazo y mangas",
-    "category": "Gala",
+    "category": "Largos",
     "price": 549,
     "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
@@ -943,7 +943,7 @@ export const products = [
   {
     "id": 81,
     "name": "Vestido largo marrón con detalle plateados",
-    "category": "Cortos",
+    "category": "Largos",
     "price": 319,
     "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
     "photos": [
@@ -1081,7 +1081,7 @@ export const products = [
   {
     "id": 87,
     "name": "Vestido Largo Color Pic Blue",
-    "category": "Gala",
+    "category": "Largos",
     "price": 579,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
@@ -1100,7 +1100,7 @@ export const products = [
   {
     "id": 88,
     "name": "Vestido largo azul corte sirena con tirantes cruzados",
-    "category": "Gala",
+    "category": "Largos",
     "price": 499,
     "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
@@ -1135,7 +1135,7 @@ export const products = [
   {
     "id": 89,
     "name": "Vestido largo de gala dorado",
-    "category": "Gala",
+    "category": "Largos",
     "price": 549,
     "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
@@ -1216,7 +1216,7 @@ export const products = [
   {
     "id": 92,
     "name": "Vestido largo de gala lentejuelas negro con mangas",
-    "category": "Gala",
+    "category": "Largos",
     "price": 729,
     "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
@@ -1270,7 +1270,7 @@ export const products = [
   {
     "id": 94,
     "name": "Vestido largo de gala asimétrico de una manga dorado con negro",
-    "category": "Gala",
+    "category": "Largos",
     "price": 579,
     "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
@@ -1378,7 +1378,7 @@ export const products = [
   {
     "id": 98,
     "name": "Vestido largo de mangas semi drapeado con detalles de brillos en",
-    "category": "Gala",
+    "category": "Largos",
     "price": 549,
     "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
@@ -1405,7 +1405,7 @@ export const products = [
   {
     "id": 99,
     "name": "Vestido asimétrico dorado largo de gala",
-    "category": "Gala",
+    "category": "Largos",
     "price": 649,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
@@ -1486,7 +1486,7 @@ export const products = [
   {
     "id": 102,
     "name": "Vestido largo con semi cola y detalles de pedrería plateados y mora",
-    "category": "Gala",
+    "category": "Largos",
     "price": 699,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
@@ -1686,7 +1686,7 @@ export const products = [
   {
     "id": 110,
     "name": "Vestido largo de gala blanco con rayas moradas y morado y de cap",
-    "category": "Gala",
+    "category": "Largos",
     "price": 579,
     "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
@@ -1713,7 +1713,7 @@ export const products = [
   {
     "id": 111,
     "name": "Vestido largo crema de perlas y pedrería plateadas",
-    "category": "Gala",
+    "category": "Largos",
     "price": 669,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
@@ -1740,7 +1740,7 @@ export const products = [
   {
     "id": 112,
     "name": "Vestido largo de gala dorado con rayas doradas y blanco",
-    "category": "Gala",
+    "category": "Largos",
     "price": 539,
     "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
@@ -2321,7 +2321,7 @@ export const products = [
   {
     "id": 136,
     "name": "Vestido largo de gala verde agua de lentejuelas",
-    "category": "Gala",
+    "category": "Largos",
     "price": 649,
     "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
     "photos": [
@@ -2402,7 +2402,7 @@ export const products = [
   {
     "id": 139,
     "name": "Vestido largo azul acero",
-    "category": "Gala",
+    "category": "Largos",
     "price": 699,
     "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
     "photos": [
@@ -2464,7 +2464,7 @@ export const products = [
   {
     "id": 141,
     "name": "Vestido largo azul",
-    "category": "Gala",
+    "category": "Largos",
     "price": 349,
     "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
     "photos": [
@@ -2483,7 +2483,7 @@ export const products = [
   {
     "id": 142,
     "name": "Vestido largo de gala rojo de malla con lentejuelas",
-    "category": "Gala",
+    "category": "Largos",
     "price": 719,
     "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
     "photos": [

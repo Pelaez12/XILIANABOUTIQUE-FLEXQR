@@ -20,3 +20,5 @@ images/imagenes-reales/
 pendientes-dueno/
 review/*-sheet-*.jpg
 review/modelos-audio/
+__pycache__/
+*.py[cod]

@@ -1,0 +1,902 @@
+[
+  {
+    "n": 1,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.13 PM.jpeg",
+    "path": "review\\importacion-2026-10-12\\N001.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N029.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N029.jpeg"
+      ],
+      [
+        21.900065104166668,
+        "review\\importacion-2026-10-10\\N034.jpeg"
+      ]
+    ],
+    "grupo": "NV-025"
+  },
+  {
+    "n": 2,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.13 PM (1).jpeg",
+    "path": "review\\importacion-2026-10-12\\N002.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N030.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N030.jpeg"
+      ],
+      [
+        22.352864583333332,
+        "review\\importacion-2026-10-10\\N049.jpeg"
+      ]
+    ],
+    "grupo": "NV-010"
+  },
+  {
+    "n": 3,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.13 PM (2).jpeg",
+    "path": "review\\importacion-2026-10-12\\N003.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N031.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N031.jpeg"
+      ],
+      [
+        50.513020833333336,
+        "images\\productos-reales\\XL-145\\03-N024.jpeg"
+      ]
+    ],
+    "grupo": "NV-026"
+  },
+  {
+    "n": 4,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.13 PM (3).jpeg",
+    "path": "review\\importacion-2026-10-12\\N004.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N032.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N032.jpeg"
+      ],
+      [
+        21.49609375,
+        "review\\importacion-2026-10-10\\N033.jpeg"
+      ]
+    ],
+    "grupo": "NV-011"
+  },
+  {
+    "n": 5,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.13 PM (4).jpeg",
+    "path": "review\\importacion-2026-10-12\\N005.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N033.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N033.jpeg"
+      ],
+      [
+        20.8515625,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.35 PM\\WhatsApp Image 2026-10-05 at 11.47.49 AM (2).jpeg"
+      ]
+    ],
+    "grupo": "NV-011"
+  },
+  {
+    "n": 6,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.14 PM.jpeg",
+    "path": "review\\importacion-2026-10-12\\N006.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N034.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N034.jpeg"
+      ],
+      [
+        19.2724609375,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.50 PM\\WhatsApp Image 2026-10-05 at 11.32.35 AM.jpeg"
+      ]
+    ],
+    "grupo": "NV-027"
+  },
+  {
+    "n": 7,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.14 PM (1).jpeg",
+    "path": "review\\importacion-2026-10-12\\N007.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N035.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N035.jpeg"
+      ],
+      [
+        29.880859375,
+        "review\\importacion-2026-10-10\\N036.jpeg"
+      ]
+    ],
+    "grupo": "NV-012"
+  },
+  {
+    "n": 8,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.14 PM (2).jpeg",
+    "path": "review\\importacion-2026-10-12\\N008.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N036.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N036.jpeg"
+      ],
+      [
+        29.880859375,
+        "review\\importacion-2026-10-10\\N035.jpeg"
+      ]
+    ],
+    "grupo": "NV-012"
+  },
+  {
+    "n": 9,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.14 PM (3).jpeg",
+    "path": "review\\importacion-2026-10-12\\N009.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N037.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N037.jpeg"
+      ],
+      [
+        32.568684895833336,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.35 PM\\WhatsApp Image 2026-10-05 at 11.47.47 AM.jpeg"
+      ]
+    ],
+    "grupo": "NV-013"
+  },
+  {
+    "n": 10,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.14 PM (4).jpeg",
+    "path": "review\\importacion-2026-10-12\\N010.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N038.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N038.jpeg"
+      ],
+      [
+        22.8896484375,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.35 PM\\WhatsApp Image 2026-10-05 at 11.47.39 AM (1).jpeg"
+      ]
+    ],
+    "grupo": "NV-013"
+  },
+  {
+    "n": 11,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.15 PM.jpeg",
+    "path": "review\\importacion-2026-10-12\\N011.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N039.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N039.jpeg"
+      ],
+      [
+        19.164713541666668,
+        "review\\importacion-2026-10-10\\N041.jpeg"
+      ]
+    ],
+    "grupo": "NV-014"
+  },
+  {
+    "n": 12,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.15 PM (1).jpeg",
+    "path": "review\\importacion-2026-10-12\\N012.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N040.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N040.jpeg"
+      ],
+      [
+        34.038411458333336,
+        "images\\productos-reales\\XL-137\\01-N004.jpeg"
+      ]
+    ],
+    "grupo": "NV-014"
+  },
+  {
+    "n": 13,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.15 PM (2).jpeg",
+    "path": "review\\importacion-2026-10-12\\N013.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N041.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N041.jpeg"
+      ],
+      [
+        11.405924479166666,
+        "review\\importacion-2026-10-10\\N042.jpeg"
+      ]
+    ],
+    "grupo": "NV-015"
+  },
+  {
+    "n": 14,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.15 PM (3).jpeg",
+    "path": "review\\importacion-2026-10-12\\N014.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N042.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N042.jpeg"
+      ],
+      [
+        11.405924479166666,
+        "review\\importacion-2026-10-10\\N041.jpeg"
+      ]
+    ],
+    "grupo": "NV-015"
+  },
+  {
+    "n": 15,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.15 PM (4).jpeg",
+    "path": "review\\importacion-2026-10-12\\N015.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N043.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N043.jpeg"
+      ],
+      [
+        28.816731770833332,
+        "review\\importacion-2026-10-10\\N044.jpeg"
+      ]
+    ],
+    "grupo": "NV-016"
+  },
+  {
+    "n": 16,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.16 PM.jpeg",
+    "path": "review\\importacion-2026-10-12\\N016.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N044.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N044.jpeg"
+      ],
+      [
+        28.816731770833332,
+        "review\\importacion-2026-10-10\\N043.jpeg"
+      ]
+    ],
+    "grupo": "NV-016"
+  },
+  {
+    "n": 17,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.16 PM (1).jpeg",
+    "path": "review\\importacion-2026-10-12\\N017.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N045.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N045.jpeg"
+      ],
+      [
+        8.931315104166666,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.35 PM\\WhatsApp Image 2026-10-05 at 11.47.54 AM (2).jpeg"
+      ]
+    ],
+    "grupo": "NV-028"
+  },
+  {
+    "n": 18,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.16 PM (2).jpeg",
+    "path": "review\\importacion-2026-10-12\\N018.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N046.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N046.jpeg"
+      ],
+      [
+        44.0498046875,
+        "review\\importacion-2026-10-10\\N047.jpeg"
+      ]
+    ],
+    "grupo": "NV-029"
+  },
+  {
+    "n": 19,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.17 PM.jpeg",
+    "path": "review\\importacion-2026-10-12\\N019.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N047.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N047.jpeg"
+      ],
+      [
+        17.819661458333332,
+        "images\\productos-reales\\XL-138\\02-N007.jpeg"
+      ]
+    ],
+    "grupo": "NV-017"
+  },
+  {
+    "n": 20,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.17 PM (1).jpeg",
+    "path": "review\\importacion-2026-10-12\\N020.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N048.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N048.jpeg"
+      ],
+      [
+        16.299479166666668,
+        "images\\productos-reales\\XL-138\\02-N007.jpeg"
+      ]
+    ],
+    "grupo": "NV-017"
+  },
+  {
+    "n": 21,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.23 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 12.31.17 PM (2).jpeg",
+    "path": "review\\importacion-2026-10-12\\N021.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N049.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N049.jpeg"
+      ],
+      [
+        22.352864583333332,
+        "review\\importacion-2026-10-10\\N030.jpeg"
+      ]
+    ],
+    "grupo": "NV-010"
+  },
+  {
+    "n": 22,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.17 PM.jpeg",
+    "path": "review\\importacion-2026-10-12\\N022.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N028.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N028.jpeg"
+      ],
+      [
+        49.156575520833336,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.35 PM\\WhatsApp Image 2026-10-05 at 11.47.35 AM (2).jpeg"
+      ]
+    ],
+    "grupo": "NV-009"
+  },
+  {
+    "n": 23,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.09 PM.jpeg",
+    "path": "review\\importacion-2026-10-12\\N023.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N001.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N001.jpeg"
+      ],
+      [
+        43.713216145833336,
+        "review\\importacion-2026-10-10\\N044.jpeg"
+      ]
+    ],
+    "grupo": "NV-001"
+  },
+  {
+    "n": 24,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.09 PM (1).jpeg",
+    "path": "review\\importacion-2026-10-12\\N024.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N002.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N002.jpeg"
+      ],
+      [
+        45.907877604166664,
+        "images\\productos-reales\\XL-139\\02-N010.jpeg"
+      ]
+    ],
+    "grupo": "NV-001"
+  },
+  {
+    "n": 25,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.10 PM.jpeg",
+    "path": "review\\importacion-2026-10-12\\N025.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N003.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N003.jpeg"
+      ],
+      [
+        1.720703125,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.35 PM\\WhatsApp Image 2026-10-05 at 11.47.33 AM (1).jpeg"
+      ]
+    ],
+    "grupo": "Duplicado de producto publicado"
+  },
+  {
+    "n": 26,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.10 PM (1).jpeg",
+    "path": "review\\importacion-2026-10-12\\N026.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N004.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N004.jpeg"
+      ],
+      [
+        29.2578125,
+        "review\\importacion-2026-10-10\\N005.jpeg"
+      ]
+    ],
+    "grupo": "NV-002"
+  },
+  {
+    "n": 27,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.10 PM (2).jpeg",
+    "path": "review\\importacion-2026-10-12\\N027.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N005.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N005.jpeg"
+      ],
+      [
+        29.2578125,
+        "review\\importacion-2026-10-10\\N004.jpeg"
+      ]
+    ],
+    "grupo": "NV-002"
+  },
+  {
+    "n": 28,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.10 PM (3).jpeg",
+    "path": "review\\importacion-2026-10-12\\N028.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N006.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N006.jpeg"
+      ],
+      [
+        12.329752604166666,
+        "review\\importacion-2026-10-10\\N007.jpeg"
+      ]
+    ],
+    "grupo": "NV-003"
+  },
+  {
+    "n": 29,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.11 PM.jpeg",
+    "path": "review\\importacion-2026-10-12\\N029.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N007.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N007.jpeg"
+      ],
+      [
+        12.329752604166666,
+        "review\\importacion-2026-10-10\\N006.jpeg"
+      ]
+    ],
+    "grupo": "NV-003"
+  },
+  {
+    "n": 30,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.11 PM (1).jpeg",
+    "path": "review\\importacion-2026-10-12\\N030.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N008.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N008.jpeg"
+      ],
+      [
+        26.369791666666668,
+        "review\\importacion-2026-10-10\\N009.jpeg"
+      ]
+    ],
+    "grupo": "NV-004"
+  },
+  {
+    "n": 31,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.12 PM.jpeg",
+    "path": "review\\importacion-2026-10-12\\N031.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N009.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N009.jpeg"
+      ],
+      [
+        26.297200520833332,
+        "review\\importacion-2026-10-10\\N007.jpeg"
+      ]
+    ],
+    "grupo": "NV-004"
+  },
+  {
+    "n": 32,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.12 PM (1).jpeg",
+    "path": "review\\importacion-2026-10-12\\N032.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N010.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N010.jpeg"
+      ],
+      [
+        26.349283854166668,
+        "review\\importacion-2026-10-10\\N026.jpeg"
+      ]
+    ],
+    "grupo": "NV-018"
+  },
+  {
+    "n": 33,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.12 PM (2).jpeg",
+    "path": "review\\importacion-2026-10-12\\N033.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N011.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N011.jpeg"
+      ],
+      [
+        26.8837890625,
+        "review\\importacion-2026-10-10\\N012.jpeg"
+      ]
+    ],
+    "grupo": "NV-005"
+  },
+  {
+    "n": 34,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.12 PM (3).jpeg",
+    "path": "review\\importacion-2026-10-12\\N034.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N012.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N012.jpeg"
+      ],
+      [
+        26.8837890625,
+        "review\\importacion-2026-10-10\\N011.jpeg"
+      ]
+    ],
+    "grupo": "NV-005"
+  },
+  {
+    "n": 35,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.12 PM (4).jpeg",
+    "path": "review\\importacion-2026-10-12\\N035.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N013.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N013.jpeg"
+      ],
+      [
+        25.085611979166668,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.31 PM\\WhatsApp Image 2026-10-05 at 11.52.38 AM (4).jpeg"
+      ]
+    ],
+    "grupo": "NV-019"
+  },
+  {
+    "n": 36,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.13 PM.jpeg",
+    "path": "review\\importacion-2026-10-12\\N036.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N014.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N014.jpeg"
+      ],
+      [
+        1.1904296875,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.35 PM\\WhatsApp Image 2026-10-05 at 11.47.38 AM.jpeg"
+      ]
+    ],
+    "grupo": "Duplicado de producto publicado"
+  },
+  {
+    "n": 37,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.13 PM (1).jpeg",
+    "path": "review\\importacion-2026-10-12\\N037.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N015.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N015.jpeg"
+      ],
+      [
+        46.278645833333336,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.50 PM\\WhatsApp Image 2026-10-05 at 11.32.33 AM (2).jpeg"
+      ]
+    ],
+    "grupo": "NV-020"
+  },
+  {
+    "n": 38,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.13 PM (2).jpeg",
+    "path": "review\\importacion-2026-10-12\\N038.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N016.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N016.jpeg"
+      ],
+      [
+        39.466145833333336,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.35 PM\\WhatsApp Image 2026-10-05 at 11.47.46 AM (2).jpeg"
+      ]
+    ],
+    "grupo": "NV-021"
+  },
+  {
+    "n": 39,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.14 PM.jpeg",
+    "path": "review\\importacion-2026-10-12\\N039.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N017.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N017.jpeg"
+      ],
+      [
+        51.353841145833336,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.35 PM\\WhatsApp Image 2026-10-05 at 11.47.45 AM.jpeg"
+      ]
+    ],
+    "grupo": "NV-022"
+  },
+  {
+    "n": 40,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.14 PM (1).jpeg",
+    "path": "review\\importacion-2026-10-12\\N040.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N018.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N018.jpeg"
+      ],
+      [
+        28.300455729166668,
+        "review\\importacion-2026-10-10\\N019.jpeg"
+      ]
+    ],
+    "grupo": "NV-006"
+  },
+  {
+    "n": 41,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.14 PM (2).jpeg",
+    "path": "review\\importacion-2026-10-12\\N041.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N019.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N019.jpeg"
+      ],
+      [
+        28.300455729166668,
+        "review\\importacion-2026-10-10\\N018.jpeg"
+      ]
+    ],
+    "grupo": "NV-006"
+  },
+  {
+    "n": 42,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.14 PM (3).jpeg",
+    "path": "review\\importacion-2026-10-12\\N042.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N020.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N020.jpeg"
+      ],
+      [
+        35.564453125,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.50 PM\\WhatsApp Image 2026-10-05 at 11.32.30 AM (1).jpeg"
+      ]
+    ],
+    "grupo": "NV-023"
+  },
+  {
+    "n": 43,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.15 PM.jpeg",
+    "path": "review\\importacion-2026-10-12\\N043.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N021.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N021.jpeg"
+      ],
+      [
+        38.676106770833336,
+        "review\\importacion-2026-10-10\\N024.jpeg"
+      ]
+    ],
+    "grupo": "NV-024"
+  },
+  {
+    "n": 44,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.15 PM (1).jpeg",
+    "path": "review\\importacion-2026-10-12\\N044.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N022.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N022.jpeg"
+      ],
+      [
+        19.375325520833332,
+        "review\\importacion-2026-10-10\\N025.jpeg"
+      ]
+    ],
+    "grupo": "NV-007"
+  },
+  {
+    "n": 45,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.15 PM (2).jpeg",
+    "path": "review\\importacion-2026-10-12\\N045.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N023.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N023.jpeg"
+      ],
+      [
+        20.114583333333332,
+        "review\\importacion-2026-10-10\\N025.jpeg"
+      ]
+    ],
+    "grupo": "NV-007"
+  },
+  {
+    "n": 46,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.15 PM (3).jpeg",
+    "path": "review\\importacion-2026-10-12\\N046.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N024.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N024.jpeg"
+      ],
+      [
+        16.153971354166668,
+        "review\\importacion-2026-10-10\\N025.jpeg"
+      ]
+    ],
+    "grupo": "NV-008"
+  },
+  {
+    "n": 47,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.16 PM.jpeg",
+    "path": "review\\importacion-2026-10-12\\N047.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N025.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N025.jpeg"
+      ],
+      [
+        16.153971354166668,
+        "review\\importacion-2026-10-10\\N024.jpeg"
+      ]
+    ],
+    "grupo": "NV-008"
+  },
+  {
+    "n": 48,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.16 PM (1).jpeg",
+    "path": "review\\importacion-2026-10-12\\N048.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N026.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N026.jpeg"
+      ],
+      [
+        16.859049479166668,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.31 PM\\WhatsApp Image 2026-10-05 at 11.52.40 AM (1).jpeg"
+      ]
+    ],
+    "grupo": "Duplicado de producto publicado"
+  },
+  {
+    "n": 49,
+    "source": "WhatsApp Unknown 2026-10-12 at 10.03.16 AM.zip",
+    "name": "WhatsApp Image 2026-10-09 at 4.54.16 PM (2).jpeg",
+    "path": "review\\importacion-2026-10-12\\N049.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N027.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N027.jpeg"
+      ],
+      [
+        22.0859375,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.50 PM\\WhatsApp Image 2026-10-05 at 11.32.36 AM (1).jpeg"
+      ]
+    ],
+    "grupo": "NV-009"
+  },
+  {
+    "n": 50,
+    "source": "Adjunto",
+    "name": "WhatsApp Image 2026-10-09 at 12.41.48 PM (1).jpeg",
+    "path": "review\\importacion-2026-10-12\\N050.jpeg",
+    "exact": "review\\importacion-2026-10-10\\N050.jpeg",
+    "near": [
+      [
+        0.0,
+        "review\\importacion-2026-10-10\\N050.jpeg"
+      ],
+      [
+        38.1513671875,
+        "images\\imagenes-reales\\WhatsApp Unknown 2026-10-05 at 3.04.31 PM\\WhatsApp Image 2026-10-05 at 11.52.43 AM (2).jpeg"
+      ]
+    ],
+    "grupo": "NV-030"
+  }
+]

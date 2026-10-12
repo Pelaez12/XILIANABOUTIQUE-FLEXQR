@@ -62,3 +62,4 @@ print('Publicados:',len(products),'Fotos:',sum(len(p['photos']) for p in product
 # Apply the subsequent owner corrections and attachment audit after rebuilding.
 import runpy
 runpy.run_path(str(r/'review/actualizar-2026-10-08.py'))
+runpy.run_path(str(r/'review/actualizar-catalogo-whatsapp-2026-10-12.py'))

@@ -1,4 +1,4 @@
-// Catálogo con fotografías originales. Los precios pendientes se consultan con la boutique.
+// Catálogo verificado con fotografías originales. Disponibilidad y medidas se coordinan con la boutique.
 export const products = [
   {
     "id": 59,
@@ -1135,7 +1135,7 @@ export const products = [
   {
     "id": 89,
     "name": "Vestido largo de gala dorado",
-    "category": "Largos",
+    "category": "Gala",
     "price": 549,
     "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
@@ -1216,7 +1216,7 @@ export const products = [
   {
     "id": 92,
     "name": "Vestido largo de gala lentejuelas negro con mangas",
-    "category": "Largos",
+    "category": "Gala",
     "price": 729,
     "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
@@ -1270,7 +1270,7 @@ export const products = [
   {
     "id": 94,
     "name": "Vestido largo de gala asimétrico de una manga dorado con negro",
-    "category": "Largos",
+    "category": "Gala",
     "price": 579,
     "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
@@ -1405,7 +1405,7 @@ export const products = [
   {
     "id": 99,
     "name": "Vestido asimétrico dorado largo de gala",
-    "category": "Largos",
+    "category": "Gala",
     "price": 649,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
@@ -1686,7 +1686,7 @@ export const products = [
   {
     "id": 110,
     "name": "Vestido largo de gala blanco con rayas moradas y morado y de cap",
-    "category": "Largos",
+    "category": "Gala",
     "price": 579,
     "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
@@ -1740,7 +1740,7 @@ export const products = [
   {
     "id": 112,
     "name": "Vestido largo de gala dorado con rayas doradas y blanco",
-    "category": "Largos",
+    "category": "Gala",
     "price": 539,
     "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
@@ -2321,7 +2321,7 @@ export const products = [
   {
     "id": 136,
     "name": "Vestido largo de gala verde agua de lentejuelas",
-    "category": "Largos",
+    "category": "Gala",
     "price": 649,
     "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
     "photos": [
@@ -2483,7 +2483,7 @@ export const products = [
   {
     "id": 142,
     "name": "Vestido largo de gala rojo de malla con lentejuelas",
-    "category": "Largos",
+    "category": "Gala",
     "price": 719,
     "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
     "photos": [
@@ -2652,6 +2652,963 @@ export const products = [
     "priceSource": {
       "video": "20261009-0005-03.6416792.mp4",
       "second": 146
+    }
+  },
+  {
+    "id": 167,
+    "name": "Vestido corto dorado con negro de mangas negras",
+    "category": "Cortos con brillo",
+    "price": 349,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-167/01-N013.jpeg",
+        "width": 1080,
+        "height": 1419,
+        "view": "Frente",
+        "sha256": "3b3756a663c3e2042ba3e1e9561bbe325d46f6a28c6eeefc48bd31e03cd04675",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N013.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-167/01-N013.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-019",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido corto dorado con negro de mangas negras",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "corto-mangas-negras-349-detalle.png"
+    }
+  },
+  {
+    "id": 150,
+    "name": "Vestido corto azul de lentejuelas y flecos",
+    "category": "Cortos con brillo",
+    "price": 389,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-150/01-N004.jpeg",
+        "width": 1080,
+        "height": 1419,
+        "view": "Frente",
+        "sha256": "3cf2edffd65400aa3cfb98decda7f2e8b2cf6afc0ff42af02f93e082aad4c13c",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N004.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-150/02-N005.jpeg",
+        "width": 1080,
+        "height": 1416,
+        "view": "Espalda",
+        "sha256": "a63010ea77b1aa4ab2963147fb173265878989b184fe73ccd8a1982d586780db",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N005.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-150/01-N004.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-002",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido corto azul de lentejuelas y flecos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "azul-flecos-detalle.png"
+    }
+  },
+  {
+    "id": 153,
+    "name": "Vestido corto blanco con dorado de lentejuelas",
+    "category": "Cortos con brillo",
+    "price": 369,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-153/01-N011.jpeg",
+        "width": 1080,
+        "height": 1425,
+        "view": "Frente",
+        "sha256": "22135a778fb179833b031c7097fd3953f6dea1ac14e892527e605cf4de2e6ac7",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N011.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-153/02-N012.jpeg",
+        "width": 1080,
+        "height": 1416,
+        "view": "Espalda",
+        "sha256": "0c0efa309fdcc37f5a1319dd098c3e5298fecf9ff9c752555b4b217a7dff9e1a",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N012.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-153/01-N011.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-005",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido corto blanco con dorado de lentejuelas",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "blanco-dorado-detalle.png"
+    },
+    "catalogCode": "1822"
+  },
+  {
+    "id": 155,
+    "name": "Vestido corto negro con plateado · geométrico",
+    "category": "Cortos con brillo",
+    "price": 75.6,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-155/01-N022.jpeg",
+        "width": 1080,
+        "height": 1054,
+        "view": "Frente",
+        "sha256": "85e8bdedb1a3387e30c17dcabc0dc4820ec0f70d92b5c5afd2134c3033366f75",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N022.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-155/02-N023.jpeg",
+        "width": 1080,
+        "height": 1043,
+        "view": "Lateral",
+        "sha256": "097e96c461dfeddedc7d115967b799d89a82a05d7e2dfc3e9876c11b65e3bb18",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N023.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-155/01-N022.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-007",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido corto negro con plateado",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "negro-plateado-oferta-detalle.png"
+    },
+    "originalPrice": 189,
+    "catalogCode": "174"
+  },
+  {
+    "id": 149,
+    "name": "Vestido corto blanco de lentejuelas tornasoladas",
+    "category": "Cortos con brillo",
+    "price": 349,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-149/01-N001.jpeg",
+        "width": 1080,
+        "height": 1425,
+        "view": "Frente",
+        "sha256": "da14d0b81962743ca3ecd97184a4e2832ee53fa81ed1dc34ff1496696e77eca2",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N001.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-149/02-N002.jpeg",
+        "width": 1080,
+        "height": 1419,
+        "view": "Espalda",
+        "sha256": "4cd02428dec4cdee028a80cc46abc6d60d0fe1e7a24f7b18aae9ec8e70d03243",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N002.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-149/01-N001.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-001",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido corto blanco de lentejuelas tornasoladas",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "brillo-inferior.png"
+    }
+  },
+  {
+    "id": 151,
+    "name": "Vestido de lentejuelas palo rosa de transparencias",
+    "category": "Cortos con brillo",
+    "price": 389,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-151/01-N006.jpeg",
+        "width": 1080,
+        "height": 1073,
+        "view": "Frente",
+        "sha256": "589c9f37eccd4f0bd854f2e2371f2d1d79ebaf99a11486e8cabdf0a8ab38cd25",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N006.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-151/02-N007.jpeg",
+        "width": 1080,
+        "height": 1070,
+        "view": "Espalda",
+        "sha256": "529a7a7fe31d9cd28537e310b60b995fb11981aad6a9761ffcd854f9128b6741",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N007.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-151/01-N006.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-003",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido de lentejuelas palo rosa de transparencias",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "brillo-inferior.png"
+    }
+  },
+  {
+    "id": 152,
+    "name": "Vestido corto rojo de pedreria",
+    "category": "Cortos con brillo",
+    "price": 329,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-152/01-N008.jpeg",
+        "width": 1080,
+        "height": 1358,
+        "view": "Frente",
+        "sha256": "21c3c72242381f46124c595ed43ff81cea7b5aaacc9822df180ef330cabffc32",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N008.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-152/02-N009.jpeg",
+        "width": 1080,
+        "height": 1338,
+        "view": "Espalda",
+        "sha256": "b353190e14665b6243cd4e73d9cd592775fc863ca970eecab693158e3ca003a4",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N009.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-152/01-N008.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-004",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido corto rojo de pedreria",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "brillo-inferior.png"
+    }
+  },
+  {
+    "id": 154,
+    "name": "Vestido largo de lentejuelas con diamantes",
+    "category": "Largos",
+    "price": 349,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-154/01-N018.jpeg",
+        "width": 1080,
+        "height": 1413,
+        "view": "Frente",
+        "sha256": "8067524b685346d3ceb533505ec1c34524c48656e8a7925e831c3bb268ae3169",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N018.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-154/02-N019.jpeg",
+        "width": 1080,
+        "height": 1402,
+        "view": "Espalda",
+        "sha256": "d2b8fb7198772dd1a631853e1dde789115a41c0807913fd31b3d404046a2c891",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N019.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-154/01-N018.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-006",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido largo de lentejuelas con diamantes",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "brillo-inferior.png"
+    }
+  },
+  {
+    "id": 156,
+    "name": "Vestido corto negro con tirantes y pedrería",
+    "category": "Cortos con brillo",
+    "price": 399,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-156/01-N024.jpeg",
+        "width": 1080,
+        "height": 1069,
+        "view": "Frente",
+        "sha256": "3661fc5cb8212729de38a8bfc527d93a934f74df06fa23d050883b909bfa4a9c",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N024.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-156/02-N025.jpeg",
+        "width": 1080,
+        "height": 1065,
+        "view": "Frente · otra pose",
+        "sha256": "ad237d49834977863dcdbeeee10acddc1505d3e182e2cf92ec6014db47071911",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N025.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-156/01-N024.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-008",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "VESTIDO CORTO",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "brillo-inferior.png"
+    },
+    "catalogDescription": "Negro con tirantes y pedrería"
+  },
+  {
+    "id": 157,
+    "name": "Vestido corto de tirantes",
+    "category": "Cortos con brillo",
+    "price": 369,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-157/01-N027.jpeg",
+        "width": 1080,
+        "height": 1436,
+        "view": "Frente",
+        "sha256": "e860740e956494dc372e3f7e1f108eb80ae14a690efbae3b355b7a49b09b2c56",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N027.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-157/02-N028.jpeg",
+        "width": 1080,
+        "height": 1492,
+        "view": "Espalda",
+        "sha256": "240f1158e0db6716e9426e3c6432e8a04728ff17c84b6117f561da79a51e2411",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N028.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-157/01-N027.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-009",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido corto de tirantes",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "brillo-inferior.png"
+    },
+    "catalogDescription": "Vestido corto negro con pedrería de tirantes con transparencia"
+  },
+  {
+    "id": 158,
+    "name": "Vestido largo de gala de lentejuelas rojo brillantes",
+    "category": "Gala",
+    "price": 649,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-158/01-N030.jpeg",
+        "width": 1080,
+        "height": 1073,
+        "view": "Frente",
+        "sha256": "3480c7c50edebc960148078e0865f3acb5e38a2515bee652b506ca39cfb94d7e",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N030.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-158/02-N049.jpeg",
+        "width": 1080,
+        "height": 1074,
+        "view": "Espalda",
+        "sha256": "a2bb19a4f447db18f6150e33f91e43d307859987eb0e63446ed85fb501504265",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N049.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-158/01-N030.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-010",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido largo de gala de lentejuelas rojo brillantes",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "gala-primeros20.png"
+    }
+  },
+  {
+    "id": 159,
+    "name": "Vestido de gala largo negro con detalles en cuello y mangas",
+    "category": "Gala",
+    "price": 449,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-159/01-N032.jpeg",
+        "width": 1080,
+        "height": 1381,
+        "view": "Frente",
+        "sha256": "33c9471d468b232453d3fe0707ee7ba407c5b5c7ab12c36df4d4b96f77baa09d",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N032.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-159/02-N033.jpeg",
+        "width": 1080,
+        "height": 1387,
+        "view": "Espalda",
+        "sha256": "f3bc9c63d124312ab57b48bba89e48cacb3d08f4444a8b533243deb931fa7a55",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N033.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-159/01-N032.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-011",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido de gala largo negro con detalles en cuello y mangas",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "negro-cuello-detalle.png"
+    },
+    "catalogCode": "1998"
+  },
+  {
+    "id": 160,
+    "name": "Vestido de gala de lentejuelas color gold",
+    "category": "Gala",
+    "price": 549,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-160/01-N035.jpeg",
+        "width": 1080,
+        "height": 1408,
+        "view": "Frente",
+        "sha256": "ddd6002cb8e3bc74788383d035c24d1745cd85a20926cb10dac2536d8b1067e0",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N035.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-160/02-N036.jpeg",
+        "width": 1080,
+        "height": 1401,
+        "view": "Espalda",
+        "sha256": "daa78becb82a17fd01056b864ed1eabbc8b828287a76b8c1b43be8d489765b1b",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N036.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-160/01-N035.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-012",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido de gala de lentejuelas color gold",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "gala-31-40.png"
+    }
+  },
+  {
+    "id": 161,
+    "name": "Vestido largo de gala color azul de lentejuelas",
+    "category": "Gala",
+    "price": 569,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-161/01-N038.jpeg",
+        "width": 1088,
+        "height": 1445,
+        "view": "Frente",
+        "sha256": "e72ccfafb3d27c058d1432df3bbed08db2968f76af51f5ac728678507c8f53fd",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N038.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-161/02-N037.jpeg",
+        "width": 1080,
+        "height": 1419,
+        "view": "Espalda",
+        "sha256": "1a7f748c15b684ff2c31758a0bd2b2febe0bab99833a87820006f356fe7537c8",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N037.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-161/01-N038.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-013",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido largo de gala color azul de lentejuelas",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "gala-ultimos30.png"
+    }
+  },
+  {
+    "id": 162,
+    "name": "Vestido sirena color rojo estraple de perlas",
+    "category": "Largos",
+    "price": 549,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-162/01-N039.jpeg",
+        "width": 1080,
+        "height": 1069,
+        "view": "Frente",
+        "sha256": "123bbdb0a2a6fb96179d292980f927516f22fde16dc1204980df1ca9b01d89f2",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N039.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-162/02-N040.jpeg",
+        "width": 1080,
+        "height": 1347,
+        "view": "Espalda",
+        "sha256": "60cfd6c6f5ad67bc622e4915489c98796437bd12e4608d566a722b5dbc74b299",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N040.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-162/01-N039.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-014",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido sirena color rojo estraple de perlas",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "gala-31-40.png"
+    }
+  },
+  {
+    "id": 163,
+    "name": "Vestido sirena largo color rojo con Bruselas",
+    "category": "Largos",
+    "price": 449,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-163/01-N041.jpeg",
+        "width": 1080,
+        "height": 1069,
+        "view": "Frente",
+        "sha256": "ff85901986fb8aac3d05aa88b724c9811cb28ff29299ddcfcd0d19372e72451e",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N041.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-163/02-N042.jpeg",
+        "width": 1080,
+        "height": 1066,
+        "view": "Espalda",
+        "sha256": "5992038f67ca1f7a434f6174c97b8dc63f401de612f9a41358f12674cfb75e5d",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N042.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-163/01-N041.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-015",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido sirena largo color rojo con Bruselas",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "rojo-bruselas-detalle.png"
+    },
+    "catalogCode": "482"
+  },
+  {
+    "id": 164,
+    "name": "Vestido largo de gala blanco con un hombro de lentejuelas",
+    "category": "Gala",
+    "price": 649,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-164/01-N043.jpeg",
+        "width": 1080,
+        "height": 1423,
+        "view": "Frente",
+        "sha256": "a624669076e7da8877029d2fd68efebeb26a3e52c864c332de4619671cb68acd",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N043.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-164/02-N044.jpeg",
+        "width": 1080,
+        "height": 1436,
+        "view": "Espalda",
+        "sha256": "185a03a1ac22e8ac363be0a2e48ee2ef9f495dc7bff0d9658117eb709909f747",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N044.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-164/01-N043.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-016",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido largo de gala blanco con un hombro de lentejuelas",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "gala-primeros20.png"
+    }
+  },
+  {
+    "id": 165,
+    "name": "Vestido largo palo rosa",
+    "category": "Largos",
+    "price": 699,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-165/01-N047.jpeg",
+        "width": 1080,
+        "height": 1417,
+        "view": "Frente",
+        "sha256": "d58d91ac2ac60e272acc717d64b06e0945f5a914aea2449c33f03965c37f7e1e",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N047.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-165/02-N048.jpeg",
+        "width": 1080,
+        "height": 1407,
+        "view": "Espalda",
+        "sha256": "a8026c7b52256d0857cf7ee05f4516730d99f3e57338bb62c4039c0fe80456c7",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N048.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-165/01-N047.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-017",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido largo palo rosa",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "gala-inferior.png"
+    }
+  },
+  {
+    "id": 166,
+    "name": "Vestido de lentejuelas corto rojo",
+    "category": "Cortos con brillo",
+    "price": 289,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-166/01-N010.jpeg",
+        "width": 1080,
+        "height": 1374,
+        "view": "Frente",
+        "sha256": "c1a218533fe6aefc263561753fa9d2ddb7b40feb3837260419494479d61c97d6",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N010.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-166/01-N010.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-018",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido de lentejuelas corto rojo",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "brillo-superior.png"
+    }
+  },
+  {
+    "id": 168,
+    "name": "Vestido corto champagne de lentejuelas con cuello alto",
+    "category": "Cortos con brillo",
+    "price": 389,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-168/01-N015.jpeg",
+        "width": 1044,
+        "height": 1599,
+        "view": "Frente",
+        "sha256": "74d64b4f378e040e5650888be143a24ce06fd82c6d792efda3a81b2591395242",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N015.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-168/01-N015.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-020",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido corto champagne de lentejuelas con cuello alto",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "brillo-inferior.png"
+    }
+  },
+  {
+    "id": 169,
+    "name": "Vestido corto color verde (S M)",
+    "category": "Cortos con brillo",
+    "price": 114.5,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-169/01-N016.jpeg",
+        "width": 1080,
+        "height": 1266,
+        "view": "Frente",
+        "sha256": "005d82f6bb13787389472b25de4b684546c6352160a402b330994a04e2cc7ebb",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N016.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-169/01-N016.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-021",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido corto color verde (S M)",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "brillo-superior.png"
+    },
+    "originalPrice": 229
+  },
+  {
+    "id": 170,
+    "name": "Vestido corto de lentejuelas verde",
+    "category": "Cortos con brillo",
+    "price": 369,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-170/01-N017.jpeg",
+        "width": 1080,
+        "height": 1400,
+        "view": "Frente",
+        "sha256": "f65187b522552b09eb60207759659f5c40ee01705ced41b21ee595276cb6cd96",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N017.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-170/01-N017.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-022",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido corto de lentejuelas verde",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "brillo-superior.png"
+    },
+    "catalogCode": "923"
+  },
+  {
+    "id": 171,
+    "name": "Vestido Corto Verde de Pedrería Plateadas y de Perlas",
+    "category": "Cortos con brillo",
+    "price": 399,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-171/01-N020.jpeg",
+        "width": 1080,
+        "height": 1340,
+        "view": "Frente",
+        "sha256": "a00bb2531ca20270095f90a6dfd3d46c90df4367ce3b57456cb7107afc1a373c",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N020.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-171/01-N020.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-023",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido Corto Verde de Pedrería Plateadas y de Perlas",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "brillo-inferior.png"
+    }
+  },
+  {
+    "id": 172,
+    "name": "Vestido corto negro con mangas plateadas",
+    "category": "Cortos con brillo",
+    "price": 119.5,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-172/01-N021.jpeg",
+        "width": 1080,
+        "height": 1226,
+        "view": "Frente",
+        "sha256": "9e58150abb66cdd98a046a9709f734b776008397a3aaf5b3e3faa7096bbafb78",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N021.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-172/01-N021.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-024",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido corto negro con mangas plateadas",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "brillo-superior.png"
+    },
+    "originalPrice": 239
+  },
+  {
+    "id": 174,
+    "name": "Vestido largo de mangas largas con hebilla",
+    "category": "Largos",
+    "price": 389,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-174/01-N031.jpeg",
+        "width": 1080,
+        "height": 1443,
+        "view": "Frente",
+        "sha256": "9cedf6f25d80396aea376aa2bb7f78b8ac65c431d6065767880a81f31c6ae3d9",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N031.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-174/01-N031.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-026",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido largo de mangas largas con hebilla",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "gala-primeros20.png"
+    }
+  },
+  {
+    "id": 175,
+    "name": "Vestido de gala de lentejuelas · plomo de tirantes",
+    "category": "Gala",
+    "price": 529,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-175/01-N034.jpeg",
+        "width": 1080,
+        "height": 1442,
+        "view": "Frente",
+        "sha256": "6390430c1af1b2c464cfcb019c72a8a2ce564adb8081eb24b7164f29126d3a2e",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N034.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-175/01-N034.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-027",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido de gala de lentejuelas",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "gala-completo.json"
+    }
+  },
+  {
+    "id": 176,
+    "name": "Vestido estilo novia blanco con pedrería plateadas y verde esmeralda",
+    "category": "Largos",
+    "price": 849,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-176/01-N045.jpeg",
+        "width": 1080,
+        "height": 1431,
+        "view": "Frente",
+        "sha256": "6b4e3251d2ce4cb5c9ebe8a6d36557013f6b15adea85a2628dcb707450809f70",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N045.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-176/01-N045.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-028",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido estilo novia blanco con pedrería plateadas y verde esmeralda",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "gala-31-40.png"
+    }
+  },
+  {
+    "id": 177,
+    "name": "Vestido de largo gala nude con aplicaciones",
+    "category": "Gala",
+    "price": 649,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-177/01-N046.jpeg",
+        "width": 1080,
+        "height": 1063,
+        "view": "Frente",
+        "sha256": "5fe3d43615d14834caab1eb148e1a1116f6332f32d4a0f93ba0b5a6dfeb968c1",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N046.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-177/01-N046.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-029",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido de largo gala nude con aplicaciones",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "nude-detalle.png"
+    },
+    "catalogCode": "1456"
+  },
+  {
+    "id": 178,
+    "name": "Vestido de gala color verde asimétrico con una rosa",
+    "category": "Gala",
+    "price": 649,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-178/01-N050.jpeg",
+        "width": 1112,
+        "height": 1415,
+        "view": "Frente",
+        "sha256": "e5d7d735a4737a94a0506dfe47710a4b045e581372dbd0e7ba671752ba361061",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N050.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-178/01-N050.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-030",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido de gala color verde asimétrico con una rosa",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "gala-ultimos30.png"
+    }
+  },
+  {
+    "id": 173,
+    "name": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
+    "category": "Largos",
+    "price": 450,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-173/01-N029.jpeg",
+        "width": 1122,
+        "height": 1402,
+        "view": "Frente",
+        "sha256": "08172d0becc68899e160f67adce89032022069c06f60ffba1fcaf758e88d9201",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N029.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-173/01-N029.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-025",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
+    "priceSource": {
+      "tipo": "Confirmación del usuario",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "confirmacion-usuario-N029.md"
     }
   }
 ];

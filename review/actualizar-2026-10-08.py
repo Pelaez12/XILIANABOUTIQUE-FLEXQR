@@ -1,6 +1,7 @@
 import json,re,shutil,hashlib,html
 from pathlib import Path
 from PIL import Image
+from categoria_producto import categoria_por_nombre
 root=Path(__file__).resolve().parents[1]
 source=root/'products.js'
 text=source.read_text(encoding='utf-8-sig')
@@ -49,15 +50,11 @@ if video_confirmations.exists():
         if confirmation.get('precio_regular'):p['originalPrice']=confirmation['precio_regular']
         p['priceSource']=confirmation.get('fuente',{'video':'20261009-0005-03.6416792.mp4','second':confirmation.get('segundo')})
         if confirmation['id']==127: p['note']='Haz de tu entrada un momento inolvidable. Su diseño asimétrico y caída lateral te acompañan para celebrar, posar y sentirte preciosa a tu manera.'
-# Order by the product name, retaining the owner's specific Bandage, sale and short selections.
+# Gala tiene prioridad sobre el largo; se conservan Bandage y Liquidación.
 category_changes=[]
 for p in products:
     previous=p['category']
-    name=p['name'].casefold()
-    if previous not in ('Bandage','Liquidación') and re.search(r'\blargos?\b',name):
-        p['category']='Largos'
-    elif previous not in ('Bandage','Liquidación','Cortos con brillo') and re.search(r'\bcortos?\b',name):
-        p['category']='Cortos'
+    p['category']=categoria_por_nombre(p['name'],previous)
     if previous!=p['category']:
         category_changes.append({'id':p['id'],'nombre':p['name'],'antes':previous,'ahora':p['category']})
 (root/'review/categorias-por-nombre-2026-10-09.json').write_text(json.dumps(category_changes,ensure_ascii=False,indent=2),encoding='utf-8')

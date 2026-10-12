@@ -1,0 +1,21 @@
+XILIANA — DOS MODELOS EN EDICIÓN
+Fecha: 12 de octubre de 2026
+
+MODELOS VERIFICADOS EN EL CATÁLOGO DE WHATSAPP
+Vestido largo de gala morado con lentejuelas — código 1512 — S/ 649.00
+Vestido largo plomo de tull con detalles de flores — código 2078 — S/ 439.00
+
+Las fotografías de ambos modelos se capturaron en el visor ampliado del catálogo.
+Cada modelo tiene vista de frente y de espalda. Las capturas y sus recortes se conservan sin retoque.
+Las versiones con fondo blanco se editaron con la herramienta integrada Crear imagen.
+Se conservan como propuestas de revisión y no se han incorporado a la tienda.
+Las instrucciones exactas de edición y las fuentes están en registro.json.
+
+MENSAJE PARA EL DUEÑO
+MENSAJE-PARA-EL-DUENO.txt contiene el borrador para pedir las fotografías originales y confirmar los nombres.
+Es un borrador preparado para copiar y enviar; no se ha enviado por WhatsApp.
+
+MODELO PENDIENTE
+El registro anterior menciona «Vestido sirena rosado de lentejuelas con detalles en los hombros» a S/ 579.
+Ese nombre y precio todavía necesitan revalidarse con el dueño: no se localizó una coincidencia exacta en el catálogo actual.
+Por indicación del usuario, por ahora solo se editan el morado y el plomo.

@@ -1,0 +1,133 @@
+ [level=2]:
+    - generic: Vestidos Largos
+  - button "Tu carrito":
+  - button "Enlace al catálogo":
+- button "Vestido romano largo floreado PEN 439.00":
+  - gridcell "Vestido romano largo floreado":
+    - generic "Vestido romano largo floreado"
+  - generic: PEN 439.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo color Fucsia PEN 389.00":
+  - gridcell "Vestido largo color Fucsia":
+    - generic "Vestido largo color Fucsia"
+  - generic: PEN 389.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo amarillo con lazo Vestido largo amarillos straples de gasa con lazo en la cintura PEN 449.00":
+  - gridcell "Vestido largo amarillo con lazo":
+    - generic "Vestido largo amarillo con lazo"
+  - generic: Vestido largo amarillos straples de gasa con lazo en la cintura
+  - generic: PEN 449.00
+  - button "Añadir 1 artículo":
+- button "Vestido estampado floreado Vestido largo blanco floreado estampado de rosas con manga abanicada PEN 629.00":
+  - gridcell "Vestido estampado floreado":
+    - generic "Vestido estampado floreado"
+  - generic: Vestido largo blanco floreado estampado de rosas con manga abanicada
+  - generic: PEN 629.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo floreado de tirantes Vestido largo rosa floreado de tirantes con cinturon PEN 499.00":
+  - gridcell "Vestido largo floreado de tirantes":
+    - generic "Vestido largo floreado de tirantes"
+  - generic: Vestido largo rosa floreado de tirantes con cinturon
+  - generic: PEN 499.00
+  - button "Añadir 1 artículo":
+- button "Vestido rojo largo de manga abanicada Prendas Importadas PEN 289.00":
+  - gridcell "Vestido rojo largo de manga abanicada":
+    - generic "Vestido rojo largo de manga abanicada"
+  - generic: Prendas Importadas
+  - generic: PEN 289.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo anaranjado de mangas largas de rosas Prendas Importadas PEN 369.00":
+  - gridcell "Vestido largo anaranjado de mangas largas de rosas":
+    - generic "Vestido largo anaranjado de mangas largas de rosas"
+  - generic: Prendas Importadas
+  - generic: PEN 369.00
+  - button "Añadir 1 artículo":
+- button "Vestido blanco de corte sirena, de manga larga de rosas Prendas Importadas PEN 349.00":
+  - gridcell "Vestido blanco de corte sirena, de manga larga de rosas":
+    - generic "Vestido blanco de corte sirena, de manga larga de rosas"
+  - generic: Prendas Importadas
+  - generic: PEN 349.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo crema de mangas Prendas Importadas PEN 319.00":
+  - gridcell "Vestido largo crema de mangas":
+    - generic "Vestido largo crema de mangas"
+  - generic: Prendas Importadas
+  - generic: PEN 319.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo amarillo corte romano Prendas Importadas PEN 449.00":
+  - gridcell "Vestido largo amarillo corte romano":
+    - generic "Vestido largo amarillo corte romano"
+  - generic: Prendas Importadas
+  - generic: PEN 449.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo verde limón Vestido largo verde limón de tirantes con caída en la falda PEN 599.00":
+  - gridcell "Vestido largo verde limón":
+    - generic "Vestido largo verde limón"
+  - generic: Vestido largo verde limón de tirantes con caída en la falda
+  - generic: PEN 599.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo animal prient Prendas Importadas PEN 599.00":
+  - gridcell "Vestido largo animal prient":
+    - generic "Vestido largo animal prient"
+  - generic: Prendas Importadas
+  - generic: PEN 599.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo Bandage color Rojo Prendas Importadas PEN 549.00":
+  - gridcell "Vestido largo Bandage color Rojo":
+    - generic "Vestido largo Bandage color Rojo"
+  - generic: Prendas Importadas
+  - generic: PEN 549.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo floreado Prendas Importadas PEN 449.00":
+  - gridcell "Vestido largo floreado":
+    - generic "Vestido largo floreado"
+  - generic: Prendas Importadas
+  - generic: PEN 449.00
+  - button "Añadir 1 artículo":
+- button "Vestido estampado multicolor Prendas Importadas PEN 289.00":
+  - gridcell "Vestido estampado multicolor":
+    - generic "Vestido estampado multicolor"
+  - generic: Prendas Importadas
+  - generic: PEN 289.00
+  - button "Añadir 1 artículo":
+- button "Vestido Animal Prient Multicolor Prendas Importadas PEN 329.00":
+  - gridcell "Vestido Animal Prient Multicolor":
+    - generic "Vestido Animal Prient Multicolor"
+  - generic: Prendas Importadas
+  - generic: PEN 329.00
+  - button "Añadir 1 artículo":
+- button "Vestido floreado multicolor Prendas Importadas PEN 349.00":
+  - gridcell "Vestido floreado multicolor":
+    - generic "Vestido floreado multicolor"
+  - generic: Prendas Importadas
+  - generic: PEN 349.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo blanco con estampado flores Prendas Importadas PEN 269.00":
+  - gridcell "Vestido largo blanco con estampado flores":
+    - generic "Vestido largo blanco con estampado flores"
+  - generic: Prendas Importadas
+  - generic: PEN 269.00
+  - button "Añadir 1 artículo":
+- button "Blusa cola de pato asimétrico blanco con negro Prendas Importadas PEN 239.00":
+  - gridcell "Blusa cola de pato asimétrico blanco con negro":
+    - generic "Blusa cola de pato asimétrico blanco con negro"
+  - generic: Prendas Importadas
+  - generic: PEN 239.00
+  - button "Añadir 1 artículo":
+- button "Vestido corte A animal prient Prendas Importadas PEN 349.00":
+  - gridcell "Vestido corte A animal prient":
+    - generic "Vestido corte A animal prient"
+  - generic: Prendas Importadas
+  - generic: PEN 349.00
+  - button "Añadir 1 artículo":
+- button "vestido largo de rayas cremas con negro Prendas Importadas PEN 279.00":
+  - gridcell "vestido largo de rayas cremas con negro":
+    - generic "vestido largo de rayas cremas con negro"
+  - generic: Prendas Importadas
+  - generic: PEN 279.00
+  - button "Añadir 1 artículo":
+- button "Vestido rojo estraple con detalles PEN 339.00":
+  - gridcell "Vestido rojo estraple con detalles":
+    - generic "Vestido rojo estraple con detalles"
+  - generic: PEN 339.00
+  - button "Añadir 1 artículo":

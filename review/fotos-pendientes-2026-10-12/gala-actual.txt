@@ -1,0 +1,318 @@
+ [level=2]:
+    - generic: Gala Dresess
+  - button "Tu carrito":
+  - button "Enlace al catálogo":
+- button "Vestido de largo gala nude con aplicaciones Prendas Importadas PEN 649.00":
+  - gridcell "Vestido de largo gala nude con aplicaciones":
+    - generic "Vestido de largo gala nude con aplicaciones"
+  - generic: Prendas Importadas
+  - generic: PEN 649.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo de gala de lentejuelas rojo brillantes Talla XL PEN 649.00":
+  - gridcell "Vestido largo de gala de lentejuelas rojo brillantes":
+    - generic "Vestido largo de gala de lentejuelas rojo brillantes"
+  - generic: Talla XL
+  - generic: PEN 649.00
+  - button "Añadir 1 artículo":
+- button "Vestido sirena largo color rojo con Bruselas Prendas Importadas PEN 449.00":
+  - gridcell "Vestido sirena largo color rojo con Bruselas":
+    - generic "Vestido sirena largo color rojo con Bruselas"
+  - generic: Prendas Importadas
+  - generic: PEN 449.00
+  - button "Añadir 1 artículo":
+- button "Vestido Largo Color Pic Blue Prendas Importadas PEN 579.00":
+  - gridcell "Vestido Largo Color Pic Blue":
+    - generic "Vestido Largo Color Pic Blue"
+  - generic: Prendas Importadas
+  - generic: PEN 579.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo de mangas largas con hebilla 2XL Prendas Importadas PEN 389.00":
+  - gridcell "Vestido largo de mangas largas con hebilla":
+    - generic "Vestido largo de mangas largas con hebilla"
+  - generic: 2XL Prendas Importadas
+  - generic: PEN 389.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo de gala verde agua de lentejuelas Prendas Importadas PEN 649.00":
+  - gridcell "Vestido largo de gala verde agua de lentejuelas":
+    - generic "Vestido largo de gala verde agua de lentejuelas"
+  - generic: Prendas Importadas
+  - generic: PEN 649.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo de gala morado con lentejuelas PEN 649.00":
+  - gridcell "Vestido largo de gala morado con lentejuelas":
+    - generic "Vestido largo de gala morado con lentejuelas"
+  - generic: PEN 649.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo de gala rojo de malla con lentejuelas PEN 719.00":
+  - gridcell "Vestido largo de gala rojo de malla con lentejuelas":
+    - generic "Vestido largo de gala rojo de malla con lentejuelas"
+  - generic: PEN 719.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo de gala blanco con un hombro de lentejuelas PEN 649.00":
+  - gridcell "Vestido largo de gala blanco con un hombro de lentejuelas":
+    - generic "Vestido largo de gala blanco con un hombro de lentejuelas"
+  - generic: PEN 649.00
+  - button "Añadir 1 artículo":
+- button "Vestido vino strapless de tirantes con copas de pedrería COD 1610 PEN 549.00":
+  - gridcell "Vestido vino strapless de tirantes con copas de pedrería":
+    - generic "Vestido vino strapless de tirantes con copas de pedrería"
+  - generic: COD 1610
+  - generic: PEN 549.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo palo rosa Vestido de gasa y lentejuelas palo rosa, de tirantes posteriores PEN 699.00":
+  - gridcell "Vestido largo palo rosa":
+    - generic "Vestido largo palo rosa"
+  - generic: Vestido de gasa y lentejuelas palo rosa, de tirantes posteriores
+  - generic: PEN 699.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo azul acero Vestido largo azul acero de gasa y encaje blanco PEN 699.00":
+  - gridcell "Vestido largo azul acero":
+    - generic "Vestido largo azul acero"
+  - generic: Vestido largo azul acero de gasa y encaje blanco
+  - generic: PEN 699.00
+  - button "Añadir 1 artículo":
+- button "Vestido palo rosa gasa y satin Vestido palo rosa de gasa y satin con escote pronunciado PEN 649.00":
+  - gridcell "Vestido palo rosa gasa y satin":
+    - generic "Vestido palo rosa gasa y satin"
+  - generic: Vestido palo rosa de gasa y satin con escote pronunciado
+  - generic: PEN 649.00
+  - button "Añadir 1 artículo":
+- button "Vestido de gala en dregadado Vestido largo corte sirena de lentejuelas en degradado de blanco a verde con manga larga de escote en la espalda PEN 749.00":
+  - gridcell "Vestido de gala en dregadado":
+    - generic "Vestido de gala en dregadado"
+  - generic: Vestido largo corte sirena de lentejuelas en degradado de blanco a verde con manga larga de escote en la espalda
+  - generic: PEN 749.00
+  - button "Añadir 1 artículo":
+- button "Vestido de gasa azul Vestido de gasa azul con encaje de mangas corta PEN 649.00":
+  - gridcell "Vestido de gasa azul":
+    - generic "Vestido de gasa azul"
+  - generic: Vestido de gasa azul con encaje de mangas corta
+  - generic: PEN 649.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo morado claro Vestido largo de lentejuelas moradas en la parte bajo, la parte superior de manga larga en gasa PEN 649.00":
+  - gridcell "Vestido largo morado claro":
+    - generic "Vestido largo morado claro"
+  - generic: Vestido largo de lentejuelas moradas en la parte bajo, la parte superior de manga larga en gasa
+  - generic: PEN 649.00
+  - button "Añadir 1 artículo":
+- button "Vestido sirena palo rosa de lentejuelas Vestido largo sirenade lentejuelas palo rosa con caída, mangas pequeñas y abertura en la pierna PEN 569.00":
+  - gridcell "Vestido sirena palo rosa de lentejuelas":
+    - generic "Vestido sirena palo rosa de lentejuelas"
+  - generic: Vestido largo sirenade lentejuelas palo rosa con caída, mangas pequeñas y abertura en la pierna
+  - generic: PEN 569.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo azul PEN 349.00":
+  - gridcell "Vestido largo azul":
+    - generic "Vestido largo azul"
+  - generic: PEN 349.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo corte sirena negro con lazo y mangas Prendas Importadas PEN 549.00":
+  - gridcell "Vestido largo corte sirena negro con lazo y mangas":
+    - generic "Vestido largo corte sirena negro con lazo y mangas"
+  - generic: Prendas Importadas
+  - generic: PEN 549.00
+  - button "Añadir 1 artículo":
+- button "Vestido crema de encaje y tull asimétrico ⬇️ 50% Descuento. PEN 194.50 PEN 389.00":
+  - gridcell "Vestido crema de encaje y tull asimétrico":
+    - generic "Vestido crema de encaje y tull asimétrico"
+  - img "⬇️"
+  - text: 50% Descuento.
+  - text: PEN 194.50
+  - deletion: PEN 389.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo azul corte sirena con tirantes cruzados Prendas Importadas PEN 499.00":
+  - gridcell "Vestido largo azul corte sirena con tirantes cruzados":
+    - generic "Vestido largo azul corte sirena con tirantes cruzados"
+  - generic: Prendas Importadas
+  - generic: PEN 499.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo de gala color azul de lentejuelas Prendas Importadas PEN 569.00":
+  - gridcell "Vestido largo de gala color azul de lentejuelas":
+    - generic "Vestido largo de gala color azul de lentejuelas"
+  - generic: Prendas Importadas
+  - generic: PEN 569.00
+  - button "Añadir 1 artículo":
+- button "Vestido de gala color verde asimétrico con una rosa Prendas Importadas PEN 649.00":
+  - gridcell "Vestido de gala color verde asimétrico con una rosa":
+    - generic "Vestido de gala color verde asimétrico con una rosa"
+  - generic: Prendas Importadas
+  - generic: PEN 649.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo de gala dorado Prendas Importadas PEN 549.00":
+  - gridcell "Vestido largo de gala dorado":
+    - generic "Vestido largo de gala dorado"
+  - generic: Prendas Importadas
+  - generic: PEN 549.00
+  - button "Añadir 1 artículo":
+- button "Vestido de gala gamusa color guinda con perlas Prendas Importadas PEN 589.00":
+  - gridcell "Vestido de gala gamusa color guinda con perlas":
+    - generic "Vestido de gala gamusa color guinda con perlas"
+  - generic: Prendas Importadas
+  - generic: PEN 589.00
+  - button "Añadir 1 artículo":
+- button "Vestido elegante sirena color verde Prendas Importadas PEN 389.00":
+  - gridcell "Vestido elegante sirena color verde":
+    - generic "Vestido elegante sirena color verde"
+  - generic: Prendas Importadas
+  - generic: PEN 389.00
+  - button "Añadir 1 artículo":
+- button "Vestido negro brillante PEN 389.00":
+  - gridcell "Vestido negro brillante":
+    - generic "Vestido negro brillante"
+  - generic: PEN 389.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo de gala lentejuelas negro con mangas Prendas Importadas PEN 729.00":
+  - gridcell "Vestido largo de gala lentejuelas negro con mangas":
+    - generic "Vestido largo de gala lentejuelas negro con mangas"
+  - generic: Prendas Importadas
+  - generic: PEN 729.00
+  - button "Añadir 1 artículo":
+- button "Vestido fucsia con escote y pliegue izquierdo Prendas Importadas PEN 549.00":
+  - gridcell "Vestido fucsia con escote y pliegue izquierdo":
+    - generic "Vestido fucsia con escote y pliegue izquierdo"
+  - generic: Prendas Importadas
+  - generic: PEN 549.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo de gala asimétrico de una manga dorado con negro Prendas Importadas PEN 579.00":
+  - gridcell "Vestido largo de gala asimétrico de una manga dorado con negro":
+    - generic "Vestido largo de gala asimétrico de una manga dorado con negro"
+  - generic: Prendas Importadas
+  - generic: PEN 579.00
+  - button "Añadir 1 artículo":
+- button "Vestido de gala largo negro con detalles en cuello y mangas Prendas Importadas PEN 449.00":
+  - gridcell "Vestido de gala largo negro con detalles en cuello y mangas":
+    - generic "Vestido de gala largo negro con detalles en cuello y mangas"
+  - generic: Prendas Importadas
+  - generic: PEN 449.00
+  - button "Añadir 1 artículo":
+- button "Vestido corte acampanado de tejido brillante Prendas Importadas PEN 589.00":
+  - gridcell "Vestido corte acampanado de tejido brillante":
+    - generic "Vestido corte acampanado de tejido brillante"
+  - generic: Prendas Importadas
+  - generic: PEN 589.00
+  - button "Añadir 1 artículo":
+- button "Vestido sirena color verde gamuzado con mangas y cuello cuadrado Prendas Importadas PEN 519.00":
+  - gridcell "Vestido sirena color verde gamuzado con mangas y cuello cuadrado":
+    - generic "Vestido sirena color verde gamuzado con mangas y cuello cuadrado"
+  - generic: Prendas Importadas
+  - generic: PEN 519.00
+  - button "Añadir 1 artículo":
+- button "Vestido sirena de lentejuelas verdes con detalles en los hombres PEN 549.00":
+  - gridcell "Vestido sirena de lentejuelas verdes con detalles en los hombres":
+    - generic "Vestido sirena de lentejuelas verdes con detalles en los hombres"
+  - generic: PEN 549.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo de mangas semi drapeado con detalles de brillos en cintura y hombro Prendas Importadas PEN 549.00":
+  - gridcell "Vestido largo de mangas semi drapeado con detalles de brillos en cintura y hombro":
+    - generic "Vestido largo de mangas semi drapeado con detalles de brillos en cintura y hombro"
+  - generic: Prendas Importadas
+  - generic: PEN 549.00
+  - button "Añadir 1 artículo":
+- button "Vestido sirena color rojo estraple de perlas Prendas Importadas PEN 549.00":
+  - gridcell "Vestido sirena color rojo estraple de perlas":
+    - generic "Vestido sirena color rojo estraple de perlas"
+  - generic: Prendas Importadas
+  - generic: PEN 549.00
+  - button "Añadir 1 artículo":
+- button "Vestido asimétrico dorado largo de gala Prendas Importadas PEN 649.00":
+  - gridcell "Vestido asimétrico dorado largo de gala":
+    - generic "Vestido asimétrico dorado largo de gala"
+  - generic: Prendas Importadas
+  - generic: PEN 649.00
+  - button "Añadir 1 artículo":
+- button "Vestido rojo de gala con strass plateadas. Prendas Importadas PEN 389.00":
+  - gridcell "Vestido rojo de gala con strass plateadas.":
+    - generic "Vestido rojo de gala con strass plateadas."
+  - generic: Prendas Importadas
+  - generic: PEN 389.00
+  - button "Añadir 1 artículo":
+- button "vestido de gala rojo con aplicaciones plateadas. Prendas Importadas PEN 349.00":
+  - gridcell "vestido de gala rojo con aplicaciones plateadas.":
+    - generic "vestido de gala rojo con aplicaciones plateadas."
+  - generic: Prendas Importadas
+  - generic: PEN 349.00
+  - button "Añadir 1 artículo":
+- button "vestido largo con semi cola y detalles de pedrería plateados y morados Prendas Importadas PEN 699.00":
+  - gridcell "vestido largo con semi cola y detalles de pedrería plateados y morados":
+    - generic "vestido largo con semi cola y detalles de pedrería plateados y morados"
+  - generic: Prendas Importadas
+  - generic: PEN 699.00
+  - button "Añadir 1 artículo":
+- button "Vestido estilo novia blanco con pedrería plateadas y verde esmeralda Prendas Importadas PEN 849.00":
+  - gridcell "Vestido estilo novia blanco con pedrería plateadas y verde esmeralda":
+    - generic "Vestido estilo novia blanco con pedrería plateadas y verde esmeralda"
+  - generic: Prendas Importadas
+  - generic: PEN 849.00
+  - button "Añadir 1 artículo":
+- button "Vestido sirena de gala verde con perlas Prendas Importadas PEN 729.00":
+  - gridcell "Vestido sirena de gala verde con perlas":
+    - generic "Vestido sirena de gala verde con perlas"
+  - generic: Prendas Importadas
+  - generic: PEN 729.00
+  - button "Añadir 1 artículo":
+- button "Vestido de gala de lentejuelas color gold Prendas Importadas PEN 549.00":
+  - gridcell "Vestido de gala de lentejuelas color gold":
+    - generic "Vestido de gala de lentejuelas color gold"
+  - generic: Prendas Importadas
+  - generic: PEN 549.00
+  - button "Añadir 1 artículo":
+- button "Vestido de gala de lentejuelas color Brown Prendas Importadas PEN 589.00":
+  - gridcell "Vestido de gala de lentejuelas color Brown":
+    - generic "Vestido de gala de lentejuelas color Brown"
+  - generic: Prendas Importadas
+  - generic: PEN 589.00
+  - button "Añadir 1 artículo":
+- button "Vestido de gala de lentejuelas rosa Prendas Importadas PEN 469.00":
+  - gridcell "Vestido de gala de lentejuelas rosa":
+    - generic "Vestido de gala de lentejuelas rosa"
+  - generic: Prendas Importadas
+  - generic: PEN 469.00
+  - button "Añadir 1 artículo":
+- button "Vestido de gala negro con detalles plateados Prendas Importadas PEN 429.00":
+  - gridcell "Vestido de gala negro con detalles plateados":
+    - generic "Vestido de gala negro con detalles plateados"
+  - generic: Prendas Importadas
+  - generic: PEN 429.00
+  - button "Añadir 1 artículo":
+- button "Vestido de gala de lentejuelas Prendas Importadas PEN 529.00":
+  - gridcell "Vestido de gala de lentejuelas":
+    - generic "Vestido de gala de lentejuelas"
+  - generic: Prendas Importadas
+  - generic: PEN 529.00
+  - button "Añadir 1 artículo":
+- button "Vestido de gala de lentejuelas Prendas Importadas PEN 449.00":
+  - gridcell "Vestido de gala de lentejuelas":
+    - generic "Vestido de gala de lentejuelas"
+  - generic: Prendas Importadas
+  - generic: PEN 449.00
+  - button "Añadir 1 artículo":
+- button "Vestido de gala crema con azul Prendas Importadas PEN 569.00":
+  - gridcell "Vestido de gala crema con azul":
+    - generic "Vestido de gala crema con azul"
+  - generic: Prendas Importadas
+  - generic: PEN 569.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo de gala blanco con rayas moradas y morado y de capa tull blanco d Prendas Importadas PEN 579.00":
+  - gridcell "Vestido largo de gala blanco con rayas moradas y morado y de capa tull blanco d":
+    - generic "Vestido largo de gala blanco con rayas moradas y morado y de capa tull blanco d"
+  - generic: Prendas Importadas
+  - generic: PEN 579.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo crema de perlas y pedrería plateadas Prendas Importadas PEN 669.00":
+  - gridcell "Vestido largo crema de perlas y pedrería plateadas":
+    - generic "Vestido largo crema de perlas y pedrería plateadas"
+  - generic: Prendas Importadas
+  - generic: PEN 669.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo plomo de tull con detalles de flores Prendas Importadas PEN 439.00":
+  - gridcell "Vestido largo plomo de tull con detalles de flores":
+    - generic "Vestido largo plomo de tull con detalles de flores"
+  - generic: Prendas Importadas
+  - generic: PEN 439.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo de gala dorado con rayas doradas y blanco Prendas Importadas PEN 539.00":
+  - gridcell "Vestido largo de gala dorado con rayas doradas y blanco":
+    - generic "Vestido largo de gala dorado con rayas doradas y blanco"
+  - generic: Prendas Importadas
+  - generic: PEN 539.00
+  - button "Añadir 1 artículo":

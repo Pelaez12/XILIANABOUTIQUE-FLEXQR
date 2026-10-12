@@ -1,0 +1,27 @@
+{
+  "modelos_identificados": 30,
+  "fotos_incorporadas": 47,
+  "grupos_pendientes": [],
+  "total_prendas": 139,
+  "total_fotos": 225,
+  "catalogo_sin_foto": [
+    {
+      "nombre": "Vestido largo de gala morado con lentejuelas",
+      "precio": 649,
+      "categoria": "Gala",
+      "estado": "Sin foto original identificada"
+    },
+    {
+      "nombre": "Vestido sirena rosado de lentejuelas con detalles en los hombros",
+      "precio": 579,
+      "categoria": "Gala",
+      "estado": "Sin foto original identificada"
+    },
+    {
+      "nombre": "Vestido largo plomo de tull con detalles de flores",
+      "precio": 439,
+      "categoria": "Gala",
+      "estado": "Sin foto original identificada"
+    }
+  ]
+}

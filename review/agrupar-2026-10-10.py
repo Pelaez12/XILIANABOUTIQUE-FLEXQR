@@ -11,13 +11,19 @@ groups=[]
 for k,(indices,name) in enumerate(list(zip(pairs,names))+list(zip([[n] for n in singles],single_names)),1):
  groups.append({'grupo':f'NV-{k:03}','nombre_descriptivo':name,'fotos':[{'n':n,'path':by[n]['path'],'vista':('Frente' if j==0 else 'Frente · otra pose' if n==25 else 'Lateral' if n==23 else 'Espalda')} for j,n in enumerate(indices)],'estado':'Modelo nuevo: nombre de catálogo y precio por asociar'})
 audit={'total_fotos':50,'duplicados_visuales':[{'n':n,'producto':f'XL-{ident:03}','motivo':'Misma fotografía, archivo recomprimido; no añadida'} for n,ident in duplicates.items()],'modelos_nuevos':groups,'parejas':17,'una_vista':13}
+confirmation_file=r/'review/catalogo-whatsapp-2026-10-12/confirmados.json'
+if confirmation_file.exists():
+ for c in json.loads(confirmation_file.read_text(encoding='utf-8'))['confirmados']:
+  g=next(g for g in groups if g['grupo']==c['grupo'])
+  g.update(nombre_catalogo=c.get('nombre_catalogo',c['nombre']),nombre_web=c['nombre'],precio=c['precio'],categoria=c['categoria'],productId=148+int(c['grupo'].split('-')[1]),estado=('Confirmado por el usuario e incorporado a la tienda' if c.get('fuente_tipo') else 'Identificado en WhatsApp e incorporado a la tienda'))
 (d/'verificacion.json').write_text(json.dumps(audit,ensure_ascii=False,indent=2),encoding='utf-8')
 out=['<!doctype html><html lang="es"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Fotos nuevas · Xiliana</title><style>body{font:16px system-ui;background:#faf8f4;color:#222;margin:0;padding:24px}main{max-width:1100px;margin:auto}h1{font-size:32px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px}article{background:white;padding:16px;border:1px solid #ddd}figure{margin:0;min-width:0}img{width:100%;height:300px;object-fit:contain}.photos{display:flex;gap:8px}.photos figure{flex:1}small{color:#666}h2{font-size:18px}figcaption{font-size:12px}</style><main><h1>Fotos nuevas organizadas</h1><p>50 fotos revisadas · 3 duplicados omitidos · 17 parejas · 13 modelos con una vista.</p><p>Los modelos siguientes no coinciden con las 109 prendas publicadas. Los nombres son descriptivos para facilitar su identificación; falta asociar nombre de catálogo y precio antes de incorporarlos a la tienda.</p><div class="grid">']
+out=[s.replace('Los modelos siguientes no coinciden con las 109 prendas publicadas. Los nombres son descriptivos para facilitar su identificación; falta asociar nombre de catálogo y precio antes de incorporarlos a la tienda.',f'{sum("precio" in g for g in groups)} de 30 modelos identificados con su nombre y precio en el catálogo de WhatsApp. Frente primero en todas las parejas.') for s in out]
 for g in groups:
- out.append(f'<article><small>{g["grupo"]}</small><h2>{html.escape(g["nombre_descriptivo"])}</h2><div class="photos">')
+ out.append(f'<article><small>{g["grupo"]}</small><h2>{html.escape(g.get("nombre_web",g["nombre_descriptivo"]))}</h2><div class="photos">')
  for f in g['fotos']:out.append(f'<figure><a href="N{f["n"]:03}.jpeg"><img loading="lazy" src="N{f["n"]:03}.jpeg"></a><figcaption>N{f["n"]:03} · {f["vista"]}</figcaption></figure>')
- out.append('</div><p><small>Precio por asociar al catálogo.</small></p></article>')
+ out.append('</div><p><small>'+ (f'S/ {g["precio"]:.2f} · XL-{g["productId"]}' if 'precio' in g else 'Precio por asociar al catálogo.')+'</small></p></article>')
 out.append('</div><h2>Duplicados que ya están en la web</h2><p>N003 → XL-016 · N014 → XL-017 · N026 → XL-122. No se repiten en sus galerías.</p></main></html>')
 (d/'REVISION-FOTOS.html').write_text(''.join(out),encoding='utf-8')
 assert sorted([n for pair in pairs for n in pair]+singles+list(duplicates))==list(range(1,51))
-print('50 fotos verificadas: 3 duplicadas; 30 modelos nuevos agrupados, frente primero.')
+print(f'50 fotos verificadas: 3 duplicadas; 30 modelos agrupados; {sum("precio" in g for g in groups)} identificados. Frente primero.')

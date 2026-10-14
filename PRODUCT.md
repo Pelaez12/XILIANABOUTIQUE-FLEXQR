@@ -27,6 +27,9 @@ Catálogos duplicados en el inicio, fotos inventadas que alteran el vestido, inf
 - La búsqueda ayuda a reconocer nombres y colores dentro de la colección elegida.
 - El contacto y los horarios deben ser fáciles de encontrar.
 - Los pedidos se coordinan por WhatsApp al 930 527 248.
+- Todas las prendas muestran «Talla estándar», según confirmación del usuario del 13 de octubre de 2026. Los centímetros y ajustes se confirman por modelo.
+- La presentación de marca se muestra una vez por sesión de navegación, se puede omitir o repetir voluntariamente y respeta movimiento reducido.
+- Los domingos se atiende previa cita. La boutique se encuentra en el Centro Comercial El Rey, Jesús María, Lima, Perú.
 
 ## Accessibility & Inclusion
 

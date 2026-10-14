@@ -6,7 +6,7 @@
       "grupo": "NV-025",
       "nombre": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
       "precio": 450,
-      "categoria": "Largos",
+      "categoria": "Gala",
       "fuente_tipo": "Confirmación del usuario",
       "evidencia": "confirmacion-usuario-N029.md"
     },
@@ -67,7 +67,7 @@
       "grupo": "NV-006",
       "nombre": "Vestido largo de lentejuelas con diamantes",
       "precio": 349,
-      "categoria": "Largos",
+      "categoria": "Cortos con brillo",
       "evidencia": "brillo-inferior.png"
     },
     {
@@ -120,14 +120,14 @@
       "grupo": "NV-014",
       "nombre": "Vestido sirena color rojo estraple de perlas",
       "precio": 549,
-      "categoria": "Largos",
+      "categoria": "Gala",
       "evidencia": "gala-31-40.png"
     },
     {
       "grupo": "NV-015",
       "nombre": "Vestido sirena largo color rojo con Bruselas",
       "precio": 449,
-      "categoria": "Largos",
+      "categoria": "Gala",
       "codigo_catalogo": "482",
       "evidencia": "rojo-bruselas-detalle.png"
     },
@@ -142,7 +142,7 @@
       "grupo": "NV-017",
       "nombre": "Vestido largo palo rosa",
       "precio": 699,
-      "categoria": "Largos",
+      "categoria": "Gala",
       "evidencia": "gala-inferior.png"
     },
     {
@@ -194,7 +194,7 @@
       "grupo": "NV-026",
       "nombre": "Vestido largo de mangas largas con hebilla",
       "precio": 389,
-      "categoria": "Largos",
+      "categoria": "Gala",
       "evidencia": "gala-primeros20.png"
     },
     {
@@ -210,7 +210,7 @@
       "grupo": "NV-028",
       "nombre": "Vestido estilo novia blanco con pedrería plateadas y verde esmeralda",
       "precio": 849,
-      "categoria": "Largos",
+      "categoria": "Gala",
       "evidencia": "gala-31-40.png"
     },
     {

@@ -3,7 +3,7 @@ export const boutique = {
   url: 'https://xilianaboutique.comunidadfortaleza.com',
   provinceShipping: 15,
   address: 'Av. Horacio Urteaga 1438, Tienda 166 · C. C. El Rey · Jesús María, Lima',
-  hours: 'Lunes a sábado, 11:00 a. m. a 8:00 p. m. · Domingo cerrado',
+  hours: 'Lunes a sábado, 11:00 a. m. a 8:00 p. m. · Domingos previa cita',
 };
 
 export const money = value => value == null ? 'Precio por confirmar' : new Intl.NumberFormat('es-PE', { style: 'currency', currency: 'PEN' }).format(value);
@@ -16,7 +16,6 @@ export function visitDateError(date, now = new Date()) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return 'Elige la fecha de tu visita.';
   const day = new Date(`${date}T12:00:00Z`);
   if (Number.isNaN(day.getTime()) || day.toISOString().slice(0, 10) !== date) return 'Elige una fecha válida.';
-  if (day.getUTCDay() === 0) return 'Domingo cerrado. Elige una fecha de lunes a sábado.';
   if (date < limaNow(now).date) return 'Elige hoy o una fecha posterior.';
   return '';
 }
@@ -35,8 +34,7 @@ export function visitError(date, time, now = new Date()) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(date) || !/^\d{2}:\d{2}$/.test(time)) return 'Elige una fecha y una hora para tu visita.';
   const day = new Date(`${date}T12:00:00Z`);
   if (Number.isNaN(day.getTime()) || day.toISOString().slice(0, 10) !== date) return 'Elige una fecha válida.';
-  if (day.getUTCDay() === 0) return 'Los domingos estamos cerrados. Elige de lunes a sábado.';
-  if (time < '11:00' || time >= '20:00') return 'Elige una hora desde las 11:00 a. m. y antes de las 8:00 p. m.';
+  if (day.getUTCDay() !== 0 && (time < '11:00' || time >= '20:00')) return 'Elige una hora desde las 11:00 a. m. y antes de las 8:00 p. m.';
   const current = limaNow(now);
   if (date < current.date || (date === current.date && time <= current.time)) return 'Elige una fecha y hora futuras (hora de Lima).';
   return '';
@@ -55,7 +53,7 @@ export function orderMessage(product, data, path) {
     `Vestido: ${product.name}`, `Referencia: XL-${String(product.id).padStart(3, '0')}`,
     `Colección: ${product.category}`, `Enlace: ${boutique.url}${path}`,
     `Precio unitario del catálogo: ${money(product.price)}`, `Cantidad: ${data.quantity}`,
-    'Prenda única y personalizada, sin talla definida por ahora.', `Medidas o asesoría: ${data.size || 'Por coordinar con la boutique'}`, `Subtotal: ${money(totals.subtotal)}`, '',
+    'Prenda única y personalizada, de talla estándar.', `Medidas o asesoría: ${data.size || 'Por coordinar con la boutique'}`, `Subtotal: ${money(totals.subtotal)}`, '',
     `Nombre: ${data.name}`, `Celular: ${data.phone}`,
   ];
   if (data.method === 'visit') {

@@ -21,7 +21,7 @@ if not backup.exists():
     backup.write_text(json.dumps(before, ensure_ascii=False, indent=2), encoding='utf-8')
 
 for product in products:
-    product['category'] = categoria_por_nombre(product['name'], product['category'])
+    product['category'] = categoria_por_nombre(product['name'], product['category'],product['id'])
 
 # Verificar que la modificación se limita a la categoría.
 assert len(before) == len(products)
@@ -36,7 +36,8 @@ source.write_text(text[:match.start(1)] + serialized + text[match.end(1):], enco
 confirmed_file = root / 'review/catalogo-whatsapp-2026-10-12/confirmados.json'
 confirmed = json.loads(confirmed_file.read_text(encoding='utf-8'))
 for item in confirmed['confirmados']:
-    item['categoria'] = categoria_por_nombre(item['nombre'], item['categoria'])
+    ident = 148 + int(item['grupo'].split('-')[1])
+    item['categoria'] = categoria_por_nombre(item['nombre'], item['categoria'],ident)
 confirmed_file.write_text(json.dumps(confirmed, ensure_ascii=False, indent=2), encoding='utf-8')
 
 by_id = {p['id']:p for p in products}

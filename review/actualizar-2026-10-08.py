@@ -54,7 +54,7 @@ if video_confirmations.exists():
 category_changes=[]
 for p in products:
     previous=p['category']
-    p['category']=categoria_por_nombre(p['name'],previous)
+    p['category']=categoria_por_nombre(p['name'],previous,p['id'])
     if previous!=p['category']:
         category_changes.append({'id':p['id'],'nombre':p['name'],'antes':previous,'ahora':p['category']})
 (root/'review/categorias-por-nombre-2026-10-09.json').write_text(json.dumps(category_changes,ensure_ascii=False,indent=2),encoding='utf-8')

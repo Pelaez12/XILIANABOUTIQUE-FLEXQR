@@ -45,7 +45,7 @@ for item in confirmed['confirmados']:
                            sourceAttachment=shot['path']))
     assert photos[0]['view'] == 'Frente'
     assert len({p['sha256'] for p in photos}) == len(photos)
-    product = dict(id=ident, name=item['nombre'], category=categoria_por_nombre(item['nombre'], item['categoria']),
+    product = dict(id=ident, name=item['nombre'], category=categoria_por_nombre(item['nombre'], item['categoria'],ident),
                    price=item['precio'], photos=photos, image=photos[0]['src'],
                    photoPending=False, importGroup=item['grupo'],
                    note='Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.',

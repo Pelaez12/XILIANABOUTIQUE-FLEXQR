@@ -147,7 +147,7 @@
       "nombre_catalogo": "Vestido largo de lentejuelas con diamantes",
       "nombre_web": "Vestido largo de lentejuelas con diamantes",
       "precio": 349,
-      "categoria": "Largos",
+      "categoria": "Cortos con brillo",
       "productId": 154
     },
     {
@@ -323,7 +323,7 @@
       "nombre_catalogo": "Vestido sirena color rojo estraple de perlas",
       "nombre_web": "Vestido sirena color rojo estraple de perlas",
       "precio": 549,
-      "categoria": "Largos",
+      "categoria": "Gala",
       "productId": 162
     },
     {
@@ -345,7 +345,7 @@
       "nombre_catalogo": "Vestido sirena largo color rojo con Bruselas",
       "nombre_web": "Vestido sirena largo color rojo con Bruselas",
       "precio": 449,
-      "categoria": "Largos",
+      "categoria": "Gala",
       "productId": 163
     },
     {
@@ -389,7 +389,7 @@
       "nombre_catalogo": "Vestido largo palo rosa",
       "nombre_web": "Vestido largo palo rosa",
       "precio": 699,
-      "categoria": "Largos",
+      "categoria": "Gala",
       "productId": 165
     },
     {
@@ -525,7 +525,7 @@
       "nombre_catalogo": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
       "nombre_web": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
       "precio": 450,
-      "categoria": "Largos",
+      "categoria": "Gala",
       "productId": 173
     },
     {
@@ -542,7 +542,7 @@
       "nombre_catalogo": "Vestido largo de mangas largas con hebilla",
       "nombre_web": "Vestido largo de mangas largas con hebilla",
       "precio": 389,
-      "categoria": "Largos",
+      "categoria": "Gala",
       "productId": 174
     },
     {
@@ -576,7 +576,7 @@
       "nombre_catalogo": "Vestido estilo novia blanco con pedrería plateadas y verde esmeralda",
       "nombre_web": "Vestido estilo novia blanco con pedrería plateadas y verde esmeralda",
       "precio": 849,
-      "categoria": "Largos",
+      "categoria": "Gala",
       "productId": 176
     },
     {

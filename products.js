@@ -564,7 +564,7 @@ export const products = [
   {
     "id": 16,
     "name": "Vestido transparente con diamantes de imitación",
-    "category": "Liquidación",
+    "category": "Cortos con brillo",
     "price": 164.5,
     "note": "Tu próximo look especial también puede ser una bonita oportunidad. Consulta disponibilidad y encuentra tu favorito.",
     "photos": [
@@ -587,7 +587,7 @@ export const products = [
   {
     "id": 17,
     "name": "Vestido corto dorado de una manga",
-    "category": "Liquidación",
+    "category": "Cortos con brillo",
     "price": 194.5,
     "note": "Tu próximo look especial también puede ser una bonita oportunidad. Consulta disponibilidad y encuentra tu favorito.",
     "photos": [
@@ -1970,7 +1970,7 @@ export const products = [
   {
     "id": 122,
     "name": "Vestido corto negro",
-    "category": "Cortos",
+    "category": "Cortos con brillo",
     "price": 219,
     "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
     "photos": [
@@ -2897,7 +2897,7 @@ export const products = [
   {
     "id": 154,
     "name": "Vestido largo de lentejuelas con diamantes",
-    "category": "Largos",
+    "category": "Cortos con brillo",
     "price": 349,
     "photos": [
       {
@@ -3145,7 +3145,7 @@ export const products = [
   {
     "id": 162,
     "name": "Vestido sirena color rojo estraple de perlas",
-    "category": "Largos",
+    "category": "Gala",
     "price": 549,
     "photos": [
       {
@@ -3180,7 +3180,7 @@ export const products = [
   {
     "id": 163,
     "name": "Vestido sirena largo color rojo con Bruselas",
-    "category": "Largos",
+    "category": "Gala",
     "price": 449,
     "photos": [
       {
@@ -3251,7 +3251,7 @@ export const products = [
   {
     "id": 165,
     "name": "Vestido largo palo rosa",
-    "category": "Largos",
+    "category": "Gala",
     "price": 699,
     "photos": [
       {
@@ -3451,7 +3451,7 @@ export const products = [
   {
     "id": 174,
     "name": "Vestido largo de mangas largas con hebilla",
-    "category": "Largos",
+    "category": "Gala",
     "price": 389,
     "photos": [
       {
@@ -3505,7 +3505,7 @@ export const products = [
   {
     "id": 176,
     "name": "Vestido estilo novia blanco con pedrería plateadas y verde esmeralda",
-    "category": "Largos",
+    "category": "Gala",
     "price": 849,
     "photos": [
       {
@@ -3587,7 +3587,7 @@ export const products = [
   {
     "id": 173,
     "name": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
-    "category": "Largos",
+    "category": "Gala",
     "price": 450,
     "photos": [
       {

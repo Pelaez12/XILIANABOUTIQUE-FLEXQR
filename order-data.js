@@ -53,7 +53,7 @@ export function orderMessage(product, data, path) {
     `Vestido: ${product.name}`, `Referencia: XL-${String(product.id).padStart(3, '0')}`,
     `Colección: ${product.category}`, `Enlace: ${boutique.url}${path}`,
     `Precio unitario del catálogo: ${money(product.price)}`, `Cantidad: ${data.quantity}`,
-    'Prenda única y personalizada, de talla estándar.', `Medidas o asesoría: ${data.size || 'Por coordinar con la boutique'}`, `Subtotal: ${money(totals.subtotal)}`, '',
+    'Prenda única y personalizada.', `Medidas o asesoría: ${data.size || 'Por coordinar con la boutique'}`, `Subtotal: ${money(totals.subtotal)}`, '',
     `Nombre: ${data.name}`, `Celular: ${data.phone}`,
   ];
   if (data.method === 'visit') {

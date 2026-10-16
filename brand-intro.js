@@ -5,7 +5,7 @@ function remember(){try{sessionStorage.setItem(seenKey,'1');}catch{}}
 
 export function playBrandIntro(force=false){
  if(currentIntro)return currentIntro;
- if(!force&&(location.pathname!=='/'||location.hash||seen())){remember();return Promise.resolve();}
+ if(!force&&(!['/','/index.html'].includes(location.pathname)||location.hash||seen()))return Promise.resolve();
  remember();
  const reducedMotion=matchMedia('(prefers-reduced-motion: reduce)').matches;
  const previousFocus=document.activeElement;
@@ -18,13 +18,17 @@ export function playBrandIntro(force=false){
    if(finished)return;finished=true;clearTimeout(timer);opening.classList.add('is-exiting');
    setTimeout(()=>{opening.close();opening.remove();document.body.classList.remove('opening-active');currentIntro=null;
     const target=previousFocus!==document.body&&previousFocus?.isConnected?previousFocus:document.querySelector('.site-header .brand-logo');
-    target?.focus({preventScroll:true});resolve();},reducedMotion?0:600);
+    target?.focus({preventScroll:true});resolve();},600);
   };
   opening.querySelector('button').addEventListener('click',finish);
   opening.addEventListener('cancel',event=>{event.preventDefault();finish();});
   document.body.append(opening);document.body.classList.add('opening-active');opening.showModal();
-  requestAnimationFrame(()=>opening.classList.add('is-playing'));
-  timer=setTimeout(finish,reducedMotion?1200:3800);
+  requestAnimationFrame(()=>{
+   if(finished)return;
+   opening.classList.add('is-playing');
+   // 6.1 seconds of presentation + 0.6 seconds of exit, like FLEXQR.
+   timer=setTimeout(finish,6100);
+  });
  });
  return currentIntro;
 }

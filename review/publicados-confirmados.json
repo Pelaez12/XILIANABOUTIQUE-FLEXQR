@@ -37,7 +37,7 @@
   {
     "id": 60,
     "name": "Vestido de gasa azul",
-    "category": "Gala",
+    "category": "Largos",
     "price": 649,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
@@ -56,7 +56,7 @@
   {
     "id": 61,
     "name": "Vestido largo morado claro",
-    "category": "Largos",
+    "category": "Gala",
     "price": 649,
     "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
@@ -83,7 +83,7 @@
   {
     "id": 62,
     "name": "Vestido largo corte sirena negro con lazo y mangas",
-    "category": "Largos",
+    "category": "Gala",
     "price": 549,
     "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
@@ -150,20 +150,20 @@
         "view": "Frente"
       },
       {
-        "src": "./images/productos-reales/XL-064/03-R156.jpeg",
-        "width": 1254,
-        "height": 1254,
-        "sourceIndex": 156,
-        "sha256": "d3229b5f023c1630384e653640afa50f42f8f448f582af4fe50c4ce78494feb6",
-        "view": "Frente"
-      },
-      {
         "src": "./images/productos-reales/XL-064/02-R050.jpeg",
         "width": 1080,
         "height": 1440,
         "sourceIndex": 50,
         "sha256": "c852ed93b872bc7d681c92bc9d7cf0ab0c9c525ff02f4c2cab38f751311f1708",
         "view": "Espalda"
+      },
+      {
+        "src": "./images/productos-reales/XL-064/03-R156.jpeg",
+        "width": 1254,
+        "height": 1254,
+        "sourceIndex": 156,
+        "sha256": "d3229b5f023c1630384e653640afa50f42f8f448f582af4fe50c4ce78494feb6",
+        "view": "Frente"
       }
     ],
     "image": "./images/productos-reales/XL-064/01-R049.jpeg",
@@ -279,9 +279,9 @@
   },
   {
     "id": 69,
-    "name": "Vestido drapeado azul asimétrico",
+    "name": "Vestido corto drapeado de mangas",
     "category": "Cortos",
-    "price": 389,
+    "price": 379,
     "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
     "photos": [
       {
@@ -294,7 +294,15 @@
       }
     ],
     "image": "./images/productos-reales/XL-069/01-R142.jpeg",
-    "photoPending": false
+    "photoPending": false,
+    "catalogName": "vestido corto drapeado de mangas",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-16",
+      "evidencia": "review/verificacion-cortos-whatsapp-2026-10-15/F32-mangas379-ficha.png"
+    },
+    "urlSlug": "vestido-drapeado-azul-asimetrico"
   },
   {
     "id": 70,
@@ -636,7 +644,7 @@
   {
     "id": 22,
     "name": "Vestido blanco de corte sirena de manga larga de rosas",
-    "category": "Largos",
+    "category": "Cortos",
     "price": 349.0,
     "note": "Un vestido para disfrutar una celebración con estilo propio. Añade tus accesorios favoritos y haz del look algo muy tuyo.",
     "photos": [
@@ -747,6 +755,40 @@
         "sourceIndex": 125,
         "sha256": "23c8c69ea89f15e28d28b6c93e3ad5bc4b712b27f91773b950d39c8098fb15ae",
         "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-038/WA-Brillos-B10-1.png",
+        "view": "Frente, otra pose",
+        "width": 588,
+        "height": 825,
+        "sha256": "4bbafff5a42d1819575ddf7f65378145471c4b4f0380db88418b5f84b4674547",
+        "sourceAttachment": "review/revision-brillo-2026-10-16/B10-1-foto.png",
+        "captureSource": {
+          "pantalla": "review/revision-brillo-2026-10-16/B10-1-pantalla.png",
+          "encuadre": "review/revision-brillo-2026-10-16/B10-1-encuadre.json"
+        },
+        "sourceCatalog": {
+          "coleccion": "Vestidos Cortos Brillos",
+          "fila": 10,
+          "fecha": "2026-10-16"
+        }
+      },
+      {
+        "src": "./images/productos-reales/XL-038/WA-Brillos-B10-2.png",
+        "view": "Frente, otra pose",
+        "width": 588,
+        "height": 825,
+        "sha256": "5b95c0601243d1df9351f89d422af9632c2b74cbd06a32b2e05299a1df62c464",
+        "sourceAttachment": "review/revision-brillo-2026-10-16/B10-2-foto.png",
+        "captureSource": {
+          "pantalla": "review/revision-brillo-2026-10-16/B10-2-pantalla.png",
+          "encuadre": "review/revision-brillo-2026-10-16/B10-2-encuadre.json"
+        },
+        "sourceCatalog": {
+          "coleccion": "Vestidos Cortos Brillos",
+          "fila": 10,
+          "fecha": "2026-10-16"
+        }
       }
     ],
     "image": "./images/productos-reales/XL-038/01-R125.jpeg",
@@ -785,6 +827,40 @@
         "sourceIndex": 14,
         "sha256": "70a2f58e6de3f7b4111b0d8b261d0f78e54e89376630fd320be14623ca61e759",
         "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-040/WA-Brillos-B12-3.png",
+        "view": "Espalda",
+        "width": 604,
+        "height": 806,
+        "sha256": "737e50e635c9f5fbcb78ebbb8374e443cbe3a3763f8e06ab42bf3d94443ad287",
+        "sourceAttachment": "review/revision-brillo-2026-10-16/B12-3-foto.png",
+        "captureSource": {
+          "pantalla": "review/revision-brillo-2026-10-16/B12-3-pantalla.png",
+          "encuadre": "review/revision-brillo-2026-10-16/B12-3-encuadre.json"
+        },
+        "sourceCatalog": {
+          "coleccion": "Vestidos Cortos Brillos",
+          "fila": 12,
+          "fecha": "2026-10-16"
+        }
+      },
+      {
+        "src": "./images/productos-reales/XL-040/WA-Brillos-B12-2.png",
+        "view": "Frente, otra pose",
+        "width": 604,
+        "height": 806,
+        "sha256": "7a61ebbf752954388834b83a7e802b773c8c84f4a8cedb94980cefa216b23a9f",
+        "sourceAttachment": "review/revision-brillo-2026-10-16/B12-2-foto.png",
+        "captureSource": {
+          "pantalla": "review/revision-brillo-2026-10-16/B12-2-pantalla.png",
+          "encuadre": "review/revision-brillo-2026-10-16/B12-2-encuadre.json"
+        },
+        "sourceCatalog": {
+          "coleccion": "Vestidos Cortos Brillos",
+          "fila": 12,
+          "fecha": "2026-10-16"
+        }
       }
     ],
     "image": "./images/productos-reales/XL-040/01-R014.jpeg",
@@ -823,6 +899,40 @@
         "sourceIndex": 147,
         "sha256": "618a7b69cb8bf5c6006baede67255363669236ea021cc815b966bd122347359a",
         "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-051/WA-Brillos-B23-2.png",
+        "view": "Espalda",
+        "width": 604,
+        "height": 806,
+        "sha256": "b4f2dbaeab34210547a5a72113bc5410016423a3cfa80dac47c30f204d48b194",
+        "sourceAttachment": "review/revision-brillo-2026-10-16/B23-2-foto.png",
+        "captureSource": {
+          "pantalla": "review/revision-brillo-2026-10-16/B23-2-pantalla.png",
+          "encuadre": "review/revision-brillo-2026-10-16/B23-2-encuadre.json"
+        },
+        "sourceCatalog": {
+          "coleccion": "Vestidos Cortos Brillos",
+          "fila": 23,
+          "fecha": "2026-10-16"
+        }
+      },
+      {
+        "src": "./images/productos-reales/XL-051/WA-Brillos-B23-1.png",
+        "view": "Frente, otra pose",
+        "width": 604,
+        "height": 806,
+        "sha256": "1285de1a05b6f76d111cff3e48a3a9e79a6f8147ca36349f540218293eb2e3e9",
+        "sourceAttachment": "review/revision-brillo-2026-10-16/B23-1-foto.png",
+        "captureSource": {
+          "pantalla": "review/revision-brillo-2026-10-16/B23-1-pantalla.png",
+          "encuadre": "review/revision-brillo-2026-10-16/B23-1-encuadre.json"
+        },
+        "sourceCatalog": {
+          "coleccion": "Vestidos Cortos Brillos",
+          "fila": 23,
+          "fecha": "2026-10-16"
+        }
       }
     ],
     "image": "./images/productos-reales/XL-051/01-R147.jpeg",
@@ -942,7 +1052,7 @@
   {
     "id": 81,
     "name": "Vestido largo marrón con detalle plateados",
-    "category": "Largos",
+    "category": "Cortos",
     "price": 319,
     "note": "Un look para sentirte bonita, arreglarte con ilusión y disfrutar cada foto de tu próximo plan.",
     "photos": [
@@ -1080,7 +1190,7 @@
   {
     "id": 87,
     "name": "Vestido Largo Color Pic Blue",
-    "category": "Largos",
+    "category": "Gala",
     "price": 579,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
@@ -1188,7 +1298,7 @@
   {
     "id": 91,
     "name": "Vestido elegante sirena color verde",
-    "category": "Gala",
+    "category": "Largos",
     "price": 389,
     "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
@@ -1242,7 +1352,7 @@
   {
     "id": 93,
     "name": "Vestido fucsia con escote y pliegue izquierdo",
-    "category": "Gala",
+    "category": "Largos",
     "price": 549,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
@@ -1323,7 +1433,7 @@
   {
     "id": 96,
     "name": "Vestido sirena color verde gamuzado con mangas y cuello cuadrado",
-    "category": "Gala",
+    "category": "Largos",
     "price": 519,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
@@ -1431,7 +1541,7 @@
   {
     "id": 100,
     "name": "Vestido rojo de gala con strass plateadas",
-    "category": "Gala",
+    "category": "Largos",
     "price": 389,
     "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
@@ -1577,7 +1687,7 @@
   {
     "id": 106,
     "name": "Vestido de gala negro con detalles plateados",
-    "category": "Gala",
+    "category": "Largos",
     "price": 429,
     "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
@@ -1712,7 +1822,7 @@
   {
     "id": 111,
     "name": "Vestido largo crema de perlas y pedrería plateadas",
-    "category": "Largos",
+    "category": "Gala",
     "price": 669,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
@@ -1801,7 +1911,7 @@
   {
     "id": 114,
     "name": "Vestido negro largo de perlas con detalles",
-    "category": "Largos",
+    "category": "Cortos",
     "price": 319,
     "note": "Para una ocasión especial y una entrada con encanto. Elige cómo combinarlo y luce tu personalidad.",
     "photos": [
@@ -1875,7 +1985,7 @@
     "id": 117,
     "name": "Vestido negro brillante",
     "category": "Cortos con brillo",
-    "price": 389,
+    "price": 379,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
       {
@@ -1885,10 +1995,31 @@
         "sourceIndex": 22,
         "sha256": "d9741d4f17c7af2b9c7a65a41b5e5f4a88a2656ffe075e52ab60761b771729e1",
         "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-117/02-WA2062-espalda.png",
+        "width": 664,
+        "height": 806,
+        "view": "Espalda",
+        "sha256": "bbb35449ab6e5ed97bad2ddba7f5f077d51fa0a1457f3f30d271278200b52c3f",
+        "sourceAttachment": "review/verificacion-brillo-whatsapp-2026-10-15/negro379-2-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-brillo-whatsapp-2026-10-15/negro379-2-pantalla.png",
+          "encuadre": "review/verificacion-brillo-whatsapp-2026-10-15/negro379-2-encuadre.json",
+          "edicion": "Recorte de la interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
       }
     ],
     "image": "./images/productos-reales/XL-117/01-R022.jpeg",
-    "photoPending": false
+    "photoPending": false,
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-16",
+      "evidencia": "review/verificacion-brillo-whatsapp-2026-10-15/negro379-ficha.png",
+      "prioridad": "Precio de WhatsApp como verdad absoluta, según instrucción del usuario."
+    }
   },
   {
     "id": 118,
@@ -1961,6 +2092,23 @@
         "sourceIndex": 1,
         "sha256": "ada3be708e742a438a03753ff45e507937ceec85e1c88599158428392f2e0cbd",
         "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-121/WA-Brillos-B42-1.png",
+        "view": "Frente, otra pose",
+        "width": 604,
+        "height": 806,
+        "sha256": "9e6ba64b98ff4707ec6401747f506e39dfe133a5abaef8ded767153cb29fb552",
+        "sourceAttachment": "review/revision-brillo-2026-10-16/B42-1-foto.png",
+        "captureSource": {
+          "pantalla": "review/revision-brillo-2026-10-16/B42-1-pantalla.png",
+          "encuadre": "review/revision-brillo-2026-10-16/B42-1-encuadre.json"
+        },
+        "sourceCatalog": {
+          "coleccion": "Vestidos Cortos Brillos",
+          "fila": 42,
+          "fecha": "2026-10-16"
+        }
       }
     ],
     "image": "./images/productos-reales/XL-121/01-R001.jpeg",
@@ -2034,7 +2182,7 @@
   {
     "id": 125,
     "name": "Vestido crema de encaje y tull asimétrico",
-    "category": "Gala",
+    "category": "Liquidación",
     "price": 194.5,
     "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
@@ -2076,7 +2224,7 @@
   {
     "id": 127,
     "name": "Vestido vino strapless de tirantes con copas de pedrería",
-    "category": "Cortos",
+    "category": "Cortos con brillo",
     "price": 549,
     "note": "Haz de tu entrada un momento inolvidable. Su diseño asimétrico y caída lateral te acompañan para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
@@ -2239,6 +2387,23 @@
         "sourceIndex": 20,
         "sha256": "035eb28ca27b681a160ec03abcb174fc00fbdefcc8f43a0ed5a5593c9f512e6e",
         "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-132/WA-Brillos-B41-2.png",
+        "view": "Espalda",
+        "width": 618,
+        "height": 806,
+        "sha256": "11b73e309ddf1f93107a075b4ea0a8e65f1b3d73b5035c39a36564592876b985",
+        "sourceAttachment": "review/revision-brillo-2026-10-16/B41-2-foto.png",
+        "captureSource": {
+          "pantalla": "review/revision-brillo-2026-10-16/B41-2-pantalla.png",
+          "encuadre": "review/revision-brillo-2026-10-16/B41-2-encuadre.json"
+        },
+        "sourceCatalog": {
+          "coleccion": "Vestidos Cortos Brillos",
+          "fila": 41,
+          "fecha": "2026-10-16"
+        }
       }
     ],
     "image": "./images/productos-reales/XL-132/01-R020.jpeg",
@@ -2312,6 +2477,40 @@
         "sourceIndex": 67,
         "sha256": "26410cb1564c2770bce245e0701eb3acefff85cc133cdf1952c67e523339abc7",
         "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-135/WA-Brillos-B36-2.png",
+        "view": "Espalda, otra pose",
+        "width": 850,
+        "height": 806,
+        "sha256": "1f274dac1d4951bd2e4a8f59baafeede5b8d9d02f28fa9fee80ba4e2dbe7d580",
+        "sourceAttachment": "review/revision-brillo-2026-10-16/B36-2-foto.png",
+        "captureSource": {
+          "pantalla": "review/revision-brillo-2026-10-16/B36-2-pantalla.png",
+          "encuadre": "review/revision-brillo-2026-10-16/B36-2-encuadre.json"
+        },
+        "sourceCatalog": {
+          "coleccion": "Vestidos Cortos Brillos",
+          "fila": 36,
+          "fecha": "2026-10-16"
+        }
+      },
+      {
+        "src": "./images/productos-reales/XL-135/WA-Brillos-B36-1.png",
+        "view": "Frente, otra pose",
+        "width": 816,
+        "height": 806,
+        "sha256": "a652f9bceb53aca4e1c8b741326a996e56b4783cf8b84308ada94c0826691513",
+        "sourceAttachment": "review/revision-brillo-2026-10-16/B36-1-foto.png",
+        "captureSource": {
+          "pantalla": "review/revision-brillo-2026-10-16/B36-1-pantalla.png",
+          "encuadre": "review/revision-brillo-2026-10-16/B36-1-encuadre.json"
+        },
+        "sourceCatalog": {
+          "coleccion": "Vestidos Cortos Brillos",
+          "fila": 36,
+          "fecha": "2026-10-16"
+        }
       }
     ],
     "image": "./images/productos-reales/XL-135/01-R067.jpeg",
@@ -2374,7 +2573,7 @@
   {
     "id": 138,
     "name": "Vestido palo rosa gasa y satín",
-    "category": "Gala",
+    "category": "Largos",
     "price": 649,
     "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
     "photos": [
@@ -2701,6 +2900,23 @@
         "view": "Espalda",
         "sha256": "a63010ea77b1aa4ab2963147fb173265878989b184fe73ccd8a1982d586780db",
         "sourceAttachment": "review\\importacion-2026-10-10\\N005.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-150/WA-Brillos-B25-3.png",
+        "view": "Prenda sin modelo",
+        "width": 604,
+        "height": 806,
+        "sha256": "9dc7e3239f6f22da49643078486085c14209b7b54b01499d0f6aca5317b3c3ef",
+        "sourceAttachment": "review/revision-brillo-2026-10-16/B25-3-foto.png",
+        "captureSource": {
+          "pantalla": "review/revision-brillo-2026-10-16/B25-3-pantalla.png",
+          "encuadre": "review/revision-brillo-2026-10-16/B25-3-encuadre.json"
+        },
+        "sourceCatalog": {
+          "coleccion": "Vestidos Cortos Brillos",
+          "fila": 25,
+          "fecha": "2026-10-16"
+        }
       }
     ],
     "image": "./images/productos-reales/XL-150/01-N004.jpeg",
@@ -2809,6 +3025,40 @@
         "view": "Espalda",
         "sha256": "4cd02428dec4cdee028a80cc46abc6d60d0fe1e7a24f7b18aae9ec8e70d03243",
         "sourceAttachment": "review\\importacion-2026-10-10\\N002.jpeg"
+      },
+      {
+        "src": "./images/productos-reales/XL-149/WA-Brillos-B16-2.png",
+        "view": "Frente, otra pose",
+        "width": 604,
+        "height": 806,
+        "sha256": "2318fb796d07878b3246c2c0d36e694eb454602a8ee634129adaa92a53d37d14",
+        "sourceAttachment": "review/revision-brillo-2026-10-16/B16-2-foto.png",
+        "captureSource": {
+          "pantalla": "review/revision-brillo-2026-10-16/B16-2-pantalla.png",
+          "encuadre": "review/revision-brillo-2026-10-16/B16-2-encuadre.json"
+        },
+        "sourceCatalog": {
+          "coleccion": "Vestidos Cortos Brillos",
+          "fila": 16,
+          "fecha": "2026-10-16"
+        }
+      },
+      {
+        "src": "./images/productos-reales/XL-149/WA-Brillos-B16-3.png",
+        "view": "Frente, otra pose",
+        "width": 604,
+        "height": 806,
+        "sha256": "517323edeb40c605a632fb4b8721b34b27243a8a12101e852daef4607a2e3f90",
+        "sourceAttachment": "review/revision-brillo-2026-10-16/B16-3-foto.png",
+        "captureSource": {
+          "pantalla": "review/revision-brillo-2026-10-16/B16-3-pantalla.png",
+          "encuadre": "review/revision-brillo-2026-10-16/B16-3-encuadre.json"
+        },
+        "sourceCatalog": {
+          "coleccion": "Vestidos Cortos Brillos",
+          "fila": 16,
+          "fecha": "2026-10-16"
+        }
       }
     ],
     "image": "./images/productos-reales/XL-149/01-N001.jpeg",
@@ -3038,7 +3288,7 @@
   {
     "id": 159,
     "name": "Vestido de gala largo negro con detalles en cuello y mangas",
-    "category": "Gala",
+    "category": "Largos",
     "price": 449,
     "photos": [
       {
@@ -3144,7 +3394,7 @@
   {
     "id": 162,
     "name": "Vestido sirena color rojo estraple de perlas",
-    "category": "Gala",
+    "category": "Largos",
     "price": 549,
     "photos": [
       {
@@ -3179,7 +3429,7 @@
   {
     "id": 163,
     "name": "Vestido sirena largo color rojo con Bruselas",
-    "category": "Gala",
+    "category": "Largos",
     "price": 449,
     "photos": [
       {
@@ -3504,7 +3754,7 @@
   {
     "id": 176,
     "name": "Vestido estilo novia blanco con pedrería plateadas y verde esmeralda",
-    "category": "Gala",
+    "category": "Largos",
     "price": 849,
     "photos": [
       {
@@ -3531,7 +3781,7 @@
   {
     "id": 177,
     "name": "Vestido de largo gala nude con aplicaciones",
-    "category": "Gala",
+    "category": "Largos",
     "price": 649,
     "photos": [
       {
@@ -3559,7 +3809,7 @@
   {
     "id": 178,
     "name": "Vestido de gala color verde asimétrico con una rosa",
-    "category": "Gala",
+    "category": "Largos",
     "price": 649,
     "photos": [
       {
@@ -3586,7 +3836,7 @@
   {
     "id": 173,
     "name": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
-    "category": "Gala",
+    "category": "Largos",
     "price": 450,
     "photos": [
       {
@@ -3608,6 +3858,773 @@
       "telefono": "+51 930 527 248",
       "fecha": "2026-10-12",
       "evidencia": "confirmacion-usuario-N029.md"
+    }
+  },
+  {
+    "id": 179,
+    "name": "Vestido corto azul",
+    "category": "Cortos con brillo",
+    "price": 329,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-179/01-WA182-frente.png",
+        "width": 686,
+        "height": 825,
+        "view": "Frente",
+        "sha256": "879cbe62df2ba03248128845fcd0f66ea5a5bd5e5058ae6957a8400551ae67b1",
+        "sourceAttachment": "review/conciliacion-final-2026-10-15/whatsapp-actual/brillo-azul329-frente.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/conciliacion-final-2026-10-15/whatsapp-actual/brillo-azul329-frente-pantalla.png",
+          "encuadre": "review/conciliacion-final-2026-10-15/whatsapp-actual/brillo-azul329-frente-encuadre.json",
+          "edicion": "Recorte al área de la fotografía; sin cambiar modelo, vestido, colores ni fondo de la fotografía."
+        }
+      },
+      {
+        "src": "./images/productos-reales/XL-179/02-WA182-espalda.png",
+        "width": 682,
+        "height": 825,
+        "view": "Espalda",
+        "sha256": "2afd570f0079e74328e9381a6a3b144f470c623098da846619044376ebff5556",
+        "sourceAttachment": "review/conciliacion-final-2026-10-15/whatsapp-actual/brillo-azul329-espalda.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/conciliacion-final-2026-10-15/whatsapp-actual/brillo-azul329-espalda-pantalla.png",
+          "encuadre": "review/conciliacion-final-2026-10-15/whatsapp-actual/brillo-azul329-espalda-encuadre.json",
+          "edicion": "Recorte al área de la fotografía; sin cambiar modelo, vestido, colores ni fondo de la fotografía."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-179/01-WA182-frente.png",
+    "photoPending": false,
+    "note": "Un toque de brillo para tu próxima noche especial. Combínalo a tu gusto y deja que tu sonrisa complete el look.",
+    "catalogName": "Vestido corto azul",
+    "catalogCode": "182",
+    "catalogCategory": "Vestidos Cortos Brillos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-15",
+      "evidencia": "review/conciliacion-final-2026-10-15/whatsapp-actual/brillo-azul329-ficha-completa.png"
+    },
+    "imageSource": {
+      "tipo": "Capturas del catálogo WhatsApp Web",
+      "fecha": "2026-10-15",
+      "codigo": "182",
+      "coleccion": "Vestidos Cortos Brillos",
+      "comparacion": "Las 139 fotografías principales existentes, incluidas XL-051, XL-052 y XL-133, muestran modelos distintos. Frente y espalda de esta ficha corresponden al mismo vestido azul mini con satén, tul y lentejuelas.",
+      "procedencia": "La interfaz no permitió descargar el blob. Se conservaron las capturas completas y los rectángulos de recorte como evidencia."
+    }
+  },
+  {
+    "id": 180,
+    "name": "Vestido corto satín estampado",
+    "category": "Cortos",
+    "price": 86.7,
+    "originalPrice": 289,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-180/01-WA796-frente.png",
+        "width": 936,
+        "height": 799,
+        "view": "Frente",
+        "sha256": "39ff3abd3002812a6d961e31d178e2498365ba3d8bc231a117d52cb90742ee5b",
+        "sourceAttachment": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-satin8670-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-satin8670-pantalla.png",
+          "encuadre": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-satin8670-encuadre.json",
+          "edicion": "Recorte al área de la fotografía; sin cambiar modelo, vestido, colores ni fondo. Se conserva la composición original."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-180/01-WA796-frente.png",
+    "photoPending": false,
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido corto satín estampado",
+    "catalogCode": "796",
+    "catalogCategory": "Vestidos Cortos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-15",
+      "evidencia": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-satin8670-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Captura del catálogo WhatsApp Web",
+      "fecha": "2026-10-15",
+      "codigo": "796",
+      "coleccion": "Vestidos Cortos",
+      "comparacion": "Vestido mini de satín estampado floral azul, blanco y verde, escote cuadrado, tirantes con volantes y falda drapeada. La fotografía oficial reúne dos poses de frente del mismo modelo. Distinto de las 140 prendas anteriores, comprobado contra las fotografías y los diseños existentes.",
+      "procedencia": "Capturas de las fotografías oficiales; no se altera la modelo ni la prenda. Se publica el frente primero y únicamente las vistas recuperadas de la misma ficha."
+    }
+  },
+  {
+    "id": 181,
+    "name": "Vestido corto con volantes de cuello redondo",
+    "category": "Cortos",
+    "price": 115.6,
+    "originalPrice": 289,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-181/01-WA1537-frente.png",
+        "width": 664,
+        "height": 805,
+        "view": "Frente",
+        "sha256": "350a7ec9b3492e6e74edf0c2f3eec67f7d438d6928081f0e965e6e8dcfff48f5",
+        "sourceAttachment": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-volantes11560-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-volantes11560-pantalla.png",
+          "encuadre": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-volantes11560-encuadre.json",
+          "edicion": "Recorte al área de la fotografía; sin cambiar modelo, vestido, colores ni fondo. Se conserva la composición original."
+        }
+      },
+      {
+        "src": "./images/productos-reales/XL-181/02-WA1537-espalda.png",
+        "width": 666,
+        "height": 805,
+        "view": "Espalda",
+        "sha256": "4969880dc5c3cccc56ba78000ca8ae195faa422e642aef318f3ec4f657da627d",
+        "sourceAttachment": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-volantes11560-foto2.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-volantes11560-foto2-pantalla.png",
+          "encuadre": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-volantes11560-foto2-encuadre.json",
+          "edicion": "Recorte al área de la fotografía; sin cambiar modelo, vestido, colores ni fondo."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-181/01-WA1537-frente.png",
+    "photoPending": false,
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido corto con volantes de cuello redondo",
+    "catalogCode": "1537",
+    "catalogCategory": "Vestidos Cortos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-15",
+      "evidencia": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-volantes11560-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Captura del catálogo WhatsApp Web",
+      "fecha": "2026-10-15",
+      "codigo": "1537",
+      "coleccion": "Vestidos Cortos",
+      "comparacion": "Vestido verde agua liso, cuello redondo, volantes en mangas cortas y abertura frontal. La foto de frente y la ficha actual coinciden con la colección Cortos. Distinto de las 140 prendas anteriores, comprobado contra las fotografías y los diseños existentes.",
+      "procedencia": "Capturas de las fotografías oficiales; no se altera la modelo ni la prenda. Se publica el frente primero y únicamente las vistas recuperadas de la misma ficha."
+    }
+  },
+  {
+    "id": 182,
+    "name": "Vestido Bandage rojo corto de pedrería plateada",
+    "category": "Bandage",
+    "price": 379,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-182/01-WA-rojo379-frente.png",
+        "width": 578,
+        "height": 806,
+        "view": "Frente",
+        "sha256": "cf8ad3b35aba172dfe9ff6ee1aab2c4d453d14bf5086eaf3a34b6c5167aabf3b",
+        "sourceAttachment": "review/conciliacion-final-2026-10-15/whatsapp-actual/bandage-rojo379-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/conciliacion-final-2026-10-15/whatsapp-actual/bandage-rojo379-pantalla.png",
+          "encuadre": "review/conciliacion-final-2026-10-15/whatsapp-actual/bandage-rojo379-encuadre.json",
+          "edicion": "Recorte al área de la fotografía; sin cambiar modelo, vestido, colores ni fondo."
+        }
+      },
+      {
+        "src": "./images/productos-reales/XL-182/02-WA-rojo379-espalda.png",
+        "width": 588,
+        "height": 806,
+        "view": "Espalda",
+        "sha256": "eb8bbac4e0193476ec1beb5b6f39baac18458f9e702f6e45afc3698fe1c7f087",
+        "sourceAttachment": "review/conciliacion-final-2026-10-15/whatsapp-actual/bandage-rojo379-foto3.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/conciliacion-final-2026-10-15/whatsapp-actual/bandage-rojo379-foto3-pantalla.png",
+          "encuadre": "review/conciliacion-final-2026-10-15/whatsapp-actual/bandage-rojo379-foto3-encuadre.json",
+          "edicion": "Recorte al área de la fotografía; sin cambiar modelo, vestido, colores ni fondo."
+        }
+      },
+      {
+        "src": "./images/productos-reales/XL-182/03-WA-rojo379-frente-tres-cuartos.png",
+        "width": 594,
+        "height": 806,
+        "view": "Frente 3/4",
+        "sha256": "ff7ce8c373ba5ebf64eec38dd5fec7096cc51dc533362f520d382984caa41bc1",
+        "sourceAttachment": "review/conciliacion-final-2026-10-15/whatsapp-actual/bandage-rojo379-foto2.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/conciliacion-final-2026-10-15/whatsapp-actual/bandage-rojo379-foto2-pantalla.png",
+          "encuadre": "review/conciliacion-final-2026-10-15/whatsapp-actual/bandage-rojo379-foto2-encuadre.json",
+          "edicion": "Recorte al área de la fotografía; sin cambiar modelo, vestido, colores ni fondo."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-182/01-WA-rojo379-frente.png",
+    "photoPending": false,
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "VESTIDO BANDAGE",
+    "catalogDescription": "Rojo corto de pedrería plateada",
+    "catalogCategory": "Vestidos Bandage's",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-15",
+      "evidencia": "review/conciliacion-final-2026-10-15/whatsapp-actual/bandage-rojo379-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Capturas del catálogo WhatsApp Web",
+      "fecha": "2026-10-15",
+      "coleccion": "Vestidos Bandage's",
+      "comparacion": "Vestido mini rojo liso con tirantes y ribetes de pedrería plateada en escote y bajo. Frente, espalda y pose de tres cuartos pertenecen a la misma ficha. Es distinto de XL-073 rojo midi sin ribetes, XL-049 de una manga con lentejuelas, XL-152 de corsé y cadenas y XL-166 de lentejuelas sin tirantes, y de las demás 142 prendas.",
+      "procedencia": "Se conserva la fotografía oficial. Se recorta únicamente la interfaz de WhatsApp sin alterar vestido, modelo ni fondo."
+    }
+  },
+  {
+    "id": 183,
+    "name": "Vestido corto azul pedrería y strass",
+    "category": "Cortos con brillo",
+    "price": 389,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-183/01-WA2008-frente.png",
+        "width": 830,
+        "height": 806,
+        "view": "Frente",
+        "sha256": "f4db05e19d4447d7daa0e7961fc61f6fb9b75bb3890b99b17b1b70a429bb97cc",
+        "sourceAttachment": "review/verificacion-brillo-whatsapp-2026-10-15/azul389-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-brillo-whatsapp-2026-10-15/azul389-pantalla.png",
+          "encuadre": "review/verificacion-brillo-whatsapp-2026-10-15/azul389-encuadre.json",
+          "edicion": "Recorte de la interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-183/01-WA2008-frente.png",
+    "photoPending": false,
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido corto azul pedrería y strass",
+    "catalogCode": "2008",
+    "catalogCategory": "Vestidos Cortos Brillos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-15",
+      "evidencia": "review/verificacion-brillo-whatsapp-2026-10-15/azul389-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Captura del catálogo WhatsApp Web, misma pestaña del usuario",
+      "fecha": "2026-10-15",
+      "comparacion": "Mini azul con cuello separado de pedrería, hombros con cadenas y strass extendido por cuerpo y falda. Distinto de XL-179 de satín y tul, XL-016 con plumas, XL-051/052 de lentejuelas, XL-133 de manga larga y los demás modelos guardados.",
+      "procedencia": "Fotografía oficial ampliada y recortada al área de imagen, sin modificaciones visuales."
+    }
+  },
+  {
+    "id": 184,
+    "name": "Vestido dorado corto asimétrico de flecos",
+    "category": "Cortos con brillo",
+    "price": 389,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-184/01-WA1965-frente.png",
+        "width": 604,
+        "height": 806,
+        "view": "Frente",
+        "sha256": "906f8b9eae078fc0a1cd99d5157347ff7fa7ffac15c883f02ae057ce1eaa24fa",
+        "sourceAttachment": "review/verificacion-brillo-whatsapp-2026-10-15/dorado389-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-brillo-whatsapp-2026-10-15/dorado389-pantalla.png",
+          "encuadre": "review/verificacion-brillo-whatsapp-2026-10-15/dorado389-encuadre.json",
+          "edicion": "Recorte de la interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-184/01-WA1965-frente.png",
+    "photoPending": false,
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido dorado corto asimétrico de flecos",
+    "catalogCode": "1965",
+    "catalogCategory": "Vestidos Cortos Brillos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-15",
+      "evidencia": "review/verificacion-brillo-whatsapp-2026-10-15/dorado389-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Captura del catálogo WhatsApp Web, misma pestaña del usuario",
+      "fecha": "2026-10-15",
+      "comparacion": "Mini dorado de un hombro, con flecos rectos superpuestos y base brillante. Distinto de XL-129 Bandage código 2070, que tiene escote en V y flecos diagonales, y de XL-017 de una manga. Revisión contra las fotos de las 143 prendas anteriores.",
+      "procedencia": "Fotografía oficial ampliada y recortada al área de imagen, sin modificaciones visuales."
+    }
+  },
+  {
+    "id": 185,
+    "name": "Vestido corto licrado azul",
+    "category": "Cortos",
+    "price": 249,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-185/01-WA-Cortos-F04-1.png",
+        "width": 646,
+        "height": 806,
+        "view": "Frente",
+        "sha256": "424b6a7195eee7630a6cbc714c2302564c9ef308331ad08dc7edb2a9d0f5b5b6",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F04-azul249-1-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F04-azul249-1-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F04-azul249-1-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      },
+      {
+        "src": "./images/productos-reales/XL-185/02-WA-Cortos-F04-3.png",
+        "width": 646,
+        "height": 806,
+        "view": "Espalda",
+        "sha256": "b8aa3ae51d4e6d989ee55b08aab07597149a186093d86a7aa4e8ed1f1e2fd3dd",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F04-azul249-3-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F04-azul249-3-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F04-azul249-3-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-185/01-WA-Cortos-F04-1.png",
+    "photoPending": false,
+    "catalogName": "Vestido corto licrado azul",
+    "catalogCategory": "Vestidos Cortos",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-16",
+      "evidencia": "review/verificacion-cortos-whatsapp-2026-10-15/F04-azul249-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Fotografías ampliadas del catálogo en la misma sesión del usuario",
+      "fecha": "2026-10-16",
+      "comparacion": "Azul liso de tirantes, escote recto con ribete blanco y botones en diagonal. Distinto de los azules existentes.",
+      "procedencia": "Fotografías oficiales recortadas a su área de imagen. Frente primero y espalda después cuando existe."
+    },
+    "catalogCode": "1758"
+  },
+  {
+    "id": 186,
+    "name": "Vestido lila en rib",
+    "category": "Cortos",
+    "price": 289,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-186/01-WA-Cortos-F05-1.png",
+        "width": 600,
+        "height": 806,
+        "view": "Frente",
+        "sha256": "ef96b7683c4d8be91441d70b6d2ff4f7780c88941c349b1a048db53a557e26bf",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F05-lila289-1-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F05-lila289-1-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F05-lila289-1-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      },
+      {
+        "src": "./images/productos-reales/XL-186/02-WA-Cortos-F05-8.png",
+        "width": 596,
+        "height": 806,
+        "view": "Espalda",
+        "sha256": "c3155ae19929cd92fea3d70fb188ef9fb1cf1018ffb5b0d2adc38d25cd820119",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F05-lila289-8-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F05-lila289-8-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F05-lila289-8-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      },
+      {
+        "src": "./images/productos-reales/XL-186/03-WA-Cortos-F05-6.png",
+        "width": 604,
+        "height": 806,
+        "view": "Frente, otra pose",
+        "sha256": "cba69f20ce2c7657b3ea0fe86616b898410016f7ec495782b879e6b64eeace43",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F05-lila289-6-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F05-lila289-6-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F05-lila289-6-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      },
+      {
+        "src": "./images/productos-reales/XL-186/04-WA-Cortos-F05-7.png",
+        "width": 594,
+        "height": 806,
+        "view": "Frente, otra pose",
+        "sha256": "4a8ed312978fccdfbdb1c69175bc7fc1beb1e93281cd51bf1a6003dee248af98",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F05-lila289-7-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F05-lila289-7-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F05-lila289-7-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-186/01-WA-Cortos-F05-1.png",
+    "photoPending": false,
+    "catalogName": "Vestido lila en rib",
+    "catalogCategory": "Vestidos Cortos",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-16",
+      "evidencia": "review/verificacion-cortos-whatsapp-2026-10-15/F05-lila289-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Fotografías ampliadas del catálogo en la misma sesión del usuario",
+      "fecha": "2026-10-16",
+      "comparacion": "Mini lila de rib, escote cruzado, lazo lateral, mangas largas y perlas dispersas. Cuatro fotografías distintas de la misma ficha.",
+      "procedencia": "Fotografías oficiales recortadas a su área de imagen. Frente primero y espalda después cuando existe."
+    },
+    "catalogCode": "1888"
+  },
+  {
+    "id": 188,
+    "name": "Vestido corto verde agua con tirantes",
+    "category": "Cortos",
+    "price": 299,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-188/01-WA-Cortos-F08-1.png",
+        "width": 578,
+        "height": 806,
+        "view": "Frente",
+        "sha256": "7d793dc52c02028b1396bc33412bb0cc427cbc97c435f0392b9e00b9959451b3",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F08-verde299-1-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F08-verde299-1-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F08-verde299-1-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-188/01-WA-Cortos-F08-1.png",
+    "photoPending": false,
+    "catalogName": "Vestido corto verde agua con tirantes",
+    "catalogCategory": "Vestidos Cortos",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-16",
+      "evidencia": "review/verificacion-cortos-whatsapp-2026-10-15/F08-verde299-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Fotografías ampliadas del catálogo en la misma sesión del usuario",
+      "fecha": "2026-10-16",
+      "comparacion": "Verde agua de tirantes, cuerpo de transparencia estructurada y falda lisa a la rodilla; distinto de XL-181 de volantes.",
+      "procedencia": "Fotografías oficiales recortadas a su área de imagen. Frente primero y espalda después cuando existe."
+    }
+  },
+  {
+    "id": 189,
+    "name": "Vestido corto blanco con capa",
+    "category": "Cortos",
+    "price": 239,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-189/01-WA-Cortos-F11-1.png",
+        "width": 604,
+        "height": 806,
+        "view": "Frente",
+        "sha256": "fa018f018523fec8341165503c43e52ee6f50e4f09aece4832e655042c4d585e",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F11-capa239-1-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F11-capa239-1-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F11-capa239-1-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      },
+      {
+        "src": "./images/productos-reales/XL-189/02-WA-Cortos-F11-2.png",
+        "width": 604,
+        "height": 806,
+        "view": "Espalda",
+        "sha256": "111028c0d21bbeacdca487067d7f7ce8af8d9f0072c8acdac9d662f903451af6",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F11-capa239-2-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F11-capa239-2-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F11-capa239-2-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-189/01-WA-Cortos-F11-1.png",
+    "photoPending": false,
+    "catalogName": "Vestido corto blanco con capa",
+    "catalogCategory": "Vestidos Cortos",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-16",
+      "evidencia": "review/verificacion-cortos-whatsapp-2026-10-15/F11-capa239-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Fotografías ampliadas del catálogo en la misma sesión del usuario",
+      "fecha": "2026-10-16",
+      "comparacion": "Blanco de escote en V con capa corta sobre hombros y brazos. Distinto de XL-083 de cuello alto y capas largas.",
+      "procedencia": "Fotografías oficiales recortadas a su área de imagen. Frente primero y espalda después cuando existe."
+    }
+  },
+  {
+    "id": 190,
+    "name": "Vestido corto azul con cinturón de Aplicaciones plateado",
+    "category": "Cortos",
+    "price": 369,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-190/01-WA-Cortos-F14-1.png",
+        "width": 658,
+        "height": 806,
+        "view": "Frente",
+        "sha256": "0785faa0751c81a6ca3b130be3d74bd9098541e46d25c1cbb840fd5c558e0e54",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F14-azul369-1-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F14-azul369-1-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F14-azul369-1-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-190/01-WA-Cortos-F14-1.png",
+    "photoPending": false,
+    "catalogName": "Vestido corto azul con cinturón de Aplicaciones plateado",
+    "catalogCategory": "Vestidos Cortos",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-16",
+      "evidencia": "review/verificacion-cortos-whatsapp-2026-10-15/F14-azul369-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Fotografías ampliadas del catálogo en la misma sesión del usuario",
+      "fecha": "2026-10-16",
+      "comparacion": "Azul de terciopelo, escote Bardot y mangas largas con cinturón plateado; base lisa y detalle localizado.",
+      "procedencia": "Fotografías oficiales recortadas a su área de imagen. Frente primero y espalda después cuando existe."
+    }
+  },
+  {
+    "id": 191,
+    "name": "Vestido largo verde con estampado de rosas verdes",
+    "category": "Cortos",
+    "price": 229,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-191/01-WA-Cortos-F19-1.png",
+        "width": 604,
+        "height": 806,
+        "view": "Frente",
+        "sha256": "398911c4cafe46c3efa70b2a4de12ea8cb1d229dfaad2992976b4163aebc8a25",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F19-verde229-1-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F19-verde229-1-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F19-verde229-1-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-191/01-WA-Cortos-F19-1.png",
+    "photoPending": false,
+    "catalogName": "Vestido largo verde con estampado de rosas verdes",
+    "catalogCategory": "Vestidos Cortos",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-16",
+      "evidencia": "review/verificacion-cortos-whatsapp-2026-10-15/F19-verde229-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Fotografías ampliadas del catálogo en la misma sesión del usuario",
+      "fecha": "2026-10-16",
+      "comparacion": "Falda midi blanca con rosas verdes y tirantes. Se conserva Cortos según la ficha comercial, aunque el título diga largo.",
+      "procedencia": "Fotografías oficiales recortadas a su área de imagen. Frente primero y espalda después cuando existe."
+    }
+  },
+  {
+    "id": 192,
+    "name": "Vestido corto drapeado con perlas",
+    "category": "Cortos",
+    "price": 389,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-192/01-WA-Cortos-F21-1.png",
+        "width": 604,
+        "height": 806,
+        "view": "Frente",
+        "sha256": "a795630b5b554c6d6c29beb6320818482b505f13f093446ad92e866250a774db",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F21-perlas389-1-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F21-perlas389-1-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F21-perlas389-1-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-192/01-WA-Cortos-F21-1.png",
+    "photoPending": false,
+    "catalogName": "Vestido corto drapeado con perlas",
+    "catalogCategory": "Vestidos Cortos",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-16",
+      "evidencia": "review/verificacion-cortos-whatsapp-2026-10-15/F21-perlas389-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Fotografías ampliadas del catálogo en la misma sesión del usuario",
+      "fecha": "2026-10-16",
+      "comparacion": "Mini blanco drapeado con hombros descubiertos y perlas dispersas; no tiene las mangas largas de XL-067.",
+      "procedencia": "Fotografías oficiales recortadas a su área de imagen. Frente primero y espalda después cuando existe."
+    }
+  },
+  {
+    "id": 193,
+    "name": "Vestido azul con perlas blancas",
+    "category": "Cortos",
+    "price": 389,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-193/01-WA-Cortos-F26-1.png",
+        "width": 624,
+        "height": 806,
+        "view": "Frente",
+        "sha256": "5d085fbc2485de5f790a7cfc1fa1fcc9eaaf400530f08017d0833494cf2d7d5a",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F26-azul389-1-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F26-azul389-1-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F26-azul389-1-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-193/01-WA-Cortos-F26-1.png",
+    "photoPending": false,
+    "catalogName": "Vestido azul con perlas blancas",
+    "catalogCategory": "Vestidos Cortos",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-16",
+      "evidencia": "review/verificacion-cortos-whatsapp-2026-10-15/F26-azul389-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Fotografías ampliadas del catálogo en la misma sesión del usuario",
+      "fecha": "2026-10-16",
+      "comparacion": "Azul liso de cuello alto y mangas largas, caída lateral y perlas localizadas en cuello y hombros. Ficha comercial Cortos.",
+      "procedencia": "Fotografías oficiales recortadas a su área de imagen. Frente primero y espalda después cuando existe."
+    }
+  },
+  {
+    "id": 194,
+    "name": "Vestido corto negro con aplicaciones plateadas",
+    "category": "Cortos",
+    "price": 289,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-194/01-WA-Cortos-F29-1.png",
+        "width": 537,
+        "height": 806,
+        "view": "Frente",
+        "sha256": "e905122ee2d3c6b05106c13b285c00b362cea4156c702c4f8ce4da879614f2ad",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F29-negro289-1-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F29-negro289-1-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F29-negro289-1-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-194/01-WA-Cortos-F29-1.png",
+    "photoPending": false,
+    "catalogName": "Vestido corto negro con aplicaciones plateadas",
+    "catalogCategory": "Vestidos Cortos",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-16",
+      "evidencia": "review/verificacion-cortos-whatsapp-2026-10-15/F29-negro289-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Fotografías ampliadas del catálogo en la misma sesión del usuario",
+      "fecha": "2026-10-16",
+      "comparacion": "Negro liso con hombros abiertos y aplicaciones plateadas en contornos. Distinto del negro con escote y strass XL-082 y del XL-114.",
+      "procedencia": "Fotografías oficiales recortadas a su área de imagen. Frente primero y espalda después cuando existe."
+    }
+  },
+  {
+    "id": 195,
+    "name": "Vestido corto drapeado de perlas",
+    "category": "Cortos",
+    "price": 319,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-195/01-WA-Cortos-F31-1.png",
+        "width": 536,
+        "height": 806,
+        "view": "Frente",
+        "sha256": "4ecd5cec5cc67b4bdda9253f43aab28b2b6dd9508eed0b87900843d76541bd08",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F31-perlas319-1-foto.png",
+        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
+        "captureSource": {
+          "pantalla": "review/verificacion-cortos-whatsapp-2026-10-15/F31-perlas319-1-pantalla.png",
+          "encuadre": "review/verificacion-cortos-whatsapp-2026-10-15/F31-perlas319-1-encuadre.json",
+          "edicion": "Recorte de interfaz; sin alterar vestido, modelo, color ni fondo."
+        }
+      }
+    ],
+    "image": "./images/productos-reales/XL-195/01-WA-Cortos-F31-1.png",
+    "photoPending": false,
+    "catalogName": "Vestido corto drapeado de perlas",
+    "catalogCategory": "Vestidos Cortos",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-16",
+      "evidencia": "review/verificacion-cortos-whatsapp-2026-10-15/F31-perlas319-ficha.png"
+    },
+    "imageSource": {
+      "tipo": "Fotografías ampliadas del catálogo en la misma sesión del usuario",
+      "fecha": "2026-10-16",
+      "comparacion": "Vino de hombros descubiertos y mangas largas, perlas pequeñas dispersas sobre base lisa; distinto del XL-135 de pedrería densa.",
+      "procedencia": "Fotografías oficiales recortadas a su área de imagen. Frente primero y espalda después cuando existe."
     }
   }
 ]

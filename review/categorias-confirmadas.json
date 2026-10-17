@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-10-15",
-  "prioridad": "Confirmación más reciente del usuario: las prendas identificadas en Cortos con brillo de WhatsApp deben figurar únicamente en esa categoría; conservar Liquidación.",
+  "fecha": "2026-10-16",
+  "prioridad": "Confirmación más reciente del usuario: dentro de la lista Gala de WhatsApp, las prendas cuyo nombre dice explícitamente gala deben figurar únicamente en Gala; conservar Liquidación.",
   "aclaracion_usuario": "Largos, cuando el brillo sea solo un detalle.",
   "criterios": {
     "Largos": "Falda principal al tobillo o al suelo de base lisa o estampada; admite detalles brillantes localizados o dispersos sin brillo predominante.",
@@ -1117,10 +1117,10 @@
     {
       "id": 100,
       "nombre": "Vestido rojo de gala con strass plateadas",
-      "categoria": "Largos",
-      "fecha": "2026-10-14",
-      "fuente": "Revisión visual de todas las fotos del producto y criterios del usuario.",
-      "motivo": "Vestido rojo liso con strass localizado en el escote.",
+      "categoria": "Gala",
+      "fecha": "2026-10-16",
+      "fuente": "Confirmación explícita del usuario y lista Gala de WhatsApp.",
+      "motivo": "El nombre comercial dice gala explícitamente.",
       "fotos": [
         {
           "src": "./images/productos-reales/XL-100/01-R064.jpeg",
@@ -1227,10 +1227,10 @@
     {
       "id": 106,
       "nombre": "Vestido de gala negro con detalles plateados",
-      "categoria": "Largos",
-      "fecha": "2026-10-14",
-      "fuente": "Revisión visual de todas las fotos del producto y criterios del usuario.",
-      "motivo": "Vestido negro liso con detalles brillantes en escote y puños.",
+      "categoria": "Gala",
+      "fecha": "2026-10-16",
+      "fuente": "Confirmación explícita del usuario y lista Gala de WhatsApp.",
+      "motivo": "El nombre comercial dice gala explícitamente.",
       "fotos": [
         {
           "src": "./images/productos-reales/XL-106/01-R134.jpeg",
@@ -1447,10 +1447,10 @@
     {
       "id": 117,
       "nombre": "Vestido negro brillante",
-      "categoria": "Cortos con brillo",
-      "fecha": "2026-10-14",
-      "fuente": "Revisión visual de todas las fotos del producto y criterios del usuario.",
-      "motivo": "Vestidos cortos o midi con lentejuelas, perlas, pedrería o decoración brillante. Una caída lateral larga no convierte una minifalda en vestido largo.",
+      "categoria": "Gala",
+      "fecha": "2026-10-16",
+      "fuente": "Confirmación explícita del usuario y precio actual de Gala en WhatsApp.",
+      "motivo": "Debe figurar únicamente en Gala a S/ 389.",
       "fotos": [
         {
           "src": "./images/productos-reales/XL-117/01-R022.jpeg",
@@ -2283,10 +2283,10 @@
     {
       "id": 159,
       "nombre": "Vestido de gala largo negro con detalles en cuello y mangas",
-      "categoria": "Largos",
-      "fecha": "2026-10-14",
-      "fuente": "Revisión visual de todas las fotos del producto y criterios del usuario.",
-      "motivo": "Vestido negro liso con detalles en cuello y puños.",
+      "categoria": "Gala",
+      "fecha": "2026-10-16",
+      "fuente": "Confirmación explícita del usuario y lista Gala de WhatsApp.",
+      "motivo": "El nombre comercial dice gala explícitamente.",
       "fotos": [
         {
           "src": "./images/productos-reales/XL-159/01-N032.jpeg",
@@ -2558,10 +2558,10 @@
     {
       "id": 177,
       "nombre": "Vestido de largo gala nude con aplicaciones",
-      "categoria": "Largos",
-      "fecha": "2026-10-14",
-      "fuente": "Revisión visual de todas las fotos del producto y criterios del usuario.",
-      "motivo": "Vestido nude con volantes y aplicaciones florales localizadas.",
+      "categoria": "Gala",
+      "fecha": "2026-10-16",
+      "fuente": "Confirmación explícita del usuario y lista Gala de WhatsApp.",
+      "motivo": "El nombre comercial dice gala explícitamente.",
       "fotos": [
         {
           "src": "./images/productos-reales/XL-177/01-N046.jpeg",
@@ -2573,10 +2573,10 @@
     {
       "id": 178,
       "nombre": "Vestido de gala color verde asimétrico con una rosa",
-      "categoria": "Largos",
-      "fecha": "2026-10-14",
-      "fuente": "Revisión visual de todas las fotos del producto y criterios del usuario.",
-      "motivo": "Vestido verde asimétrico de tela lisa con capa.",
+      "categoria": "Gala",
+      "fecha": "2026-10-16",
+      "fuente": "Confirmación explícita del usuario y lista Gala de WhatsApp.",
+      "motivo": "El nombre comercial dice gala explícitamente.",
       "fotos": [
         {
           "src": "./images/productos-reales/XL-178/01-N050.jpeg",

@@ -1542,7 +1542,7 @@ export const products = [
   {
     "id": 100,
     "name": "Vestido rojo de gala con strass plateadas",
-    "category": "Largos",
+    "category": "Gala",
     "price": 389,
     "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
@@ -1688,7 +1688,7 @@ export const products = [
   {
     "id": 106,
     "name": "Vestido de gala negro con detalles plateados",
-    "category": "Largos",
+    "category": "Gala",
     "price": 429,
     "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
@@ -1985,8 +1985,8 @@ export const products = [
   {
     "id": 117,
     "name": "Vestido negro brillante",
-    "category": "Cortos con brillo",
-    "price": 379,
+    "category": "Gala",
+    "price": 389,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
       {
@@ -3289,7 +3289,7 @@ export const products = [
   {
     "id": 159,
     "name": "Vestido de gala largo negro con detalles en cuello y mangas",
-    "category": "Largos",
+    "category": "Gala",
     "price": 449,
     "photos": [
       {
@@ -3782,7 +3782,7 @@ export const products = [
   {
     "id": 177,
     "name": "Vestido de largo gala nude con aplicaciones",
-    "category": "Largos",
+    "category": "Gala",
     "price": 649,
     "photos": [
       {
@@ -3810,7 +3810,7 @@ export const products = [
   {
     "id": 178,
     "name": "Vestido de gala color verde asimétrico con una rosa",
-    "category": "Largos",
+    "category": "Gala",
     "price": 649,
     "photos": [
       {

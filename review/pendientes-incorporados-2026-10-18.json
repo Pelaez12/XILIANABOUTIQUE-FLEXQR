@@ -1,0 +1,41 @@
+{
+  "fecha": "2026-10-18",
+  "totalProductos": 157,
+  "pendientes": [
+    {
+      "id": 107,
+      "nombre": "Vestido largo plomo de tull con detalles de flores",
+      "categoriaPrincipal": "Gala",
+      "precio": 439,
+      "fotos": [
+        "./images/productos-reales/XL-107/01-R112.jpeg",
+        "./images/productos-reales/XL-107/02-R116.jpeg"
+      ]
+    },
+    {
+      "id": 196,
+      "nombre": "Vestido largo de gala morado con lentejuelas",
+      "categoriaPrincipal": "Gala",
+      "precio": 649,
+      "fotos": [
+        "./images/productos-reales/XL-196/01-WA-Gala-morado-frente.png",
+        "./images/productos-reales/XL-196/02-WA-Gala-morado-espalda.png"
+      ]
+    },
+    {
+      "id": 187,
+      "nombre": "Vestido blanco mini elegante con perlas",
+      "categoriaPrincipal": "Cortos",
+      "precio": 329,
+      "fotos": [
+        "./images/productos-reales/XL-187/01-WA-Cortos-blanco-frente.png",
+        "./images/productos-reales/XL-187/02-WA-Cortos-blanco-prenda.png"
+      ]
+    }
+  ],
+  "decisiones": [
+    "XL-107 ya era la misma prenda plomo; se actualizó nombre y precio a la ficha vigente S/439.",
+    "XL-187 usa S/329 porque coincide exactamente con el nombre Vestido blanco mini elegante con perlas.",
+    "XL-196 es una prenda distinta y se incorporó con frente primero y espalda después."
+  ]
+}

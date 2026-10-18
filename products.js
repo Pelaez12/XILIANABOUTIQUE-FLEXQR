@@ -1714,10 +1714,10 @@ export const products = [
   },
   {
     "id": 107,
-    "name": "Vestido de gala de lentejuelas · modelo plomo",
+    "name": "Vestido largo plomo de tull con detalles de flores",
     "category": "Gala",
-    "price": 529,
-    "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
+    "price": 439,
+    "note": "Diseño largo plomo con caída satinada y detalles florales. Consulta disponibilidad y medidas con la boutique.",
     "photos": [
       {
         "src": "./images/productos-reales/XL-107/01-R112.jpeg",
@@ -1737,7 +1737,17 @@ export const products = [
       }
     ],
     "image": "./images/productos-reales/XL-107/01-R112.jpeg",
-    "photoPending": false
+    "photoPending": false,
+    "reviewPending": true,
+    "catalogName": "Vestido largo plomo de tull con detalles de flores",
+    "catalogCategory": "Gala Dresses",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "codigoCatalogo": "2078",
+      "evidencia": "review/fotos-pendientes-2026-10-12/plomo-frente-fuente.png"
+    }
   },
   {
     "id": 108,
@@ -4627,6 +4637,84 @@ export const products = [
       "comparacion": "Vino de hombros descubiertos y mangas largas, perlas pequeñas dispersas sobre base lisa; distinto del XL-135 de pedrería densa.",
       "procedencia": "Fotografías oficiales recortadas a su área de imagen. Frente primero y espalda después cuando existe."
     }
+  },
+  {
+    "id": 187,
+    "name": "Vestido blanco mini elegante con perlas",
+    "category": "Cortos",
+    "price": 329,
+    "note": "Vestido mini blanco con aplicaciones de perlas. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-187/01-WA-Cortos-blanco-frente.png",
+        "width": 616,
+        "height": 806,
+        "view": "Frente con modelo",
+        "sha256": "03e5582c849cc81501979cf41f7f506699fa91ca79fe56d27c6edcd125a4601c",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F06-blanco329-1-foto.png",
+        "sourceType": "Fotografía ampliada del catálogo WhatsApp Web; copia fiel sin edición del vestido ni del modelo."
+      },
+      {
+        "src": "./images/productos-reales/XL-187/02-WA-Cortos-blanco-prenda.png",
+        "width": 626,
+        "height": 806,
+        "view": "Frente de la prenda sin modelo",
+        "sha256": "5c2405cfdee9d324206fb707be283eb9b2f96b8cef012a4af95de3744f520e17",
+        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F06-blanco329-2-foto.png",
+        "sourceType": "Fotografía ampliada del catálogo WhatsApp Web; copia fiel sin edición del vestido ni del modelo."
+      }
+    ],
+    "image": "./images/productos-reales/XL-187/01-WA-Cortos-blanco-frente.png",
+    "photoPending": false,
+    "reviewPending": true,
+    "catalogName": "Vestido blanco mini elegante con perlas",
+    "catalogCategory": "Vestidos Cortos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/verificacion-cortos-whatsapp-2026-10-15/F06-blanco329-ficha.png"
+    }
+  },
+  {
+    "id": 196,
+    "name": "Vestido largo de gala morado con lentejuelas",
+    "category": "Gala",
+    "price": 649,
+    "note": "Vestido sirena de lentejuelas con mangas abullonadas. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-196/01-WA-Gala-morado-frente.png",
+        "width": 620,
+        "height": 826,
+        "view": "Frente",
+        "sha256": "1cf9c89ee3b0ec08901b97c9483e8ef50cfd0652df40a9f9e6d1d2d1d9074a04",
+        "sourceAttachment": "review/fotos-pendientes-2026-10-12/morado-frente-fuente.png",
+        "sourceType": "Fotografía ampliada del catálogo WhatsApp Web; copia fiel sin edición del vestido ni del modelo."
+      },
+      {
+        "src": "./images/productos-reales/XL-196/02-WA-Gala-morado-espalda.png",
+        "width": 620,
+        "height": 826,
+        "view": "Espalda",
+        "sha256": "d2acaff54e9cb375ee62eca287adcf655c95428c772ee7346903b514adb0c037",
+        "sourceAttachment": "review/fotos-pendientes-2026-10-12/morado-espalda-fuente.png",
+        "sourceType": "Fotografía ampliada del catálogo WhatsApp Web; copia fiel sin edición del vestido ni del modelo."
+      }
+    ],
+    "image": "./images/productos-reales/XL-196/01-WA-Gala-morado-frente.png",
+    "photoPending": false,
+    "reviewPending": true,
+    "catalogName": "Vestido largo de gala morado con lentejuelas",
+    "catalogCategory": "Gala Dresses",
+    "catalogCode": "1512",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "codigoCatalogo": "1512",
+      "evidencia": "review/fotos-pendientes-2026-10-12/morado-frente-fuente.png"
+    }
   }
 ];
-export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación"];
+export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación", "Pendientes"];

@@ -1246,11 +1246,11 @@
     },
     {
       "id": 107,
-      "nombre": "Vestido de gala de lentejuelas · modelo plomo",
+      "nombre": "Vestido largo plomo de tull con detalles de flores",
       "categoria": "Gala",
-      "fecha": "2026-10-15",
-      "fuente": "Conciliación solicitada por el usuario: nombre + fotos originales + colección comercial guardada. Evidencia en conciliacion-final-2026-10-15/gala-largos/matriz.json.",
-      "motivo": "La referencia histórica GALA-CAPTURA-R112 vincula las fotos R112/R116, el nombre modelo plomo y S/529 a Gala. Se conserva separado de XL-175, un diseño distinto con nombre base genérico.",
+      "fecha": "2026-10-18",
+      "fuente": "review/fotos-pendientes-2026-10-12/plomo-frente-fuente.png",
+      "motivo": "La foto ampliada confirma que esta ficha ya era XL-107. Se actualizan nombre y precio desde WhatsApp sin duplicar la prenda.",
       "fotos": [
         {
           "src": "./images/productos-reales/XL-107/01-R112.jpeg",
@@ -2887,6 +2887,46 @@
           "sha256": "4ecd5cec5cc67b4bdda9253f43aab28b2b6dd9508eed0b87900843d76541bd08"
         }
       ]
+    },
+    {
+      "id": 187,
+      "nombre": "Vestido blanco mini elegante con perlas",
+      "categoria": "Cortos",
+      "fecha": "2026-10-18",
+      "fuente": "review/verificacion-cortos-whatsapp-2026-10-15/F06-blanco329-ficha.png",
+      "motivo": "Nombre, precio y fotografías conciliados con la ficha ampliada del catálogo WhatsApp; marcado también para la zona Pendientes.",
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-187/01-WA-Cortos-blanco-frente.png",
+          "view": "Frente con modelo",
+          "sha256": "03e5582c849cc81501979cf41f7f506699fa91ca79fe56d27c6edcd125a4601c"
+        },
+        {
+          "src": "./images/productos-reales/XL-187/02-WA-Cortos-blanco-prenda.png",
+          "view": "Frente de la prenda sin modelo",
+          "sha256": "5c2405cfdee9d324206fb707be283eb9b2f96b8cef012a4af95de3744f520e17"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "nombre": "Vestido largo de gala morado con lentejuelas",
+      "categoria": "Gala",
+      "fecha": "2026-10-18",
+      "fuente": "review/fotos-pendientes-2026-10-12/morado-frente-fuente.png",
+      "motivo": "Nombre, precio y fotografías conciliados con la ficha ampliada del catálogo WhatsApp; marcado también para la zona Pendientes.",
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-196/01-WA-Gala-morado-frente.png",
+          "view": "Frente",
+          "sha256": "1cf9c89ee3b0ec08901b97c9483e8ef50cfd0652df40a9f9e6d1d2d1d9074a04"
+        },
+        {
+          "src": "./images/productos-reales/XL-196/02-WA-Gala-morado-espalda.png",
+          "view": "Espalda",
+          "sha256": "d2acaff54e9cb375ee62eca287adcf655c95428c772ee7346903b514adb0c037"
+        }
+      ]
     }
   ],
   "regla_abertura_alta": "Sustituida: una abertura alta no convierte por sí sola una falda larga en vestido corto.",
@@ -2897,7 +2937,7 @@
     "Cortos con brillo",
     "Bandage"
   ],
-  "revision": "conciliacion-catalogo-2026-10-15-brillo-completo-2026-10-16",
+  "revision": "2026-10-18: auditoría completa sin duplicados; tres fichas reunidas en la zona Pendientes. XL-107 se actualizó sin duplicarse.",
   "criterios_documentados": "conciliacion-final-2026-10-15/CONCILIACION.md",
   "excepciones_individuales": [
     {

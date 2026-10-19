@@ -19,7 +19,8 @@ const pages = files.filter(file => file.endsWith('index.html'));
 const productSource = fs.readFileSync(path.join(__dirname, 'products.js'), 'utf8');
 const products = JSON.parse(productSource.match(/export const products = ([\s\S]*?);\s*export const categories/)[1]);
 const categories = JSON.parse(productSource.match(/export const categories = ([\s\S]*?);/)[1]);
-const expectedPages = 2 + categories.filter(category => category !== 'Todos').length + products.length;
+const accessories = JSON.parse(fs.readFileSync(path.join(__dirname, 'review/auditoria-whatsapp-2026-10-18/pendientes_unificados.json'), 'utf8'));
+const expectedPages = 2 + categories.filter(category => category !== 'Todos').length + products.length + accessories.length;
 assert.equal(pages.length, expectedPages);
 let schemas = 0;
 let galleryPhotos = 0;
@@ -80,6 +81,14 @@ for (const product of products) {
   assert(html.includes(`<img class="gallery-main" src="${product.image.replace(/^\.\//, '/')}"`), `Primera foto incorrecta: ${product.name}`);
   assert.equal((html.match(/data-gallery-photo=/g) || []).length, product.photos.length > 1 ? product.photos.length : 0, `Miniaturas incorrectas: ${product.name}`);
   if (product.photos.length === 1) assert(!html.includes('class="gallery-count"'), `Contador innecesario: ${product.name}`);
+}
+for (const accessory of accessories) {
+  const directory = fs.readdirSync(path.join(output, 'accesorios')).find(name => name.startsWith(accessory.numero_visible + '-'));
+  assert(directory, `Ficha ausente: ${accessory.nombre}`);
+  const html = fs.readFileSync(path.join(output, 'accesorios', directory, 'index.html'), 'utf8');
+  assert(html.includes('Consultar por WhatsApp'), `WhatsApp ausente: ${accessory.nombre}`);
+  assert(html.includes(`<img class="gallery-main" src="${accessory.fotos_web[0].replace(/^\.\//, '/')}"`), `Primera foto incorrecta: ${accessory.nombre}`);
+  assert.equal((html.match(/data-gallery-photo=/g) || []).length, accessory.fotos_web.length > 1 ? accessory.fotos_web.length : 0, `Miniaturas incorrectas: ${accessory.nombre}`);
 }
 assert(fs.readFileSync(path.join(output, 'colecciones/cortos-con-brillo/index.html'), 'utf8').includes('data-id="57"'));
 assert(!fs.readFileSync(path.join(output, 'index.html'), 'utf8').includes('data-id="58"'));

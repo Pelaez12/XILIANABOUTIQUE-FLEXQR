@@ -12,7 +12,7 @@ const loadModule = file => import('data:text/javascript;base64,' + fs.readFileSy
 module.exports = async function buildSEO(output) {
   if (new URL(base).protocol !== 'https:') throw new Error('El dominio público debe usar HTTPS.');
   const { products, categories } = await loadModule('products.js');
-  const { displayImage, productPath, categoryPath, featuredCategoryIds } = await loadModule('catalog-utils.js');
+  const { displayImage, productPath, categoryPath, featuredCategoryIds, slug } = await loadModule('catalog-utils.js');
   const { galleryMarkup } = await loadModule('gallery.js');
   const { recommendProducts } = await loadModule('recommendations.js');
   const dimensions = p => p.photos.length ? `width="${p.photos[0].width}" height="${p.photos[0].height}"` : 'width="900" height="1200"';
@@ -83,18 +83,32 @@ module.exports = async function buildSEO(output) {
   const pendientes = JSON.parse(fs.readFileSync(path.join(__dirname, 'review/auditoria-whatsapp-2026-10-18/pendientes_unificados.json'), 'utf8'));
   if (pendientes.length !== 56 || new Set(pendientes.map(p => `${p.nombre}\u0000${p.precio_pen}\u0000${p.numero_visible}`)).size !== pendientes.length) throw new Error('Inventario de pendientes inesperado o repetido');
   const pendientesPath = '/colecciones/accesorios/';
+  const accessoryPath = p => `/accesorios/${p.numero_visible}-${slug(p.nombre)}/`;
   const pendientesTitle = 'Accesorios en Lima | Xiliana Boutique';
   const pendientesDescription = 'Explora 56 accesorios de Xiliana Boutique con sus fotos originales, nombres y precios verificados.';
   const pendientesCards = pendientes.map((p, i) => {
     const photos = (Array.isArray(p.fotos_web) ? p.fotos_web : []).map(photo => `/${photo.replace(/^\.\//, '')}`);
     if (!photos.length) throw new Error(`El accesorio ${p.nombre} no tiene foto web`);
-    return `<article class="product-card accessory-card" data-name="${escape(p.nombre)}"><button class="product-open accessory-open" type="button" data-accessory-index="${i}" aria-label="Ver ${escape(p.nombre)} en grande"><span class="product-image accessory-image"><img src="${photos[0]}" alt="${escape(p.nombre)}" loading="lazy" decoding="async" /></span><span class="product-meta"><span class="category">Accesorios</span><span class="view-link">Ver en grande ↗</span></span><h2 class="product-name">${escape(p.nombre)}</h2><span class="price">${money(p.precio_pen)}</span></button></article>`;
+    return `<article class="product-card accessory-card" data-name="${escape(p.nombre)}"><a class="product-open" href="${accessoryPath(p)}" aria-label="Ver ${escape(p.nombre)}"><span class="product-image accessory-image"><img src="${photos[0]}" alt="${escape(p.nombre)}" loading="lazy" decoding="async" /></span><span class="product-meta"><span class="category">Accesorios</span><span class="view-link">Ver accesorio ↗</span></span><h2 class="product-name">${escape(p.nombre)}</h2><span class="price">${money(p.precio_pen)}</span></a></article>`;
   }).join('');
   const pendientesData = [business, website, { '@type': 'CollectionPage', url: base + pendientesPath, name: pendientesTitle, inLanguage: 'es-PE', mainEntity: { '@type': 'ItemList', itemListElement: pendientes.map((p, i) => ({ '@type': 'ListItem', position: i + 1, name: p.nombre })) } }, breadcrumbs([['Inicio', '/'], ['Accesorios', pendientesPath]])];
   const pendientesConFoto = pendientes.filter(p => Array.isArray(p.fotos_web) && p.fotos_web.length).length;
-  write(pendientesPath.slice(1) + 'index.html', shell(pendientesTitle, pendientesDescription, pendientesPath, pendientesConFoto ? pendientes.find(p => Array.isArray(p.fotos_web) && p.fotos_web.length).fotos_web[0] : './images/xiliana-logo-gold-black.png', pendientesData, `<nav class="breadcrumbs" aria-label="Ruta"><a href="/">Inicio</a> / Accesorios</nav><header class="collection-heading"><h1>ACCESORIOS</h1><p>El detalle que completa tu look. Abre cualquier modelo para apreciar su foto en grande.</p></header><div class="collection-tools"><p class="collection-count">${pendientes.length} modelos en esta colección</p></div><div class="product-grid collection-products accessories-products">${pendientesCards}</div><script type="application/json" id="accessories-data">${json(pendientes.map(p => ({name:p.nombre,price:p.precio_pen,photos:p.fotos_web.map(photo => `/${photo.replace(/^\.\//, '')}`)})))}</script><script type="module" src="/accessory-gallery.js"></script>`));
+  write(pendientesPath.slice(1) + 'index.html', shell(pendientesTitle, pendientesDescription, pendientesPath, pendientesConFoto ? pendientes.find(p => Array.isArray(p.fotos_web) && p.fotos_web.length).fotos_web[0] : './images/xiliana-logo-gold-black.png', pendientesData, `<nav class="breadcrumbs" aria-label="Ruta"><a href="/">Inicio</a> / Accesorios</nav><header class="collection-heading"><h1>ACCESORIOS</h1><p>El detalle que completa tu look. Abre cualquier modelo para ver sus fotos y consultar disponibilidad.</p></header><div class="collection-tools"><p class="collection-count">${pendientes.length} modelos en esta colección</p></div><div class="product-grid collection-products accessories-products">${pendientesCards}</div>`));
   urls.push({ path: pendientesPath, images: [] });
   write('_redirects', '/colecciones/pendientes/ /colecciones/accesorios/ 301\n');
+  for (const p of pendientes) {
+    const urlPath = accessoryPath(p);
+    const photos = p.fotos_web.map((src, i) => ({ src, view: `Foto ${i + 1}` }));
+    const galleryProduct = { name: p.nombre, image: photos[0].src, photos };
+    const title = `${p.nombre} | Accesorios Xiliana Boutique`;
+    const description = `${p.nombre} en Xiliana Boutique, Jesús María, Lima. Precio de referencia: ${money(p.precio_pen)}. Consulta disponibilidad y entrega por WhatsApp.`;
+    const product = { '@type': 'Product', '@id': base + urlPath + '#producto', url: base + urlPath, name: p.nombre, description, image: photos.map(photo => absolute(photo.src)), category: 'Accesorios', offers: { '@type': 'Offer', url: base + urlPath, priceCurrency: 'PEN', price: Number(p.precio_pen).toFixed(2), seller: { '@id': business['@id'] } } };
+    const data = [business, website, product, breadcrumbs([['Inicio', '/'], ['Accesorios', pendientesPath], [p.nombre, urlPath]])];
+    const query = encodeURIComponent(`Hola Xiliana Boutique, quiero consultar por el accesorio ${p.nombre} (código ${p.numero_visible}) a ${money(p.precio_pen)}. ¿Está disponible?`);
+    const body = `<nav class="breadcrumbs" aria-label="Ruta"><a href="/">Inicio</a> / <a href="${pendientesPath}">Accesorios</a> / ${escape(p.nombre)}</nav><article class="product-detail accessory-detail">${galleryMarkup(galleryProduct)}<div><p class="eyebrow">Xiliana Boutique · Accesorios</p><h1>${escape(p.nombre)}</h1><p class="price">${money(p.precio_pen)}</p><div class="product-availability"><p><strong>Disponibilidad:</strong> consulta si este accesorio está disponible en tienda.</p><p><strong>Entrega:</strong> coordinamos recojo en boutique o envío a Lima y provincia por WhatsApp.</p></div><a class="button button-dark accessory-whatsapp" href="https://wa.me/51930527248?text=${query}" target="_blank" rel="noopener noreferrer">Consultar por WhatsApp ↗</a><p>Visítanos en Avenida Horacio Urteaga 1438, Tienda 166, Centro Comercial El Rey, Jesús María, Lima, Perú.</p><p class="business-hours">Lunes a sábado: 11:00 a. m. – 8:00 p. m.<br />Domingos: previa cita</p><a href="${pendientesPath}">Ver todos los accesorios ↗</a></div></article>`;
+    write(urlPath.slice(1) + 'index.html', shell(title, description, urlPath, photos[0].src, data, body));
+    urls.push({ path: urlPath, images: photos.map(photo => photo.src) });
+  }
   for (const p of products) {
     const urlPath = productPath(p);
     const title = `${p.name} | Xiliana Boutique, Lima`;

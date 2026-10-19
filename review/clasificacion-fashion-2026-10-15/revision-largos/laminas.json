@@ -1,0 +1,366 @@
+{
+  "gala": [
+    {
+      "archivo": "C:\\Users\\USER\\OneDrive\\Documentos\\ChatGPT\\FLEXQR-DEMO\\XILIANA\\review\\clasificacion-fashion-2026-10-15\\revision-largos\\gala-1.jpg",
+      "fotos": [
+        {
+          "id": 59,
+          "n": 1,
+          "src": "./images/productos-reales/XL-059/01-R027.jpeg"
+        },
+        {
+          "id": 59,
+          "n": 2,
+          "src": "./images/productos-reales/XL-059/03-R029.jpeg"
+        },
+        {
+          "id": 59,
+          "n": 3,
+          "src": "./images/productos-reales/XL-059/02-R028.jpeg"
+        },
+        {
+          "id": 61,
+          "n": 1,
+          "src": "./images/productos-reales/XL-061/01-R035.jpeg"
+        },
+        {
+          "id": 61,
+          "n": 2,
+          "src": "./images/productos-reales/XL-061/02-R038.jpeg"
+        },
+        {
+          "id": 62,
+          "n": 1,
+          "src": "./images/productos-reales/XL-062/01-R043.jpeg"
+        },
+        {
+          "id": 62,
+          "n": 2,
+          "src": "./images/productos-reales/XL-062/03-R046.jpeg"
+        },
+        {
+          "id": 62,
+          "n": 3,
+          "src": "./images/productos-reales/XL-062/02-R045.jpeg"
+        },
+        {
+          "id": 68,
+          "n": 1,
+          "src": "./images/productos-reales/XL-068/01-R065.jpeg"
+        }
+      ]
+    },
+    {
+      "archivo": "C:\\Users\\USER\\OneDrive\\Documentos\\ChatGPT\\FLEXQR-DEMO\\XILIANA\\review\\clasificacion-fashion-2026-10-15\\revision-largos\\gala-2.jpg",
+      "fotos": [
+        {
+          "id": 68,
+          "n": 2,
+          "src": "./images/productos-reales/XL-068/02-R066.jpeg"
+        },
+        {
+          "id": 81,
+          "n": 1,
+          "src": "./images/productos-reales/XL-081/01-R140.jpeg"
+        },
+        {
+          "id": 87,
+          "n": 1,
+          "src": "./images/productos-reales/XL-087/01-R016.jpeg"
+        },
+        {
+          "id": 90,
+          "n": 1,
+          "src": "./images/productos-reales/XL-090/01-R076.jpeg"
+        },
+        {
+          "id": 90,
+          "n": 2,
+          "src": "./images/productos-reales/XL-090/02-R077.jpeg"
+        },
+        {
+          "id": 92,
+          "n": 1,
+          "src": "./images/productos-reales/XL-092/01-R082.jpeg"
+        },
+        {
+          "id": 92,
+          "n": 2,
+          "src": "./images/productos-reales/XL-092/02-R087.jpeg"
+        },
+        {
+          "id": 94,
+          "n": 1,
+          "src": "./images/productos-reales/XL-094/01-R090.jpeg"
+        },
+        {
+          "id": 94,
+          "n": 2,
+          "src": "./images/productos-reales/XL-094/02-R091.jpeg"
+        }
+      ]
+    },
+    {
+      "archivo": "C:\\Users\\USER\\OneDrive\\Documentos\\ChatGPT\\FLEXQR-DEMO\\XILIANA\\review\\clasificacion-fashion-2026-10-15\\revision-largos\\gala-3.jpg",
+      "fotos": [
+        {
+          "id": 95,
+          "n": 1,
+          "src": "./images/productos-reales/XL-095/02-R073.jpeg"
+        },
+        {
+          "id": 95,
+          "n": 2,
+          "src": "./images/productos-reales/XL-095/01-R068.jpeg"
+        },
+        {
+          "id": 97,
+          "n": 1,
+          "src": "./images/productos-reales/XL-097/01-R086.jpeg"
+        },
+        {
+          "id": 97,
+          "n": 2,
+          "src": "./images/productos-reales/XL-097/02-R092.jpeg"
+        },
+        {
+          "id": 99,
+          "n": 1,
+          "src": "./images/productos-reales/XL-099/01-R100.jpeg"
+        },
+        {
+          "id": 99,
+          "n": 2,
+          "src": "./images/productos-reales/XL-099/02-R101.jpeg"
+        },
+        {
+          "id": 104,
+          "n": 1,
+          "src": "./images/productos-reales/XL-104/01-R023.jpeg"
+        },
+        {
+          "id": 104,
+          "n": 2,
+          "src": "./images/productos-reales/XL-104/02-R024.jpeg"
+        },
+        {
+          "id": 105,
+          "n": 1,
+          "src": "./images/productos-reales/XL-105/01-R017.jpeg"
+        }
+      ]
+    },
+    {
+      "archivo": "C:\\Users\\USER\\OneDrive\\Documentos\\ChatGPT\\FLEXQR-DEMO\\XILIANA\\review\\clasificacion-fashion-2026-10-15\\revision-largos\\gala-4.jpg",
+      "fotos": [
+        {
+          "id": 105,
+          "n": 2,
+          "src": "./images/productos-reales/XL-105/02-R021.jpeg"
+        },
+        {
+          "id": 107,
+          "n": 1,
+          "src": "./images/productos-reales/XL-107/01-R112.jpeg"
+        },
+        {
+          "id": 107,
+          "n": 2,
+          "src": "./images/productos-reales/XL-107/02-R116.jpeg"
+        },
+        {
+          "id": 108,
+          "n": 1,
+          "src": "./images/productos-reales/XL-108/01-R138.jpeg"
+        },
+        {
+          "id": 108,
+          "n": 2,
+          "src": "./images/productos-reales/XL-108/02-R139.jpeg"
+        },
+        {
+          "id": 109,
+          "n": 1,
+          "src": "./images/productos-reales/XL-109/02-R141.jpeg"
+        },
+        {
+          "id": 109,
+          "n": 2,
+          "src": "./images/productos-reales/XL-109/01-R137.jpeg"
+        },
+        {
+          "id": 110,
+          "n": 1,
+          "src": "./images/productos-reales/XL-110/02-R111.jpeg"
+        },
+        {
+          "id": 110,
+          "n": 2,
+          "src": "./images/productos-reales/XL-110/01-R110.jpeg"
+        }
+      ]
+    },
+    {
+      "archivo": "C:\\Users\\USER\\OneDrive\\Documentos\\ChatGPT\\FLEXQR-DEMO\\XILIANA\\review\\clasificacion-fashion-2026-10-15\\revision-largos\\gala-5.jpg",
+      "fotos": [
+        {
+          "id": 111,
+          "n": 1,
+          "src": "./images/productos-reales/XL-111/02-R119.jpeg"
+        },
+        {
+          "id": 111,
+          "n": 2,
+          "src": "./images/productos-reales/XL-111/01-R118.jpeg"
+        },
+        {
+          "id": 112,
+          "n": 1,
+          "src": "./images/productos-reales/XL-112/01-R117.jpeg"
+        },
+        {
+          "id": 112,
+          "n": 2,
+          "src": "./images/productos-reales/XL-112/02-R120.jpeg"
+        },
+        {
+          "id": 136,
+          "n": 1,
+          "src": "./images/productos-reales/XL-136/01-N001.jpeg"
+        },
+        {
+          "id": 136,
+          "n": 2,
+          "src": "./images/productos-reales/XL-136/02-N002.jpeg"
+        },
+        {
+          "id": 142,
+          "n": 1,
+          "src": "./images/productos-reales/XL-142/01-N014.jpeg"
+        },
+        {
+          "id": 142,
+          "n": 2,
+          "src": "./images/productos-reales/XL-142/02-N015.jpeg"
+        },
+        {
+          "id": 158,
+          "n": 1,
+          "src": "./images/productos-reales/XL-158/01-N030.jpeg"
+        }
+      ]
+    },
+    {
+      "archivo": "C:\\Users\\USER\\OneDrive\\Documentos\\ChatGPT\\FLEXQR-DEMO\\XILIANA\\review\\clasificacion-fashion-2026-10-15\\revision-largos\\gala-6.jpg",
+      "fotos": [
+        {
+          "id": 158,
+          "n": 2,
+          "src": "./images/productos-reales/XL-158/02-N049.jpeg"
+        },
+        {
+          "id": 165,
+          "n": 1,
+          "src": "./images/productos-reales/XL-165/01-N047.jpeg"
+        },
+        {
+          "id": 165,
+          "n": 2,
+          "src": "./images/productos-reales/XL-165/02-N048.jpeg"
+        },
+        {
+          "id": 174,
+          "n": 1,
+          "src": "./images/productos-reales/XL-174/01-N031.jpeg"
+        },
+        {
+          "id": 175,
+          "n": 1,
+          "src": "./images/productos-reales/XL-175/01-N034.jpeg"
+        }
+      ]
+    }
+  ],
+  "maxi-restaurar": [
+    {
+      "archivo": "C:\\Users\\USER\\OneDrive\\Documentos\\ChatGPT\\FLEXQR-DEMO\\XILIANA\\review\\clasificacion-fashion-2026-10-15\\revision-largos\\maxi-restaurar-1.jpg",
+      "fotos": [
+        {
+          "id": 89,
+          "n": 1,
+          "src": "./images/productos-reales/XL-089/01-R124.jpeg"
+        },
+        {
+          "id": 89,
+          "n": 2,
+          "src": "./images/productos-reales/XL-089/02-R130.jpeg"
+        },
+        {
+          "id": 101,
+          "n": 1,
+          "src": "./images/productos-reales/XL-101/01-R062.jpeg"
+        },
+        {
+          "id": 103,
+          "n": 1,
+          "src": "./images/productos-reales/XL-103/01-R105.jpeg"
+        },
+        {
+          "id": 137,
+          "n": 1,
+          "src": "./images/productos-reales/XL-137/01-N004.jpeg"
+        },
+        {
+          "id": 137,
+          "n": 2,
+          "src": "./images/productos-reales/XL-137/02-N005.jpeg"
+        },
+        {
+          "id": 140,
+          "n": 1,
+          "src": "./images/productos-reales/XL-140/01-N011.jpeg"
+        },
+        {
+          "id": 140,
+          "n": 2,
+          "src": "./images/productos-reales/XL-140/02-N012.jpeg"
+        },
+        {
+          "id": 160,
+          "n": 1,
+          "src": "./images/productos-reales/XL-160/01-N035.jpeg"
+        }
+      ]
+    },
+    {
+      "archivo": "C:\\Users\\USER\\OneDrive\\Documentos\\ChatGPT\\FLEXQR-DEMO\\XILIANA\\review\\clasificacion-fashion-2026-10-15\\revision-largos\\maxi-restaurar-2.jpg",
+      "fotos": [
+        {
+          "id": 160,
+          "n": 2,
+          "src": "./images/productos-reales/XL-160/02-N036.jpeg"
+        },
+        {
+          "id": 161,
+          "n": 1,
+          "src": "./images/productos-reales/XL-161/01-N038.jpeg"
+        },
+        {
+          "id": 161,
+          "n": 2,
+          "src": "./images/productos-reales/XL-161/02-N037.jpeg"
+        },
+        {
+          "id": 164,
+          "n": 1,
+          "src": "./images/productos-reales/XL-164/01-N043.jpeg"
+        },
+        {
+          "id": 164,
+          "n": 2,
+          "src": "./images/productos-reales/XL-164/02-N044.jpeg"
+        }
+      ]
+    }
+  ]
+}

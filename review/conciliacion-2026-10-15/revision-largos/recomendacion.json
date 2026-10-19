@@ -1,0 +1,40 @@
+{
+  "categoria": "Largos",
+  "fecha": "2026-10-15",
+  "prendas_actuales_revisadas": 25,
+  "fotografias_largos_revisadas": 46,
+  "ids_finales_recomendados": [5, 6, 20, 23, 24, 60, 88, 91, 93, 96, 98, 100, 102, 106, 113, 138, 139, 141, 159, 162, 163, 173, 176, 177, 178],
+  "cambios_propuestos": [
+    {
+      "id": 174,
+      "de": "Largos",
+      "a": "Gala",
+      "confianza": "media",
+      "motivo": "Reflejo metálico uniforme en mangas, torso y falda; largo al suelo.",
+      "limite": "Única foto; no certifica si el material es metalizado o satén con lustre fuerte.",
+      "evidencia": ["./images/productos-reales/XL-174/01-N031.jpeg"]
+    },
+    {
+      "id": 141,
+      "de": "Gala",
+      "a": "Largos",
+      "confianza": "media",
+      "motivo": "Aplicación/encaje localizada en panel alto del busto; falda azul lisa hasta suelo con cola.",
+      "limite": "Única foto frontal, no hay evidencia de espalda.",
+      "evidencia": ["./images/productos-reales/XL-141/01-N013.jpeg"]
+    }
+  ],
+  "traslados_inequivocos_de_largos_a_cortos": [],
+  "fronteras_de_longitud_conservar_en_largos": [91, 106, 159],
+  "fronteras_de_brillo": [90, 141, 174, 177],
+  "candidatos_gala_revisados": [62, 68, 81, 87, 90, 112, 136, 140, 141, 161, 175],
+  "cruces_nombre_foto": [
+    {"ids": [22], "hallazgo": "La lista histórica de Largos incluye este nombre; ambas fotos muestran midi sin brillo, Cortos correcto."},
+    {"ids": [68, 81], "hallazgo": "La lista histórica de Cortos incluye estos nombres; las fotos llegan al tobillo y tienen brillo repartido."},
+    {"ids": [114], "hallazgo": "El nombre dice largo pero ambas fotos muestran midi con brillo y pantorrilla descubierta."},
+    {"ids": [127, 140], "hallazgo": "Nombre y precio duplicados, fotografías de modelos distintos: 127 strapless animal print con minifalda/cola lateral; 140 tirantes/corsé pedrería y falda larga."}
+  ],
+  "pendiente_regla_pierna_visible": "Usuario confirmó XL-154 como Cortos con brillo y pidió similares; el alcance general a otras aberturas se está delimitando por el agente principal.",
+  "criterio_de_cantidad": "No se usó la meta de 25 para decidir identidad o categoría.",
+  "archivos_compartidos_modificados": false
+}

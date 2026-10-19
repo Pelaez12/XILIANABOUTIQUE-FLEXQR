@@ -19,7 +19,7 @@ const pages = files.filter(file => file.endsWith('index.html'));
 const productSource = fs.readFileSync(path.join(__dirname, 'products.js'), 'utf8');
 const products = JSON.parse(productSource.match(/export const products = ([\s\S]*?);\s*export const categories/)[1]);
 const categories = JSON.parse(productSource.match(/export const categories = ([\s\S]*?);/)[1]);
-const expectedPages = 1 + categories.filter(category => category !== 'Todos').length + products.length;
+const expectedPages = 2 + categories.filter(category => category !== 'Todos').length + products.length;
 assert.equal(pages.length, expectedPages);
 let schemas = 0;
 let galleryPhotos = 0;

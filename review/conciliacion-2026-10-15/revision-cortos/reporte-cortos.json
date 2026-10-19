@@ -1,0 +1,467 @@
+{
+  "fecha": "2026-10-15",
+  "alcance": "Revisión independiente de Cortos sin brillo; 139 fotografías principales vistas, con ampliaciones y espaldas en casos de duda. Sin modificar products.js ni manifiestos compartidos.",
+  "ids_cortos_guardados_confirmados": [
+    10,
+    22,
+    63,
+    64,
+    65,
+    66,
+    67,
+    69,
+    79,
+    80,
+    84,
+    121,
+    122,
+    131
+  ],
+  "cantidad_cortos_guardados": 14,
+  "ids_adicionales_condicionados_a_regla_de_adorno_localizado": [
+    83,
+    86,
+    130
+  ],
+  "ids_cortos_si_se_aplica_esa_regla": [
+    10,
+    22,
+    63,
+    64,
+    65,
+    66,
+    67,
+    69,
+    79,
+    80,
+    83,
+    84,
+    86,
+    121,
+    122,
+    130,
+    131
+  ],
+  "cantidad_si_se_aplica_esa_regla": 17,
+  "caso_fronterizo": {
+    "id": 82,
+    "desde": "Cortos con brillo",
+    "hacia_posible": "Cortos",
+    "motivo": "Vestido negro midi liso con líneas de strass en cuello y torso hasta cintura. La decoración cubre buena parte del corpiño; es más extensa que un borde o broche. No mover automáticamente con la regla estricta de detalle localizado."
+  },
+  "cambios_propuestos_condicionales": [
+    {
+      "id": 83,
+      "desde": "Cortos con brillo",
+      "hacia": "Cortos",
+      "condicion": "Solo si se aplica a Cortos la regla de adorno brillante localizado",
+      "confianza": "Alta en descripción visual; condicionada en taxonomía",
+      "motivo": "Vestido blanco midi de tela lisa; una tira/fleco de strass sale del nudo en la cintura y acompaña la abertura. No hay lentejuelas repartidas por el vestido."
+    },
+    {
+      "id": 86,
+      "desde": "Cortos con brillo",
+      "hacia": "Cortos",
+      "condicion": "Solo si se aplica a Cortos la regla de adorno brillante localizado",
+      "confianza": "Alta en descripción visual; condicionada en taxonomía",
+      "motivo": "Vestido crema midi de gasa. Tres estrellas doradas son un adorno central; la falda es lisa. Los relieves claros del corpiño no presentan el brillo de lentejuelas."
+    },
+    {
+      "id": 130,
+      "desde": "Cortos con brillo",
+      "hacia": "Cortos",
+      "condicion": "Solo si se aplica a Cortos la regla de adorno brillante localizado",
+      "confianza": "Alta en descripción visual; condicionada en taxonomía",
+      "motivo": "Falda principal mini por encima de rodilla con caída lateral larga independiente; tela ploma lisa y lentejuelas limitadas a una media copa del escote."
+    }
+  ],
+  "conciliacion_oficial": {
+    "filas": 33,
+    "filas_con_candidato_unico": 16,
+    "filas_con_dos_candidatos": 1,
+    "filas_sin_asociacion_segura": 16,
+    "ids_guardados_candidatos": [
+      10,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      130,
+      131
+    ],
+    "ids_cortos_guardados_que_no_coinciden_con_una_fila_oficial": [
+      22,
+      121,
+      122
+    ],
+    "hipotesis_31": "33 filas menos los dos modelos confirmados con falda casi al tobillo (XL-068 y XL-081) = 31 filas. No es una prueba de inventario ni un motivo para reclasificar las fotos.",
+    "hipotesis_30": "Si las filas 6 y 10 que usan la misma miniatura resultan ser una sola prenda, la hipótesis anterior bajaría a 30. No se ha confirmado el duplicado.",
+    "filas_detalladas": [
+      {
+        "fila_oficial": 1,
+        "nombre_oficial": "Vestido corto con mangas y ajustado color azul con estampado floral",
+        "precio_oficial": 68.7,
+        "ids_candidatos": [
+          10
+        ],
+        "categorias_guardadas": [
+          "Cortos"
+        ],
+        "estado": "Candidato único por nombre y prenda"
+      },
+      {
+        "fila_oficial": 2,
+        "nombre_oficial": "Vestido corto satín estampado",
+        "precio_oficial": 86.7,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura"
+      },
+      {
+        "fila_oficial": 3,
+        "nombre_oficial": "Vestido corto con volantes de cuello redondo",
+        "precio_oficial": 115.6,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura"
+      },
+      {
+        "fila_oficial": 4,
+        "nombre_oficial": "Vestido corto licrado azulVestido corto azul con botones de tirantes",
+        "precio_oficial": 249.0,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura"
+      },
+      {
+        "fila_oficial": 5,
+        "nombre_oficial": "Vestido lila en ribVestido corto lila en rib con manga larga de escote cruzado y perlitas",
+        "precio_oficial": 289.0,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura"
+      },
+      {
+        "fila_oficial": 6,
+        "nombre_oficial": "Vestido blanco mini elegante con perlas",
+        "precio_oficial": 329.0,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura",
+        "observacion": "La captura oficial muestra la misma miniatura en ambas filas; nombres y precios distintos. Posible duplicado sin confirmar."
+      },
+      {
+        "fila_oficial": 7,
+        "nombre_oficial": "Vestido corto cuello diagonal, plisado y liso",
+        "precio_oficial": 319.0,
+        "ids_candidatos": [
+          63
+        ],
+        "categorias_guardadas": [
+          "Cortos"
+        ],
+        "estado": "Candidato único por nombre y prenda"
+      },
+      {
+        "fila_oficial": 8,
+        "nombre_oficial": "Vestido corto verde agua con tirantes",
+        "precio_oficial": 299.0,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura"
+      },
+      {
+        "fila_oficial": 9,
+        "nombre_oficial": "Vestido corto celeste con corte sirena",
+        "precio_oficial": 239.0,
+        "ids_candidatos": [
+          64
+        ],
+        "categorias_guardadas": [
+          "Cortos"
+        ],
+        "estado": "Candidato único por nombre y prenda"
+      },
+      {
+        "fila_oficial": 10,
+        "nombre_oficial": "Vestido blanco con perlas",
+        "precio_oficial": 319.0,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura",
+        "observacion": "La captura oficial muestra la misma miniatura en ambas filas; nombres y precios distintos. Posible duplicado sin confirmar."
+      },
+      {
+        "fila_oficial": 11,
+        "nombre_oficial": "Vestido corto blanco con capa",
+        "precio_oficial": 239.0,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura"
+      },
+      {
+        "fila_oficial": 12,
+        "nombre_oficial": "Vestido Corto Bellmet asimétrica color verde",
+        "precio_oficial": 189.0,
+        "ids_candidatos": [
+          65
+        ],
+        "categorias_guardadas": [
+          "Cortos"
+        ],
+        "estado": "Candidato único por nombre y prenda"
+      },
+      {
+        "fila_oficial": 13,
+        "nombre_oficial": "Vestido color verde terciopelo semi drapeado con manga y escote",
+        "precio_oficial": 429.0,
+        "ids_candidatos": [
+          66
+        ],
+        "categorias_guardadas": [
+          "Cortos"
+        ],
+        "estado": "Candidato único por nombre y prenda"
+      },
+      {
+        "fila_oficial": 14,
+        "nombre_oficial": "Vestido corto azul con cinturón de Aplicaciones plateado",
+        "precio_oficial": 369.0,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura"
+      },
+      {
+        "fila_oficial": 15,
+        "nombre_oficial": "Vestido drapeado verde de mandas con escote",
+        "precio_oficial": 359.0,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura"
+      },
+      {
+        "fila_oficial": 16,
+        "nombre_oficial": "Vestido corto blanco drapeado con mangas largas",
+        "precio_oficial": 389.0,
+        "ids_candidatos": [
+          67
+        ],
+        "categorias_guardadas": [
+          "Cortos"
+        ],
+        "estado": "Candidato único por nombre y prenda"
+      },
+      {
+        "fila_oficial": 17,
+        "nombre_oficial": "Vestido de cuello cuadrado de manga larga color rosado",
+        "precio_oficial": 299.0,
+        "ids_candidatos": [
+          68
+        ],
+        "categorias_guardadas": [
+          "Gala"
+        ],
+        "estado": "Candidato único por nombre y prenda",
+        "observacion": "La foto guardada muestra una falda continua casi al tobillo; no hay minifalda debajo ni cola lateral separada."
+      },
+      {
+        "fila_oficial": 18,
+        "nombre_oficial": "Vestido corto plomo  con detalle de lentejuelas y pliegue",
+        "precio_oficial": 319.0,
+        "ids_candidatos": [
+          130
+        ],
+        "categorias_guardadas": [
+          "Cortos con brillo"
+        ],
+        "estado": "Candidato único por nombre y prenda"
+      },
+      {
+        "fila_oficial": 19,
+        "nombre_oficial": "Vestido largo verde con estampado de rosas verdes",
+        "precio_oficial": 229.0,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura",
+        "observacion": "El nombre dice largo, pero no hay fotografía identificada en products.js que permita decidir su largo real."
+      },
+      {
+        "fila_oficial": 20,
+        "nombre_oficial": "Vestido drapeado azul asimétrico",
+        "precio_oficial": 389.0,
+        "ids_candidatos": [
+          69,
+          131
+        ],
+        "categorias_guardadas": [
+          "Cortos",
+          "Cortos"
+        ],
+        "estado": "Dos modelos distintos comparten este nombre",
+        "observacion": "XL-069 es celeste mini con mangas; XL-131 es azul intenso midi de escote halter. Ambos usan el mismo nombre y S/389. No fusionarlos ni contar dos veces una fila oficial."
+      },
+      {
+        "fila_oficial": 21,
+        "nombre_oficial": "Vestido corto drapeado con perlas",
+        "precio_oficial": 389.0,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura"
+      },
+      {
+        "fila_oficial": 22,
+        "nombre_oficial": "Vestido corto satín (Talla S)",
+        "precio_oficial": 179.0,
+        "ids_candidatos": [
+          84
+        ],
+        "categorias_guardadas": [
+          "Cortos"
+        ],
+        "estado": "Candidato único por nombre y prenda"
+      },
+      {
+        "fila_oficial": 23,
+        "nombre_oficial": "Vestido corto drapeado marrón con blanco",
+        "precio_oficial": 389.0,
+        "ids_candidatos": [
+          85
+        ],
+        "categorias_guardadas": [
+          "Cortos con brillo"
+        ],
+        "estado": "Candidato único por nombre y prenda"
+      },
+      {
+        "fila_oficial": 24,
+        "nombre_oficial": "Vestido crema de Gaza con detalles estrellas doradas",
+        "precio_oficial": 289.0,
+        "ids_candidatos": [
+          86
+        ],
+        "categorias_guardadas": [
+          "Cortos con brillo"
+        ],
+        "estado": "Candidato único por nombre y prenda"
+      },
+      {
+        "fila_oficial": 25,
+        "nombre_oficial": "Vestido corto Blanco de una manga",
+        "precio_oficial": 289.0,
+        "ids_candidatos": [
+          79
+        ],
+        "categorias_guardadas": [
+          "Cortos"
+        ],
+        "estado": "Candidato único por nombre y prenda"
+      },
+      {
+        "fila_oficial": 26,
+        "nombre_oficial": "Vestido azul con perlas blancas",
+        "precio_oficial": 389.0,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura"
+      },
+      {
+        "fila_oficial": 27,
+        "nombre_oficial": "Vestido corto drapeado",
+        "precio_oficial": 249.0,
+        "ids_candidatos": [
+          80
+        ],
+        "categorias_guardadas": [
+          "Cortos"
+        ],
+        "estado": "Candidato único por nombre y prenda"
+      },
+      {
+        "fila_oficial": 28,
+        "nombre_oficial": "Vestido largo marrón con detalle plateados",
+        "precio_oficial": 319.0,
+        "ids_candidatos": [
+          81
+        ],
+        "categorias_guardadas": [
+          "Gala"
+        ],
+        "estado": "Candidato único por nombre y prenda",
+        "observacion": "La foto guardada muestra una falda continua casi al tobillo; no hay minifalda debajo ni cola lateral separada."
+      },
+      {
+        "fila_oficial": 29,
+        "nombre_oficial": "Vestido corto negro con aplicaciones plateadas",
+        "precio_oficial": 289.0,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura"
+      },
+      {
+        "fila_oficial": 30,
+        "nombre_oficial": "vestido corto con escote y detalles plateados",
+        "precio_oficial": 279.0,
+        "ids_candidatos": [
+          82
+        ],
+        "categorias_guardadas": [
+          "Cortos con brillo"
+        ],
+        "estado": "Candidato único por nombre y prenda"
+      },
+      {
+        "fila_oficial": 31,
+        "nombre_oficial": "Vestido corto drapeado de perlas",
+        "precio_oficial": 319.0,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura"
+      },
+      {
+        "fila_oficial": 32,
+        "nombre_oficial": "vestido corto drapeado de mangas",
+        "precio_oficial": 379.0,
+        "ids_candidatos": [],
+        "categorias_guardadas": [],
+        "estado": "Sin asociación segura"
+      },
+      {
+        "fila_oficial": 33,
+        "nombre_oficial": "Vestido 3/4 blanco de mangas con strass plateadas.",
+        "precio_oficial": 549.0,
+        "ids_candidatos": [
+          83
+        ],
+        "categorias_guardadas": [
+          "Cortos con brillo"
+        ],
+        "estado": "Candidato único por nombre y prenda"
+      }
+    ]
+  },
+  "observaciones_visuales": [
+    "XL-068: falda continua casi al tobillo, comprobada en frente y espalda; perlas pequeñas repartidas por el frente y mangas. No es un corto sin brillo.",
+    "XL-081: falda recta continua hasta tobillo; aplicaciones plateadas en filas por corpiño y cadera. No es una minifalda con cola.",
+    "XL-106 y XL-159: las espaldas muestran falda continua hasta tobillo; sin falda mini independiente. No los traslado a Cortos.",
+    "XL-087, XL-107, XL-112, XL-136 y XL-175: diseños hasta zona baja de pantorrilla/tobillo, algunos con flecos o capas transparentes. No hay evidencia de mini debajo de cola. Además tienen brillo extendido, por lo que tampoco resuelven Cortos sin brillo.",
+    "XL-022: blanco de rosas con falda midi a pantorrilla; conserva Cortos bajo el criterio existente que incluye midi. No aparece como coincidencia en la lista oficial de 33.",
+    "XL-069 y XL-131: fotografías y siluetas distintas con el mismo nombre y precio; no son duplicados de imagen.",
+    "XL-085: dibujo brillante extendido por vestido y mangas; conservar Cortos con brillo.",
+    "XL-127: mini vino con caída lateral larga, pero el corpiño y la caída tienen brillo extendido; conservar Cortos con brillo.",
+    "XL-114: falda midi larga negra con perlas repartidas y pieza superior brillante; el nombre largo no determina por sí solo la categoría, pero no corresponde a Cortos sin brillo.",
+    "Los 21 Bandage se mantienen como familia identificada; la silueta ajustada o el largo mini no justifican pasarlos a Cortos.",
+    "XL-125 tiene falda larga crema; conserva Liquidación según autorización previa.",
+    "Nueva aclaración del usuario durante esta revisión: XL-154 debe quedar en Cortos con brillo por mostrar la pierna. Su posible extensión a otros modelos con abertura alta está pendiente; no cambia la lista de Cortos sin brillo."
+  ]
+}

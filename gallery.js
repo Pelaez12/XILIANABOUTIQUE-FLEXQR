@@ -11,7 +11,7 @@ let viewer, viewerTrigger;
 function openPhoto(trigger){
  if(!viewer){
   viewer=document.createElement('dialog');viewer.className='photo-viewer';viewer.setAttribute('aria-labelledby','photo-viewer-title');
-  viewer.innerHTML='<header><p id="photo-viewer-title">Foto del vestido</p><button type="button" data-photo-zoom aria-pressed="false">Acercar +</button><button type="button" data-photo-close aria-label="Cerrar foto ampliada">×</button></header><div class="photo-viewer-stage" tabindex="0" role="region" aria-label="Fotografía ampliada, desplazable al acercar"><img alt=""/></div><p class="photo-viewer-note">Acerca la foto y desliza para ver los detalles.</p>';
+  viewer.innerHTML='<header><p id="photo-viewer-title">Foto de la prenda</p><button type="button" data-photo-zoom aria-pressed="false">Acercar +</button><button type="button" data-photo-close aria-label="Cerrar foto ampliada">×</button></header><div class="photo-viewer-stage" tabindex="0" role="region" aria-label="Fotografía ampliada, desplazable al acercar"><img alt=""/></div><p class="photo-viewer-note">Acerca la foto y desliza para ver los detalles.</p>';
   document.body.append(viewer);
   viewer.querySelector('[data-photo-close]').addEventListener('click',()=>viewer.close());
   viewer.querySelector('[data-photo-zoom]').addEventListener('click',event=>{

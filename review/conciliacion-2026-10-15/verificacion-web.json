@@ -1,0 +1,13 @@
+{
+  "prendas": 139,
+  "fotos": 225,
+  "colecciones_generadas": {
+    "Gala": 26,
+    "Largos": 25,
+    "Cortos con brillo": 48,
+    "Cortos": 18,
+    "Bandage": 21,
+    "Liquidación": 8
+  },
+  "validacion": "Nombres, precios y fotos idénticos. Las 139 fichas y las seis colecciones coinciden con la clasificación aplicada, sin fichas duplicadas ni aberturas altas de brillo conservadas en Gala."
+}

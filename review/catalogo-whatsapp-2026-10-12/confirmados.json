@@ -6,7 +6,7 @@
       "grupo": "NV-025",
       "nombre": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
       "precio": 450,
-      "categoria": "Gala",
+      "categoria": "Largos",
       "fuente_tipo": "Confirmación del usuario",
       "evidencia": "confirmacion-usuario-N029.md"
     },
@@ -98,7 +98,7 @@
       "grupo": "NV-011",
       "nombre": "Vestido de gala largo negro con detalles en cuello y mangas",
       "precio": 449,
-      "categoria": "Gala",
+      "categoria": "Largos",
       "codigo_catalogo": "1998",
       "evidencia": "negro-cuello-detalle.png"
     },
@@ -120,14 +120,14 @@
       "grupo": "NV-014",
       "nombre": "Vestido sirena color rojo estraple de perlas",
       "precio": 549,
-      "categoria": "Gala",
+      "categoria": "Largos",
       "evidencia": "gala-31-40.png"
     },
     {
       "grupo": "NV-015",
       "nombre": "Vestido sirena largo color rojo con Bruselas",
       "precio": 449,
-      "categoria": "Gala",
+      "categoria": "Largos",
       "codigo_catalogo": "482",
       "evidencia": "rojo-bruselas-detalle.png"
     },
@@ -187,7 +187,7 @@
       "nombre": "Vestido corto negro con mangas plateadas",
       "precio": 119.5,
       "precio_regular": 239,
-      "categoria": "Cortos con brillo",
+      "categoria": "Cortos",
       "evidencia": "brillo-superior.png"
     },
     {
@@ -210,14 +210,14 @@
       "grupo": "NV-028",
       "nombre": "Vestido estilo novia blanco con pedrería plateadas y verde esmeralda",
       "precio": 849,
-      "categoria": "Gala",
+      "categoria": "Largos",
       "evidencia": "gala-31-40.png"
     },
     {
       "grupo": "NV-029",
       "nombre": "Vestido de largo gala nude con aplicaciones",
       "precio": 649,
-      "categoria": "Gala",
+      "categoria": "Largos",
       "codigo_catalogo": "1456",
       "evidencia": "nude-detalle.png"
     },
@@ -225,7 +225,7 @@
       "grupo": "NV-030",
       "nombre": "Vestido de gala color verde asimétrico con una rosa",
       "precio": 649,
-      "categoria": "Gala",
+      "categoria": "Largos",
       "evidencia": "gala-ultimos30.png"
     }
   ]

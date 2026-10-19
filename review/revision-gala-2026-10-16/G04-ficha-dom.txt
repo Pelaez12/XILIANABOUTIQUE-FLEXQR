@@ -1,0 +1,29 @@
+- contentinfo:
+  - button "Adjuntar":
+  - button "Emojis, GIF, Stickers":
+  - textbox "Escribir un mensaje para +51 930 527 248":
+    - paragraph
+  - generic: Escribe un mensaje
+  - button "Mensaje de voz":
+    - button "Mensaje de voz":
+- banner:
+  - button "Atrás":
+  - heading "Detalles" [level=2]:
+    - generic: Detalles
+  - button "Tu carrito":
+  - button "Enlace al producto":
+  - button "Menú":
+- status
+- generic: Esperando red
+- generic: Vestido Largo Color Pic Blue
+- generic: PEN 579.00
+- generic: Prendas Importadas
+- link "https://www.xilianaboutiqueoficial.com/":
+  - /url: https://www.xilianaboutiqueoficial.com/
+- generic: "770"
+- generic "Enviar mensaje a la empresa":
+  - button "Enviar mensaje a la empresa":
+    - generic: Enviar mensaje a la empresa
+- generic "Añadir al carrito":
+  - button "Añadir al carrito":
+    - generic: Añadir al carrito

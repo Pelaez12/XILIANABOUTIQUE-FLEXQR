@@ -1,0 +1,29 @@
+
+  - button "Adjuntar":
+  - button "Emojis, GIF, Stickers":
+  - textbox "Escribir un mensaje para +51 930 527 248":
+    - paragraph
+  - generic: Escribe un mensaje
+  - button "Mensaje de voz":
+    - button "Mensaje de voz":
+- banner:
+  - button "Atrás":
+  - heading "Detalles" [level=2]:
+    - generic: Detalles
+  - button "Tu carrito":
+  - button "Enlace al producto":
+  - button "Menú":
+- status
+- generic: Esperando red
+- generic: Vestido corto negro con mangas plateadas
+- text: PEN 119.50
+- deletion: PEN 239.00
+- img "⬇️"
+- text: 50% Descuento.
+- generic: "165"
+- generic "Enviar mensaje a la empresa":
+  - button "Enviar mensaje a la empresa":
+    - generic: Enviar mensaje a la empresa
+- generic "Añadir al carrito":
+  - button "Añadir al carrito":
+    - generic: Añadir al carrito

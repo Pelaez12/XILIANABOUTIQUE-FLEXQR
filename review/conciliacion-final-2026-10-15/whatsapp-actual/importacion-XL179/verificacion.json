@@ -1,0 +1,36 @@
+{
+  "revision": "conciliacion-catalogo-2026-10-15-con-XL179",
+  "prendas": 140,
+  "fotos": 227,
+  "prendas_previas_sin_cambios": 139,
+  "fotos_previas_sin_cambios": 225,
+  "totales_principales": {
+    "Gala": 32,
+    "Largos": 25,
+    "Cortos": 25,
+    "Bandage": 21,
+    "Cortos con brillo": 36,
+    "Liquidación": 1
+  },
+  "colecciones_generadas": {
+    "Gala": 32,
+    "Largos": 25,
+    "Cortos": 25,
+    "Bandage": 21,
+    "Cortos con brillo": 36,
+    "Liquidación": 8
+  },
+  "XL179": {
+    "nombre": "Vestido corto azul",
+    "precio": 329,
+    "codigo": "182",
+    "categoria": "Cortos con brillo",
+    "orden_galeria": [
+      "Frente",
+      "Espalda"
+    ],
+    "ruta": "/vestidos/179-vestido-corto-azul/"
+  },
+  "conciliacion_inventario_cerrada": false,
+  "verificado": "140 fichas generadas con nombres, categorías, precios, fotos y orden correctos; manifiesto y espejo publicados sincronizados; activos copiados idénticos; seis correcciones conservadas."
+}

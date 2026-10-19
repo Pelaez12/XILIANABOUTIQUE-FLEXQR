@@ -1,4 +1,4 @@
-"""Aplicar la prioridad Gala > largo sin reconstruir fotos ni precios."""
+"""Aplicar las categorías confirmadas sin reconstruir fotos ni precios."""
 from collections import Counter
 from pathlib import Path
 import copy
@@ -27,7 +27,8 @@ for product in products:
 assert len(before) == len(products)
 for old, new in zip(before, products):
     assert {k:v for k,v in old.items() if k != 'category'} == {k:v for k,v in new.items() if k != 'category'}
-assert not any(p['category'] == 'Largos' and re.search(r'\bgala\b', p['name'], re.I) for p in products)
+# Las palabras del nombre no sustituyen la revisión visual confirmada.
+assert all(p['category'] == categoria_por_nombre(p['name'], p['category'], p['id']) for p in products)
 
 serialized = json.dumps(products, ensure_ascii=False, indent=2)
 source.write_text(text[:match.start(1)] + serialized + text[match.end(1):], encoding='utf-8')
@@ -58,6 +59,6 @@ report_file.write_text(report, encoding='utf-8')
 baseline = json.loads(backup.read_text(encoding='utf-8'))
 initial_by_id = {p['id']:p for p in baseline}
 changes = [dict(id=p['id'], nombre=p['name'], antes=initial_by_id[p['id']]['category'], ahora=p['category']) for p in products if p['id'] in initial_by_id and initial_by_id[p['id']]['category'] != p['category']]
-summary = dict(fecha='2026-10-12', regla='La palabra gala tiene prioridad sobre largo. Se conservan Bandage y Liquidación.', cambios=changes, totales=dict(Counter(p['category'] for p in products)), total_prendas=len(products), total_fotos=sum(len(p['photos']) for p in products), verificacion='Solo cambió la categoría; nombres, precios, fotografías, orden de galerías e identificadores se conservaron.')
+summary = dict(fecha='2026-10-12', regla='Se aplica categorias-confirmadas.json. La clasificación visual confirmada prevalece sobre las palabras del nombre.', cambios=changes, totales=dict(Counter(p['category'] for p in products)), total_prendas=len(products), total_fotos=sum(len(p['photos']) for p in products), verificacion='Solo cambió la categoría; nombres, precios, fotografías, orden de galerías e identificadores se conservaron.')
 (audit_dir / 'resultado.json').write_text(json.dumps(summary, ensure_ascii=False, indent=2), encoding='utf-8')
 print(json.dumps(dict(cambios=len(changes), totales=summary['totales'], prendas=summary['total_prendas'], fotos=summary['total_fotos']), ensure_ascii=False))

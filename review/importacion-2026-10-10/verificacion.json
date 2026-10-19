@@ -257,7 +257,7 @@
       "nombre_catalogo": "Vestido de gala largo negro con detalles en cuello y mangas",
       "nombre_web": "Vestido de gala largo negro con detalles en cuello y mangas",
       "precio": 449,
-      "categoria": "Gala",
+      "categoria": "Largos",
       "productId": 159
     },
     {
@@ -323,7 +323,7 @@
       "nombre_catalogo": "Vestido sirena color rojo estraple de perlas",
       "nombre_web": "Vestido sirena color rojo estraple de perlas",
       "precio": 549,
-      "categoria": "Gala",
+      "categoria": "Largos",
       "productId": 162
     },
     {
@@ -345,7 +345,7 @@
       "nombre_catalogo": "Vestido sirena largo color rojo con Bruselas",
       "nombre_web": "Vestido sirena largo color rojo con Bruselas",
       "precio": 449,
-      "categoria": "Gala",
+      "categoria": "Largos",
       "productId": 163
     },
     {
@@ -508,7 +508,7 @@
       "nombre_catalogo": "Vestido corto negro con mangas plateadas",
       "nombre_web": "Vestido corto negro con mangas plateadas",
       "precio": 119.5,
-      "categoria": "Cortos con brillo",
+      "categoria": "Cortos",
       "productId": 172
     },
     {
@@ -525,7 +525,7 @@
       "nombre_catalogo": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
       "nombre_web": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
       "precio": 450,
-      "categoria": "Gala",
+      "categoria": "Largos",
       "productId": 173
     },
     {
@@ -576,7 +576,7 @@
       "nombre_catalogo": "Vestido estilo novia blanco con pedrería plateadas y verde esmeralda",
       "nombre_web": "Vestido estilo novia blanco con pedrería plateadas y verde esmeralda",
       "precio": 849,
-      "categoria": "Gala",
+      "categoria": "Largos",
       "productId": 176
     },
     {
@@ -593,7 +593,7 @@
       "nombre_catalogo": "Vestido de largo gala nude con aplicaciones",
       "nombre_web": "Vestido de largo gala nude con aplicaciones",
       "precio": 649,
-      "categoria": "Gala",
+      "categoria": "Largos",
       "productId": 177
     },
     {
@@ -610,7 +610,7 @@
       "nombre_catalogo": "Vestido de gala color verde asimétrico con una rosa",
       "nombre_web": "Vestido de gala color verde asimétrico con una rosa",
       "precio": 649,
-      "categoria": "Gala",
+      "categoria": "Largos",
       "productId": 178
     }
   ],

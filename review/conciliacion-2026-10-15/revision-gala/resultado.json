@@ -1,0 +1,27 @@
+{
+  "fecha": "2026-10-15",
+  "categoria_revisada": "Gala",
+  "actuales_revisados": 35,
+  "gala_por_longitud_y_brillo_sujetos_alcance_aberturas": [59,61,62,81,87,89,92,94,95,97,99,101,103,104,105,108,109,110,111,112,136,137,140,142,158,160,161,164,165,175],
+  "traslados_recomendados": [
+    {"id":90,"destino":"Largos","motivo":"Vestido al suelo liso con pequeñas perlas concentradas alrededor de escote/busto; falda, mangas y espalda lisas."},
+    {"id":141,"destino":"Largos","motivo":"Vestido al suelo con cola, falda lisa y panel floral de encaje localizado en busto; sin superficie brillante extensa visible."},
+    {"id":154,"destino":"Cortos con brillo","motivo":"Instrucción explícita nueva del usuario con foto de este modelo: pierna visible = Cortos con brillo.","confirmado_usuario":true}
+  ],
+  "ambiguos_actuales": [
+    {"id":68,"recomendacion_provisional":"Gala","longitud":"Maxi al tobillo confirmado en espalda; no es corto claro.","duda":"Pequeños grupos de perlas distribuidos por frente y mangas; si se consideran detalle por su escasa densidad, iría a Largos."},
+    {"id":107,"recomendacion_provisional":"Gala","longitud":"Maxi al tobillo confirmado en espalda.","duda":"Panel floral amplio de falda puede ser lentejuela/pedrería o bordado de hilo; si es mate, iría a Largos."}
+  ],
+  "candidatos_fuera": [
+    {"id":174,"categoria_actual":"Largos","recomendacion_provisional":"Largos","duda":"Tejido negro parece lamé/plissé metalizado; puede ser únicamente lustre de tela lisa. Foto insuficiente para traslado confirmado a Gala."}
+  ],
+  "aberturas_altas_pendientes_alcance_usuario": [89,101,103,137,140,160,161,164],
+  "prioridad_similar_154": [101],
+  "transparencia_con_forro_corto_sin_abertura_similar": [110],
+  "descartado_como_abertura_alta": [99],
+  "cortos_confirmados_usuario_en_gala_actual": [154],
+  "gala_propuestos_sin_resolver_material_ni_alcance_aberturas": [59,61,62,68,81,87,89,92,94,95,97,99,101,103,104,105,107,108,109,110,111,112,136,137,140,142,158,160,161,164,165,175],
+  "gala_propuestos_cantidad_antes_de_resolver_aberturas": 32,
+  "liquidacion_conservar": [125],
+  "catalogo_modificado": false
+}

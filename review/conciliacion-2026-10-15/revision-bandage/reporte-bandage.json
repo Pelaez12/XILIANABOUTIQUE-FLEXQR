@@ -1,0 +1,431 @@
+{
+  "fecha": "2026-10-15",
+  "alcance": "Revisión independiente de Bandage. Vistas las 139 fotos principales en las láminas de auditoría, las 86 adicionales y las nuevas láminas grandes de Gala/Largos. Las categorías vigentes se toman de products.js, no de las etiquetas antiguas de las láminas.",
+  "criterio": "Bandage requiere identificación de catálogo o usuario. Una silueta ajustada no prueba el tejido ni la categoría.",
+  "resultado": "21 prendas Bandage publicadas válidas. Ningún producto de otra categoría tiene evidencia suficiente para convertirse en el número 22. Hay tres registros Bandage adicionales documentados sin asociación segura de foto original.",
+  "cantidad_publicada": 21,
+  "cantidad_fotos_bandage": 30,
+  "ids_validos": [
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    14,
+    115,
+    116,
+    124,
+    126,
+    128,
+    129,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148
+  ],
+  "prendas_validas": [
+    {
+      "id": 70,
+      "nombre": "Bandage dress nude con blanco",
+      "precio_pen": 389,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-070/01-R154.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 154,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "nombre": "Vestido Bandage Dorado",
+      "precio_pen": 449,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-071/01-R126.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 126,
+          "sourceAttachment": null
+        },
+        {
+          "src": "./images/productos-reales/XL-071/02-R127.jpeg",
+          "vista": "Espalda",
+          "sourceIndex": 127,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "nombre": "Vestido Bandage negro con aplicaciones plateadas",
+      "precio_pen": 389,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-072/01-R150.jpeg",
+          "vista": "Frente y espalda",
+          "sourceIndex": 150,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "nombre": "Vestido Bandage rojo",
+      "precio_pen": 389,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-073/01-R107.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 107,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "nombre": "Vestido Bandage negro con rosado y perlas rosadas",
+      "precio_pen": 679,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-074/01-R060.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 60,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "nombre": "Vestido Bandage negro con lazo blanco",
+      "precio_pen": 389,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-075/01-R026.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 26,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "nombre": "Vestido Bandage Amarillo — mini",
+      "precio_pen": 389,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-076/01-R149.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 149,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "nombre": "Vestido Bandage Amarillo — midi",
+      "precio_pen": 429,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-077/01-R055.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 55,
+          "sourceAttachment": null
+        },
+        {
+          "src": "./images/productos-reales/XL-077/03-R148.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 148,
+          "sourceAttachment": null
+        },
+        {
+          "src": "./images/productos-reales/XL-077/02-R059.jpeg",
+          "vista": "Espalda",
+          "sourceIndex": 59,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "nombre": "Vestido bandage verde con rayas",
+      "precio_pen": 379.0,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-014/01-R152.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 152,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "nombre": "Conjunto Bandage",
+      "precio_pen": 349,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-115/01-R108.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 108,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "nombre": "Vestido Bandage Amarillo",
+      "precio_pen": 389,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-116/01-R057.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 57,
+          "sourceAttachment": null
+        },
+        {
+          "src": "./images/productos-reales/XL-116/02-R058.jpeg",
+          "vista": "Espalda",
+          "sourceIndex": 58,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "nombre": "Vestido Bandage corto negro con aplicaciones plateadas",
+      "precio_pen": 389,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-124/01-R088.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 88,
+          "sourceAttachment": null
+        },
+        {
+          "src": "./images/productos-reales/XL-124/02-R089.jpeg",
+          "vista": "Espalda",
+          "sourceIndex": 89,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "nombre": "Vestido Bandage Negro/Blanco",
+      "precio_pen": 449,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-126/01-R146.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 146,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "nombre": "Vestido Bandage Rosado",
+      "precio_pen": 419,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-128/01-R144.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 144,
+          "sourceAttachment": null
+        },
+        {
+          "src": "./images/productos-reales/XL-128/02-R019.jpeg",
+          "vista": "Espalda",
+          "sourceIndex": 19,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "nombre": "Vestido Bandage dorado de flecos",
+      "precio_pen": 389,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-129/01-R143.jpeg",
+          "vista": "Frente",
+          "sourceIndex": 143,
+          "sourceAttachment": null
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "nombre": "Vestido Bandage blanco y crema de perlas",
+      "precio_pen": 549,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-143/01-N017.jpeg",
+          "vista": "Frente",
+          "sourceIndex": null,
+          "sourceAttachment": "review/importacion-2026-10-08/N017.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "nombre": "VESTIDO BANDAGE Caqui ceñido",
+      "precio_pen": 379,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-144/01-N020.jpeg",
+          "vista": "Frente",
+          "sourceIndex": null,
+          "sourceAttachment": "review/importacion-2026-10-08/N020.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "nombre": "Bandage Dress negro con pedrería",
+      "precio_pen": 349,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-145/01-N022.jpeg",
+          "vista": "Frente",
+          "sourceIndex": null,
+          "sourceAttachment": "review/importacion-2026-10-08/N022.jpeg"
+        },
+        {
+          "src": "./images/productos-reales/XL-145/02-N023.jpeg",
+          "vista": "Espalda",
+          "sourceIndex": null,
+          "sourceAttachment": "review/importacion-2026-10-08/N023.jpeg"
+        },
+        {
+          "src": "./images/productos-reales/XL-145/03-N024.jpeg",
+          "vista": "Frente · detalle",
+          "sourceIndex": null,
+          "sourceAttachment": "review/importacion-2026-10-08/N024.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "nombre": "Bandage Dress de colores",
+      "precio_pen": 399,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-146/01-N025.jpeg",
+          "vista": "Frente",
+          "sourceIndex": null,
+          "sourceAttachment": "review/importacion-2026-10-08/N025.jpeg"
+        },
+        {
+          "src": "./images/productos-reales/XL-146/02-N026.jpeg",
+          "vista": "Espalda",
+          "sourceIndex": null,
+          "sourceAttachment": "review/importacion-2026-10-08/N026.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "nombre": "Vestido Bandage Blanco/Negro",
+      "precio_pen": 144.5,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-147/01-N027.jpeg",
+          "vista": "Frente",
+          "sourceIndex": null,
+          "sourceAttachment": "review/importacion-2026-10-08/N027.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "nombre": "Vestido Bandage Asimétrico",
+      "precio_pen": 389,
+      "fotos": [
+        {
+          "src": "./images/productos-reales/XL-148/01-N028.jpeg",
+          "vista": "Frente",
+          "sourceIndex": null,
+          "sourceAttachment": "review/importacion-2026-10-08/N028.jpeg"
+        }
+      ]
+    }
+  ],
+  "faltantes_de_matching": [
+    {
+      "nombre": "Vestido largo Bandage color Rojo",
+      "precio_pen": 549,
+      "estado": "Registro visual distinto de XL-073; sin asociación segura a las 225 fotos actuales.",
+      "fuente_texto": [
+        "review/catalogo-whatsapp-2026-10-12/largos-completo.json, entrada 13",
+        "review/catalogo-verificado-2026-10-06.json, registros: mismo nombre"
+      ],
+      "fuente_visual": "review/grabaciones-2026-10-06/video-1.jpg, segundo panel, fila debajo del animal print",
+      "recorte_inspeccion": "review/conciliacion-2026-10-15/revision-bandage/fuente-rojo-largo.png",
+      "diferencias": "Miniatura de vestido largo rojo asimétrico con abertura y una pose de brazo elevado. XL-073 es midi rojo de tirantes y escote profundo, en una pose con los dos brazos bajados; su propia miniatura aparece en video-4 y bandage-precios a S/389. Los rojos largos actuales tienen otros escotes, mangas o decoración.",
+      "id_asociado_seguro": null,
+      "accion_recomendada": "Mantener como pendiente de foto original identificada. No reemplazar ni renombrar XL-073."
+    },
+    {
+      "nombre": "VESTIDO BANDAGE Rojo corto de pedrería plateada",
+      "precio_pen": 379,
+      "estado": "Nombre, precio y miniatura constan en video-4; sin asociación segura a una foto actual.",
+      "fuente_texto": [
+        "review/catalogo-verificado-2026-10-06.json, registros: mismo nombre"
+      ],
+      "fuente_visual": "review/grabaciones-2026-10-06/video-4.jpg, cuarto panel, tercera fila",
+      "recorte_inspeccion": "review/conciliacion-2026-10-15/revision-bandage/fuente-rojo-corto.png",
+      "diferencias": "Miniatura de vestido rojo corto con parte superior recta y detalles plateados, en fondo claro. No coincide visualmente con XL-049 (lentejuelas, una manga, foto de boutique), XL-152 (copas plateadas y cadenas, modelo pelirroja) o XL-166 (lentejuelas, una manga corta caída y encuadre sin cabeza). La miniatura no basta para identificar su archivo original.",
+      "id_asociado_seguro": null,
+      "accion_recomendada": "Mantener como pendiente de asociación/foto. No mover XL-049, XL-152 o XL-166 por parecido de color."
+    },
+    {
+      "nombre": "Vestido Bandage Negro/Amarillo",
+      "precio_pen": 449,
+      "estado": "Nombre, precio y miniatura documentados el 12 de octubre; sin foto actual asociable.",
+      "fuente_texto": [
+        "review/catalogo-whatsapp-2026-10-12/todos-articulos.json, i=152"
+      ],
+      "fuente_visual": "review/catalogo-whatsapp-2026-10-12/todos-final-panel.png, cuarta fila",
+      "recorte_inspeccion": null,
+      "diferencias": "Miniatura negra de mangas largas con líneas amarillas verticales y geométricas sobre fondo blanco. XL-126 es un conjunto visual negro/blanco de top strapless y parte inferior blanca; XL-147 es un vestido negro/blanco sin mangas. Ninguno comparte el diseño de la miniatura negro/amarillo.",
+      "id_asociado_seguro": null,
+      "accion_recomendada": "Mantener pendiente de foto original identificada. No tratar como alias de Negro/Blanco."
+    }
+  ],
+  "duplicados": {
+    "bandage_publicados": "No se observó un duplicado visual suficiente para eliminar un registro.",
+    "amarillos": "XL-076 mini y XL-077 midi son modelos distintos, documentados con sus propias miniaturas y precios 389/429. XL-116 tiene confirmación explícita del usuario para R057/R058; se mantiene como tercer amarillo separado.",
+    "negros_plateados": "XL-072 (R150, asimétrico de un hombro) y XL-124 (R088/R089, bustier y tirantes) son distintos.",
+    "negro_blanco": "XL-126 y XL-147 son diseños distintos; ninguno es la miniatura negro/amarillo.",
+    "conjunto": "XL-115 es un conjunto confirmado expresamente por el usuario. No se divide para aumentar el conteo."
+  },
+  "accesorios": [
+    {
+      "nombre": "Falda Bandage Dress cruzada palo rosa, negro y melón",
+      "precio_pen": 219,
+      "fuente": "review/grabaciones-2026-10-06/video-4.jpg y bandage-precios.png; catalogo-verificado-2026-10-06.json solo_vestido=false",
+      "decision": "Registro de falda, no prueba de vestido adicional ni de un nuevo conjunto. No contarlo automáticamente como Bandage 22."
+    }
+  ],
+  "candidatos_ajustados_sin_evidencia_bandage": [
+    65,
+    67,
+    68,
+    80,
+    84,
+    119,
+    121,
+    122,
+    157
+  ],
+  "decision_candidatos": "Se mantienen en sus categorías actuales. Nombre, silueta, precio o drapeado no prueban Bandage; no se obtuvo asociación con una miniatura Bandage pendiente.",
+  "limites": "No se establece qué modelo quiso incluir el encargado en su cifra de 22. Las miniaturas sí distinguen tres registros pendientes, pero no proporcionan una foto original recuperada ni una asociación segura a un ID actual. No inferir totales de vestidos a partir de todos-articulos.json, que incluye accesorios y tops.",
+  "archivos_compartidos_modificados": false
+}

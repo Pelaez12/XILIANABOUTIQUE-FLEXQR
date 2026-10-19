@@ -1,0 +1,464 @@
+{
+  "fecha": "2026-10-15",
+  "criterio": "Cruce comercial de nombres, precios y miniaturas oficiales. La clasificación visual general no sustituye una coincidencia de prenda.",
+  "recomendaciones_confirmadas": [
+    {
+      "id": 68,
+      "de": "Largos",
+      "a": "Cortos",
+      "motivo": "Nombre exacto y miniatura coinciden con fila17 de la colección oficial Cortos. Fotografías R065/R066/R164 y precio S/299 coinciden. La falda casi al tobillo no invalida la ubicación comercial usada por el propietario."
+    },
+    {
+      "id": 81,
+      "de": "Largos",
+      "a": "Cortos",
+      "motivo": "Nombre exacto de fila28 y confirmaciones-usuario.json R140 clasifican explícitamente Cortos sin brillo, S/319. Es una foto real asociada; no debe cambiar por la palabra largo aislada."
+    }
+  ],
+  "ids_asociados_lista_oficial": [
+    10,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    130,
+    131,
+    180,
+    181
+  ],
+  "filas_asociadas": 19,
+  "filas_no_asociadas": [
+    4,
+    5,
+    6,
+    8,
+    10,
+    11,
+    14,
+    15,
+    19,
+    21,
+    26,
+    29,
+    31,
+    32
+  ],
+  "prendas_actuales_cortos_fuera_de_lista_oficial": [
+    22,
+    54,
+    69,
+    114,
+    118,
+    121,
+    122,
+    172
+  ],
+  "cantidad_cortos_actual": 27,
+  "cantidad_cortos_tras_restaurar_68_81": 27,
+  "faltantes_para_meta30_tras_restaurar": 3,
+  "filas": [
+    {
+      "fila_oficial": 1,
+      "nombre_oficial": "Vestido corto con mangas y ajustado color azul con estampado floral",
+      "precio_oficial": 68.7,
+      "ids_candidatos": [
+        10
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 2,
+      "nombre_oficial": "Vestido corto satín estampado",
+      "precio_oficial": 86.7,
+      "ids_candidatos": [
+        180
+      ],
+      "estado": "Coincidencia visual y ficha actual confirmadas; incorporada al catálogo web",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-satin8670-ficha.png",
+      "codigo_catalogo": "796"
+    },
+    {
+      "fila_oficial": 3,
+      "nombre_oficial": "Vestido corto con volantes de cuello redondo",
+      "precio_oficial": 115.6,
+      "ids_candidatos": [
+        181
+      ],
+      "estado": "Coincidencia visual y ficha actual confirmadas; incorporada al catálogo web",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-volantes11560-ficha.png",
+      "codigo_catalogo": "1537"
+    },
+    {
+      "fila_oficial": 4,
+      "nombre_oficial": "Vestido corto licrado azulVestido corto azul con botones de tirantes",
+      "precio_oficial": 249.0,
+      "ids_candidatos": [],
+      "estado": "Sin asociación segura",
+      "categorias_actuales": [],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 5,
+      "nombre_oficial": "Vestido lila en ribVestido corto lila en rib con manga larga de escote cruzado y perlitas",
+      "precio_oficial": 289.0,
+      "ids_candidatos": [],
+      "estado": "Sin asociación segura",
+      "categorias_actuales": [],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 6,
+      "nombre_oficial": "Vestido blanco mini elegante con perlas",
+      "precio_oficial": 329.0,
+      "ids_candidatos": [],
+      "estado": "Sin asociación segura",
+      "observacion": "La captura oficial muestra la misma miniatura en ambas filas; nombres y precios distintos. Posible duplicado sin confirmar.",
+      "categorias_actuales": [],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 7,
+      "nombre_oficial": "Vestido corto cuello diagonal, plisado y liso",
+      "precio_oficial": 319.0,
+      "ids_candidatos": [
+        63
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 8,
+      "nombre_oficial": "Vestido corto verde agua con tirantes",
+      "precio_oficial": 299.0,
+      "ids_candidatos": [],
+      "estado": "Sin asociación segura",
+      "categorias_actuales": [],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 9,
+      "nombre_oficial": "Vestido corto celeste con corte sirena",
+      "precio_oficial": 239.0,
+      "ids_candidatos": [
+        64
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 10,
+      "nombre_oficial": "Vestido blanco con perlas",
+      "precio_oficial": 319.0,
+      "ids_candidatos": [],
+      "estado": "Sin asociación segura",
+      "observacion": "La captura oficial muestra la misma miniatura en ambas filas; nombres y precios distintos. Posible duplicado sin confirmar.",
+      "categorias_actuales": [],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 11,
+      "nombre_oficial": "Vestido corto blanco con capa",
+      "precio_oficial": 239.0,
+      "ids_candidatos": [],
+      "estado": "Sin asociación segura",
+      "categorias_actuales": [],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 12,
+      "nombre_oficial": "Vestido Corto Bellmet asimétrica color verde",
+      "precio_oficial": 189.0,
+      "ids_candidatos": [
+        65
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 13,
+      "nombre_oficial": "Vestido color verde terciopelo semi drapeado con manga y escote",
+      "precio_oficial": 429.0,
+      "ids_candidatos": [
+        66
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 14,
+      "nombre_oficial": "Vestido corto azul con cinturón de Aplicaciones plateado",
+      "precio_oficial": 369.0,
+      "ids_candidatos": [],
+      "estado": "Sin asociación segura",
+      "categorias_actuales": [],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 15,
+      "nombre_oficial": "Vestido drapeado verde de mandas con escote",
+      "precio_oficial": 359.0,
+      "ids_candidatos": [],
+      "estado": "Sin asociación segura",
+      "categorias_actuales": [],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 16,
+      "nombre_oficial": "Vestido corto blanco drapeado con mangas largas",
+      "precio_oficial": 389.0,
+      "ids_candidatos": [
+        67
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 17,
+      "nombre_oficial": "Vestido de cuello cuadrado de manga larga color rosado",
+      "precio_oficial": 299.0,
+      "ids_candidatos": [
+        68
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "observacion": "La foto guardada muestra una falda continua casi al tobillo; no hay minifalda debajo ni cola lateral separada.",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 18,
+      "nombre_oficial": "Vestido corto plomo  con detalle de lentejuelas y pliegue",
+      "precio_oficial": 319.0,
+      "ids_candidatos": [
+        130
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 19,
+      "nombre_oficial": "Vestido largo verde con estampado de rosas verdes",
+      "precio_oficial": 229.0,
+      "ids_candidatos": [],
+      "estado": "Sin asociación segura",
+      "observacion": "El nombre dice largo, pero no hay fotografía identificada en products.js que permita decidir su largo real.",
+      "categorias_actuales": [],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 20,
+      "nombre_oficial": "Vestido drapeado azul asimétrico",
+      "precio_oficial": 389.0,
+      "ids_candidatos": [
+        131
+      ],
+      "estado": "Coincidencia visual resuelta: la miniatura oficial es XL-131",
+      "observacion": "Captura cortos-precios.png y video F107 muestran escote halter y azul intenso, iguales a XL-131. XL-069 tiene mangas amplias, escote V y azul celeste; es otra prenda. El nombre y precio de XL-069 requieren otra referencia.",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "review/grabaciones-2026-10-06/cortos-precios.png; review/video-catalogo-2026-10-08/frames/F106.jpg–F110.jpg"
+    },
+    {
+      "fila_oficial": 21,
+      "nombre_oficial": "Vestido corto drapeado con perlas",
+      "precio_oficial": 389.0,
+      "ids_candidatos": [],
+      "estado": "Sin asociación segura",
+      "categorias_actuales": [],
+      "evidencia_visual": "Asociaciones de fotos recibidas en confirmaciones-usuario.json. No hay captura completa legible de las filas 21–33 en los dos PNG cortos-superior/inferior de octubre12."
+    },
+    {
+      "fila_oficial": 22,
+      "nombre_oficial": "Vestido corto satín (Talla S)",
+      "precio_oficial": 179.0,
+      "ids_candidatos": [
+        84
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "Asociaciones de fotos recibidas en confirmaciones-usuario.json. No hay captura completa legible de las filas 21–33 en los dos PNG cortos-superior/inferior de octubre12."
+    },
+    {
+      "fila_oficial": 23,
+      "nombre_oficial": "Vestido corto drapeado marrón con blanco",
+      "precio_oficial": 389.0,
+      "ids_candidatos": [
+        85
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "Asociaciones de fotos recibidas en confirmaciones-usuario.json. No hay captura completa legible de las filas 21–33 en los dos PNG cortos-superior/inferior de octubre12."
+    },
+    {
+      "fila_oficial": 24,
+      "nombre_oficial": "Vestido crema de Gaza con detalles estrellas doradas",
+      "precio_oficial": 289.0,
+      "ids_candidatos": [
+        86
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "Asociaciones de fotos recibidas en confirmaciones-usuario.json. No hay captura completa legible de las filas 21–33 en los dos PNG cortos-superior/inferior de octubre12."
+    },
+    {
+      "fila_oficial": 25,
+      "nombre_oficial": "Vestido corto Blanco de una manga",
+      "precio_oficial": 289.0,
+      "ids_candidatos": [
+        79
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "Asociaciones de fotos recibidas en confirmaciones-usuario.json. No hay captura completa legible de las filas 21–33 en los dos PNG cortos-superior/inferior de octubre12."
+    },
+    {
+      "fila_oficial": 26,
+      "nombre_oficial": "Vestido azul con perlas blancas",
+      "precio_oficial": 389.0,
+      "ids_candidatos": [],
+      "estado": "Sin asociación segura",
+      "categorias_actuales": [],
+      "evidencia_visual": "Asociaciones de fotos recibidas en confirmaciones-usuario.json. No hay captura completa legible de las filas 21–33 en los dos PNG cortos-superior/inferior de octubre12."
+    },
+    {
+      "fila_oficial": 27,
+      "nombre_oficial": "Vestido corto drapeado",
+      "precio_oficial": 249.0,
+      "ids_candidatos": [
+        80
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "Asociaciones de fotos recibidas en confirmaciones-usuario.json. No hay captura completa legible de las filas 21–33 en los dos PNG cortos-superior/inferior de octubre12."
+    },
+    {
+      "fila_oficial": 28,
+      "nombre_oficial": "Vestido largo marrón con detalle plateados",
+      "precio_oficial": 319.0,
+      "ids_candidatos": [
+        81
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "observacion": "La foto guardada muestra una falda continua casi al tobillo; no hay minifalda debajo ni cola lateral separada.",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "Asociaciones de fotos recibidas en confirmaciones-usuario.json. No hay captura completa legible de las filas 21–33 en los dos PNG cortos-superior/inferior de octubre12."
+    },
+    {
+      "fila_oficial": 29,
+      "nombre_oficial": "Vestido corto negro con aplicaciones plateadas",
+      "precio_oficial": 289.0,
+      "ids_candidatos": [],
+      "estado": "Sin asociación segura",
+      "categorias_actuales": [],
+      "evidencia_visual": "Asociaciones de fotos recibidas en confirmaciones-usuario.json. No hay captura completa legible de las filas 21–33 en los dos PNG cortos-superior/inferior de octubre12."
+    },
+    {
+      "fila_oficial": 30,
+      "nombre_oficial": "vestido corto con escote y detalles plateados",
+      "precio_oficial": 279.0,
+      "ids_candidatos": [
+        82
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "Asociaciones de fotos recibidas en confirmaciones-usuario.json. No hay captura completa legible de las filas 21–33 en los dos PNG cortos-superior/inferior de octubre12."
+    },
+    {
+      "fila_oficial": 31,
+      "nombre_oficial": "Vestido corto drapeado de perlas",
+      "precio_oficial": 319.0,
+      "ids_candidatos": [],
+      "estado": "Sin asociación segura",
+      "categorias_actuales": [],
+      "evidencia_visual": "Asociaciones de fotos recibidas en confirmaciones-usuario.json. No hay captura completa legible de las filas 21–33 en los dos PNG cortos-superior/inferior de octubre12."
+    },
+    {
+      "fila_oficial": 32,
+      "nombre_oficial": "vestido corto drapeado de mangas",
+      "precio_oficial": 379.0,
+      "ids_candidatos": [],
+      "estado": "Sin asociación segura",
+      "categorias_actuales": [],
+      "evidencia_visual": "Asociaciones de fotos recibidas en confirmaciones-usuario.json. No hay captura completa legible de las filas 21–33 en los dos PNG cortos-superior/inferior de octubre12."
+    },
+    {
+      "fila_oficial": 33,
+      "nombre_oficial": "Vestido 3/4 blanco de mangas con strass plateadas.",
+      "precio_oficial": 549.0,
+      "ids_candidatos": [
+        83
+      ],
+      "estado": "Candidato único por nombre y prenda",
+      "categorias_actuales": [
+        "Cortos"
+      ],
+      "evidencia_visual": "Asociaciones de fotos recibidas en confirmaciones-usuario.json. No hay captura completa legible de las filas 21–33 en los dos PNG cortos-superior/inferior de octubre12."
+    }
+  ],
+  "advertencias_fuente": [
+    "cortos-superior.png y cortos-inferior.png de octubre12 presentan los mismos primeros10 artículos. No verifican las miniaturas de las33 filas.",
+    "Filas6y10: misma miniatura blanca con perlas, dos nombres y precios diferentes S/329 y S/319; posible duplicado de catálogo sin confirmar. No crear dos prendas usando la misma foto.",
+    "Los14 registros sin asociación no equivalen a14 prendas nuevas seguras: una pareja parece duplicada y falta conocer el inventario vigente del dueño.",
+    "XL-069 y XL-131 son prendas distintas. La ficha oficial Vestido drapeado azul asimétrico corresponde visualmente a131; no fusionar69con131.",
+    "No hay tres candidatos adicionales de Cortos demostrados entre las139 fotografías. Las miniaturas oficiales de azul con botones, lila rib, blanco perlas, verde agua tirantes, blanco capa, azul cinturón, verde escote y verde rosas son diferentes a los modelos publicados."
+  ],
+  "referencias_actuales_recuperadas": [
+    180,
+    181
+  ],
+  "aclaracion_cantidades": "La meta de 30 se refiere a la colección comercial WhatsApp indicada por el usuario. Las 14 referencias históricas sin foto no representan 14 unidades de stock físico faltantes ni la diferencia neta de tres modelos web."
+}

@@ -1,0 +1,114 @@
+{
+  "fecha": "2026-10-15",
+  "revision": "conciliacion-catalogo-2026-10-15-con-XL179-181",
+  "total_prendas": 142,
+  "total_fotos": 230,
+  "totales": {
+    "Gala": 32,
+    "Largos": 25,
+    "Cortos": 27,
+    "Bandage": 21,
+    "Cortos con brillo": 36,
+    "Liquidación": 1
+  },
+  "cambios": [
+    {
+      "id": 62,
+      "nombre": "Vestido largo corte sirena negro con lazo y mangas",
+      "antes": "Largos",
+      "ahora": "Gala",
+      "motivo": "Nombre y miniatura del vestido negro con lazo rosa en Gala Dresses, fila 19 del listado guardado. Se conserva su clasificación comercial de Gala."
+    },
+    {
+      "id": 68,
+      "nombre": "Vestido de cuello cuadrado de manga larga color rosado",
+      "antes": "Largos",
+      "ahora": "Cortos",
+      "motivo": "La ficha de cuello cuadrado rosa, S/299, figura expresamente en la colección comercial Cortos, fila 17. Nombre, precio y fotografías se conservan."
+    },
+    {
+      "id": 81,
+      "nombre": "Vestido largo marrón con detalle plateados",
+      "antes": "Largos",
+      "ahora": "Cortos",
+      "motivo": "La ficha marrón con aplicaciones plateadas, S/319, figura expresamente en la colección comercial Cortos, fila 28, aunque el nombre incluya largo."
+    },
+    {
+      "id": 90,
+      "nombre": "Vestido de gala gamusa color guinda con perlas",
+      "antes": "Largos",
+      "ahora": "Gala",
+      "motivo": "Nombre explícito de gala, miniatura guinda con perlas y S/589 en Gala Dresses, fila 25. Frente y espalda confirman el mismo vestido formal largo."
+    },
+    {
+      "id": 101,
+      "nombre": "Vestido de gala rojo con aplicaciones plateadas",
+      "antes": "Largos",
+      "ahora": "Gala",
+      "motivo": "Nombre explícito de gala, miniatura roja con bandas plateadas y S/349 en Gala Dresses, fila 39. La abertura alta no cambia la longitud principal."
+    },
+    {
+      "id": 107,
+      "nombre": "Vestido de gala de lentejuelas · modelo plomo",
+      "antes": "Largos",
+      "ahora": "Gala",
+      "motivo": "La referencia histórica GALA-CAPTURA-R112 vincula las fotos R112/R116, el nombre modelo plomo y S/529 a Gala. Se conserva separado de XL-175, un diseño distinto con nombre base genérico."
+    }
+  ],
+  "metas_usuario": {
+    "Largos": 25,
+    "Cortos con brillo": 43,
+    "Cortos": 30
+  },
+  "diferencias_pendientes": {
+    "Largos": 0,
+    "Cortos con brillo": 7,
+    "Cortos": 3
+  },
+  "conciliacion_inventario_cerrada": false,
+  "conservacion": "Se mantienen las seis correcciones de categoría. Las 140 prendas anteriores a XL-180–181 conservan todos sus campos y las 227 fotos. Desde el inicio de esta conciliación se recuperaron tres referencias reales de WhatsApp: XL-179 con frente y espalda, XL-180 con una composición frontal y XL-181 con frente y espalda.",
+  "evidencia": "gala-largos/REPORTE.md y gala-largos/matriz.json",
+  "pendientes": [
+    "Cortos con brillo: diferencia neta de siete entre 36 web y 43 indicados; cuatro referencias concretas de la lista de 43 siguen sin foto original asociada. No equivalen a stock faltante.",
+    "Cortos: diferencia neta de tres entre 27 web y 30 indicados; catorce filas de la lista histórica de 33 siguen sin foto asociada. Hay modelos web confirmados fuera de esa lista y un posible duplicado blanco con perlas.",
+    "Bandage conserva 21 modelos; el total histórico indicado fue 22.",
+    "XL-069 y XL-131 comparten nombre y precio pero son prendas distintas; la miniatura oficial Vestido drapeado azul asimétrico corresponde a XL-131. No fusionarlos ni cambiar el precio confirmado de XL-069 sin otra referencia.",
+    "XL-107 y XL-175 comparten nombre base y precio pero muestran modelos diferentes; no fusionarlos."
+  ],
+  "altas": [
+    {
+      "id": 179,
+      "nombre": "Vestido corto azul",
+      "categoria": "Cortos con brillo",
+      "precio": 329,
+      "codigo_catalogo": "182",
+      "fotos": 2,
+      "evidencia": "review/conciliacion-final-2026-10-15/whatsapp-actual/brillo-azul329-ficha-completa.png"
+    },
+    {
+      "id": 180,
+      "nombre": "Vestido corto satín estampado",
+      "categoria": "Cortos",
+      "precio": 86.7,
+      "precio_regular": 289,
+      "codigo_catalogo": "796",
+      "fotos": 1,
+      "evidencia": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-satin8670-ficha.png"
+    },
+    {
+      "id": 181,
+      "nombre": "Vestido corto con volantes de cuello redondo",
+      "categoria": "Cortos",
+      "precio": 115.6,
+      "precio_regular": 289,
+      "codigo_catalogo": "1537",
+      "fotos": 2,
+      "evidencia": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-volantes11560-ficha.png"
+    }
+  ],
+  "significado_cantidades": "El usuario aclaró que 25 Largos, 43 Cortos con brillo y 30 Cortos se refieren a colecciones del catálogo WhatsApp, no a un conteo de stock físico. La diferencia neta de modelos web y el número de referencias de la fuente sin foto asociada se documentan por separado.",
+  "referencias_fuente_sin_foto_asociada": {
+    "Cortos con brillo": 4,
+    "Cortos": 14
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id_reservado": 187,
+  "nombre": "Vestido blanco mini elegante con perlas",
+  "categoria": "Cortos",
+  "estado": "No publicado: precio pendiente de confirmar",
+  "precios_catalogo": [
+    329,
+    319
+  ],
+  "filas_catalogo": [
+    6,
+    10
+  ],
+  "fotos": [
+    {
+      "archivo": "F06-blanco329-1-foto.png",
+      "vista": "Frente con modelo"
+    },
+    {
+      "archivo": "F06-blanco329-2-foto.png",
+      "vista": "Frente de la prenda, sin modelo"
+    }
+  ],
+  "evidencias": [
+    "F06-blanco329-ficha.png",
+    "F10-blanco319-ficha.png"
+  ],
+  "observacion": "Ambas fichas usan las mismas fotografías; no son dos prendas. La segunda imagen es un frente de la prenda sin modelo, no una espalda."
+}

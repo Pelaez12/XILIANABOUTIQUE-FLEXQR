@@ -1,0 +1,47 @@
+{
+  "fecha": "2026-10-15",
+  "alcance_prendas": 59,
+  "alcance_fotos": 110,
+  "criterio": "Longitud de falda principal, después densidad y cobertura del acabado brillante. La abertura no decide corto. Detalles separados sobre base lisa conservan Largos. XL-154 queda como excepción comercial específica en Cortos con brillo.",
+  "largos_seguros": [5, 6, 20, 23, 24, 60, 62, 68, 81, 88, 90, 91, 93, 96, 98, 100, 102, 106, 113, 138, 139, 141, 159, 162, 163, 173, 176, 177, 178],
+  "gala_seguros": [59, 61, 87, 89, 92, 94, 95, 97, 99, 103, 104, 105, 108, 109, 110, 111, 112, 136, 137, 140, 142, 158, 160, 161, 164, 165, 174, 175],
+  "fronteras": [
+    {
+      "id": 107,
+      "longitud_segura": "Largo al tobillo",
+      "actual": "Gala",
+      "propuesta": "Largos",
+      "confianza": "media-alta",
+      "motivo": "Satén plomo liso con bordado floral en panel frontal inferior; espalda lisa. No veo la cobertura de lentejuelas afirmada por el nombre.",
+      "evidencia": ["./images/productos-reales/XL-107/01-R112.jpeg", "./images/productos-reales/XL-107/02-R116.jpeg"]
+    },
+    {
+      "id": 101,
+      "longitud_segura": "Largo al suelo con abertura",
+      "actual": "Cortos con brillo",
+      "propuesta": "Largos",
+      "alternativa": "Gala",
+      "confianza": "media",
+      "motivo": "Cintas curvas y ribetes plateados sobre amplias zonas rojas lisas, comparables al criterio aplicado por el usuario a XL-054. Largo seguro: la abertura no autoriza Cortos con brillo.",
+      "evidencia": ["./images/productos-reales/XL-101/01-R062.jpeg"]
+    }
+  ],
+  "cambios_seguros": [
+    {"id": 62, "de": "Gala", "a": "Largos", "motivo": "Perlas espaciadas, base negra lisa dominante, espalda/falda lisas."},
+    {"id": 68, "de": "Gala", "a": "Largos", "motivo": "Pequeños grupos de piedras separados con mucha tela rosa lisa visible."},
+    {"id": 81, "de": "Gala", "a": "Largos", "motivo": "Piedras rectangulares separadas en torso/tirantes; predomina base marrón lisa."},
+    {"id": 90, "de": "Gala", "a": "Largos", "motivo": "Perlas espaciadas en busto/torso; falda y espalda lisas."},
+    {"id": 89, "de": "Cortos con brillo", "a": "Gala", "motivo": "Corrección directa del usuario; falda principal larga, brillo denso frente y espalda."},
+    {"id": 103, "de": "Cortos con brillo", "a": "Gala", "motivo": "Maxi verde con cobertura brillante dominante; la abertura no decide corto."},
+    {"id": 137, "de": "Cortos con brillo", "a": "Gala", "motivo": "Maxi sirena enteramente de lentejuelas."},
+    {"id": 140, "de": "Cortos con brillo", "a": "Gala", "motivo": "Falda principal al suelo y corsé completo densamente revestido de pedrería."},
+    {"id": 160, "de": "Cortos con brillo", "a": "Gala", "motivo": "Maxi con grandes motivos de lentejuelas repetidos frente y espalda."},
+    {"id": 161, "de": "Cortos con brillo", "a": "Gala", "motivo": "Maxi con corpiño, mangas y espalda de lentejuelas visibles en original."},
+    {"id": 164, "de": "Cortos con brillo", "a": "Gala", "motivo": "Maxi/cola con textura de brillo denso por todo vestido, no solo hombro."}
+  ],
+  "largos_finales_si_se_aceptan_fronteras": [5, 6, 20, 23, 24, 60, 62, 68, 81, 88, 90, 91, 93, 96, 98, 100, 101, 102, 106, 107, 113, 138, 139, 141, 159, 162, 163, 173, 176, 177, 178],
+  "gala_finales_si_se_aceptan_fronteras": [59, 61, 87, 89, 92, 94, 95, 97, 99, 103, 104, 105, 108, 109, 110, 111, 112, 136, 137, 140, 142, 158, 160, 161, 164, 165, 174, 175],
+  "excepciones_comerciales": [{"id": 154, "categoria": "Cortos con brillo", "razon": "Confirmación específica del usuario; no aplicar a otros maxi con abertura."}],
+  "cantidades_no_usadas_como_cuota": [25, 31, 43],
+  "archivos_compartidos_modificados": false
+}

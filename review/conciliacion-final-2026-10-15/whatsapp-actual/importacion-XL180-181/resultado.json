@@ -1,0 +1,20 @@
+{
+  "revision": "conciliacion-catalogo-2026-10-15-con-XL179-181",
+  "altas": [
+    180,
+    181
+  ],
+  "prendas_anteriores_intactas": 140,
+  "fotos_anteriores_intactas": 227,
+  "prendas": 142,
+  "fotos": 230,
+  "totales": {
+    "Gala": 32,
+    "Largos": 25,
+    "Cortos": 27,
+    "Bandage": 21,
+    "Cortos con brillo": 36,
+    "Liquidación": 1
+  },
+  "metas_completas": false
+}

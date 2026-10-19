@@ -50,7 +50,7 @@ if video_confirmations.exists():
         if confirmation.get('precio_regular'):p['originalPrice']=confirmation['precio_regular']
         p['priceSource']=confirmation.get('fuente',{'video':'20261009-0005-03.6416792.mp4','second':confirmation.get('segundo')})
         if confirmation['id']==127: p['note']='Haz de tu entrada un momento inolvidable. Su diseño asimétrico y caída lateral te acompañan para celebrar, posar y sentirte preciosa a tu manera.'
-# Gala tiene prioridad sobre el largo; se conservan Bandage y Liquidación.
+# Aplicar la clasificación visual confirmada antes que palabras del nombre.
 category_changes=[]
 for p in products:
     previous=p['category']

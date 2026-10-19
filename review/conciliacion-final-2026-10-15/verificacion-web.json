@@ -1,0 +1,28 @@
+{
+  "fecha": "2026-10-16",
+  "revision": "conciliacion-catalogo-2026-10-15-cortos-revisados-2026-10-16",
+  "prendas": 155,
+  "fotos": 251,
+  "fichas_verificadas": 155,
+  "colecciones_principales": {
+    "Gala": 32,
+    "Largos": 25,
+    "Cortos": 37,
+    "Bandage": 22,
+    "Cortos con brillo": 38,
+    "Liquidación": 1
+  },
+  "colecciones_generadas": {
+    "Gala": 32,
+    "Largos": 25,
+    "Cortos": 37,
+    "Bandage": 22,
+    "Cortos con brillo": 38,
+    "Liquidación": 10
+  },
+  "conservacion": "145 prendas previas conservadas salvo las correcciones exactas de nombre/precio/URL estable de XL-069, precio WhatsApp de XL-117 y orden de galería de XL-064. Ninguna foto previa ni categoría previa modificada.",
+  "altas": 10,
+  "fotos_nuevas": 15,
+  "pendiente_sin_publicar": 187,
+  "comprobaciones": "Datos y manifiesto sincronizados, 33 referencias y dos duplicados, precios WhatsApp, fotos capturadas y publicadas iguales, orden frente/espalda, 155 fichas y JSON-LD, colecciones completas sin duplicados y URL histórica de XL-069 conservada."
+}

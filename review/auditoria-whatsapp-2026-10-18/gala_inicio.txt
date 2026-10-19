@@ -1,0 +1,759 @@
+Browser tab: 1748733914, Title: "(38) WhatsApp Business", URL: "https://web.whatsapp.com/".
+0 AXWebArea (38) WhatsApp Business, URL: web.whatsapp.com/
+	1 container
+		2 container
+			3 checkbox Description: Chats, Value: 1
+			4 text 38
+			5 checkbox Description: Llamadas, Value: 0
+			6 checkbox Description: Estados, Value: 0
+			7 text Actualizaciones en Estados
+			8 checkbox Description: Canales, Value: 0
+			9 checkbox Description: Comunidades, Value: 0
+			10 checkbox Description: Herramientas, Value: 0
+			11 checkbox Description: Anunciar, Value: 0
+			12 checkbox Description: Contenido multimedia, Value: 0
+			13 checkbox Description: Ajustes, Value: 0
+			14 checkbox Description: Perfil, Value: 0
+				15 image
+		16 container
+			17 container
+				18 heading WhatsApp, Value: 2
+					19 container WhatsApp
+						20 image wa-wordmark
+				21 pop up button (collapsed) Description: Menú, Secondary Actions: Expand
+				22 button Nuevo chat
+			23 container side
+				24 container
+					25 text field (settable) Buscar un chat o iniciar uno nuevo
+				26 tab group chat-list-filters
+					27 tab (selected, settable, boolean) Todos, ID: all-filter, Value: 1
+Todos
+					28 tab (selectable, settable, boolean) No leídos 44, ID: label_item_1, Value: 0
+No leídos
+44
+					29 tab (selectable, settable, boolean) Favoritos, ID: label_item_2, Value: 0
+Favoritos
+					30 tab (selectable, settable, boolean) Grupos 15, ID: label_item_3, Value: 0
+Grupos
+15
+					31 tab (selectable, settable, boolean) Comida, Value: 0, ID: label_item_4
+					32 tab (selectable, settable, boolean) Value: 0, ID: additional-filters
+				33 table Lista de chats
+					34 row 60 mensajes no leídos Olinda's UPN Breña viernes ~Benja :  Foto Chat silenciado
+						35 cell
+							36 container
+								37 cell
+									38 text 60 mensajes no leídos
+									39 text Olinda's UPN Breña
+									40 text viernes
+								41 container ‪Foto‬
+									42 text ~Benja : 
+									43 text Foto
+								44 cell
+									45 container Chat silenciado
+					46 row Antonio Grau viernes Lo quite
+						47 cell
+							48 container
+								49 cell
+									50 text Antonio Grau
+									51 text viernes
+								52 text Lo quite
+					53 row Touché Salón viernes Tu consulta quedó registrada para revisión del equipo 🤍 La atención automática queda en pausa.
+						54 cell
+							55 container
+								56 cell
+									57 text Touché Salón
+									58 text viernes
+								59 container ‪Tu consulta quedó registrada para revisión del equipo 🤍 La atención automática queda en pausa.‬
+									60 text Tu consulta quedó registrada para revisión del equipo 
+									61 image 🤍
+									62 text  La atención automática queda en pausa.
+					63 row Kallpa Triatlon Atención al cliente viernes 0:01
+						64 cell
+							65 container
+								66 cell
+									67 text Kallpa Triatlon Atención al cliente
+									68 text viernes
+								69 container ‪0:01‬
+									70 text 0:01
+					71 row CLAUDE DAY PRESENCIAL UTEC | 10 de octubre viernes ~Lizbeth :  Sticker
+						72 cell
+							73 container
+								74 cell
+									75 text CLAUDE DAY PRESENCIAL UTEC | 10 de octubre
+									76 text viernes
+								77 container ‪Sticker‬
+									78 text ~Lizbeth : 
+									79 text Sticker
+					80 row Claude Team viernes Tú :  Sticker
+						81 cell
+							82 container
+								83 cell
+									84 text Claude Team
+									85 text viernes
+								86 container ‪Sticker‬
+									87 text Tú : 
+									88 text Sticker
+					89 row @kathiaholistica viernes Perfecto a los 8am la estaremos esperando
+						90 cell
+							91 container
+								92 cell
+									93 text @kathiaholistica
+									94 text viernes
+								95 text Perfecto a los 8am la estaremos esperando
+					96 row +51 930 527 248 viernes Ya terminé
+						97 cell
+							98 container
+								99 cell
+									100 text +51 930 527 248
+									101 text viernes
+								102 text Ya terminé
+					103 row 1 mensaje no leído @jimenanoeliaa viernes Hola que tal Los mensajes nuevos desaparecerán de este chat después de 24 horas de haber sido enviados, a menos que se use la opción para conservarlos.
+						104 cell
+							105 container
+								106 cell
+									107 text 1 mensaje no leído
+									108 text @jimenanoeliaa
+									109 text viernes
+								110 text Hola que tal
+								111 container Los mensajes nuevos desaparecerán de este chat después de 24 horas de haber sido enviados, a menos que se use la opción para conservarlos.
+					112 row +51 942 668 903 jueves Sticker
+						113 cell
+							114 container
+								115 cell
+									116 text +51 942 668 903
+									117 text jueves
+								118 container ‪Sticker‬
+									119 text Sticker
+					120 row 4 mensajes no leídos Taka CrossFit Oficial jueves ~Taka Fitness Center añadió a Quizá NanoLoo Technology , +51 956 567 356 , Quizá Erika Morgan , +51 940 669 660 y +51 902 737 423 .
+						121 cell
+							122 container
+								123 cell
+									124 text 4 mensajes no leídos
+									125 text Taka CrossFit Oficial
+									126 text jueves
+								127 container
+									128 text ~Taka Fitness Center  añadió a 
+									129 container Quizá NanoLoo Technology
+										130 text ~ NanoLoo Technology
+									131 text ,  +51 956 567 356 , 
+									132 container Quizá Erika Morgan
+										133 text ~ Erika Morgan
+									134 text ,  +51 940 669 660  y  +51 902 737 423 .
+					135 row Continental International Universities jueves No se pudo cargar este mensaje. Abre el mensaje en tu teléfono para verlo.
+						136 cell
+							137 container
+								138 cell
+									139 text Continental International Universities
+									140 text jueves
+								141 container ‪No se pudo cargar este mensaje. Abre el mensaje en tu teléfono para verlo.‬
+									142 text No se pudo cargar este mensaje. Abre el mensaje en tu teléfono para verlo.
+					143 row Andrea jueves SE ME ANTOJARON UNAS BUENAS CHICHOTAS MASCULINAS PARA ATRAGANTARME CON ELLAS Y TOMAR DE SU LECHE DE MACHO
+						144 cell
+							145 container
+								146 cell
+									147 text Andrea
+									148 text jueves
+								149 container ‪SE ME ANTOJARON UNAS BUENAS CHICHOTAS MASCULINAS PARA ATRAGANTARME CON ELLAS Y TOMAR DE SU LECHE DE MACHO‬
+									150 text SE ME ANTOJARON UNAS BUENAS  CHICHOTAS MASCULINAS  PARA ATRAGANTARME CON ELLAS Y TOMAR DE SU LECHE DE MACHO
+					151 row Jaz jueves Vidriería
+						152 cell
+							153 container
+								154 cell
+									155 text Jaz
+									156 text jueves
+								157 text Vidriería
+					158 row Silvia Doris jueves Recibí tu audio, linda 🤍 Por ahora no puedo escuchar audios. ¿Me escribes tu consulta para ayudarte?
+						159 cell
+							160 container
+								161 cell
+									162 text Silvia Doris
+									163 text jueves
+								164 container ‪Recibí tu audio, linda 🤍 Por ahora no puedo escuchar audios. ¿Me escribes tu consulta para ayudarte?‬
+									165 text Recibí tu audio, linda 
+									166 image 🤍
+									167 text  Por ahora no puedo escuchar audios. ¿Me escribes tu consulta para ayudarte?
+					168 row Mamamamammama jueves Maa
+						169 cell
+							170 container
+								171 cell
+									172 text Mamamamammama
+									173 text jueves
+								174 text Maa
+					175 row GRUPO:AUTOMATIZACION CON IA 2026 jueves Tú :  business-ai-information-report.zip
+						176 cell
+							177 container
+								178 cell
+									179 text GRUPO:AUTOMATIZACION CON IA 2026
+									180 text jueves
+								181 container ‪business-ai-information-report.zip‬
+									182 text Tú : 
+									183 text business-ai-information-report.zip
+								184 text TRABAJO
+					185 row idat jueves Foto
+						186 cell
+							187 container
+								188 cell
+									189 text idat
+									190 text jueves
+								191 container ‪Foto‬
+									192 text Foto
+					193 row 1 mensaje no leído Familia Pelaez Bautista miércoles Mamamamammama fijó un mensaje. Chat silenciado
+						194 cell
+							195 container
+								196 cell
+									197 text 1 mensaje no leído
+									198 text Familia Pelaez Bautista
+									199 text miércoles
+								200 text Mamamamammama fijó un mensaje.
+								201 cell
+									202 container Chat silenciado
+					203 row luuuu miércoles Vaa
+						204 cell
+							205 container
+								206 cell
+									207 text luuuu
+									208 text miércoles
+								209 text Vaa
+					210 row @nickyveliz miércoles hola ! graciaas
+						211 cell
+							212 container
+								213 cell
+									214 text @nickyveliz
+									215 text miércoles
+								216 text hola ! graciaas
+					217 row +51 902 157 756 miércoles Holaaa Danna que tal a los años
+						218 cell
+							219 container
+								220 cell
+									221 text +51 902 157 756
+									222 text miércoles
+								223 text Holaaa Danna que tal a los años
+					224 row 1 mensaje no leído Mariam Huidobro miércoles lo vi, vere si me da el tiempo la prox semana 🙌🏻
+						225 cell
+							226 container
+								227 cell
+									228 text 1 mensaje no leído
+									229 text Mariam Huidobro
+									230 text miércoles
+								231 container ‪lo vi, vere si me da el tiempo la prox semana 🙌🏻‬
+									232 text lo vi, vere si me da el tiempo la prox semana 
+									233 image 🙌🏻
+					234 row +51 984 243 757 miércoles Mira
+						235 cell
+							236 container
+								237 cell
+									238 text +51 984 243 757
+									239 text miércoles
+								240 text Mira
+		241 container main
+			242 container
+				243 button Información del perfil
+				244 button +51 930 527 248
+				245 button Catálogo
+				246 button Añadir a la lista
+				247 button Videollamada
+				248 button Llamada
+				249 button Buscar
+				250 pop up button (collapsed) Description: Menú, Secondary Actions: Expand
+			251 button Mensaje fijado https://xilianaboutique.comunidadfortaleza.com
+				252 container Mensaje fijado
+				253 text https://xilianaboutique.comunidadfortaleza.com
+			254 container
+				256 container
+					257 text martes
+					258 row
+					259 row
+					260 row
+					261 row
+					262 row
+					263 row
+					264 row
+					265 row
+					266 row
+					267 row
+					268 row
+					269 row
+					270 row
+					271 row
+					272 row
+					273 row
+					274 row
+						275 container
+							276 container
+								277 text Ubicación : Jesus María Perú
+								278 button 12:04 p.m. Entregado 
+									279 text 12:04 p.m.
+									280 container  Entregado 
+										281 image wds-ic-read
+					282 row
+						283 container
+							284 container
+								285 text Domingos previa cita
+								286 button 12:04 p.m. Entregado 
+									287 text 12:04 p.m.
+									288 container  Entregado 
+										289 image wds-ic-read
+					290 row
+						291 container
+							292 container
+								293 text Poner la animación :
+								294 button 12:06 p.m. Entregado 
+									295 text 12:06 p.m.
+									296 container  Entregado 
+										297 image wds-ic-read
+					298 row
+						299 container
+							300 container
+								301 text Asesor de imagen
+								302 button 12:08 p.m. Entregado 
+									303 text 12:08 p.m.
+									304 container  Entregado 
+										305 image wds-ic-read
+					306 row
+						307 container
+							308 container
+								309 button Mensaje citado
+									310 text Tú
+									311 button Asesor de imagen
+								312 text Servicio de asesoramiento de imagen
+								313 button 12:08 p.m. Entregado 
+									314 text 12:08 p.m.
+									315 container  Entregado 
+										316 image wds-ic-read
+					317 row
+						318 container
+							319 container
+								320 text Meterle zoom a las imagenes que se chiquitas
+								321 button 12:15 p.m. Entregado 
+									322 text 12:15 p.m.
+									323 container  Entregado 
+										324 image wds-ic-read
+					325 row
+						326 container
+							327 container
+								328 text Bandage
+								329 button 12:15 p.m. Entregado 
+									330 text 12:15 p.m.
+									331 container  Entregado 
+										332 image wds-ic-read
+					333 row
+						334 container
+							335 container
+								336 text Talla única
+								337 button 12:18 p.m. Entregado 
+									338 text 12:18 p.m.
+									339 container  Entregado 
+										340 image wds-ic-read
+					341 row
+						342 container
+							343 container
+								344 text Talla M Y ESTANDAR
+								345 button Editado12:18 p.m. Entregado 
+									346 text Editado 12:18 p.m.
+									347 container  Entregado 
+										348 image wds-ic-read
+					349 row
+						350 container
+							351 container
+								352 container Tú:
+								353 text M
+								354 button 12:18 p.m. Entregado 
+									355 text 12:18 p.m.
+									356 container  Entregado 
+										357 image wds-ic-read
+					358 row
+						359 container
+							360 container
+								361 container +51 930 527 248:
+								362 text Estándar 12:19 p.m.
+					363 row
+						364 container
+							365 container
+								366 container Tú:
+								367 text Aplicar ingeniera inversa
+								368 button 12:20 p.m. Entregado 
+									369 text 12:20 p.m.
+									370 container  Entregado 
+										371 image wds-ic-read
+					372 row
+						373 container
+							374 container
+								375 button Abrir foto
+								376 button 5:38 p.m. Entregado 
+									377 text 5:38 p.m.
+									378 container  Entregado 
+										379 image wds-ic-read
+							380 button Reenviar archivo multimedia
+					381 row
+						382 container
+							383 container
+								384 text Así o más grandecito?
+								385 button 5:39 p.m. Entregado 
+									386 text 5:39 p.m.
+									387 container  Entregado 
+										388 image wds-ic-read
+					389 row
+						390 container
+							391 container
+								392 text Considero para moviles está bien
+								393 button 5:39 p.m. Entregado 
+									394 text 5:39 p.m.
+									395 container  Entregado 
+										396 image wds-ic-read
+					397 row
+						398 container
+							399 container
+								400 container Tú:
+								401 button Abrir foto
+								402 button 5:40 p.m. Entregado 
+									403 text 5:40 p.m.
+									404 container  Entregado 
+										405 image wds-ic-read
+							406 button Reenviar archivo multimedia
+					407 row
+						408 container
+							409 container
+								410 text ~ Equilibrio y belleza fijó un mensaje.
+					411 row
+						412 container
+							413 container
+								414 container +51 930 527 248:
+								415 text Está bien 5:56 p.m.
+					416 text miércoles
+					417 row
+						418 container
+							419 container
+								420 container Tú:
+								421 button Abrir foto
+								422 button 1:13 p.m. Entregado 
+									423 text 1:13 p.m.
+									424 container  Entregado 
+										425 image wds-ic-read
+							426 button Reenviar archivo multimedia
+					427 row
+						428 container
+							429 container
+								430 text Creo que me faltan 16 vestidos más
+								431 button 1:13 p.m. Entregado 
+									432 text 1:13 p.m.
+									433 container  Entregado 
+										434 image wds-ic-read
+					435 row
+						436 container
+							437 container
+								438 text De cortos
+								439 button 1:14 p.m. Entregado 
+									440 text 1:14 p.m.
+									441 container  Entregado 
+										442 image wds-ic-read
+					443 row
+						444 container
+							445 container
+								446 container Tú:
+								447 text Revisaré de nuevo
+								448 button 1:14 p.m. Entregado 
+									449 text 1:14 p.m.
+									450 container  Entregado 
+										451 image wds-ic-read
+					452 text viernes
+					453 row
+						454 container
+							455 container
+								456 container Tú:
+								457 text Hola que tal
+								458 button 7:10 a.m. Entregado 
+									459 text 7:10 a.m.
+									460 container  Entregado 
+										461 image wds-ic-read
+					462 row
+						463 container
+							464 container
+								465 container Tú:
+								466 text Ya terminé
+								467 button 7:10 a.m. Entregado 
+									468 text 7:10 a.m.
+									469 container  Entregado 
+										470 image wds-ic-read
+			471 container
+				472 container
+					473 pop up button (collapsed) Description: Adjuntar, Secondary Actions: Expand
+					474 button Emojis, GIF, Stickers
+					475 text entry area (settable) Description: Escribir un mensaje para +51 930 527 248, Value: 
+
+					476 button Mensaje de voz
+						477 button Mensaje de voz
+		478 container Vestido de largo gala nude con aplicaciones Prendas Importadas PEN 649.00 Añadir 1 artículo Vestido largo de gala de lentejuelas rojo brillantes Talla XL PEN 649.00 Añadir 1 artículo Vestido sirena largo color rojo con Bruselas Prendas Importadas PEN 449.00 Añadir 1 artículo
+			479 container
+				480 button Atrás
+				481 heading Gala Dresess, Value: 2
+					482 text Gala Dresess
+				483 button (collapsed) Description: Tu carrito, Secondary Actions: Expand
+				484 button Enlace al catálogo
+				485 container
+					486 button Vestido de largo gala nude con aplicaciones Prendas Importadas PEN 649.00 Añadir 1 artículo
+						775 container
+							776 cell
+								777 text Vestido de largo gala nude con aplicaciones
+							778 text Prendas Importadas PEN 649.00
+							779 button Añadir 1 artículo
+					487 button Vestido largo de gala de lentejuelas rojo brillantes Talla XL PEN 649.00 Añadir 1 artículo
+						780 container
+							781 cell
+								782 text Vestido largo de gala de lentejuelas rojo brillantes
+							783 text Talla XL PEN 649.00
+							784 button Añadir 1 artículo
+					488 button Vestido sirena largo color rojo con Bruselas Prendas Importadas PEN 449.00 Añadir 1 artículo
+						785 container
+							786 cell
+								787 text Vestido sirena largo color rojo con Bruselas
+							788 text Prendas Importadas PEN 449.00
+							789 button Añadir 1 artículo
+					489 button Vestido Largo Color Pic Blue Prendas Importadas PEN 579.00 Añadir 1 artículo
+						790 container
+							791 cell
+								792 text Vestido Largo Color Pic Blue
+							793 text Prendas Importadas PEN 579.00
+							794 button Añadir 1 artículo
+					490 button Vestido largo de mangas largas con hebilla 2XL Prendas Importadas PEN 389.00 Añadir 1 artículo
+						795 container
+							796 cell
+								797 text Vestido largo de mangas largas con hebilla
+							798 text 2XL Prendas Importadas PEN 389.00
+							799 button Añadir 1 artículo
+					491 button Vestido largo de gala verde agua de lentejuelas Prendas Importadas PEN 649.00 Añadir 1 artículo
+						492 container
+							493 cell
+								494 text Vestido largo de gala verde agua de lentejuelas
+							495 text Prendas Importadas PEN 649.00
+							496 button Añadir 1 artículo
+					497 button Vestido largo de gala morado con lentejuelas PEN 649.00 Añadir 1 artículo
+						498 container
+							499 cell
+								500 text Vestido largo de gala morado con lentejuelas
+							501 text PEN 649.00
+							502 button Añadir 1 artículo
+					503 button Vestido largo de gala rojo de malla con lentejuelas PEN 719.00 Añadir 1 artículo
+						504 container
+							505 cell
+								506 text Vestido largo de gala rojo de malla con lentejuelas
+							507 text PEN 719.00
+							508 button Añadir 1 artículo
+					509 button Vestido largo de gala blanco con un hombro de lentejuelas PEN 649.00 Añadir 1 artículo
+						510 container
+							511 cell
+								512 text Vestido largo de gala blanco con un hombro de lentejuelas
+							513 text PEN 649.00
+							514 button Añadir 1 artículo
+					515 button Vestido vino strapless de tirantes con copas de pedrería COD 1610 PEN 549.00 Añadir 1 artículo
+						516 container
+							517 cell
+								518 text Vestido vino strapless de tirantes con copas de pedrería
+							519 text COD 1610 PEN 549.00
+							520 button Añadir 1 artículo
+					521 button Vestido largo palo rosa Vestido de gasa y lentejuelas palo rosa, de tirantes posteriores PEN 699.00 Añadir 1 artículo
+						522 container
+							523 cell
+								524 text Vestido largo palo rosa
+							525 text Vestido de gasa y lentejuelas palo rosa, de tirantes posteriores PEN 699.00
+							526 button Añadir 1 artículo
+					527 button Vestido largo azul acero Vestido largo azul acero de gasa y encaje blanco PEN 699.00 Añadir 1 artículo
+						528 container
+							529 cell
+								530 text Vestido largo azul acero
+							531 text Vestido largo azul acero de gasa y encaje blanco PEN 699.00
+							532 button Añadir 1 artículo
+					533 button Vestido palo rosa gasa y satin Vestido palo rosa de gasa y satin con escote pronunciado PEN 649.00 Añadir 1 artículo
+						534 container
+							535 cell
+								536 text Vestido palo rosa gasa y satin
+							537 text Vestido palo rosa de gasa y satin con escote pronunciado PEN 649.00
+							538 button Añadir 1 artículo
+					539 button Vestido de gala en dregadado Vestido largo corte sirena de lentejuelas en degradado de blanco a verde con manga larga de escote en la espalda PEN 749.00 Añadir 1 artículo
+						540 container
+							541 cell
+								542 text Vestido de gala en dregadado
+							543 text Vestido largo corte sirena de lentejuelas en degradado de blanco a verde con manga larga de escote en la espalda PEN 749.00
+							544 button Añadir 1 artículo
+					545 button Vestido de gasa azul Vestido de gasa azul con encaje de mangas corta PEN 649.00 Añadir 1 artículo
+						546 container
+							547 cell
+								548 text Vestido de gasa azul
+							549 text Vestido de gasa azul con encaje de mangas corta PEN 649.00
+							550 button Añadir 1 artículo
+					551 button Vestido largo morado claro Vestido largo de lentejuelas moradas en la parte bajo, la parte superior de manga larga en gasa PEN 649.00 Añadir 1 artículo
+						552 container
+							553 cell
+								554 text Vestido largo morado claro
+							555 text Vestido largo de lentejuelas moradas en la parte bajo, la parte superior de manga larga en gasa PEN 649.00
+							556 button Añadir 1 artículo
+					557 button Vestido sirena palo rosa de lentejuelas Vestido largo sirenade lentejuelas palo rosa con caída, mangas pequeñas y abertura en la pierna PEN 569.00 Añadir 1 artículo
+						558 container
+							559 cell
+								560 text Vestido sirena palo rosa de lentejuelas
+							561 text Vestido largo sirenade lentejuelas palo rosa con caída, mangas pequeñas y abertura en la pierna PEN 569.00
+							562 button Añadir 1 artículo
+					563 button Vestido largo azul PEN 349.00 Añadir 1 artículo
+						564 container
+							565 cell
+								566 text Vestido largo azul
+							567 text PEN 349.00
+							568 button Añadir 1 artículo
+					569 button Vestido largo corte sirena negro con lazo y mangas Prendas Importadas PEN 549.00 Añadir 1 artículo
+						570 container
+							571 cell
+								572 text Vestido largo corte sirena negro con lazo y mangas
+							573 text Prendas Importadas PEN 549.00
+							574 button Añadir 1 artículo
+					575 button Vestido crema de encaje y tull asimétrico ⬇️ 50% Descuento. PEN 194.50 PEN 389.00 Añadir 1 artículo
+						576 container
+							577 cell
+								578 text Vestido crema de encaje y tull asimétrico
+							579 image ⬇️
+							580 text 50% Descuento. PEN 194.50  PEN 389.00
+							581 button Añadir 1 artículo
+					582 button Vestido largo azul corte sirena con tirantes cruzados Prendas Importadas PEN 499.00 Añadir 1 artículo
+						583 container
+							584 cell
+								585 text Vestido largo azul corte sirena con tirantes cruzados
+							586 text Prendas Importadas PEN 499.00
+							587 button Añadir 1 artículo
+					588 button Vestido largo de gala color azul de lentejuelas Prendas Importadas PEN 569.00 Añadir 1 artículo
+						589 container
+							590 cell
+								591 text Vestido largo de gala color azul de lentejuelas
+							592 text Prendas Importadas PEN 569.00
+							593 button Añadir 1 artículo
+					594 button Vestido de gala color verde asimétrico con una rosa Prendas Importadas PEN 649.00 Añadir 1 artículo
+						595 container
+							596 cell
+								597 text Vestido de gala color verde asimétrico con una rosa
+							598 text Prendas Importadas PEN 649.00
+							599 button Añadir 1 artículo
+					600 button Vestido largo de gala dorado Prendas Importadas PEN 549.00 Añadir 1 artículo
+						601 container
+							602 cell
+								603 text Vestido largo de gala dorado
+							604 text Prendas Importadas PEN 549.00
+							605 button Añadir 1 artículo
+					606 button Vestido de gala gamusa color guinda con perlas Prendas Importadas PEN 589.00 Añadir 1 artículo
+						607 container
+							608 cell
+								609 text Vestido de gala gamusa color guinda con perlas
+							610 text Prendas Importadas PEN 589.00
+							611 button Añadir 1 artículo
+					612 button Vestido elegante sirena color verde Prendas Importadas PEN 389.00 Añadir 1 artículo
+						613 container
+							614 cell
+								615 text Vestido elegante sirena color verde
+							616 text Prendas Importadas PEN 389.00
+							617 button Añadir 1 artículo
+					618 button Vestido negro brillante PEN 389.00 Añadir 1 artículo
+						619 container
+							620 cell
+								621 text Vestido negro brillante
+							622 text PEN 389.00
+							623 button Añadir 1 artículo
+					624 button Vestido largo de gala lentejuelas negro con mangas Prendas Importadas PEN 729.00 Añadir 1 artículo
+						625 container
+							626 cell
+								627 text Vestido largo de gala lentejuelas negro con mangas
+							628 text Prendas Importadas PEN 729.00
+							629 button Añadir 1 artículo
+					630 button Vestido fucsia con escote y pliegue izquierdo Prendas Importadas PEN 549.00 Añadir 1 artículo
+						631 container
+							632 cell
+								633 text Vestido fucsia con escote y pliegue izquierdo
+							634 text Prendas Importadas PEN 549.00
+							635 button Añadir 1 artículo
+					636 button Vestido largo de gala asimétrico de una manga dorado con negro Prendas Importadas PEN 579.00 Añadir 1 artículo
+						637 container
+							638 cell
+								639 text Vestido largo de gala asimétrico de una manga dorado con negro
+							640 text Prendas Importadas PEN 579.00
+							641 button Añadir 1 artículo
+					642 button Vestido de gala largo negro con detalles en cuello y mangas Prendas Importadas PEN 449.00 Añadir 1 artículo
+						643 container
+							644 cell
+								645 text Vestido de gala largo negro con detalles en cuello y mangas
+							646 text Prendas Importadas PEN 449.00
+							647 button Añadir 1 artículo
+					648 button Vestido corte acampanado de tejido brillante Prendas Importadas PEN 589.00 Añadir 1 artículo
+						649 container
+							650 cell
+								651 text Vestido corte acampanado de tejido brillante
+							652 text Prendas Importadas PEN 589.00
+							653 button Añadir 1 artículo
+					654 button Vestido sirena color verde gamuzado con mangas y cuello cuadrado Prendas Importadas PEN 519.00 Añadir 1 artículo
+						655 container
+							656 cell
+								657 text Vestido sirena color verde gamuzado con mangas y cuello cuadrado
+							658 text Prendas Importadas PEN 519.00
+							659 button Añadir 1 artículo
+					660 button Vestido sirena de lentejuelas verdes con detalles en los hombres PEN 549.00 Añadir 1 artículo
+						661 container
+							662 cell
+								663 text Vestido sirena de lentejuelas verdes con detalles en los hombres
+							664 text PEN 549.00
+							665 button Añadir 1 artículo
+					666 button Vestido largo de mangas semi drapeado con detalles de brillos en cintura y hombro Prendas Importadas PEN 549.00 Añadir 1 artículo
+						667 container
+							668 cell
+								669 text Vestido largo de mangas semi drapeado con detalles de brillos en cintura y hombro
+							670 text Prendas Importadas PEN 549.00
+							671 button Añadir 1 artículo
+					672 button Vestido sirena color rojo estraple de perlas Prendas Importadas PEN 549.00 Añadir 1 artículo
+						673 container
+							674 cell
+								675 text Vestido sirena color rojo estraple de perlas
+							676 text Prendas Importadas PEN 549.00
+							677 button Añadir 1 artículo
+					678 button Vestido asimétrico dorado largo de gala Prendas Importadas PEN 649.00 Añadir 1 artículo
+						679 container
+							680 cell
+								681 text Vestido asimétrico dorado largo de gala
+							682 text Prendas Importadas PEN 649.00
+							683 button Añadir 1 artículo
+					684 button Vestido rojo de gala con strass plateadas. Prendas Importadas PEN 389.00 Añadir 1 artículo
+						685 container
+							686 cell
+								687 text Vestido rojo de gala con strass plateadas.
+							688 text Prendas Importadas PEN 389.00
+							689 button Añadir 1 artículo
+					690 button vestido de gala rojo con aplicaciones plateadas. Prendas Importadas PEN 349.00 Añadir 1 artículo
+						691 container
+							692 cell
+								693 text vestido de gala rojo con aplicaciones plateadas.
+							694 text Prendas Importadas PEN 349.00
+							695 button Añadir 1 artículo
+					696 button vestido largo con semi cola y detalles de pedrería plateados y morados Prendas Importadas PEN 699.00 Añadir 1 artículo
+						697 container
+							698 cell
+								699 text vestido largo con semi cola y detalles de pedrería plateados y morados
+							700 text Prendas Importadas PEN 699.00
+							701 button Añadir 1 artículo
+					702 button Vestido estilo novia blanco con pedrería plateadas y verde esmeralda Prendas Importadas PEN 849.00 Añadir 1 artículo
+						703 container
+							704 cell
+								705 text Vestido estilo novia blanco con pedrería plateadas y verde esmeralda
+							706 text Prendas Importadas PEN 849.00
+							707 button Añadir 1 artículo
+					708 button Vestido sirena de gala verde con perlas Prendas Importadas PEN 729.00 Añadir 1 artículo
+						709 container
+							710 cell
+								711 text Vestido sirena de gala verde con perlas
+							712 text Prendas Importadas PEN 729.00
+							713 button Añadir 1 artículo
+					714 button
+					720 button
+					726 button
+					732 button
+					738 button
+					744 button
+					750 button
+					756 button
+					762 button
+					768 button
+					774 button
+
+The focused UI element is 478 container Vestido de largo gala nude con aplicaciones Prendas Importadas PEN 649.00 Añadir 1 artículo Vestido largo de gala de lentejuelas rojo brillantes Talla XL PEN 649.00 Añadir 1 artículo Vestido sirena largo color rojo con Bruselas Prendas Importadas PEN 449.00 Añadir 1 artículo

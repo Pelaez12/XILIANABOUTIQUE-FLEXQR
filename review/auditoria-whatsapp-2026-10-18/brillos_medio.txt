@@ -1,0 +1,659 @@
+Browser tab: 1748733914, Title: "(37) WhatsApp Business", URL: "https://web.whatsapp.com/".
+0 AXWebArea (37) WhatsApp Business, URL: web.whatsapp.com/
+	1 container
+		2 container
+			3 checkbox Description: Chats, Value: 1
+			4 text 37
+			5 checkbox Description: Llamadas, Value: 0
+			6 checkbox Description: Estados, Value: 0
+			7 text Actualizaciones en Estados
+			8 checkbox Description: Canales, Value: 0
+			9 checkbox Description: Comunidades, Value: 0
+			10 checkbox Description: Herramientas, Value: 0
+			11 checkbox Description: Anunciar, Value: 0
+			12 checkbox Description: Contenido multimedia, Value: 0
+			13 checkbox Description: Ajustes, Value: 0
+			14 checkbox Description: Perfil, Value: 0
+				15 image
+		16 container
+			17 container
+				18 heading WhatsApp, Value: 2
+					19 container WhatsApp
+						20 image wa-wordmark
+				21 pop up button (collapsed) Description: Menú, Secondary Actions: Expand
+				22 button Nuevo chat
+			23 container side
+				24 container
+					25 text field (settable) Buscar un chat o iniciar uno nuevo
+				26 tab group chat-list-filters
+					27 tab (selected, settable, boolean) Todos, ID: all-filter, Value: 1
+Todos
+					28 tab (selectable, settable, boolean) No leídos 43, ID: label_item_1, Value: 0
+No leídos
+43
+					29 tab (selectable, settable, boolean) Favoritos, ID: label_item_2, Value: 0
+Favoritos
+					30 tab (selectable, settable, boolean) Grupos 15, ID: label_item_3, Value: 0
+Grupos
+15
+					31 tab (selectable, settable, boolean) Comida, Value: 0, ID: label_item_4
+					32 tab (selectable, settable, boolean) Value: 0, ID: additional-filters
+				33 table Lista de chats
+					621 row Curso Monitores FDPN viernes ~Eduardo Maguiña :  COMUNICADO OFICIAL.pdf • 1 página
+						622 cell
+							623 container
+								624 cell
+									625 text Curso Monitores FDPN
+									626 text viernes
+								627 container ‪COMUNICADO OFICIAL.pdf • 1 página‬
+									628 text ~Eduardo Maguiña : 
+									629 text COMUNICADO OFICIAL.pdf • 1 página
+					34 row 60 mensajes no leídos Olinda's UPN Breña viernes ~Benja :  Foto Chat silenciado
+						35 cell
+							36 container
+								37 cell
+									38 text 60 mensajes no leídos
+									39 text Olinda's UPN Breña
+									40 text viernes
+								41 container ‪Foto‬
+									42 text ~Benja : 
+									43 text Foto
+								44 cell
+									45 container Chat silenciado
+					46 row Antonio Grau viernes Lo quite
+						47 cell
+							48 container
+								49 cell
+									50 text Antonio Grau
+									51 text viernes
+								52 text Lo quite
+					53 row Touché Salón viernes Tu consulta quedó registrada para revisión del equipo 🤍 La atención automática queda en pausa.
+						54 cell
+							55 container
+								56 cell
+									57 text Touché Salón
+									58 text viernes
+								59 container ‪Tu consulta quedó registrada para revisión del equipo 🤍 La atención automática queda en pausa.‬
+									60 text Tu consulta quedó registrada para revisión del equipo 
+									61 image 🤍
+									62 text  La atención automática queda en pausa.
+					63 row Kallpa Triatlon Atención al cliente viernes 0:01
+						64 cell
+							65 container
+								66 cell
+									67 text Kallpa Triatlon Atención al cliente
+									68 text viernes
+								69 container ‪0:01‬
+									70 text 0:01
+					71 row CLAUDE DAY PRESENCIAL UTEC | 10 de octubre viernes ~Lizbeth :  Sticker
+						72 cell
+							73 container
+								74 cell
+									75 text CLAUDE DAY PRESENCIAL UTEC | 10 de octubre
+									76 text viernes
+								77 container ‪Sticker‬
+									78 text ~Lizbeth : 
+									79 text Sticker
+					80 row Claude Team viernes Tú :  Sticker
+						81 cell
+							82 container
+								83 cell
+									84 text Claude Team
+									85 text viernes
+								86 container ‪Sticker‬
+									87 text Tú : 
+									88 text Sticker
+					89 row @kathiaholistica viernes Perfecto a los 8am la estaremos esperando
+						90 cell
+							91 container
+								92 cell
+									93 text @kathiaholistica
+									94 text viernes
+								95 text Perfecto a los 8am la estaremos esperando
+					96 row +51 930 527 248 viernes Ya terminé
+						97 cell
+							98 container
+								99 cell
+									100 text +51 930 527 248
+									101 text viernes
+								102 text Ya terminé
+					103 row 1 mensaje no leído @jimenanoeliaa viernes Hola que tal Los mensajes nuevos desaparecerán de este chat después de 24 horas de haber sido enviados, a menos que se use la opción para conservarlos.
+						104 cell
+							105 container
+								106 cell
+									107 text 1 mensaje no leído
+									108 text @jimenanoeliaa
+									109 text viernes
+								110 text Hola que tal
+								111 container Los mensajes nuevos desaparecerán de este chat después de 24 horas de haber sido enviados, a menos que se use la opción para conservarlos.
+					112 row +51 942 668 903 jueves Sticker
+						113 cell
+							114 container
+								115 cell
+									116 text +51 942 668 903
+									117 text jueves
+								118 container ‪Sticker‬
+									119 text Sticker
+					120 row 4 mensajes no leídos Taka CrossFit Oficial jueves ~Taka Fitness Center añadió a Quizá NanoLoo Technology , +51 956 567 356 , Quizá Erika Morgan , +51 940 669 660 y +51 902 737 423 .
+						121 cell
+							122 container
+								123 cell
+									124 text 4 mensajes no leídos
+									125 text Taka CrossFit Oficial
+									126 text jueves
+								127 container
+									128 text ~Taka Fitness Center  añadió a 
+									129 container Quizá NanoLoo Technology
+										130 text ~ NanoLoo Technology
+									131 text ,  +51 956 567 356 , 
+									132 container Quizá Erika Morgan
+										133 text ~ Erika Morgan
+									134 text ,  +51 940 669 660  y  +51 902 737 423 .
+					135 row Continental International Universities jueves No se pudo cargar este mensaje. Abre el mensaje en tu teléfono para verlo.
+						136 cell
+							137 container
+								138 cell
+									139 text Continental International Universities
+									140 text jueves
+								141 container ‪No se pudo cargar este mensaje. Abre el mensaje en tu teléfono para verlo.‬
+									142 text No se pudo cargar este mensaje. Abre el mensaje en tu teléfono para verlo.
+					143 row Andrea jueves SE ME ANTOJARON UNAS BUENAS CHICHOTAS MASCULINAS PARA ATRAGANTARME CON ELLAS Y TOMAR DE SU LECHE DE MACHO
+						144 cell
+							145 container
+								146 cell
+									147 text Andrea
+									148 text jueves
+								149 container ‪SE ME ANTOJARON UNAS BUENAS CHICHOTAS MASCULINAS PARA ATRAGANTARME CON ELLAS Y TOMAR DE SU LECHE DE MACHO‬
+									150 text SE ME ANTOJARON UNAS BUENAS  CHICHOTAS MASCULINAS  PARA ATRAGANTARME CON ELLAS Y TOMAR DE SU LECHE DE MACHO
+					151 row Jaz jueves Vidriería
+						152 cell
+							153 container
+								154 cell
+									155 text Jaz
+									156 text jueves
+								157 text Vidriería
+					158 row Silvia Doris jueves Recibí tu audio, linda 🤍 Por ahora no puedo escuchar audios. ¿Me escribes tu consulta para ayudarte?
+						159 cell
+							160 container
+								161 cell
+									162 text Silvia Doris
+									163 text jueves
+								164 container ‪Recibí tu audio, linda 🤍 Por ahora no puedo escuchar audios. ¿Me escribes tu consulta para ayudarte?‬
+									165 text Recibí tu audio, linda 
+									166 image 🤍
+									167 text  Por ahora no puedo escuchar audios. ¿Me escribes tu consulta para ayudarte?
+					168 row Mamamamammama jueves Maa
+						169 cell
+							170 container
+								171 cell
+									172 text Mamamamammama
+									173 text jueves
+								174 text Maa
+					175 row GRUPO:AUTOMATIZACION CON IA 2026 jueves Tú :  business-ai-information-report.zip
+						176 cell
+							177 container
+								178 cell
+									179 text GRUPO:AUTOMATIZACION CON IA 2026
+									180 text jueves
+								181 container ‪business-ai-information-report.zip‬
+									182 text Tú : 
+									183 text business-ai-information-report.zip
+								184 text TRABAJO
+					185 row idat jueves Foto
+						186 cell
+							187 container
+								188 cell
+									189 text idat
+									190 text jueves
+								191 container ‪Foto‬
+									192 text Foto
+					193 row 1 mensaje no leído Familia Pelaez Bautista miércoles Mamamamammama fijó un mensaje. Chat silenciado
+						194 cell
+							195 container
+								196 cell
+									197 text 1 mensaje no leído
+									198 text Familia Pelaez Bautista
+									199 text miércoles
+								200 text Mamamamammama fijó un mensaje.
+								201 cell
+									202 container Chat silenciado
+					203 row luuuu miércoles Vaa
+						204 cell
+							205 container
+								206 cell
+									207 text luuuu
+									208 text miércoles
+								209 text Vaa
+					210 row @nickyveliz miércoles hola ! graciaas
+						211 cell
+							212 container
+								213 cell
+									214 text @nickyveliz
+									215 text miércoles
+								216 text hola ! graciaas
+					217 row +51 902 157 756 miércoles Holaaa Danna que tal a los años
+						218 cell
+							219 container
+								220 cell
+									221 text +51 902 157 756
+									222 text miércoles
+								223 text Holaaa Danna que tal a los años
+					224 row 1 mensaje no leído Mariam Huidobro miércoles lo vi, vere si me da el tiempo la prox semana 🙌🏻
+						225 cell
+							226 container
+								227 cell
+									228 text 1 mensaje no leído
+									229 text Mariam Huidobro
+									230 text miércoles
+								231 container ‪lo vi, vere si me da el tiempo la prox semana 🙌🏻‬
+									232 text lo vi, vere si me da el tiempo la prox semana 
+									233 image 🙌🏻
+		241 container main
+			242 container
+				243 button Información del perfil
+				244 button +51 930 527 248
+				245 button Catálogo
+				246 button Añadir a la lista
+				247 button Videollamada
+				248 button Llamada
+				249 button Buscar
+				250 pop up button (collapsed) Description: Menú, Secondary Actions: Expand
+			251 button Mensaje fijado https://xilianaboutique.comunidadfortaleza.com
+				252 container Mensaje fijado
+				253 text https://xilianaboutique.comunidadfortaleza.com
+			254 container
+				256 container
+					257 text martes
+					258 row
+					259 row
+					260 row
+					261 row
+					262 row
+					263 row
+					264 row
+					265 row
+					266 row
+					267 row
+					268 row
+					269 row
+					270 row
+					271 row
+					272 row
+					273 row
+					274 row
+						275 container
+							276 container
+								277 text Ubicación : Jesus María Perú
+								278 button 12:04 p.m. Entregado 
+									279 text 12:04 p.m.
+									280 container  Entregado 
+										281 image wds-ic-read
+					282 row
+						283 container
+							284 container
+								285 text Domingos previa cita
+								286 button 12:04 p.m. Entregado 
+									287 text 12:04 p.m.
+									288 container  Entregado 
+										289 image wds-ic-read
+					290 row
+						291 container
+							292 container
+								293 text Poner la animación :
+								294 button 12:06 p.m. Entregado 
+									295 text 12:06 p.m.
+									296 container  Entregado 
+										297 image wds-ic-read
+					298 row
+						299 container
+							300 container
+								301 text Asesor de imagen
+								302 button 12:08 p.m. Entregado 
+									303 text 12:08 p.m.
+									304 container  Entregado 
+										305 image wds-ic-read
+					306 row
+						307 container
+							308 container
+								309 button Mensaje citado
+									310 text Tú
+									311 button Asesor de imagen
+								312 text Servicio de asesoramiento de imagen
+								313 button 12:08 p.m. Entregado 
+									314 text 12:08 p.m.
+									315 container  Entregado 
+										316 image wds-ic-read
+					317 row
+						318 container
+							319 container
+								320 text Meterle zoom a las imagenes que se chiquitas
+								321 button 12:15 p.m. Entregado 
+									322 text 12:15 p.m.
+									323 container  Entregado 
+										324 image wds-ic-read
+					325 row
+						326 container
+							327 container
+								328 text Bandage
+								329 button 12:15 p.m. Entregado 
+									330 text 12:15 p.m.
+									331 container  Entregado 
+										332 image wds-ic-read
+					333 row
+						334 container
+							335 container
+								336 text Talla única
+								337 button 12:18 p.m. Entregado 
+									338 text 12:18 p.m.
+									339 container  Entregado 
+										340 image wds-ic-read
+					341 row
+						342 container
+							343 container
+								344 text Talla M Y ESTANDAR
+								345 button Editado12:18 p.m. Entregado 
+									346 text Editado 12:18 p.m.
+									347 container  Entregado 
+										348 image wds-ic-read
+					349 row
+						350 container
+							351 container
+								352 container Tú:
+								353 text M
+								354 button 12:18 p.m. Entregado 
+									355 text 12:18 p.m.
+									356 container  Entregado 
+										357 image wds-ic-read
+					358 row
+						359 container
+							360 container
+								361 container +51 930 527 248:
+								362 text Estándar 12:19 p.m.
+					363 row
+						364 container
+							365 container
+								366 container Tú:
+								367 text Aplicar ingeniera inversa
+								368 button 12:20 p.m. Entregado 
+									369 text 12:20 p.m.
+									370 container  Entregado 
+										371 image wds-ic-read
+					372 row
+						373 container
+							374 container
+								375 button Abrir foto
+								376 button 5:38 p.m. Entregado 
+									377 text 5:38 p.m.
+									378 container  Entregado 
+										379 image wds-ic-read
+							380 button Reenviar archivo multimedia
+					381 row
+						382 container
+							383 container
+								384 text Así o más grandecito?
+								385 button 5:39 p.m. Entregado 
+									386 text 5:39 p.m.
+									387 container  Entregado 
+										388 image wds-ic-read
+					389 row
+						390 container
+							391 container
+								392 text Considero para moviles está bien
+								393 button 5:39 p.m. Entregado 
+									394 text 5:39 p.m.
+									395 container  Entregado 
+										396 image wds-ic-read
+					397 row
+						398 container
+							399 container
+								400 container Tú:
+								401 button Abrir foto
+								402 button 5:40 p.m. Entregado 
+									403 text 5:40 p.m.
+									404 container  Entregado 
+										405 image wds-ic-read
+							406 button Reenviar archivo multimedia
+					407 row
+						408 container
+							409 container
+								410 text ~ Equilibrio y belleza fijó un mensaje.
+					411 row
+						412 container
+							413 container
+								414 container +51 930 527 248:
+								415 text Está bien 5:56 p.m.
+					416 text miércoles
+					417 row
+						418 container
+							419 container
+								420 container Tú:
+								421 button Abrir foto
+								422 button 1:13 p.m. Entregado 
+									423 text 1:13 p.m.
+									424 container  Entregado 
+										425 image wds-ic-read
+							426 button Reenviar archivo multimedia
+					427 row
+						428 container
+							429 container
+								430 text Creo que me faltan 16 vestidos más
+								431 button 1:13 p.m. Entregado 
+									432 text 1:13 p.m.
+									433 container  Entregado 
+										434 image wds-ic-read
+					435 row
+						436 container
+							437 container
+								438 text De cortos
+								439 button 1:14 p.m. Entregado 
+									440 text 1:14 p.m.
+									441 container  Entregado 
+										442 image wds-ic-read
+					443 row
+						444 container
+							445 container
+								446 container Tú:
+								447 text Revisaré de nuevo
+								448 button 1:14 p.m. Entregado 
+									449 text 1:14 p.m.
+									450 container  Entregado 
+										451 image wds-ic-read
+					452 text viernes
+					453 row
+						454 container
+							455 container
+								456 container Tú:
+								457 text Hola que tal
+								458 button 7:10 a.m. Entregado 
+									459 text 7:10 a.m.
+									460 container  Entregado 
+										461 image wds-ic-read
+					462 row
+						463 container
+							464 container
+								465 container Tú:
+								466 text Ya terminé
+								467 button 7:10 a.m. Entregado 
+									468 text 7:10 a.m.
+									469 container  Entregado 
+										470 image wds-ic-read
+			471 container
+				472 container
+					473 pop up button (collapsed) Description: Adjuntar, Secondary Actions: Expand
+					474 button Emojis, GIF, Stickers
+					475 text entry area (settable) Description: Escribir un mensaje para +51 930 527 248, Value: 
+
+					476 button Mensaje de voz
+						477 button Mensaje de voz
+		630 container
+			631 button Atrás
+			632 heading Vestidos Cortos Brillos, Value: 2
+				633 text Vestidos Cortos Brillos
+			634 button (collapsed) Description: Tu carrito, Secondary Actions: Expand
+			635 button Enlace al catálogo
+			636 container
+				637 button
+				643 button
+				650 button
+				656 button
+				663 button Vestido de lentejuelas corto rojo PEN 289.00 Añadir 1 artículo
+					664 container
+						665 cell
+							666 text Vestido de lentejuelas corto rojo
+						667 text PEN 289.00
+						668 button Añadir 1 artículo
+				669 button Vestido corto de una manga color marrón Prendas Importadas PEN 389.00 Añadir 1 artículo
+					670 container
+						671 cell
+							672 text Vestido corto de una manga color marrón
+						673 text Prendas Importadas PEN 389.00
+						674 button Añadir 1 artículo
+				675 button Vestido corto negro con plateado ⬇️ 60% Descuento. PEN 75.60 PEN 189.00 Añadir 1 artículo
+					676 container
+						677 cell
+							678 text Vestido corto negro con plateado
+						679 image ⬇️
+						680 text 60% Descuento. PEN 75.60  PEN 189.00
+						681 button Añadir 1 artículo
+				682 button Vestido corto negro con mangas plateadas ⬇️ 50% Descuento. PEN 119.50 PEN 239.00 Añadir 1 artículo
+					683 container
+						684 cell
+							685 text Vestido corto negro con mangas plateadas
+						686 image ⬇️
+						687 text 50% Descuento. PEN 119.50  PEN 239.00
+						688 button Añadir 1 artículo
+				689 button Vestido (L) transparente con diamantes de imitación ⬇️ 50% Descuento PEN 164.50 PEN 329.00 Añadir 1 artículo
+					690 container
+						691 cell
+							692 text Vestido (L) transparente con diamantes de imitación
+						693 image ⬇️
+						694 text 50% Descuento PEN 164.50  PEN 329.00
+						695 button Añadir 1 artículo
+				696 button Vestido corto de lentejuelas rosado de una manga PEN 389.00 Añadir 1 artículo
+					697 container
+						698 cell
+							699 text Vestido corto de lentejuelas rosado de una manga
+						700 text PEN 389.00
+						701 button Añadir 1 artículo
+				702 button Vestido verde de lentejuelas y mostacillas 644 PEN 329.00 Añadir 1 artículo
+					703 container
+						704 cell
+							705 text Vestido verde de lentejuelas y mostacillas
+						706 text 644 PEN 329.00
+						707 button Añadir 1 artículo
+				708 button Vestido corto 3/4 de lentejuelas con terciopelo en el busto COD 1618 PEN 399.00 Añadir 1 artículo
+					709 container
+						710 cell
+							711 text Vestido corto 3/4 de lentejuelas con terciopelo en el busto
+						712 text COD 1618 PEN 399.00
+						713 button Añadir 1 artículo
+				714 button Vestido de lentejuelas palo rosa de transparencias PEN 389.00 Añadir 1 artículo
+					715 container
+						716 cell
+							717 text Vestido de lentejuelas palo rosa de transparencias
+						718 text PEN 389.00
+						719 button Añadir 1 artículo
+				720 button VESTIDO CORTO Negro con tirantes y pedrería PEN 399.00 Añadir 1 artículo
+					721 container
+						722 cell
+							723 text VESTIDO CORTO
+						724 text Negro con tirantes y pedrería PEN 399.00
+						725 button Añadir 1 artículo
+				726 button Vestido corto champagne de lentejuelas con cuello alto PEN 389.00 Añadir 1 artículo
+					727 container
+						728 cell
+							729 text Vestido corto champagne de lentejuelas con cuello alto
+						730 text PEN 389.00
+						731 button Añadir 1 artículo
+				732 button Vestido corto blanco de lentejuelas tornasoladas Vestido corto blanco de lentejuelas tornasoladas de un hombro con caida de pedrería en cadenas PEN 349.00 Añadir 1 artículo
+					733 container
+						734 cell
+							735 text Vestido corto blanco de lentejuelas tornasoladas
+						736 text Vestido corto blanco de lentejuelas tornasoladas de un hombro con caida de pedrería en cadenas PEN 349.00
+						737 button Añadir 1 artículo
+				738 button Vestido corto de tirantes Vestido corto negro con pedrería de tirantes con transparencia PEN 369.00 Añadir 1 artículo
+					739 container
+						740 cell
+							741 text Vestido corto de tirantes
+						742 text Vestido corto negro con pedrería de tirantes con transparencia PEN 369.00
+						743 button Añadir 1 artículo
+				744 button Vestido corto rojo de pedreria Vestido corto rojo con pedrería de tirantes PEN 329.00 Añadir 1 artículo
+					745 container
+						746 cell
+							747 text Vestido corto rojo de pedreria
+						748 text Vestido corto rojo con pedrería de tirantes PEN 329.00
+						749 button Añadir 1 artículo
+				750 button Vestido Corto Verde de Pedrería Plateadas y de Perlas Prendas Importadas PEN 399.00 Añadir 1 artículo
+					751 container
+						752 cell
+							753 text Vestido Corto Verde de Pedrería Plateadas y de Perlas
+						754 text Prendas Importadas PEN 399.00
+						755 button Añadir 1 artículo
+				756 button Vestido largo de lentejuelas con diamantes Prendas Importadas PEN 349.00 Añadir 1 artículo
+					757 container
+						758 cell
+							759 text Vestido largo de lentejuelas con diamantes
+						760 text Prendas Importadas PEN 349.00
+						761 button Añadir 1 artículo
+				762 button Vestido corto rojo de lentejuelas rojas Prendas Importadas PEN 298.00 Añadir 1 artículo
+					763 container
+						764 cell
+							765 text Vestido corto rojo de lentejuelas rojas
+						766 text Prendas Importadas PEN 298.00
+						767 button Añadir 1 artículo
+				768 button Vestido corto blanco con dorado de lentejuelas Prendas Importadas PEN 369.00 Añadir 1 artículo
+					769 container
+						770 cell
+							771 text Vestido corto blanco con dorado de lentejuelas
+						772 text Prendas Importadas PEN 369.00
+						773 button Añadir 1 artículo
+				774 button Vestido corto de lentejuelas celeste y azul Prenda Importada PEN 449.00 Añadir 1 artículo
+					775 container
+						776 cell
+							777 text Vestido corto de lentejuelas celeste y azul
+						778 text Prenda Importada PEN 449.00
+						779 button Añadir 1 artículo
+				780 button Vestido corto asimétrico de lentejuelas azul Prendas Importadas PEN 389.00 Añadir 1 artículo
+					781 container
+						782 cell
+							783 text Vestido corto asimétrico de lentejuelas azul
+						784 text Prendas Importadas PEN 389.00
+						785 button Añadir 1 artículo
+				786 button Vestido corto azul de lentejuelas y flecos Prendas Importadas PEN 389.00 Añadir 1 artículo
+					787 container
+						788 cell
+							789 text Vestido corto azul de lentejuelas y flecos
+						790 text Prendas Importadas PEN 389.00
+						791 button Añadir 1 artículo
+				792 button Vestido corto de diamantes de imitación plateadas Prendas Importadas PEN 349.00 Añadir 1 artículo
+					793 container
+						794 cell
+							795 text Vestido corto de diamantes de imitación plateadas
+						796 text Prendas Importadas PEN 349.00
+						797 button Añadir 1 artículo
+				798 button Vestido de pedrería negro con plumas Prendas Importadas PEN 469.00 Añadir 1 artículo
+					802 container
+						803 cell
+							804 text Vestido de pedrería negro con plumas
+						805 text Prendas Importadas PEN 469.00
+						806 button Añadir 1 artículo
+				799 button Vestido corto azul pedrería y strass Prendas Importadas PEN 389.00 Añadir 1 artículo
+					807 container
+						808 cell
+							809 text Vestido corto azul pedrería y strass
+						810 text Prendas Importadas PEN 389.00
+						811 button Añadir 1 artículo
+				800 button Vestido corto Blanco de lentejuelas Prendas Importadas PEN 349.00 Añadir 1 artículo
+					812 container
+						813 cell
+							814 text Vestido corto Blanco de lentejuelas
+						815 text Prendas Importadas PEN 349.00
+						816 button Añadir 1 artículo
+				801 button Vestido dorado corto asimétrico de flecos Prendas Importadas PEN 389.00 Añadir 1 artículo
+					817 container
+						818 cell
+							819 text Vestido dorado corto asimétrico de flecos
+						820 text Prendas Importadas PEN 389.00
+						821 button Añadir 1 artículo
+
+The focused UI element is 0 AXWebArea (37) WhatsApp Business, URL: web.whatsapp.com/

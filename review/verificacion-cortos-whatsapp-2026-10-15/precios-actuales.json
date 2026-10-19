@@ -1,0 +1,266 @@
+[
+  {
+    "fila": 1,
+    "nombre_whatsapp": "Vestido corto con mangas y ajustado color azul con estampado floral",
+    "precio_whatsapp": 68.7,
+    "id_web": 10,
+    "precio_web": 68.7,
+    "precio_coincide": true
+  },
+  {
+    "fila": 2,
+    "nombre_whatsapp": "Vestido corto satín estampado",
+    "precio_whatsapp": 86.7,
+    "id_web": 180,
+    "precio_web": 86.7,
+    "precio_coincide": true
+  },
+  {
+    "fila": 3,
+    "nombre_whatsapp": "Vestido corto con volantes de cuello redondo",
+    "precio_whatsapp": 115.6,
+    "id_web": 181,
+    "precio_web": 115.6,
+    "precio_coincide": true
+  },
+  {
+    "fila": 4,
+    "nombre_whatsapp": "Vestido corto licrado azul",
+    "precio_whatsapp": 249.0,
+    "id_web": 185,
+    "precio_web": 249,
+    "precio_coincide": true
+  },
+  {
+    "fila": 5,
+    "nombre_whatsapp": "Vestido lila en rib",
+    "precio_whatsapp": 289.0,
+    "id_web": 186,
+    "precio_web": 289,
+    "precio_coincide": true
+  },
+  {
+    "fila": 6,
+    "nombre_whatsapp": "Vestido blanco mini elegante con perlas",
+    "precio_whatsapp": 329.0,
+    "id_web": null,
+    "precio_web": null,
+    "precio_coincide": null
+  },
+  {
+    "fila": 7,
+    "nombre_whatsapp": "Vestido corto cuello diagonal, plisado y liso",
+    "precio_whatsapp": 319.0,
+    "id_web": 63,
+    "precio_web": 319,
+    "precio_coincide": true
+  },
+  {
+    "fila": 8,
+    "nombre_whatsapp": "Vestido corto verde agua con tirantes",
+    "precio_whatsapp": 299.0,
+    "id_web": 188,
+    "precio_web": 299,
+    "precio_coincide": true
+  },
+  {
+    "fila": 9,
+    "nombre_whatsapp": "Vestido corto celeste con corte sirena",
+    "precio_whatsapp": 239.0,
+    "id_web": 64,
+    "precio_web": 239,
+    "precio_coincide": true
+  },
+  {
+    "fila": 10,
+    "nombre_whatsapp": "Vestido blanco con perlas",
+    "precio_whatsapp": 319.0,
+    "id_web": null,
+    "precio_web": null,
+    "precio_coincide": null
+  },
+  {
+    "fila": 11,
+    "nombre_whatsapp": "Vestido corto blanco con capa",
+    "precio_whatsapp": 239.0,
+    "id_web": 189,
+    "precio_web": 239,
+    "precio_coincide": true
+  },
+  {
+    "fila": 12,
+    "nombre_whatsapp": "Vestido Corto Bellmet asimétrica color verde",
+    "precio_whatsapp": 189.0,
+    "id_web": 65,
+    "precio_web": 189,
+    "precio_coincide": true
+  },
+  {
+    "fila": 13,
+    "nombre_whatsapp": "Vestido color verde terciopelo semi drapeado con manga y escote",
+    "precio_whatsapp": 429.0,
+    "id_web": 66,
+    "precio_web": 429,
+    "precio_coincide": true
+  },
+  {
+    "fila": 14,
+    "nombre_whatsapp": "Vestido corto azul con cinturón de Aplicaciones plateado",
+    "precio_whatsapp": 369.0,
+    "id_web": 190,
+    "precio_web": 369,
+    "precio_coincide": true
+  },
+  {
+    "fila": 15,
+    "nombre_whatsapp": "Vestido drapeado verde de mandas con escote",
+    "precio_whatsapp": 359.0,
+    "id_web": 66,
+    "precio_web": 429,
+    "precio_coincide": false
+  },
+  {
+    "fila": 16,
+    "nombre_whatsapp": "Vestido corto blanco drapeado con mangas largas",
+    "precio_whatsapp": 389.0,
+    "id_web": 67,
+    "precio_web": 389,
+    "precio_coincide": true
+  },
+  {
+    "fila": 17,
+    "nombre_whatsapp": "Vestido de cuello cuadrado de manga larga color rosado",
+    "precio_whatsapp": 299.0,
+    "id_web": 68,
+    "precio_web": 299,
+    "precio_coincide": true
+  },
+  {
+    "fila": 18,
+    "nombre_whatsapp": "Vestido corto plomo  con detalle de lentejuelas y pliegue",
+    "precio_whatsapp": 319.0,
+    "id_web": 130,
+    "precio_web": 319,
+    "precio_coincide": true
+  },
+  {
+    "fila": 19,
+    "nombre_whatsapp": "Vestido largo verde con estampado de rosas verdes",
+    "precio_whatsapp": 229.0,
+    "id_web": 191,
+    "precio_web": 229,
+    "precio_coincide": true
+  },
+  {
+    "fila": 20,
+    "nombre_whatsapp": "Vestido drapeado azul asimétrico",
+    "precio_whatsapp": 389.0,
+    "id_web": 131,
+    "precio_web": 389,
+    "precio_coincide": true
+  },
+  {
+    "fila": 21,
+    "nombre_whatsapp": "Vestido corto drapeado con perlas",
+    "precio_whatsapp": 389.0,
+    "id_web": 192,
+    "precio_web": 389,
+    "precio_coincide": true
+  },
+  {
+    "fila": 22,
+    "nombre_whatsapp": "Vestido corto satín (Talla S)",
+    "precio_whatsapp": 179.0,
+    "id_web": 84,
+    "precio_web": 179,
+    "precio_coincide": true
+  },
+  {
+    "fila": 23,
+    "nombre_whatsapp": "Vestido corto drapeado marrón con blanco",
+    "precio_whatsapp": 389.0,
+    "id_web": 85,
+    "precio_web": 389,
+    "precio_coincide": true
+  },
+  {
+    "fila": 24,
+    "nombre_whatsapp": "Vestido crema de Gaza con detalles estrellas doradas",
+    "precio_whatsapp": 289.0,
+    "id_web": 86,
+    "precio_web": 289,
+    "precio_coincide": true
+  },
+  {
+    "fila": 25,
+    "nombre_whatsapp": "Vestido corto Blanco de una manga",
+    "precio_whatsapp": 289.0,
+    "id_web": 79,
+    "precio_web": 289,
+    "precio_coincide": true
+  },
+  {
+    "fila": 26,
+    "nombre_whatsapp": "Vestido azul con perlas blancas",
+    "precio_whatsapp": 389.0,
+    "id_web": 193,
+    "precio_web": 389,
+    "precio_coincide": true
+  },
+  {
+    "fila": 27,
+    "nombre_whatsapp": "Vestido corto drapeado",
+    "precio_whatsapp": 249.0,
+    "id_web": 80,
+    "precio_web": 249,
+    "precio_coincide": true
+  },
+  {
+    "fila": 28,
+    "nombre_whatsapp": "Vestido largo marrón con detalle plateados",
+    "precio_whatsapp": 319.0,
+    "id_web": 81,
+    "precio_web": 319,
+    "precio_coincide": true
+  },
+  {
+    "fila": 29,
+    "nombre_whatsapp": "Vestido corto negro con aplicaciones plateadas",
+    "precio_whatsapp": 289.0,
+    "id_web": 194,
+    "precio_web": 289,
+    "precio_coincide": true
+  },
+  {
+    "fila": 30,
+    "nombre_whatsapp": "vestido corto con escote y detalles plateados",
+    "precio_whatsapp": 279.0,
+    "id_web": 82,
+    "precio_web": 279,
+    "precio_coincide": true
+  },
+  {
+    "fila": 31,
+    "nombre_whatsapp": "Vestido corto drapeado de perlas",
+    "precio_whatsapp": 319.0,
+    "id_web": 195,
+    "precio_web": 319,
+    "precio_coincide": true
+  },
+  {
+    "fila": 32,
+    "nombre_whatsapp": "vestido corto drapeado de mangas",
+    "precio_whatsapp": 379.0,
+    "id_web": 69,
+    "precio_web": 379,
+    "precio_coincide": true
+  },
+  {
+    "fila": 33,
+    "nombre_whatsapp": "Vestido 3/4 blanco de mangas con strass plateadas.",
+    "precio_whatsapp": 549.0,
+    "id_web": 83,
+    "precio_web": 549,
+    "precio_coincide": true
+  }
+]

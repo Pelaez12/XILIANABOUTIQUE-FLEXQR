@@ -1,0 +1,130 @@
+[
+  {
+    "id_nuevo": 180,
+    "nombre": "Vestido corto satín estampado",
+    "codigo_catalogo": "796",
+    "sha256": "39ff3abd3002812a6d961e31d178e2498365ba3d8bc231a117d52cb90742ee5b",
+    "duplicados_exactos": [],
+    "candidatos_perceptuales": {
+      "foto_completa": [
+        {
+          "id": 39,
+          "foto": "./images/productos-reales/XL-039/01-R005.jpeg",
+          "distancia_dhash_256bits": 102
+        },
+        {
+          "id": 72,
+          "foto": "./images/productos-reales/XL-072/01-R150.jpeg",
+          "distancia_dhash_256bits": 102
+        },
+        {
+          "id": 22,
+          "foto": "./images/productos-reales/XL-022/01-R047.jpeg",
+          "distancia_dhash_256bits": 106
+        },
+        {
+          "id": 22,
+          "foto": "./images/productos-reales/XL-022/02-R048.jpeg",
+          "distancia_dhash_256bits": 106
+        },
+        {
+          "id": 152,
+          "foto": "./images/productos-reales/XL-152/02-N009.jpeg",
+          "distancia_dhash_256bits": 106
+        }
+      ],
+      "pose_izquierda": [
+        {
+          "id": 154,
+          "foto": "./images/productos-reales/XL-154/02-N019.jpeg",
+          "distancia_dhash_256bits": 96
+        },
+        {
+          "id": 154,
+          "foto": "./images/productos-reales/XL-154/01-N018.jpeg",
+          "distancia_dhash_256bits": 101
+        },
+        {
+          "id": 144,
+          "foto": "./images/productos-reales/XL-144/01-N020.jpeg",
+          "distancia_dhash_256bits": 106
+        },
+        {
+          "id": 145,
+          "foto": "./images/productos-reales/XL-145/03-N024.jpeg",
+          "distancia_dhash_256bits": 109
+        },
+        {
+          "id": 106,
+          "foto": "./images/productos-reales/XL-106/02-R136.jpeg",
+          "distancia_dhash_256bits": 110
+        }
+      ],
+      "pose_derecha": [
+        {
+          "id": 101,
+          "foto": "./images/productos-reales/XL-101/01-R062.jpeg",
+          "distancia_dhash_256bits": 93
+        },
+        {
+          "id": 22,
+          "foto": "./images/productos-reales/XL-022/01-R047.jpeg",
+          "distancia_dhash_256bits": 101
+        },
+        {
+          "id": 67,
+          "foto": "./images/productos-reales/XL-067/02-R133.jpeg",
+          "distancia_dhash_256bits": 102
+        },
+        {
+          "id": 154,
+          "foto": "./images/productos-reales/XL-154/02-N019.jpeg",
+          "distancia_dhash_256bits": 103
+        },
+        {
+          "id": 113,
+          "foto": "./images/productos-reales/XL-113/02-R037.jpeg",
+          "distancia_dhash_256bits": 104
+        }
+      ]
+    },
+    "decision_visual": "Prenda nueva, sin correspondencia entre los 140 modelos anteriores. Se comparó la silueta, escote, mangas, estampado, largo y aplicaciones. La similitud de fondo o pose no acredita duplicado."
+  },
+  {
+    "id_nuevo": 181,
+    "nombre": "Vestido corto con volantes de cuello redondo",
+    "codigo_catalogo": "1537",
+    "sha256": "350a7ec9b3492e6e74edf0c2f3eec67f7d438d6928081f0e965e6e8dcfff48f5",
+    "duplicados_exactos": [],
+    "candidatos_perceptuales": {
+      "foto_completa": [
+        {
+          "id": 111,
+          "foto": "./images/productos-reales/XL-111/02-R119.jpeg",
+          "distancia_dhash_256bits": 104
+        },
+        {
+          "id": 128,
+          "foto": "./images/productos-reales/XL-128/01-R144.jpeg",
+          "distancia_dhash_256bits": 104
+        },
+        {
+          "id": 38,
+          "foto": "./images/productos-reales/XL-038/01-R125.jpeg",
+          "distancia_dhash_256bits": 109
+        },
+        {
+          "id": 128,
+          "foto": "./images/productos-reales/XL-128/02-R019.jpeg",
+          "distancia_dhash_256bits": 109
+        },
+        {
+          "id": 172,
+          "foto": "./images/productos-reales/XL-172/01-N021.jpeg",
+          "distancia_dhash_256bits": 109
+        }
+      ]
+    },
+    "decision_visual": "Prenda nueva, sin correspondencia entre los 140 modelos anteriores. Se comparó la silueta, escote, mangas, estampado, largo y aplicaciones. La similitud de fondo o pose no acredita duplicado."
+  }
+]

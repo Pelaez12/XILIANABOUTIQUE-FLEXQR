@@ -1,0 +1,694 @@
+{
+  "fecha": "2026-10-15",
+  "criterio": "Regla comercial aclarada por el usuario, anclada a XL-054: base lisa con bandas/aplicaciones o brillo disperso pertenece a Cortos; brillo dominante por toda la prenda o un bloque protagonista corresponde a Cortos con brillo. No se exige 100% literal de brillo ni se usa la cuota 43 como objetivo.",
+  "modelos_revisados": 66,
+  "snapshot": {
+    "Cortos": 18,
+    "Cortos con brillo": 48
+  },
+  "ids_propuestos_brillo_a_cortos": [
+    54,
+    82,
+    114,
+    118,
+    172
+  ],
+  "ids_recomendados_cortos": [
+    10,
+    22,
+    54,
+    63,
+    64,
+    65,
+    66,
+    67,
+    69,
+    79,
+    80,
+    82,
+    83,
+    84,
+    85,
+    86,
+    114,
+    118,
+    121,
+    122,
+    130,
+    131,
+    172
+  ],
+  "ids_restauracion_largos_a_gala_por_agente_principal": [
+    89,
+    101,
+    103,
+    137,
+    140,
+    160,
+    161,
+    164
+  ],
+  "conteo_derivado_de_observaciones_no_objetivo": {
+    "Cortos": 23,
+    "Cortos con brillo": 35,
+    "Gala": 8
+  },
+  "fronteras_y_excepciones": [
+    {
+      "id": 114,
+      "decision": "Cortos",
+      "limite": "Tiene una pieza superior brillante; la base negra lisa y las perlas dispersas dominan. Decisión comercial coherente con XL-054."
+    },
+    {
+      "id": 118,
+      "decision": "Cortos",
+      "limite": "Corpiño con lentejuelas negras discretas; falda lisa mayoritaria. No equivale a bloque dorado protagonista de XL-153."
+    },
+    {
+      "id": 172,
+      "decision": "Cortos",
+      "limite": "Mangas y media pechera decoradas; negro liso dominante en cuerpo y falda."
+    },
+    {
+      "id": 127,
+      "decision": "Conservar Cortos con brillo",
+      "limite": "No asegurar el tipo de material a partir de esta imagen; no cambiar por textura dudosa."
+    },
+    {
+      "id": 154,
+      "decision": "Conservar Cortos con brillo",
+      "limite": "Excepción explícita del usuario; no generalizarla a todos los vestidos largos con abertura."
+    }
+  ],
+  "extras": {
+    "110": "Revisada foto original: vestido blanco largo con rayas brillantes que continúan hasta el suelo y capa/tul lateral. No se ve minifalda independiente; conservar Gala.",
+    "135": "Ampliada foto original: ornamentación muy densa por todo el mini; conservar Cortos con brillo.",
+    "85": "Los dos originales ampliados confirman estampado marrón/blanco mate; Cortos vigente es correcto. Esta observación sustituye la impresión inicial del informe anterior."
+  },
+  "conciliacion_identidades": "Las 16 filas oficiales anteriores sin asociación segura siguen pendientes de identidad. No se reinterpretan como 16 faltantes confirmados ni se intenta completar cifras reclasificando fotos.",
+  "filas": [
+    {
+      "id": 10,
+      "nombre": "Vestido corto azul con estampado floral",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Vestido azul a la rodilla con estampado floral; no se aprecia lentejuela ni pedrería dominante.",
+      "foto_principal_revisada": "./images/productos-reales/XL-010/01-R155.jpeg"
+    },
+    {
+      "id": 16,
+      "nombre": "Vestido transparente con diamantes de imitación",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Pedrería azul/plateada distribuida densamente por corsé y minifalda, con plumas.",
+      "foto_principal_revisada": "./images/productos-reales/XL-016/01-R031.jpeg"
+    },
+    {
+      "id": 17,
+      "nombre": "Vestido corto dorado de una manga",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Dorado de una manga y falda cruzada con lentejuelas extendidas por toda la prenda.",
+      "foto_principal_revisada": "./images/productos-reales/XL-017/01-R044.jpeg"
+    },
+    {
+      "id": 22,
+      "nombre": "Vestido blanco de corte sirena de manga larga de rosas",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Blanco midi con rosas bordadas/estampadas en torso y mangas; falda lisa mate.",
+      "foto_principal_revisada": "./images/productos-reales/XL-022/01-R047.jpeg"
+    },
+    {
+      "id": 35,
+      "nombre": "Vestido corto de una manga color marrón",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Cobre mini con lentejuelas repetidas por corpiño y falda.",
+      "foto_principal_revisada": "./images/productos-reales/XL-035/01-R006.jpeg"
+    },
+    {
+      "id": 38,
+      "nombre": "Vestido corto de lentejuelas rosado de una manga",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Rosado mini y manga larga cubiertos de lentejuelas.",
+      "foto_principal_revisada": "./images/productos-reales/XL-038/01-R125.jpeg"
+    },
+    {
+      "id": 39,
+      "nombre": "Vestido verde de lentejuelas y mostacillas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Verde corto con patrón de lentejuelas por torso y falda.",
+      "foto_principal_revisada": "./images/productos-reales/XL-039/01-R005.jpeg"
+    },
+    {
+      "id": 40,
+      "nombre": "Vestido corto 3/4 de lentejuelas con terciopelo en el busto",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Verde midi con falda y cuerpo cubiertos de lentejuelas; la pequeña zona de terciopelo del busto no domina el conjunto.",
+      "foto_principal_revisada": "./images/productos-reales/XL-040/01-R014.jpeg"
+    },
+    {
+      "id": 49,
+      "nombre": "Vestido corto rojo de lentejuelas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Rojo mini con lentejuelas por todo el cuerpo y la falda.",
+      "foto_principal_revisada": "./images/productos-reales/XL-049/01-R052.jpeg"
+    },
+    {
+      "id": 51,
+      "nombre": "Vestido corto de lentejuelas celeste y azul",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Celeste mini con pedrería/lentejuelas densas por torso, mangas y falda.",
+      "foto_principal_revisada": "./images/productos-reales/XL-051/01-R147.jpeg"
+    },
+    {
+      "id": 52,
+      "nombre": "Vestido corto asimétrico de lentejuelas azul",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Azul mini de una manga con lentejuelas por el cuerpo y la falda.",
+      "foto_principal_revisada": "./images/productos-reales/XL-052/01-R069.jpeg"
+    },
+    {
+      "id": 54,
+      "nombre": "Vestido corto de diamantes de imitación plateadas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta: instrucción directa",
+      "motivo": "Referencia indicada por el usuario: minivestido negro de base lisa, bandas plateadas separadas en el frente y espalda completamente lisa. Las bandas no convierten toda la prenda en brillo.",
+      "foto_principal_revisada": "./images/productos-reales/XL-054/01-R135.png"
+    },
+    {
+      "id": 57,
+      "nombre": "Vestido corto blanco de lentejuelas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Blanco a la rodilla con brillo tornasolado repartido de forma densa por todo el vestido.",
+      "foto_principal_revisada": "./images/productos-reales/XL-057/01-R002.jpeg"
+    },
+    {
+      "id": 63,
+      "nombre": "Vestido corto cuello diagonal, plisado y liso",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Vestido ocre satinado de cuello diagonal y drapeado; el lustre de tela no es una superficie de lentejuelas.",
+      "foto_principal_revisada": "./images/productos-reales/XL-063/01-R165.jpeg"
+    },
+    {
+      "id": 64,
+      "nombre": "Vestido corto celeste con corte sirena",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Celeste a la rodilla con capa corta en escote; tela lisa.",
+      "foto_principal_revisada": "./images/productos-reales/XL-064/01-R049.jpeg"
+    },
+    {
+      "id": 65,
+      "nombre": "Vestido Corto Bellmet asimétrica color verde",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Verde terciopelo mini con una manga; el reflejo del terciopelo no es pedrería.",
+      "foto_principal_revisada": "./images/productos-reales/XL-065/02-R096.jpeg"
+    },
+    {
+      "id": 66,
+      "nombre": "Vestido color verde terciopelo semi drapeado con manga y escote",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Verde terciopelo midi drapeado de manga larga; tela lisa sin pedrería visible.",
+      "foto_principal_revisada": "./images/productos-reales/XL-066/01-R094.jpeg"
+    },
+    {
+      "id": 67,
+      "nombre": "Vestido corto blanco drapeado con mangas largas",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Blanco drapeado de hombros descubiertos y mangas; superficie lisa.",
+      "foto_principal_revisada": "./images/productos-reales/XL-067/01-R132.jpeg"
+    },
+    {
+      "id": 69,
+      "nombre": "Vestido drapeado azul asimétrico",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Celeste mini drapeado con mangas amplias; sin adorno brillante dominante.",
+      "foto_principal_revisada": "./images/productos-reales/XL-069/01-R142.jpeg"
+    },
+    {
+      "id": 78,
+      "nombre": "Vestido corto negro de brillos plateados",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Negro mini: patrón plateado denso por cuello, torso y falda. A diferencia de XL-054, el dibujo brillante reviste la prenda completa.",
+      "foto_principal_revisada": "./images/productos-reales/XL-078/01-R011.jpeg"
+    },
+    {
+      "id": 79,
+      "nombre": "Vestido corto Blanco de una manga",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Blanco mini con una manga tipo capa; superficie lisa.",
+      "foto_principal_revisada": "./images/productos-reales/XL-079/01-R160.jpeg"
+    },
+    {
+      "id": 80,
+      "nombre": "Vestido corto drapeado",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Negro corto drapeado con mangas transparentes; sin aplicación brillante dominante.",
+      "foto_principal_revisada": "./images/productos-reales/XL-080/01-R163.jpeg"
+    },
+    {
+      "id": 82,
+      "nombre": "Vestido corto con escote y detalles plateados",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta: analogía visual clara con XL-054",
+      "motivo": "Negro midi: líneas finas de strass en cuello y torso; mangas, cintura y falda negras lisas. El adorno ocupa menos superficie que las bandas del ejemplo XL-054.",
+      "foto_principal_revisada": "./images/productos-reales/XL-082/01-R157.jpeg"
+    },
+    {
+      "id": 83,
+      "nombre": "Vestido 3/4 blanco de mangas con strass plateadas",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Blanco midi liso con único fleco de strass desde el nudo de cintura/abertura.",
+      "foto_principal_revisada": "./images/productos-reales/XL-083/01-R113.jpeg"
+    },
+    {
+      "id": 84,
+      "nombre": "Vestido corto satín (Talla S)",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Amarillo satinado mini de tirantes; el lustre del satén no es lentejuela.",
+      "foto_principal_revisada": "./images/productos-reales/XL-084/01-R010.jpeg"
+    },
+    {
+      "id": 85,
+      "nombre": "Vestido corto drapeado marrón con blanco",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Mini marrón y blanco con dibujo ondulado impreso: ambos originales ampliados muestran estampado mate, no lentejuelas. Corrige la impresión de la lámina pequeña del informe anterior.",
+      "foto_principal_revisada": "./images/productos-reales/XL-085/01-R013.jpeg"
+    },
+    {
+      "id": 86,
+      "nombre": "Vestido crema de Gaza con detalles estrellas doradas",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Crema midi de gasa: tres estrellas doradas centrales como adorno localizado; falda lisa.",
+      "foto_principal_revisada": "./images/productos-reales/XL-086/01-R161.jpeg"
+    },
+    {
+      "id": 89,
+      "nombre": "Vestido largo de gala dorado",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Gala",
+      "confianza": "Largo visual claro; restauración coordinada por agente principal",
+      "motivo": "La falda principal continúa hasta el suelo: abertura alta en vestido largo, sin minifalda independiente. La abertura no determina la categoría Cortos; el usuario corrigió expresamente XL-089.",
+      "foto_principal_revisada": "./images/productos-reales/XL-089/01-R124.jpeg"
+    },
+    {
+      "id": 101,
+      "nombre": "Vestido de gala rojo con aplicaciones plateadas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Gala",
+      "confianza": "Largo visual claro; restauración coordinada por agente principal",
+      "motivo": "La falda principal continúa hasta el suelo: abertura alta en vestido largo, sin minifalda independiente. La abertura no determina la categoría Cortos; el usuario corrigió expresamente XL-089.",
+      "foto_principal_revisada": "./images/productos-reales/XL-101/01-R062.jpeg"
+    },
+    {
+      "id": 103,
+      "nombre": "Vestido sirena de gala verde con perlas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Gala",
+      "confianza": "Largo visual claro; restauración coordinada por agente principal",
+      "motivo": "La falda principal continúa hasta el suelo: abertura alta en vestido largo, sin minifalda independiente. La abertura no determina la categoría Cortos; el usuario corrigió expresamente XL-089.",
+      "foto_principal_revisada": "./images/productos-reales/XL-103/01-R105.jpeg"
+    },
+    {
+      "id": 114,
+      "nombre": "Vestido negro largo de perlas con detalles",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Media-alta: umbral comercial aclarado",
+      "motivo": "Negro midi largo: cuerpo y falda lisos con perlas muy separadas; el bloque brillante está concentrado en la pieza de hombros. La superficie lisa domina el conjunto.",
+      "foto_principal_revisada": "./images/productos-reales/XL-114/01-R053.jpeg"
+    },
+    {
+      "id": 117,
+      "nombre": "Vestido negro brillante",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Negro midi con malla plateada repetida por corpiño y falda; brillo integral dominante.",
+      "foto_principal_revisada": "./images/productos-reales/XL-117/01-R022.jpeg"
+    },
+    {
+      "id": 118,
+      "nombre": "Vestido negro asimétrico con lentejuelas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Media-alta: umbral comercial aclarado",
+      "motivo": "Negro corto asimétrico: lentejuelas negras discretas en el panel del corpiño; banda de escote, cintura, falda y volante lisos. No presenta brillo integral dominante.",
+      "foto_principal_revisada": "./images/productos-reales/XL-118/01-R007.jpeg"
+    },
+    {
+      "id": 119,
+      "nombre": "Vestido corto escotado",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Verde lima mini: tejido/patrón brillante extendido por torso y falda.",
+      "foto_principal_revisada": "./images/productos-reales/XL-119/01-R004.jpeg"
+    },
+    {
+      "id": 120,
+      "nombre": "Vestido corto dorado con negro",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Dorado/negro mini con tejido brillante uniforme por todo el vestido.",
+      "foto_principal_revisada": "./images/productos-reales/XL-120/01-R003.jpeg"
+    },
+    {
+      "id": 121,
+      "nombre": "Vestido corto negro de tiras",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Negro mini de tiras y aberturas; tela lisa.",
+      "foto_principal_revisada": "./images/productos-reales/XL-121/01-R001.jpeg"
+    },
+    {
+      "id": 122,
+      "nombre": "Vestido corto negro",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Negro mini con plumas en escote; las plumas no aportan brillo de pedrería.",
+      "foto_principal_revisada": "./images/productos-reales/XL-122/01-R012.jpeg"
+    },
+    {
+      "id": 123,
+      "nombre": "Vestido corto negro con plateado",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Corpiño blanco revestido de pedrería densa y minifalda negra cubierta de lentejuelas, incluida la caída lateral. No son unas bandas puntuales como XL-054.",
+      "foto_principal_revisada": "./images/productos-reales/XL-123/01-R008.jpeg"
+    },
+    {
+      "id": 127,
+      "nombre": "Vestido vino strapless de tirantes con copas de pedrería",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Conservar categoría: material dudoso",
+      "motivo": "Mini vino con caída lateral estampada o brillante; el material exacto no se confirma con la foto. Conservar categoría vigente, sin reclasificar por textura dudosa.",
+      "foto_principal_revisada": "./images/productos-reales/XL-127/01-R032.jpeg"
+    },
+    {
+      "id": 130,
+      "nombre": "Vestido corto plomo con detalle de lentejuelas y pliegue",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Plomo mini con caída lateral larga; lentejuelas limitadas a media copa y resto liso.",
+      "foto_principal_revisada": "./images/productos-reales/XL-130/01-R080.jpeg"
+    },
+    {
+      "id": 131,
+      "nombre": "Vestido drapeado azul asimétrico",
+      "categoria_snapshot": "Cortos",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Alta en observación visual",
+      "motivo": "Azul intenso midi drapeado con escote halter; tela lisa.",
+      "foto_principal_revisada": "./images/productos-reales/XL-131/01-R009.jpeg"
+    },
+    {
+      "id": 132,
+      "nombre": "Vestido corto de lentejuelas con detalles de perlas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Dorado mini con lentejuelas densas por todo el vestido y borde de perlas.",
+      "foto_principal_revisada": "./images/productos-reales/XL-132/01-R020.jpeg"
+    },
+    {
+      "id": 133,
+      "nombre": "Vestido de lentejuelas vintage color azul",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Azul plateado a la rodilla con lentejuelas extendidas por torso, mangas y falda.",
+      "foto_principal_revisada": "./images/productos-reales/XL-133/extra-01.jpg"
+    },
+    {
+      "id": 134,
+      "nombre": "Vestido de pedrería negro con plumas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Negro con pedrería plateada densa por corpiño y falda; las plumas son secundarias.",
+      "foto_principal_revisada": "./images/productos-reales/XL-134/01-R061.jpeg"
+    },
+    {
+      "id": 135,
+      "nombre": "Vestido corto guinda de perlas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Guinda mini: perlas/pedrería muy densas cubren torso, mangas y falda. El patrón brillante define integralmente la prenda.",
+      "foto_principal_revisada": "./images/productos-reales/XL-135/01-R067.jpeg"
+    },
+    {
+      "id": 137,
+      "nombre": "Vestido sirena palo rosa de lentejuelas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Gala",
+      "confianza": "Largo visual claro; restauración coordinada por agente principal",
+      "motivo": "La falda principal continúa hasta el suelo: abertura alta en vestido largo, sin minifalda independiente. La abertura no determina la categoría Cortos; el usuario corrigió expresamente XL-089.",
+      "foto_principal_revisada": "./images/productos-reales/XL-137/01-N004.jpeg"
+    },
+    {
+      "id": 140,
+      "nombre": "Vestido vino strapless de tirantes con copas de pedrería",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Gala",
+      "confianza": "Largo visual claro; restauración coordinada por agente principal",
+      "motivo": "La falda principal continúa hasta el suelo: abertura alta en vestido largo, sin minifalda independiente. La abertura no determina la categoría Cortos; el usuario corrigió expresamente XL-089.",
+      "foto_principal_revisada": "./images/productos-reales/XL-140/01-N011.jpeg"
+    },
+    {
+      "id": 149,
+      "nombre": "Vestido corto blanco de lentejuelas tornasoladas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Blanco mini con lentejuelas tornasoladas por todo el vestido.",
+      "foto_principal_revisada": "./images/productos-reales/XL-149/01-N001.jpeg"
+    },
+    {
+      "id": 150,
+      "nombre": "Vestido corto azul de lentejuelas y flecos",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Azul mini con lentejuelas y dibujo plateado densos por torso y falda, más flecos.",
+      "foto_principal_revisada": "./images/productos-reales/XL-150/01-N004.jpeg"
+    },
+    {
+      "id": 151,
+      "nombre": "Vestido de lentejuelas palo rosa de transparencias",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Palo rosa mini con aplicaciones/pedrería densas por corsé y falda.",
+      "foto_principal_revisada": "./images/productos-reales/XL-151/01-N006.jpeg"
+    },
+    {
+      "id": 152,
+      "nombre": "Vestido corto rojo de pedreria",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Rojo mini con grandes aplicaciones en copas y cadenas de strass numerosas por toda la falda; pedrería protagonista.",
+      "foto_principal_revisada": "./images/productos-reales/XL-152/01-N008.jpeg"
+    },
+    {
+      "id": 153,
+      "nombre": "Vestido corto blanco con dorado de lentejuelas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Mangas y blusa blancas lisas, pero toda la minifalda es un bloque de lentejuelas doradas intenso y protagonista. No equivale a unas bandas sobre base lisa.",
+      "foto_principal_revisada": "./images/productos-reales/XL-153/01-N011.jpeg"
+    },
+    {
+      "id": 154,
+      "nombre": "Vestido largo de lentejuelas con diamantes",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Conservar Cortos con brillo por indicación explícita del usuario sobre este modelo, registrada como excepción comercial.",
+      "foto_principal_revisada": "./images/productos-reales/XL-154/01-N018.jpeg"
+    },
+    {
+      "id": 155,
+      "nombre": "Vestido corto negro con plateado · geométrico",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Negro mini con patrón geométrico plateado repetido por todo el cuerpo y falda; no es adorno limitado al escote.",
+      "foto_principal_revisada": "./images/productos-reales/XL-155/01-N022.jpeg"
+    },
+    {
+      "id": 156,
+      "nombre": "Vestido corto negro con tirantes y pedrería",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Negro transparente mini: pedrería por copas, estructura del corsé y líneas numerosas de la falda. La ornamentación se extiende por toda la prenda.",
+      "foto_principal_revisada": "./images/productos-reales/XL-156/01-N024.jpeg"
+    },
+    {
+      "id": 157,
+      "nombre": "Vestido corto de tirantes",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Negro mini con copas y corsé de pedrería densas y dibujo brillante por toda la falda.",
+      "foto_principal_revisada": "./images/productos-reales/XL-157/01-N027.jpeg"
+    },
+    {
+      "id": 160,
+      "nombre": "Vestido de gala de lentejuelas color gold",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Gala",
+      "confianza": "Largo visual claro; restauración coordinada por agente principal",
+      "motivo": "La falda principal continúa hasta el suelo: abertura alta en vestido largo, sin minifalda independiente. La abertura no determina la categoría Cortos; el usuario corrigió expresamente XL-089.",
+      "foto_principal_revisada": "./images/productos-reales/XL-160/01-N035.jpeg"
+    },
+    {
+      "id": 161,
+      "nombre": "Vestido largo de gala color azul de lentejuelas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Gala",
+      "confianza": "Largo visual claro; restauración coordinada por agente principal",
+      "motivo": "La falda principal continúa hasta el suelo: abertura alta en vestido largo, sin minifalda independiente. La abertura no determina la categoría Cortos; el usuario corrigió expresamente XL-089.",
+      "foto_principal_revisada": "./images/productos-reales/XL-161/01-N038.jpeg"
+    },
+    {
+      "id": 164,
+      "nombre": "Vestido largo de gala blanco con un hombro de lentejuelas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Gala",
+      "confianza": "Largo visual claro; restauración coordinada por agente principal",
+      "motivo": "La falda principal continúa hasta el suelo: abertura alta en vestido largo, sin minifalda independiente. La abertura no determina la categoría Cortos; el usuario corrigió expresamente XL-089.",
+      "foto_principal_revisada": "./images/productos-reales/XL-164/01-N043.jpeg"
+    },
+    {
+      "id": 166,
+      "nombre": "Vestido de lentejuelas corto rojo",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Rojo a la rodilla con lentejuelas distribuidas por todo el vestido.",
+      "foto_principal_revisada": "./images/productos-reales/XL-166/01-N010.jpeg"
+    },
+    {
+      "id": 167,
+      "nombre": "Vestido corto dorado con negro de mangas negras",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Torso y mangas negras lisas, pero toda la minifalda tiene dibujo de lentejuelas doradas que protagoniza el conjunto.",
+      "foto_principal_revisada": "./images/productos-reales/XL-167/01-N013.jpeg"
+    },
+    {
+      "id": 168,
+      "nombre": "Vestido corto champagne de lentejuelas con cuello alto",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Champagne mini: filas de lentejuelas/pedrería por torso, mangas y falda. La base clara no convierte el patrón integral en adorno localizado.",
+      "foto_principal_revisada": "./images/productos-reales/XL-168/01-N015.jpeg"
+    },
+    {
+      "id": 169,
+      "nombre": "Vestido corto color verde (S M)",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Verde mini con lentejuelas/relieve brillante en dibujo de malla por torso, mangas y falda; distribución integral.",
+      "foto_principal_revisada": "./images/productos-reales/XL-169/01-N016.jpeg"
+    },
+    {
+      "id": 170,
+      "nombre": "Vestido corto de lentejuelas verde",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Verde mini con lentejuelas por toda la prenda.",
+      "foto_principal_revisada": "./images/productos-reales/XL-170/01-N017.jpeg"
+    },
+    {
+      "id": 171,
+      "nombre": "Vestido Corto Verde de Pedrería Plateadas y de Perlas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos con brillo",
+      "confianza": "Alta en observación visual",
+      "motivo": "Verde mini: copas densamente cubiertas y numerosas líneas de perlas por torso y falda; ornamentación integral.",
+      "foto_principal_revisada": "./images/productos-reales/XL-171/01-N020.jpeg"
+    },
+    {
+      "id": 172,
+      "nombre": "Vestido corto negro con mangas plateadas",
+      "categoria_snapshot": "Cortos con brillo",
+      "categoria_propuesta": "Cortos",
+      "confianza": "Media-alta: umbral comercial aclarado",
+      "motivo": "Negro mini: decoración floral plateada en mangas y una media pechera; falda y buena parte del frente lisos. El adorno se concentra en zonas definidas.",
+      "foto_principal_revisada": "./images/productos-reales/XL-172/01-N021.jpeg"
+    }
+  ],
+  "archivos_evidencia": [
+    "todos-1.jpg",
+    "todos-2.jpg",
+    "todos-3.jpg",
+    "todos-4.jpg",
+    "todos-5.jpg",
+    "todos-6.jpg"
+  ],
+  "sin_cambios_compartidos": true
+}

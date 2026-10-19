@@ -49,8 +49,8 @@ export function orderTotals(product, quantity, method) {
 export function orderMessage(product, data, path) {
   const totals = orderTotals(product, Number(data.quantity), data.method);
   const lines = [
-    `Hola Xiliana Boutique, ${data.method === 'visit' ? 'quisiera ver este vestido en persona' : 'quisiera solicitar este pedido'}.`, '',
-    `Vestido: ${product.name}`, `Referencia: XL-${String(product.id).padStart(3, '0')}`,
+    `Hola Xiliana Boutique, ${data.method === 'visit' ? 'quisiera ver esta prenda en persona' : 'quisiera solicitar este pedido'}.`, '',
+    `Prenda: ${product.name}`, `Referencia: ${product.catalogCode ? `COD ${product.catalogCode}` : `XL-${String(product.id).padStart(3, '0')}`}`,
     `Colección: ${product.category}`, `Enlace: ${boutique.url}${path}`,
     `Precio unitario del catálogo: ${money(product.price)}`, `Cantidad: ${data.quantity}`,
     'Prenda única y personalizada.', `Medidas o asesoría: ${data.size || 'Por coordinar con la boutique'}`, `Subtotal: ${money(totals.subtotal)}`, '',
@@ -58,7 +58,7 @@ export function orderMessage(product, data, path) {
   ];
   if (data.method === 'visit') {
     lines.push('Modalidad: visita a la boutique', `Visita solicitada: ${visitDay(data.date)}, ${data.date.split('-').reverse().join('/')} a las ${visitTime(data.time)} (hora de Lima)`,
-      `Tienda: ${boutique.address}`, 'Por favor, confirmen la visita y la disponibilidad del vestido.');
+      `Tienda: ${boutique.address}`, 'Por favor, confirmen la visita y la disponibilidad de la prenda.');
   } else {
     lines.push(`Modalidad: envío a ${data.method === 'province' ? 'provincia' : 'Lima Metropolitana'}`);
     if (data.method === 'province') lines.push(`Departamento: ${data.department}`, `Provincia: ${data.province}`);

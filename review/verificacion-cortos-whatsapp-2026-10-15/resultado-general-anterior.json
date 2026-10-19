@@ -1,0 +1,161 @@
+{
+  "fecha": "2026-10-15",
+  "revision": "conciliacion-catalogo-2026-10-15-con-XL179-184",
+  "total_prendas": 145,
+  "total_fotos": 236,
+  "totales": {
+    "Gala": 32,
+    "Largos": 25,
+    "Cortos": 27,
+    "Bandage": 22,
+    "Cortos con brillo": 38,
+    "Liquidación": 1
+  },
+  "cambios": [
+    {
+      "id": 62,
+      "nombre": "Vestido largo corte sirena negro con lazo y mangas",
+      "antes": "Largos",
+      "ahora": "Gala",
+      "motivo": "Nombre y miniatura del vestido negro con lazo rosa en Gala Dresses, fila 19 del listado guardado. Se conserva su clasificación comercial de Gala."
+    },
+    {
+      "id": 68,
+      "nombre": "Vestido de cuello cuadrado de manga larga color rosado",
+      "antes": "Largos",
+      "ahora": "Cortos",
+      "motivo": "La ficha de cuello cuadrado rosa, S/299, figura expresamente en la colección comercial Cortos, fila 17. Nombre, precio y fotografías se conservan."
+    },
+    {
+      "id": 81,
+      "nombre": "Vestido largo marrón con detalle plateados",
+      "antes": "Largos",
+      "ahora": "Cortos",
+      "motivo": "La ficha marrón con aplicaciones plateadas, S/319, figura expresamente en la colección comercial Cortos, fila 28, aunque el nombre incluya largo."
+    },
+    {
+      "id": 90,
+      "nombre": "Vestido de gala gamusa color guinda con perlas",
+      "antes": "Largos",
+      "ahora": "Gala",
+      "motivo": "Nombre explícito de gala, miniatura guinda con perlas y S/589 en Gala Dresses, fila 25. Frente y espalda confirman el mismo vestido formal largo."
+    },
+    {
+      "id": 101,
+      "nombre": "Vestido de gala rojo con aplicaciones plateadas",
+      "antes": "Largos",
+      "ahora": "Gala",
+      "motivo": "Nombre explícito de gala, miniatura roja con bandas plateadas y S/349 en Gala Dresses, fila 39. La abertura alta no cambia la longitud principal."
+    },
+    {
+      "id": 107,
+      "nombre": "Vestido de gala de lentejuelas · modelo plomo",
+      "antes": "Largos",
+      "ahora": "Gala",
+      "motivo": "La referencia histórica GALA-CAPTURA-R112 vincula las fotos R112/R116, el nombre modelo plomo y S/529 a Gala. Se conserva separado de XL-175, un diseño distinto con nombre base genérico."
+    }
+  ],
+  "metas_usuario": {
+    "Largos": 25,
+    "Cortos con brillo": 43,
+    "Cortos": 30
+  },
+  "diferencias_pendientes": {
+    "Largos": 0,
+    "Cortos con brillo": 5,
+    "Cortos": 3,
+    "Bandage": 0
+  },
+  "conciliacion_inventario_cerrada": false,
+  "conservacion": "Las 143 prendas anteriores conservan sus campos. XL-117 añade su espalda. Dos altas nuevas, XL-183/184, con una foto real cada una. Total 145 prendas y 236 fotos.",
+  "evidencia": "gala-largos/REPORTE.md y gala-largos/matriz.json",
+  "pendientes": [
+    "Confirmar el precio definitivo de XL-117: ficha actual Brillos S/379 y web/histórico Gala S/389.",
+    "El encargado debe confirmar las cinco discrepancias de colección Brillos/Cortos y el alias verde duplicado.",
+    "Continúa pendiente la conciliación de la lista definitiva de Cortos: fuente guardada 33 fichas, cantidad indicada 30, web 27."
+  ],
+  "altas": [
+    {
+      "id": 179,
+      "nombre": "Vestido corto azul",
+      "categoria": "Cortos con brillo",
+      "precio": 329,
+      "codigo_catalogo": "182",
+      "fotos": 2,
+      "evidencia": "review/conciliacion-final-2026-10-15/whatsapp-actual/brillo-azul329-ficha-completa.png"
+    },
+    {
+      "id": 180,
+      "nombre": "Vestido corto satín estampado",
+      "categoria": "Cortos",
+      "precio": 86.7,
+      "precio_regular": 289,
+      "codigo_catalogo": "796",
+      "fotos": 1,
+      "evidencia": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-satin8670-ficha.png"
+    },
+    {
+      "id": 181,
+      "nombre": "Vestido corto con volantes de cuello redondo",
+      "categoria": "Cortos",
+      "precio": 115.6,
+      "precio_regular": 289,
+      "codigo_catalogo": "1537",
+      "fotos": 2,
+      "evidencia": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-volantes11560-ficha.png"
+    },
+    {
+      "id": 182,
+      "nombre": "Vestido Bandage rojo corto de pedrería plateada",
+      "categoria": "Bandage",
+      "precio": 379,
+      "nombre_catalogo": "VESTIDO BANDAGE",
+      "descripcion_catalogo": "Rojo corto de pedrería plateada",
+      "fotos": 3,
+      "evidencia": "review/conciliacion-final-2026-10-15/whatsapp-actual/bandage-rojo379-ficha.png"
+    },
+    {
+      "id": 183,
+      "nombre": "Vestido corto azul pedrería y strass",
+      "categoria": "Cortos con brillo",
+      "precio": 389,
+      "fotos": 1,
+      "evidencia": "review/verificacion-brillo-whatsapp-2026-10-15/azul389-ficha.png"
+    },
+    {
+      "id": 184,
+      "nombre": "Vestido dorado corto asimétrico de flecos",
+      "categoria": "Cortos con brillo",
+      "precio": 389,
+      "fotos": 1,
+      "evidencia": "review/verificacion-brillo-whatsapp-2026-10-15/dorado389-ficha.png"
+    }
+  ],
+  "significado_cantidades": "El usuario aclaró que 25 Largos, 43 Cortos con brillo y 30 Cortos se refieren a colecciones del catálogo WhatsApp, no a un conteo de stock físico. La diferencia neta de modelos web y el número de referencias de la fuente sin foto asociada se documentan por separado.",
+  "referencias_fuente_sin_foto_asociada": {
+    "Cortos con brillo": 4,
+    "Cortos": 14
+  },
+  "bandage_confirmado": {
+    "modelos": 22,
+    "alta_verificada": 182,
+    "evidencia": "review/conciliacion-final-2026-10-15/whatsapp-actual/bandage-rojo379-ficha.png"
+  },
+  "mensaje_preparado": "MENSAJE-PARA-ENCARGADO.txt",
+  "comparacion_visual": "COMPARACION-PARA-ENCARGADO.html",
+  "referencias_pendientes": "PENDIENTES-CATALOGO.md",
+  "cantidades_coincidentes": [
+    "Largos",
+    "Bandage"
+  ],
+  "identidades_por_coleccion_cerradas": false,
+  "limitacion_whatsapp": "Esperando red; solo tres referencias iniciales cargadas por colección. Recargas y recuperación documentadas.",
+  "conciliacion_brillo_actual": {
+    "fichas_actuales_observadas": 43,
+    "prendas_unicas_asociadas": 42,
+    "referencias_sin_asociar": 0,
+    "precios_coincidentes": 42,
+    "conteo_brillo_web": "43 fichas − 1 alias duplicado − 5 prendas en Cortos + XL-127 = 38 prendas únicas en Cortos con brillo."
+  },
+  "advertencia_diferencias": "La diferencia aritmética frente a 43 no representa prendas nuevas faltantes: hay un duplicado comercial, cinco referencias que van en Cortos y XL-127 adicional."
+}

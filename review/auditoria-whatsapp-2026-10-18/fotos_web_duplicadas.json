@@ -1,0 +1,42 @@
+{
+  "products": 163,
+  "images": 281,
+  "missing_files": [],
+  "exact_groups": [],
+  "near_pairs": [
+    {
+      "distance": 5,
+      "a": {
+        "id": 10,
+        "name": "Vestido corto azul con estampado floral",
+        "category": "Liquidación",
+        "number": 1,
+        "src": "./images/productos-reales/XL-010/01-R155.jpeg"
+      },
+      "b": {
+        "id": 162,
+        "name": "Vestido sirena color rojo estraple de perlas",
+        "category": "Gala",
+        "number": 1,
+        "src": "./images/productos-reales/XL-162/01-N039.jpeg"
+      }
+    },
+    {
+      "distance": 5,
+      "a": {
+        "id": 162,
+        "name": "Vestido sirena color rojo estraple de perlas",
+        "category": "Gala",
+        "number": 1,
+        "src": "./images/productos-reales/XL-162/01-N039.jpeg"
+      },
+      "b": {
+        "id": 163,
+        "name": "Vestido sirena largo color rojo con Bruselas",
+        "category": "Gala",
+        "number": 2,
+        "src": "./images/productos-reales/XL-163/02-N042.jpeg"
+      }
+    }
+  ]
+}

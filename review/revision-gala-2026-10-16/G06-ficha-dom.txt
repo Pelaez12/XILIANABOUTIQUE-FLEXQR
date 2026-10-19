@@ -1,0 +1,35 @@
+- contentinfo:
+  - button "Adjuntar":
+  - button "Emojis, GIF, Stickers":
+  - textbox "Escribir un mensaje para +51 930 527 248":
+    - paragraph
+  - generic: Escribe un mensaje
+  - button "Mensaje de voz":
+    - button "Mensaje de voz":
+- banner:
+  - button "Atrás":
+  - heading "Detalles" [level=2]:
+    - generic: Detalles
+  - button "Tu carrito":
+  - button "Enlace al producto":
+  - button "Menú":
+- status
+- generic: Esperando red
+- button "Anterior" [disabled]:
+  - generic "Anterior":
+    - img "ic-chevron-right"
+- button "Siguiente":
+  - generic "Siguiente":
+    - img "ic-chevron-right"
+- generic: Vestido largo de gala verde agua de lentejuelas
+- generic: PEN 649.00
+- generic: Prendas Importadas
+- link "https://www.xilianaboutiqueoficial.com/":
+  - /url: https://www.xilianaboutiqueoficial.com/
+- generic: "1514"
+- generic "Enviar mensaje a la empresa":
+  - button "Enviar mensaje a la empresa":
+    - generic: Enviar mensaje a la empresa
+- generic "Añadir al carrito":
+  - button "Añadir al carrito":
+    - generic: Añadir al carrito

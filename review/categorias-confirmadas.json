@@ -1247,10 +1247,10 @@
     {
       "id": 107,
       "nombre": "Vestido largo plomo de tull con detalles de flores",
-      "categoria": "Gala",
+      "categoria": "Largos",
       "fecha": "2026-10-18",
       "fuente": "review/fotos-pendientes-2026-10-12/plomo-frente-fuente.png",
-      "motivo": "La foto ampliada confirma que esta ficha ya era XL-107. Se actualizan nombre y precio desde WhatsApp sin duplicar la prenda.",
+      "motivo": "Clasificación corregida por indicación directa del usuario: izquierda a Largos, centro a Gala y derecha a Bandage.",
       "fotos": [
         {
           "src": "./images/productos-reales/XL-107/01-R112.jpeg",
@@ -2891,10 +2891,10 @@
     {
       "id": 187,
       "nombre": "Vestido blanco mini elegante con perlas",
-      "categoria": "Cortos",
+      "categoria": "Bandage",
       "fecha": "2026-10-18",
       "fuente": "review/verificacion-cortos-whatsapp-2026-10-15/F06-blanco329-ficha.png",
-      "motivo": "Nombre, precio y fotografías conciliados con la ficha ampliada del catálogo WhatsApp; marcado también para la zona Pendientes.",
+      "motivo": "Clasificación corregida por indicación directa del usuario: izquierda a Largos, centro a Gala y derecha a Bandage.",
       "fotos": [
         {
           "src": "./images/productos-reales/XL-187/01-WA-Cortos-blanco-frente.png",
@@ -2914,7 +2914,7 @@
       "categoria": "Gala",
       "fecha": "2026-10-18",
       "fuente": "review/fotos-pendientes-2026-10-12/morado-frente-fuente.png",
-      "motivo": "Nombre, precio y fotografías conciliados con la ficha ampliada del catálogo WhatsApp; marcado también para la zona Pendientes.",
+      "motivo": "Clasificación corregida por indicación directa del usuario: izquierda a Largos, centro a Gala y derecha a Bandage.",
       "fotos": [
         {
           "src": "./images/productos-reales/XL-196/01-WA-Gala-morado-frente.png",
@@ -2937,7 +2937,7 @@
     "Cortos con brillo",
     "Bandage"
   ],
-  "revision": "2026-10-18: auditoría completa sin duplicados; tres fichas reunidas en la zona Pendientes. XL-107 se actualizó sin duplicarse.",
+  "revision": "2026-10-18: tres fichas incorporadas y asignadas a su colección principal. “Pendientes” describía tareas por revisar; no es una colección comercial.",
   "criterios_documentados": "conciliacion-final-2026-10-15/CONCILIACION.md",
   "excepciones_individuales": [
     {

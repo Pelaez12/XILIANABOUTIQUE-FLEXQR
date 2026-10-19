@@ -38,7 +38,7 @@ export const products = [
   {
     "id": 60,
     "name": "Vestido de gasa azul",
-    "category": "Largos",
+    "category": "Gala",
     "price": 649,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
@@ -222,7 +222,22 @@ export const products = [
       }
     ],
     "image": "./images/productos-reales/XL-066/01-R094.jpeg",
-    "photoPending": false
+    "photoPending": false,
+    "catalogName": "Vestido color verde terciopelo semi drapeado con manga y escote",
+    "catalogCategory": "Vestidos Cortos",
+    "catalogCode": "2025",
+    "priceSource": {
+      "tipo": "WhatsApp Web y confirmación del usuario",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "codigoCatalogo": "2025",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json"
+    },
+    "duplicateWhatsAppListing": {
+      "codigoCatalogo": "2024",
+      "precioPublicado": 359,
+      "resolucion": "El usuario confirmó que es el mismo vestido y eligió la ficha 2025 a S/ 429.00."
+    }
   },
   {
     "id": 67,
@@ -530,7 +545,7 @@ export const products = [
   {
     "id": 10,
     "name": "Vestido corto azul con estampado floral",
-    "category": "Cortos",
+    "category": "Liquidación",
     "price": 68.7,
     "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
     "photos": [
@@ -572,7 +587,7 @@ export const products = [
   {
     "id": 16,
     "name": "Vestido transparente con diamantes de imitación",
-    "category": "Cortos con brillo",
+    "category": "Liquidación",
     "price": 164.5,
     "note": "Tu próximo look especial también puede ser una bonita oportunidad. Consulta disponibilidad y encuentra tu favorito.",
     "photos": [
@@ -595,7 +610,7 @@ export const products = [
   {
     "id": 17,
     "name": "Vestido corto dorado de una manga",
-    "category": "Cortos con brillo",
+    "category": "Liquidación",
     "price": 194.5,
     "note": "Tu próximo look especial también puede ser una bonita oportunidad. Consulta disponibilidad y encuentra tu favorito.",
     "photos": [
@@ -645,7 +660,7 @@ export const products = [
   {
     "id": 22,
     "name": "Vestido blanco de corte sirena de manga larga de rosas",
-    "category": "Cortos",
+    "category": "Largos",
     "price": 349.0,
     "note": "Un vestido para disfrutar una celebración con estilo propio. Añade tus accesorios favoritos y haz del look algo muy tuyo.",
     "photos": [
@@ -1210,7 +1225,7 @@ export const products = [
   {
     "id": 88,
     "name": "Vestido largo azul corte sirena con tirantes cruzados",
-    "category": "Largos",
+    "category": "Gala",
     "price": 499,
     "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
@@ -1299,7 +1314,7 @@ export const products = [
   {
     "id": 91,
     "name": "Vestido elegante sirena color verde",
-    "category": "Largos",
+    "category": "Gala",
     "price": 389,
     "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
     "photos": [
@@ -1353,7 +1368,7 @@ export const products = [
   {
     "id": 93,
     "name": "Vestido fucsia con escote y pliegue izquierdo",
-    "category": "Largos",
+    "category": "Gala",
     "price": 549,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
@@ -1434,7 +1449,7 @@ export const products = [
   {
     "id": 96,
     "name": "Vestido sirena color verde gamuzado con mangas y cuello cuadrado",
-    "category": "Largos",
+    "category": "Gala",
     "price": 519,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
@@ -1738,9 +1753,8 @@ export const products = [
     ],
     "image": "./images/productos-reales/XL-107/01-R112.jpeg",
     "photoPending": false,
-    "reviewPending": true,
     "catalogName": "Vestido largo plomo de tull con detalles de flores",
-    "catalogCategory": "Gala Dresses",
+    "catalogCategory": "Vestidos Largos",
     "priceSource": {
       "tipo": "WhatsApp Web",
       "telefono": "+51 930 527 248",
@@ -2584,7 +2598,7 @@ export const products = [
   {
     "id": 138,
     "name": "Vestido palo rosa gasa y satín",
-    "category": "Largos",
+    "category": "Gala",
     "price": 649,
     "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
     "photos": [
@@ -2611,7 +2625,7 @@ export const products = [
   {
     "id": 139,
     "name": "Vestido largo azul acero",
-    "category": "Largos",
+    "category": "Gala",
     "price": 699,
     "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
     "photos": [
@@ -2673,7 +2687,7 @@ export const products = [
   {
     "id": 141,
     "name": "Vestido largo azul",
-    "category": "Largos",
+    "category": "Gala",
     "price": 349,
     "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
     "photos": [
@@ -2981,7 +2995,7 @@ export const products = [
   {
     "id": 155,
     "name": "Vestido corto negro con plateado · geométrico",
-    "category": "Cortos con brillo",
+    "category": "Liquidación",
     "price": 75.6,
     "photos": [
       {
@@ -3405,7 +3419,7 @@ export const products = [
   {
     "id": 162,
     "name": "Vestido sirena color rojo estraple de perlas",
-    "category": "Largos",
+    "category": "Gala",
     "price": 549,
     "photos": [
       {
@@ -3440,7 +3454,7 @@ export const products = [
   {
     "id": 163,
     "name": "Vestido sirena largo color rojo con Bruselas",
-    "category": "Largos",
+    "category": "Gala",
     "price": 449,
     "photos": [
       {
@@ -3600,7 +3614,7 @@ export const products = [
   {
     "id": 169,
     "name": "Vestido corto color verde (S M)",
-    "category": "Cortos con brillo",
+    "category": "Liquidación",
     "price": 114.5,
     "photos": [
       {
@@ -3683,7 +3697,7 @@ export const products = [
   {
     "id": 172,
     "name": "Vestido corto negro con mangas plateadas",
-    "category": "Cortos con brillo",
+    "category": "Liquidación",
     "price": 119.5,
     "photos": [
       {
@@ -3765,7 +3779,7 @@ export const products = [
   {
     "id": 176,
     "name": "Vestido estilo novia blanco con pedrería plateadas y verde esmeralda",
-    "category": "Largos",
+    "category": "Gala",
     "price": 849,
     "photos": [
       {
@@ -3930,7 +3944,7 @@ export const products = [
   {
     "id": 180,
     "name": "Vestido corto satín estampado",
-    "category": "Cortos",
+    "category": "Liquidación",
     "price": 86.7,
     "originalPrice": 289,
     "photos": [
@@ -3973,7 +3987,7 @@ export const products = [
   {
     "id": 181,
     "name": "Vestido corto con volantes de cuello redondo",
-    "category": "Cortos",
+    "category": "Liquidación",
     "price": 115.6,
     "originalPrice": 289,
     "photos": [
@@ -4666,9 +4680,8 @@ export const products = [
     ],
     "image": "./images/productos-reales/XL-187/01-WA-Cortos-blanco-frente.png",
     "photoPending": false,
-    "reviewPending": true,
     "catalogName": "Vestido blanco mini elegante con perlas",
-    "catalogCategory": "Vestidos Cortos",
+    "catalogCategory": "Bandage",
     "priceSource": {
       "tipo": "WhatsApp Web",
       "telefono": "+51 930 527 248",
@@ -4704,7 +4717,6 @@ export const products = [
     ],
     "image": "./images/productos-reales/XL-196/01-WA-Gala-morado-frente.png",
     "photoPending": false,
-    "reviewPending": true,
     "catalogName": "Vestido largo de gala morado con lentejuelas",
     "catalogCategory": "Gala Dresses",
     "catalogCode": "1512",
@@ -4715,6 +4727,244 @@ export const products = [
       "codigoCatalogo": "1512",
       "evidencia": "review/fotos-pendientes-2026-10-12/morado-frente-fuente.png"
     }
+  },
+  {
+    "id": 197,
+    "name": "Vestido estampado floreado",
+    "category": "Largos",
+    "price": 629,
+    "note": "Vestido largo blanco floreado estampado de rosas con manga abanicada. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-197/01-frente.png",
+        "width": 900,
+        "height": 1200,
+        "view": "Frente",
+        "sha256": "a128c91863005d17acc316256e3404c6c9038b0a009ad05f51dc1c435affcb29"
+      },
+      {
+        "src": "./images/productos-reales/XL-197/02-angulo.png",
+        "width": 900,
+        "height": 1200,
+        "view": "Ángulo frontal",
+        "sha256": "abc472b9791fb5ca5a115ab00f1b102b09cd9f61da6248b5cefcf00d339f9f08"
+      },
+      {
+        "src": "./images/productos-reales/XL-197/03-lateral.png",
+        "width": 900,
+        "height": 1200,
+        "view": "Lateral",
+        "sha256": "21a9a0d10ce82b41d3787d521a1400b78c7200b15a40bd107eeec6aa81dc5f6a"
+      },
+      {
+        "src": "./images/productos-reales/XL-197/04-espalda.png",
+        "width": 900,
+        "height": 1200,
+        "view": "Espalda",
+        "sha256": "3b6d3bb5f1c17d8c202fee87ee54d439486ba4fbd024f1af3d6afb8ab705ffca"
+      }
+    ],
+    "image": "./images/productos-reales/XL-197/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido estampado floreado",
+    "catalogCategory": "Vestidos Largos",
+    "catalogCode": "1842",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "codigoCatalogo": "1842",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json"
+    },
+    "imageSource": {
+      "tipo": "Cuatro imágenes originales entregadas por el usuario",
+      "fecha": "2026-10-18"
+    }
+  },
+  {
+    "id": 198,
+    "name": "Vestido largo blanco con estampado flores",
+    "category": "Largos",
+    "price": 269,
+    "note": "Prendas Importadas. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-198/01-frente.png",
+        "width": 1086,
+        "height": 1448,
+        "view": "Frente",
+        "sha256": "5d369267858d46c7c00dcf36719a930600c52a2d3141729104dbdf5280e68493"
+      }
+    ],
+    "image": "./images/productos-reales/XL-198/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido largo blanco con estampado flores",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el usuario",
+      "fecha": "2026-10-18"
+    }
+  },
+  {
+    "id": 199,
+    "name": "Vestido rojo estraple con detalles",
+    "category": "Largos",
+    "price": 339,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-199/01-frente.png",
+        "width": 1080,
+        "height": 1427,
+        "view": "Frente",
+        "sha256": "0fd71e544b58d3116944ce367c6609b700262f3d19e1e74c4c19af4dd8a9cedf"
+      },
+      {
+        "src": "./images/productos-reales/XL-199/02-espalda.png",
+        "width": 1080,
+        "height": 1437,
+        "view": "Espalda",
+        "sha256": "cd4b5f1cbb2a227ffddad20298db61ec76dcdd6bc947482edf6958c87efeeb23"
+      }
+    ],
+    "image": "./images/productos-reales/XL-199/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido rojo estraple con detalles",
+    "catalogCategory": "Vestidos Largos",
+    "catalogCode": "2022",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "codigoCatalogo": "2022",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json"
+    },
+    "imageSource": {
+      "tipo": "Dos imágenes originales entregadas por el usuario",
+      "fecha": "2026-10-18"
+    }
+  },
+  {
+    "id": 200,
+    "name": "Bralette negro con pedrería de colores",
+    "category": "Bandage",
+    "price": 199,
+    "note": "Bralette corto negro con pedrería de colores en la copa con tirantes regulables. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-200/01-frente.png",
+        "width": 1201,
+        "height": 1600,
+        "view": "Frente",
+        "sha256": "b3fbdca55a508f103c7c7c132ad3489d13dd4426880e106e71de8f33de3e7219"
+      },
+      {
+        "src": "./images/productos-reales/XL-200/02-espalda.png",
+        "width": 1201,
+        "height": 1600,
+        "view": "Espalda",
+        "sha256": "d12daa32508da4177651f5629fc4c8c0542ffb2ba61452a12151ff583731f916"
+      },
+      {
+        "src": "./images/productos-reales/XL-200/03-detalle.png",
+        "width": 1201,
+        "height": 1600,
+        "view": "Detalle frontal",
+        "sha256": "36749a78711202a8df492711a300afff0fbe93e8c39eb8a2c1b08681bf2dc1f1"
+      }
+    ],
+    "image": "./images/productos-reales/XL-200/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Bralette negro con pedrería de colores",
+    "catalogCategory": "Vestidos Bandage's",
+    "catalogCode": "1806",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "codigoCatalogo": "1806",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json"
+    },
+    "imageSource": {
+      "tipo": "Tres imágenes originales entregadas por el usuario",
+      "fecha": "2026-10-18",
+      "montajeAdicional": "review/auditoria-whatsapp-2026-10-18/referencias-producto/bralette-1806-montaje.png"
+    }
+  },
+  {
+    "id": 201,
+    "name": "Top Amarillo",
+    "category": "Liquidación",
+    "price": 48.3,
+    "originalPrice": 69,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-201/01-frente.png",
+        "width": 720,
+        "height": 703,
+        "view": "Frente",
+        "sha256": "a1aec17b73296b569d8a700b77112268d38e6fa7a256705c4dd17b71a0a6fb68"
+      }
+    ],
+    "image": "./images/productos-reales/XL-201/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Top Amarillo",
+    "catalogCategory": "PRENDAS LIQUIDACIÓN",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/liquidacion_lista.json"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el usuario",
+      "fecha": "2026-10-18"
+    }
+  },
+  {
+    "id": 202,
+    "name": "Vestidos largo estampado geométrico (Verde y Nude)",
+    "category": "Liquidación",
+    "price": 37.8,
+    "originalPrice": 189,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-202/01-frente.png",
+        "width": 864,
+        "height": 1152,
+        "view": "Frente",
+        "sha256": "16819ac629e3b7f98af3add723924c28a901688ba20f5faca898713b55f388a3"
+      },
+      {
+        "src": "./images/productos-reales/XL-202/02-detalle.png",
+        "width": 864,
+        "height": 1152,
+        "view": "Detalle",
+        "sha256": "3de458a6593e495a81a2f06be78ce2acb185a33c434415fb06b606752a6cdd11"
+      }
+    ],
+    "image": "./images/productos-reales/XL-202/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestidos largo estampado geométrico (Verde y Nude)",
+    "catalogCategory": "PRENDAS LIQUIDACIÓN",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/liquidacion_lista.json"
+    },
+    "imageSource": {
+      "tipo": "Dos imágenes originales entregadas por el usuario",
+      "fecha": "2026-10-18"
+    }
   }
 ];
-export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación", "Pendientes"];
+export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación"];

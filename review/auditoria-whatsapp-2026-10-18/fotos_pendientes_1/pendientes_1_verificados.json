@@ -1,0 +1,322 @@
+[
+  {
+    "nombre": "Pendientes largos con diseño de diamante de imitación",
+    "precio_pen": 89,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- status\n- generic: Pendientes largos con diseño de diamante de imitación\n- generic: PEN 89.00\n- generic: \"1088\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - butt",
+    "foto_pixeles": [
+      497,
+      1049
+    ],
+    "archivo": "pendientes_pendientes-largos-con-diseno-de-diamante-de-imitacion_01.jpg",
+    "fotos_adicionales": [
+      "pendientes_pendientes-largos-con-diseno-de-diamante-de-imitacion_02.jpg"
+    ],
+    "numero_fotos": 2
+  },
+  {
+    "nombre": "Pendientes Plateados",
+    "precio_pen": 89,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes Plateados\n- generic: PEN 89.00\n- generic: \"1092\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - heading \"PENDIENTES\" [leve",
+    "foto_pixeles": [
+      562,
+      1199
+    ],
+    "archivo": "pendientes_pendientes-plateados_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes geométricos grabados con flor y pajaritos",
+    "precio_pen": 89,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes geométricos grabados con flor y pajaritos\n- generic: PEN 89.00\n- generic: \"1095\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\"",
+    "foto_pixeles": [
+      1080,
+      1047
+    ],
+    "archivo": "pendientes_pendientes-geometricos-grabados-con-flor-y-pajaritos_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes con diamantes y diseño de flecos",
+    "precio_pen": 79,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes con diamantes y diseño de flecos\n- generic: PEN 79.00\n- generic: \"1097\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - hea",
+    "foto_pixeles": [
+      697,
+      1234
+    ],
+    "archivo": "pendientes_pendientes-con-diamantes-y-diseno-de-flecos_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes botón con diseño de flor",
+    "precio_pen": 39,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- status\n- generic: Pendientes botón con diseño de flor\n- generic: PEN 39.00\n- generic: \"1103\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - he",
+    "foto_pixeles": [
+      619,
+      874
+    ],
+    "archivo": "pendientes_pendientes-boton-con-diseno-de-flor_01.jpg",
+    "fotos_adicionales": [
+      "pendientes_pendientes-boton-con-diseno-de-flor_02.jpg"
+    ],
+    "numero_fotos": 2
+  },
+  {
+    "nombre": "Pendientes chaqueta con diamantes de imitación con diseño de flecos",
+    "precio_pen": 89,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes chaqueta con diamantes de imitación con diseño de flecos\n- generic: PEN 89.00\n- generic: \"1106\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  -",
+    "foto_pixeles": [
+      912,
+      1401
+    ],
+    "archivo": "pendientes_pendientes-chaqueta-con-diamantes-de-imitacion-con-diseno-de-flecos_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes Multicolor",
+    "precio_pen": 69,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes Multicolor\n- generic: PEN 69.00\n- generic: \"1109\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - heading \"PENDIENTES\" [lev",
+    "foto_pixeles": [
+      974,
+      857
+    ],
+    "archivo": "pendientes_pendientes-multicolor_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes Largos Geométricos",
+    "precio_pen": 79,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes Largos Geométricos\n- generic: PEN 79.00\n- generic: \"1110\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - heading \"PENDIENT",
+    "foto_pixeles": [
+      854,
+      1404
+    ],
+    "archivo": "pendientes_pendientes-largos-geometricos_08_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes largos geométricos",
+    "precio_pen": 59,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes largos geométricos\n- generic: PEN 59.00\n- generic: \"1111\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - heading \"PENDIENT",
+    "foto_pixeles": [
+      994,
+      1109
+    ],
+    "archivo": "pendientes_pendientes-largos-geometricos_09_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes Largos Irregular",
+    "precio_pen": 59,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes Largos Irregular\n- generic: PEN 59.00\n- generic: \"1112\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - heading \"PENDIENTES",
+    "foto_pixeles": [
+      855,
+      897
+    ],
+    "archivo": "pendientes_pendientes-largos-irregular_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes largos dorado con rojo",
+    "precio_pen": 69,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes largos dorado con rojo\n- generic: PEN 69.00\n- generic: \"1114\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - heading \"PEND",
+    "foto_pixeles": [
+      1018,
+      1168
+    ],
+    "archivo": "pendientes_pendientes-largos-dorado-con-rojo_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes con estampado geométricos",
+    "precio_pen": 59,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes con estampado geométricos\n- generic: PEN 59.00\n- generic: \"1189\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - heading \"P",
+    "foto_pixeles": [
+      1010,
+      761
+    ],
+    "archivo": "pendientes_pendientes-con-estampado-geometricos_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes de gota de agua con abertura",
+    "precio_pen": 89,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes de gota de agua con abertura\n- generic: PEN 89.00\n- generic: \"1191\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - heading",
+    "foto_pixeles": [
+      988,
+      961
+    ],
+    "archivo": "pendientes_pendientes-de-gota-de-agua-con-abertura_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes con diseño de diamantes de imitacion",
+    "precio_pen": 89,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes con diseño de diamantes de imitacion\n- generic: PEN 89.00\n- generic: \"1193\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  -",
+    "foto_pixeles": [
+      997,
+      1278
+    ],
+    "archivo": "pendientes_pendientes-con-diseno-de-diamantes-de-imitacion_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes de tachuela zirconia cúbica",
+    "precio_pen": 49,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes de tachuela zirconia cúbica\n- generic: PEN 49.00\n- generic: \"1197\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - heading ",
+    "foto_pixeles": [
+      1076,
+      895
+    ],
+    "archivo": "pendientes_pendientes-de-tachuela-zirconia-cubica_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes rosados con diseño de diamantes",
+    "precio_pen": 89,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes rosados con diseño de diamantes\n- generic: PEN 89.00\n- generic: \"1200\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - head",
+    "foto_pixeles": [
+      1004,
+      905
+    ],
+    "archivo": "pendientes_pendientes-rosados-con-diseno-de-diamantes_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes gota de agua con diseño de diamantes con abertura",
+    "precio_pen": 79,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes gota de agua con diseño de diamantes con abertura\n- generic: PEN 79.00\n- generic: \"1201\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button",
+    "foto_pixeles": [
+      936,
+      970
+    ],
+    "archivo": "pendientes_pendientes-gota-de-agua-con-diseno-de-diamantes-con-abertura_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes con gota de agua con abertura",
+    "precio_pen": 89,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes con gota de agua con abertura\n- generic: PEN 89.00\n- generic: \"1204\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - headin",
+    "foto_pixeles": [
+      1080,
+      1382
+    ],
+    "archivo": "pendientes_pendientes-con-gota-de-agua-con-abertura_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes largos con textura y diseño de metal",
+    "precio_pen": 69,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes largos con textura y diseño de metal\n- generic: PEN 69.00\n- generic: \"1206\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  -",
+    "foto_pixeles": [
+      877,
+      1118
+    ],
+    "archivo": "pendientes_pendientes-largos-con-textura-y-diseno-de-metal_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes esfericos dorados con brillo tornasol",
+    "precio_pen": 50,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes esfericos dorados con brillo tornasol\n- generic: PEN 50.00\n- generic: \"1207\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  ",
+    "foto_pixeles": [
+      1051,
+      1045
+    ],
+    "archivo": "pendientes_pendientes-esfericos-dorados-con-brillo-tornasol_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes Glamour",
+    "precio_pen": 89,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- status\n- generic: Pendientes Glamour\n- generic: PEN 89.00\n- generic: \"1210\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - heading \"PENDIENTES",
+    "foto_pixeles": [
+      521,
+      828
+    ],
+    "archivo": "pendientes_pendientes-glamour_01.jpg",
+    "fotos_adicionales": [
+      "pendientes_pendientes-glamour_02.jpg"
+    ],
+    "numero_fotos": 2
+  },
+  {
+    "nombre": "Pendientes largos con diamantes de imitación con fleco",
+    "precio_pen": 89,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes largos con diamantes de imitación con fleco\n- generic: PEN 89.00\n- generic: \"1212\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrá",
+    "foto_pixeles": [
+      764,
+      1234
+    ],
+    "archivo": "pendientes_pendientes-largos-con-diamantes-de-imitacion-con-fleco_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes largos con perla y diseño de diamantes de imitación",
+    "precio_pen": 89,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes largos con perla y diseño de diamantes de imitación\n- generic: PEN 89.00\n- generic: \"1219\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - butt",
+    "foto_pixeles": [
+      983,
+      1154
+    ],
+    "archivo": "pendientes_pendientes-largos-con-perla-y-diseno-de-diamantes-de-imitacion_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes geométricos dorados",
+    "precio_pen": 69,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes geométricos dorados\n- generic: PEN 69.00\n- generic: \"1221\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - heading \"PENDIEN",
+    "foto_pixeles": [
+      999,
+      892
+    ],
+    "archivo": "pendientes_pendientes-geometricos-dorados_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  },
+  {
+    "nombre": "Pendientes Bohemio",
+    "precio_pen": 89,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- status\n- generic: Pendientes Bohemio\n- generic: PEN 89.00\n- generic: \"1222\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - button \"Atrás\":\n  - heading \"PENDIENTES",
+    "foto_pixeles": [
+      623,
+      980
+    ],
+    "archivo": "pendientes_pendientes-bohemio_01.jpg",
+    "fotos_adicionales": [
+      "pendientes_pendientes-bohemio_02.jpg"
+    ],
+    "numero_fotos": 2
+  },
+  {
+    "nombre": "Pendientes de aro abierto con diseño de diamantes y de perlas",
+    "precio_pen": 69,
+    "detalle_visible": "heading \"Detalles\" [level=2]:\n    - generic: Detalles\n  - button \"Tu carrito\":\n  - button \"Enlace al producto\":\n  - button \"Menú\":\n- status\n- generic: Esperando red\n- generic: Pendientes de aro abierto con diseño de diamantes y de perlas\n- generic: PEN 69.00\n- generic: \"1224\"\n- generic \"Enviar mensaje a la empresa\":\n  - button \"Enviar mensaje a la empresa\":\n    - generic: Enviar mensaje a la empresa\n- generic \"Añadir al carrito\":\n  - button \"Añadir al carrito\":\n    - generic: Añadir al carrito\n- banner:\n  - butto",
+    "foto_pixeles": [
+      520,
+      794
+    ],
+    "archivo": "pendientes_pendientes-de-aro-abierto-con-diseno-de-diamantes-y-de-perlas_01.jpg",
+    "numero_fotos": 1,
+    "fotos_adicionales": []
+  }
+]

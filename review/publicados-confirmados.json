@@ -1714,7 +1714,7 @@
   {
     "id": 107,
     "name": "Vestido largo plomo de tull con detalles de flores",
-    "category": "Gala",
+    "category": "Largos",
     "price": 439,
     "note": "Diseño largo plomo con caída satinada y detalles florales. Consulta disponibilidad y medidas con la boutique.",
     "photos": [
@@ -1737,9 +1737,8 @@
     ],
     "image": "./images/productos-reales/XL-107/01-R112.jpeg",
     "photoPending": false,
-    "reviewPending": true,
     "catalogName": "Vestido largo plomo de tull con detalles de flores",
-    "catalogCategory": "Gala Dresses",
+    "catalogCategory": "Vestidos Largos",
     "priceSource": {
       "tipo": "WhatsApp Web",
       "telefono": "+51 930 527 248",
@@ -4640,7 +4639,7 @@
   {
     "id": 187,
     "name": "Vestido blanco mini elegante con perlas",
-    "category": "Cortos",
+    "category": "Bandage",
     "price": 329,
     "note": "Vestido mini blanco con aplicaciones de perlas. Consulta disponibilidad y medidas con la boutique.",
     "photos": [
@@ -4665,9 +4664,8 @@
     ],
     "image": "./images/productos-reales/XL-187/01-WA-Cortos-blanco-frente.png",
     "photoPending": false,
-    "reviewPending": true,
     "catalogName": "Vestido blanco mini elegante con perlas",
-    "catalogCategory": "Vestidos Cortos",
+    "catalogCategory": "Bandage",
     "priceSource": {
       "tipo": "WhatsApp Web",
       "telefono": "+51 930 527 248",
@@ -4703,7 +4701,6 @@
     ],
     "image": "./images/productos-reales/XL-196/01-WA-Gala-morado-frente.png",
     "photoPending": false,
-    "reviewPending": true,
     "catalogName": "Vestido largo de gala morado con lentejuelas",
     "catalogCategory": "Gala Dresses",
     "catalogCode": "1512",

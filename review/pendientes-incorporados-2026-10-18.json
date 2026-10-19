@@ -5,7 +5,7 @@
     {
       "id": 107,
       "nombre": "Vestido largo plomo de tull con detalles de flores",
-      "categoriaPrincipal": "Gala",
+      "categoriaPrincipal": "Largos",
       "precio": 439,
       "fotos": [
         "./images/productos-reales/XL-107/01-R112.jpeg",
@@ -25,7 +25,7 @@
     {
       "id": 187,
       "nombre": "Vestido blanco mini elegante con perlas",
-      "categoriaPrincipal": "Cortos",
+      "categoriaPrincipal": "Bandage",
       "precio": 329,
       "fotos": [
         "./images/productos-reales/XL-187/01-WA-Cortos-blanco-frente.png",
@@ -37,5 +37,7 @@
     "XL-107 ya era la misma prenda plomo; se actualizó nombre y precio a la ficha vigente S/439.",
     "XL-187 usa S/329 porque coincide exactamente con el nombre Vestido blanco mini elegante con perlas.",
     "XL-196 es una prenda distinta y se incorporó con frente primero y espalda después."
-  ]
+  ],
+  "aclaracion": "Pendientes se refería al trabajo aún por revisar, no a una colección. No se crea una sección comercial adicional.",
+  "estado": "Tres fichas incorporadas en Largos, Gala y Bandage; quedan sujetas a la auditoría visual completa del catálogo WhatsApp."
 }

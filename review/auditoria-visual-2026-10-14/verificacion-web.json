@@ -1,0 +1,12 @@
+{
+  "colecciones_generadas": {
+    "Gala": 35,
+    "Largos": 25,
+    "Cortos con brillo": 43,
+    "Cortos": 14,
+    "Bandage": 21,
+    "Liquidación": 8
+  },
+  "fichas_verificadas": 139,
+  "validacion": "Pertenencia de cada ficha, ausencia de duplicados, categoría y precio JSON-LD correctos."
+}

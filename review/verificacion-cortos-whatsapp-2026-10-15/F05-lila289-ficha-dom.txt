@@ -1,0 +1,239 @@
+
+  - button "Adjuntar":
+  - button "Emojis, GIF, Stickers":
+  - textbox "Escribir un mensaje para +51 930 527 248":
+    - paragraph
+  - generic: Escribe un mensaje
+  - button "Mensaje de voz":
+    - button "Mensaje de voz":
+- banner:
+  - button "Atrás":
+  - heading "Detalles" [level=2]:
+    - generic: Detalles
+  - button "Tu carrito":
+  - button "Enlace al producto":
+  - button "Menú":
+- status
+- generic: Esperando red
+- status
+- generic: Vestido lila en rib
+- generic: PEN 289.00
+- generic: Vestido corto lila en rib con manga larga de escote cruzado y perlitas
+- generic: COD 1888
+- generic "Enviar mensaje a la empresa":
+  - button "Enviar mensaje a la empresa":
+    - generic: Enviar mensaje a la empresa
+- generic "Añadir al carrito":
+  - button "Añadir al carrito":
+    - generic: Añadir al carrito
+- banner:
+  - button "Atrás":
+  - heading "Vestidos Cortos" [level=2]:
+    - generic: Vestidos Cortos
+  - button "Tu carrito":
+  - button "Enlace al catálogo":
+- button "Vestido corto con mangas y ajustado color azul con estampado floral ⬇️ 70% Descuento PEN 68.70 PEN 229.00":
+  - gridcell "Vestido corto con mangas y ajustado color azul con estampado floral":
+    - generic "Vestido corto con mangas y ajustado color azul con estampado floral"
+  - img "⬇️"
+  - text: 70% Descuento
+  - text: PEN 68.70
+  - deletion: PEN 229.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto satín estampado ⬇️ 70% Descuento. PEN 86.70 PEN 289.00":
+  - gridcell "Vestido corto satín estampado":
+    - generic "Vestido corto satín estampado"
+  - img "⬇️"
+  - text: 70% Descuento.
+  - text: PEN 86.70
+  - deletion: PEN 289.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto con volantes de cuello redondo ⬇️ 60% Descuento PEN 115.60 PEN 289.00":
+  - gridcell "Vestido corto con volantes de cuello redondo":
+    - generic "Vestido corto con volantes de cuello redondo"
+  - img "⬇️"
+  - text: 60% Descuento
+  - text: PEN 115.60
+  - deletion: PEN 289.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto licrado azul Vestido corto azul con botones de tirantes PEN 249.00":
+  - gridcell "Vestido corto licrado azul":
+    - generic "Vestido corto licrado azul"
+  - generic: Vestido corto azul con botones de tirantes
+  - generic: PEN 249.00
+  - button "Añadir 1 artículo":
+- button "Vestido lila en rib Vestido corto lila en rib con manga larga de escote cruzado y perlitas PEN 289.00" [active]:
+  - gridcell "Vestido lila en rib":
+    - generic "Vestido lila en rib"
+  - generic: Vestido corto lila en rib con manga larga de escote cruzado y perlitas
+  - generic: PEN 289.00
+  - button "Añadir 1 artículo":
+- button "Vestido blanco mini elegante con perlas Prendas Importadas PEN 329.00":
+  - gridcell "Vestido blanco mini elegante con perlas":
+    - generic "Vestido blanco mini elegante con perlas"
+  - generic: Prendas Importadas
+  - generic: PEN 329.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto cuello diagonal, plisado y liso Prendas Importadas PEN 319.00":
+  - gridcell "Vestido corto cuello diagonal, plisado y liso":
+    - generic "Vestido corto cuello diagonal, plisado y liso"
+  - generic: Prendas Importadas
+  - generic: PEN 319.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto verde agua con tirantes Prendas Importadas PEN 299.00":
+  - gridcell "Vestido corto verde agua con tirantes":
+    - generic "Vestido corto verde agua con tirantes"
+  - generic: Prendas Importadas
+  - generic: PEN 299.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto celeste con corte sirena Prendas Importadas PEN 239.00":
+  - gridcell "Vestido corto celeste con corte sirena":
+    - generic "Vestido corto celeste con corte sirena"
+  - generic: Prendas Importadas
+  - generic: PEN 239.00
+  - button "Añadir 1 artículo":
+- button "Vestido blanco con perlas PEN 319.00":
+  - gridcell "Vestido blanco con perlas":
+    - generic "Vestido blanco con perlas"
+  - generic: PEN 319.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto blanco con capa Prendas Importadas PEN 239.00":
+  - gridcell "Vestido corto blanco con capa":
+    - generic "Vestido corto blanco con capa"
+  - generic: Prendas Importadas
+  - generic: PEN 239.00
+  - button "Añadir 1 artículo":
+- button "Vestido Corto Bellmet asimétrica color verde Prendas Importadas PEN 189.00":
+  - gridcell "Vestido Corto Bellmet asimétrica color verde":
+    - generic "Vestido Corto Bellmet asimétrica color verde"
+  - generic: Prendas Importadas
+  - generic: PEN 189.00
+  - button "Añadir 1 artículo":
+- button "Vestido color verde terciopelo semi drapeado con manga y escote Prendas Importadas PEN 429.00":
+  - gridcell "Vestido color verde terciopelo semi drapeado con manga y escote":
+    - generic "Vestido color verde terciopelo semi drapeado con manga y escote"
+  - generic: Prendas Importadas
+  - generic: PEN 429.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto azul con cinturón de Aplicaciones plateado Prendas Importadas PEN 369.00":
+  - gridcell "Vestido corto azul con cinturón de Aplicaciones plateado":
+    - generic "Vestido corto azul con cinturón de Aplicaciones plateado"
+  - generic: Prendas Importadas
+  - generic: PEN 369.00
+  - button "Añadir 1 artículo":
+- button "Vestido drapeado verde de mandas con escote Prendas Importadas PEN 359.00":
+  - gridcell "Vestido drapeado verde de mandas con escote":
+    - generic "Vestido drapeado verde de mandas con escote"
+  - generic: Prendas Importadas
+  - generic: PEN 359.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto blanco drapeado con mangas largas Prendas Importadas PEN 389.00":
+  - gridcell "Vestido corto blanco drapeado con mangas largas":
+    - generic "Vestido corto blanco drapeado con mangas largas"
+  - generic: Prendas Importadas
+  - generic: PEN 389.00
+  - button "Añadir 1 artículo":
+- button "Vestido de cuello cuadrado de manga larga color rosado Prendas Importadas PEN 299.00":
+  - gridcell "Vestido de cuello cuadrado de manga larga color rosado":
+    - generic "Vestido de cuello cuadrado de manga larga color rosado"
+  - generic: Prendas Importadas
+  - generic: PEN 299.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto plomo con detalle de lentejuelas y pliegue Prendas Importadas PEN 319.00":
+  - gridcell "Vestido corto plomo con detalle de lentejuelas y pliegue":
+    - generic "Vestido corto plomo con detalle de lentejuelas y pliegue"
+  - generic: Prendas Importadas
+  - generic: PEN 319.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo verde con estampado de rosas verdes Prendas Importadas PEN 229.00":
+  - gridcell "Vestido largo verde con estampado de rosas verdes":
+    - generic "Vestido largo verde con estampado de rosas verdes"
+  - generic: Prendas Importadas
+  - generic: PEN 229.00
+  - button "Añadir 1 artículo":
+- button "Vestido drapeado azul asimétrico Prendas Importadas PEN 389.00":
+  - gridcell "Vestido drapeado azul asimétrico":
+    - generic "Vestido drapeado azul asimétrico"
+  - generic: Prendas Importadas
+  - generic: PEN 389.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto drapeado con perlas Prendas Importadas PEN 389.00":
+  - gridcell "Vestido corto drapeado con perlas":
+    - generic "Vestido corto drapeado con perlas"
+  - generic: Prendas Importadas
+  - generic: PEN 389.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto satín (Talla S) Prendas Importadas PEN 179.00":
+  - gridcell "Vestido corto satín (Talla S)":
+    - generic "Vestido corto satín (Talla S)"
+  - generic: Prendas Importadas
+  - generic: PEN 179.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto drapeado marrón con blanco Prendas Importadas PEN 389.00":
+  - gridcell "Vestido corto drapeado marrón con blanco":
+    - generic "Vestido corto drapeado marrón con blanco"
+  - generic: Prendas Importadas
+  - generic: PEN 389.00
+  - button "Añadir 1 artículo":
+- button "Vestido crema de Gaza con detalles estrellas doradas Prendas Importadas PEN 289.00":
+  - gridcell "Vestido crema de Gaza con detalles estrellas doradas":
+    - generic "Vestido crema de Gaza con detalles estrellas doradas"
+  - generic: Prendas Importadas
+  - generic: PEN 289.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto Blanco de una manga Prendas Importadas PEN 289.00":
+  - gridcell "Vestido corto Blanco de una manga":
+    - generic "Vestido corto Blanco de una manga"
+  - generic: Prendas Importadas
+  - generic: PEN 289.00
+  - button "Añadir 1 artículo":
+- button "Vestido azul con perlas blancas Prendas Importadas PEN 389.00":
+  - gridcell "Vestido azul con perlas blancas":
+    - generic "Vestido azul con perlas blancas"
+  - generic: Prendas Importadas
+  - generic: PEN 389.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto drapeado Prendas Importadas PEN 249.00":
+  - gridcell "Vestido corto drapeado":
+    - generic "Vestido corto drapeado"
+  - generic: Prendas Importadas
+  - generic: PEN 249.00
+  - button "Añadir 1 artículo":
+- button "Vestido largo marrón con detalle plateados Prendas Importadas PEN 319.00":
+  - gridcell "Vestido largo marrón con detalle plateados":
+    - generic "Vestido largo marrón con detalle plateados"
+  - generic: Prendas Importadas
+  - generic: PEN 319.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto negro con aplicaciones plateadas Prendas Importadas PEN 289.00":
+  - gridcell "Vestido corto negro con aplicaciones plateadas":
+    - generic "Vestido corto negro con aplicaciones plateadas"
+  - generic: Prendas Importadas
+  - generic: PEN 289.00
+  - button "Añadir 1 artículo":
+- button "vestido corto con escote y detalles plateados Prendas Importadas PEN 279.00":
+  - gridcell "vestido corto con escote y detalles plateados":
+    - generic "vestido corto con escote y detalles plateados"
+  - generic: Prendas Importadas
+  - generic: PEN 279.00
+  - button "Añadir 1 artículo":
+- button "Vestido corto drapeado de perlas Prendas Importadas PEN 319.00":
+  - gridcell "Vestido corto drapeado de perlas":
+    - generic "Vestido corto drapeado de perlas"
+  - generic: Prendas Importadas
+  - generic: PEN 319.00
+  - button "Añadir 1 artículo":
+- button "vestido corto drapeado de mangas Prendas Importadas PEN 379.00":
+  - gridcell "vestido corto drapeado de mangas":
+    - generic "vestido corto drapeado de mangas"
+  - generic: Prendas Importadas
+  - generic: PEN 379.00
+  - button "Añadir 1 artículo":
+- button "Vestido 3/4 blanco de mangas con strass plateadas. Prendas Importadas PEN 549.00":
+  - gridcell "Vestido 3/4 blanco de mangas con strass plateadas.":
+    - generic "Vestido 3/4 blanco de mangas con strass plateadas."
+  - generic: Prendas Importadas
+  - generic: PEN 549.00
+  - button "Añadir 1 artículo":
+- tooltip "Atrás":
+  - generic: Atrás

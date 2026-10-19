@@ -15,7 +15,13 @@ function walk(dir) {
   }
 }
 walk(output);
-const pages = files.filter(file => file.endsWith('index.html'));
+const reviewPage = path.join(output, 'ordenar', 'index.html');
+const pages = files.filter(file => file.endsWith('index.html') && file !== reviewPage);
+assert(fs.existsSync(reviewPage), 'Falta la herramienta de clasificación');
+assert(fs.readFileSync(reviewPage, 'utf8').includes('noindex,nofollow'), 'La herramienta del dueño debe excluirse de indexación');
+for (const asset of ['style.css', 'app.js', 'model.js']) {
+  assert(fs.existsSync(path.join(output, 'ordenar', asset)), `Falta recurso de clasificación: ${asset}`);
+}
 const productSource = fs.readFileSync(path.join(__dirname, 'products.js'), 'utf8');
 const products = JSON.parse(productSource.match(/export const products = ([\s\S]*?);\s*export const categories/)[1]);
 const categories = JSON.parse(productSource.match(/export const categories = ([\s\S]*?);/)[1]);

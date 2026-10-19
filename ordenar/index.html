@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="theme-color" content="#191919">
+  <title>Ordena la colección | Xiliana Boutique</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header class="header">
+    <a class="brand" href="../" aria-label="Ver catálogo de Xiliana"><img src="../images/xiliana-logo-gold-black.png" alt="Xiliana Boutique"></a>
+    <span class="owner-label">El estudio de tu colección</span>
+    <button id="finish" class="primary" disabled>Terminado <span aria-hidden="true">↗</span></button>
+  </header>
+  <main>
+    <section class="intro"><div><p class="kicker">Tu colección, en su lugar</p><h1>¿Esta prenda va aquí?</h1><p>Una tarjeta, una decisión. Confirma su categoría o acomoda los detalles a tu manera.</p></div><div class="progress-box"><strong id="progress-text">Cargando colección…</strong><progress id="progress" value="0" max="1" aria-label="Prendas revisadas"></progress><span id="save-state" role="status">Preparando tu mesa de trabajo</span></div></section>
+    <nav id="categories" class="categories" aria-label="Colecciones"></nav>
+    <div class="toolbar"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Buscar nombre o código XL" aria-label="Buscar prenda"></label><label class="status-filter">Mostrar <select id="status"><option value="pending">Por revisar</option><option value="all">Todas</option><option value="reviewed">Revisadas</option><option value="changes">Con cambios</option></select></label><button id="add" class="outline" disabled>＋ Añadir prenda</button></div>
+    <section id="game" aria-label="Tarjeta de revisión" aria-live="polite"></section>
+    <footer class="workspace-footer"><button id="undo" class="text-button" disabled>↶ Deshacer última decisión</button><div><button id="backup" class="text-button">Descargar respaldo</button><label class="text-button import-label">Restaurar respaldo<input type="file" id="restore" accept="application/json,.json" hidden></label></div></footer>
+    <p class="storage-note">El avance y las fotos añadidas se guardan en este navegador. Descarga un respaldo para continuar en otro equipo. El catálogo público se actualiza después de revisar tus indicaciones.</p>
+  </main>
+  <dialog id="editor" aria-labelledby="editor-title"><form id="edit-form"><div class="dialog-top"><div><p class="kicker" id="edit-code"></p><h2 id="editor-title">Acomoda esta prenda</h2></div><button type="button" data-close="editor" class="icon-button" aria-label="Cerrar edición">×</button></div><div class="fields"><label>Nombre o distinción<input id="edit-name" required maxlength="180"></label><div class="field-row"><label>Categoría<select id="edit-category" required></select></label><label>Precio (S/)<input id="edit-price" type="number" min="0" max="100000" step="0.01" required></label></div><label>Indicaciones para la corrección<textarea id="edit-notes" rows="2" maxlength="2000" placeholder="Ej.: la segunda foto es de otro modelo; falta la vista de espalda."></textarea></label></div><div class="photo-heading"><h3>Fotos de la prenda</h3><span>La primera será la portada</span></div><div id="edit-photos" class="edit-photos"></div><div class="photo-tools"><button type="button" id="pick-photo" class="outline">Elegir del catálogo</button><label class="outline upload-label">Subir fotos<input id="upload" type="file" accept="image/jpeg,image/png,image/webp" multiple hidden></label></div><label class="checkbox"><input id="edit-missing" type="checkbox"> Faltan fotos por conseguir</label><p id="edit-error" class="error" role="alert"></p><div class="dialog-actions"><button type="button" id="delete-product" class="danger-text">Solicitar eliminar prenda</button><button type="submit" class="primary">Guardar y seguir →</button></div></form></dialog>
+  <dialog id="picker" aria-labelledby="picker-title"><div class="dialog-top"><h2 id="picker-title">Fotos del catálogo</h2><button data-close="picker" class="icon-button" aria-label="Cerrar selector">×</button></div><p>Elige una foto para añadirla a esta tarjeta. Conservaremos su referencia original.</p><input id="photo-search" type="search" placeholder="Buscar prenda o código XL" aria-label="Buscar fotos del catálogo"><div id="photo-pool" class="photo-pool"></div></dialog>
+  <dialog id="summary" aria-labelledby="summary-title"><div class="dialog-top"><div><p class="kicker">Lista para compartir</p><h2 id="summary-title">Así queda tu colección</h2></div><button data-close="summary" class="icon-button" aria-label="Cerrar resumen">×</button></div><p id="summary-count"></p><p>Revisa el informe y abre cada parte en WhatsApp al <strong>992 272 521</strong>. Allí pulsa Enviar. Las fotos que subiste se incluyen en el respaldo; adjunta ese archivo en el chat para compartirlas.</p><pre id="report"></pre><div id="whatsapp-parts" class="whatsapp-parts"></div><div class="summary-tools"><button id="download-report" class="outline">Descargar informe</button><button id="summary-backup" class="outline">Descargar respaldo con fotos</button></div></dialog>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

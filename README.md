@@ -29,6 +29,21 @@ Luego abre `http://127.0.0.1:8090/`.
 
 La página está separada de las otras demos del repositorio.
 
+## Minijuego para ordenar la colección
+
+Después de compilar y arrancar el servidor, abre `http://127.0.0.1:8090/ordenar/`.
+Usa directamente `products.js` y sus fotos originales: no hay que duplicar la base del catálogo.
+
+- Filtra Gala, Largos, Cortos con brillo, Cortos, Bandage o Liquidación. Cada tarjeta muestra su código XL y permite recorrer todas sus fotos.
+- **✓ Sí, va aquí** confirma la clasificación. **× Corregir** permite cambiar nombre, categoría, precio, portada y fotos, indicar fotos faltantes o solicitar eliminar la prenda.
+- **Elegir del catálogo** reutiliza fotos existentes con su ruta original. **Subir fotos** admite JPG, PNG y WebP de hasta 10 MB cada una; máximo 40 fotos por prenda.
+- **Añadir prenda** crea un código `NUEVO-…` que se incluye en el informe. Las correcciones se guardan en IndexedDB de este navegador y origen; no modifican el catálogo público automáticamente.
+- **Deshacer** revierte hasta 25 decisiones de la sesión. **Descargar respaldo** conserva decisiones y fotos subidas en JSON. **Restaurar respaldo** permite continuar en otro equipo con la misma versión del catálogo.
+- **Terminado** muestra el informe completo con códigos, nombres, categorías anteriores y nuevas, precios, fotos agregadas o retiradas, eliminaciones y notas. Si faltan prendas por revisar, lo indica expresamente.
+- El resumen genera enlaces a WhatsApp **+51 992 272 521**, divididos en partes para informes extensos. El dueño abre cada parte y pulsa Enviar en WhatsApp. Los enlaces no envían mensajes automáticamente. Adjuntar el respaldo JSON comparte las fotos subidas; el texto incluye sus nombres de archivo para identificarlas.
+
+La herramienta usa `noindex,nofollow` y no se enlaza desde la tienda para no interrumpir a las clientas. No tiene autenticación: conocer la URL permite abrirla. Sus borradores están guardados solo en el dispositivo que hace la revisión. Esta ruta se incorpora a `public/ordenar/` al compilar.
+
 ## Publicar en Cloudflare Workers
 
 El repositorio XILIANA incluye `wrangler.jsonc`. Usa el comando de despliegue `npx --yes wrangler@4.147.0 deploy` desde la raíz de este repositorio. Wrangler ejecuta `node build.cjs` y publica solamente `public/`, que contiene HTML, CSS, JavaScript y archivos multimedia. El historial `.git`, el servidor local y los registros de generación no se copian. La salida se regenera para eliminar archivos obsoletos y se valida automáticamente; un fallo detiene el despliegue.

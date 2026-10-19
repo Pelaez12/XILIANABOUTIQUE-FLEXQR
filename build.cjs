@@ -33,6 +33,10 @@ for (const file of ['index.html', 'styles.css', 'experience.css', 'main.js', 'br
   copy(path.join(__dirname, file), file);
 }
 media(path.join(__dirname, 'images'));
+// Herramienta de revisión del dueño: reutiliza el catálogo y sus fotos originales.
+for (const file of ['index.html', 'style.css', 'app.js', 'model.js']) {
+  copy(path.join(__dirname, 'ordenar', file), path.join('ordenar', file));
+}
 fs.writeFileSync(path.join(output, '.assetsignore'), '.git/\nnode_modules/\n*.cjs\n*.json\n*.jsonc\n*.md\n');
 require('./seo-build.cjs')(output).then(() => {
   require('./validate-seo.cjs');

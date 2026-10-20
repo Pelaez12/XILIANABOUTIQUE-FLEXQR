@@ -51,7 +51,10 @@ body.opening-active .site-header .brand-logo{opacity:0}
 .category-tile:hover img,.category-tile:focus-visible img{transform:scale(1.035);filter:brightness(.78)}
 .category-tile span,.category-tile small{position:absolute;left:18px;right:18px;z-index:2}
 .category-tile span{bottom:15%;font-family:Georgia,serif;font-size:clamp(25px,3vw,49px);font-weight:400;line-height:1.05;text-transform:uppercase;text-wrap:balance;text-shadow:0 1px 14px #0008}
-.category-tile small{bottom:7%;font-size:10px;font-weight:700;letter-spacing:.15em;text-transform:uppercase}
+.category-tile small{bottom:7%;font-size:11px;line-height:1.6;font-weight:600;letter-spacing:.08em;text-transform:uppercase}
+.category-tile small b{display:inline-block;font-weight:400;transition:transform .35s cubic-bezier(.22,1,.36,1)}
+@media(hover:hover){.category-tile:hover small b{transform:translate(3px,-3px)}}
+.category-tile:active img{transform:scale(1.02)}
 .category-tile:focus-visible{outline:3px solid #9d814b;outline-offset:3px}
 .catalog{padding-top:88px}
 .section-heading h1{font-size:clamp(44px,5vw,76px);line-height:1.1;margin:9px 0;font-weight:500;letter-spacing:-.07em}
@@ -293,6 +296,8 @@ body:has(#collection-query[aria-expanded="true"]) .whatsapp-widget{visibility:hi
 .category-showcase-grid .category-tile{grid-column:span 2}
 .category-showcase-grid .category-tile:nth-child(4){grid-column:2/span 2}
 .category-showcase-grid .category-tile:nth-child(5){grid-column:4/span 2}
+.category-showcase-grid .category-tile--complement{grid-column:span 3;aspect-ratio:1/1}
+.category-tile--complement img{object-position:center 38%}
 .contact-strip h2{font-size:clamp(28px,3.4vw,46px);max-width:24ch;letter-spacing:-.035em}
 .contact-strip p:last-child{max-width:64ch}
 .intro-replay{position:absolute;left:24px;bottom:22px;min-height:44px;padding:10px 14px;border:0;background:#fff;color:#171717;font-size:12px;cursor:pointer}
@@ -331,9 +336,19 @@ body:has(.photo-viewer[open]){overflow:hidden}
  .category-showcase-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
  .category-showcase-grid .category-tile:nth-child(n){grid-column:auto}
  .category-showcase-grid .category-tile:nth-child(5){grid-column:1/-1;width:calc(50% - 6px);justify-self:center}
+ .category-showcase-grid .category-tile--complement{aspect-ratio:3/4.8}
+ .category-tile span{left:10px;right:10px;bottom:23%;font-size:clamp(19px,5.5vw,29px);line-height:1.08}
+ .category-tile small{left:8px;right:8px;bottom:7%;font-size:10px;line-height:1.6;letter-spacing:.04em}
+ .category-tile--complement span{font-size:clamp(16px,4.6vw,26px)}
  .product-size-badge{left:8px;top:8px;padding:6px 8px;font-size:10px;max-width:calc(100% - 16px)}
  .product-image:has(.sale-tag) .product-size-badge{top:42px}
  .intro-replay{left:12px;bottom:12px;font-size:10px;padding:8px 10px}
  .photo-viewer{width:100%;max-width:100%;height:100dvh;max-height:100dvh;margin:0}
  .photo-viewer header{gap:8px;padding:8px 12px}.photo-viewer header p{font-size:12px}
+}
+
+/* La exploración sigue siendo inmediata cuando se prefiere menos movimiento. */
+@media(prefers-reduced-motion:reduce){
+ .category-tile img,.category-tile small b{transition:none}
+ .category-tile:hover img,.category-tile:focus-visible img,.category-tile:active img,.category-tile:hover small b{transform:none}
 }

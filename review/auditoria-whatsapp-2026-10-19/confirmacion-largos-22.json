@@ -1,0 +1,255 @@
+{
+  "fecha": "2026-10-19",
+  "total_confirmados": 22,
+  "publicados_en_largos": 18,
+  "pendientes_de_ficha_y_foto": 4,
+  "exclusion": {
+    "fila_whatsapp_18_oct": 19,
+    "nombre": "Blusa cola de pato asimétrico blanco con negro",
+    "motivo": "Blusa, fuera de los 22 vestidos confirmados"
+  },
+  "vestidos": [
+    {
+      "orden_confirmado": 1,
+      "fila_whatsapp_18_oct": 1,
+      "codigo_whatsapp": "1440",
+      "nombre": "Vestido romano largo floreado",
+      "precio_pen": 439.0,
+      "id_web": "XL-203",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 2,
+      "fila_whatsapp_18_oct": 2,
+      "codigo_whatsapp": "737",
+      "nombre": "Vestido largo color Fucsia",
+      "precio_pen": 389.0,
+      "id_web": "XL-005",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 3,
+      "fila_whatsapp_18_oct": 3,
+      "codigo_whatsapp": "1801",
+      "nombre": "Vestido largo amarillo con lazo",
+      "precio_pen": 449.0,
+      "id_web": "XL-006",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 4,
+      "fila_whatsapp_18_oct": 4,
+      "codigo_whatsapp": "1842",
+      "nombre": "Vestido estampado floreado",
+      "precio_pen": 629.0,
+      "id_web": "XL-197",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 5,
+      "fila_whatsapp_18_oct": 5,
+      "codigo_whatsapp": "1839",
+      "nombre": "Vestido largo floreado de tirantes",
+      "precio_pen": 499.0,
+      "id_web": "XL-204",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 6,
+      "fila_whatsapp_18_oct": 6,
+      "codigo_whatsapp": "1879",
+      "nombre": "Vestido rojo largo de manga abanicada",
+      "precio_pen": 289.0,
+      "id_web": "XL-020",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 7,
+      "fila_whatsapp_18_oct": 7,
+      "codigo_whatsapp": "1927",
+      "nombre": "Vestido largo anaranjado de mangas largas de rosas",
+      "precio_pen": 369.0,
+      "id_web": "XL-205",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 8,
+      "fila_whatsapp_18_oct": 8,
+      "codigo_whatsapp": null,
+      "nombre": "Vestido blanco de corte sirena, de manga larga de rosas",
+      "precio_pen": 349.0,
+      "id_web": "XL-022",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 9,
+      "fila_whatsapp_18_oct": 9,
+      "codigo_whatsapp": "1928",
+      "nombre": "Vestido largo crema de mangas",
+      "precio_pen": 319.0,
+      "id_web": "XL-023",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 10,
+      "fila_whatsapp_18_oct": 10,
+      "codigo_whatsapp": "1948",
+      "nombre": "Vestido largo amarillo corte romano",
+      "precio_pen": 449.0,
+      "id_web": "XL-024",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 11,
+      "fila_whatsapp_18_oct": 11,
+      "codigo_whatsapp": "1797",
+      "nombre": "Vestido largo verde limón",
+      "precio_pen": 599.0,
+      "id_web": "XL-113",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 12,
+      "fila_whatsapp_18_oct": 12,
+      "codigo_whatsapp": "1865",
+      "nombre": "Vestido largo animal prient",
+      "precio_pen": 599.0,
+      "id_web": "XL-206",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 13,
+      "fila_whatsapp_18_oct": 13,
+      "codigo_whatsapp": null,
+      "nombre": "Vestido largo Bandage color Rojo",
+      "precio_pen": 549.0,
+      "id_web": "XL-207",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 14,
+      "fila_whatsapp_18_oct": 14,
+      "codigo_whatsapp": null,
+      "nombre": "Vestido largo floreado",
+      "precio_pen": 449.0,
+      "id_web": "XL-208",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 15,
+      "fila_whatsapp_18_oct": 15,
+      "codigo_whatsapp": "2041",
+      "nombre": "Vestido estampado multicolor",
+      "precio_pen": 289.0,
+      "id_web": "XL-209",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 16,
+      "fila_whatsapp_18_oct": 16,
+      "codigo_whatsapp": "2043",
+      "nombre": "Vestido Animal Prient Multicolor",
+      "precio_pen": 329.0,
+      "id_web": "XL-210",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 17,
+      "fila_whatsapp_18_oct": 17,
+      "codigo_whatsapp": "2044",
+      "nombre": "Vestido floreado multicolor",
+      "precio_pen": 349.0,
+      "id_web": null,
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "pendiente de ficha y foto original",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 18,
+      "fila_whatsapp_18_oct": 18,
+      "codigo_whatsapp": null,
+      "nombre": "Vestido largo blanco con estampado flores",
+      "precio_pen": 269.0,
+      "id_web": "XL-198",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 19,
+      "fila_whatsapp_18_oct": 20,
+      "codigo_whatsapp": null,
+      "nombre": "Vestido corte A animal prient",
+      "precio_pen": 349.0,
+      "id_web": null,
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "pendiente de ficha y foto original",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 20,
+      "fila_whatsapp_18_oct": 21,
+      "codigo_whatsapp": "2073",
+      "nombre": "vestido largo de rayas cremas con negro",
+      "precio_pen": 279.0,
+      "id_web": null,
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "pendiente de ficha y foto original",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 21,
+      "fila_whatsapp_18_oct": 22,
+      "codigo_whatsapp": "2022",
+      "nombre": "Vestido rojo estraple con detalles",
+      "precio_pen": 339.0,
+      "id_web": "XL-199",
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "publicado en Largos",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    },
+    {
+      "orden_confirmado": 22,
+      "fila_whatsapp_18_oct": 23,
+      "codigo_whatsapp": "2083",
+      "nombre": "Vestido rosado largo estampado de flores",
+      "precio_pen": 549.0,
+      "id_web": null,
+      "categoria_confirmada_propietario": "Largos",
+      "estado_web": "pendiente de ficha y foto original",
+      "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
+    }
+  ]
+}

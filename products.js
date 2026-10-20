@@ -1754,7 +1754,7 @@ export const products = [
     "image": "./images/productos-reales/XL-107/01-R112.jpeg",
     "photoPending": false,
     "catalogName": "Vestido largo plomo de tull con detalles de flores",
-    "catalogCategory": "Vestidos Largos",
+    "catalogCategory": "Gala Dresess",
     "priceSource": {
       "tipo": "WhatsApp Web",
       "telefono": "+51 930 527 248",
@@ -4681,7 +4681,7 @@ export const products = [
     "image": "./images/productos-reales/XL-187/01-WA-Cortos-blanco-frente.png",
     "photoPending": false,
     "catalogName": "Vestido blanco mini elegante con perlas",
-    "catalogCategory": "Bandage",
+    "catalogCategory": "Vestidos Cortos",
     "priceSource": {
       "tipo": "WhatsApp Web",
       "telefono": "+51 930 527 248",
@@ -4965,6 +4965,274 @@ export const products = [
       "tipo": "Dos imágenes originales entregadas por el usuario",
       "fecha": "2026-10-18"
     }
+  },
+  {
+    "id": 203,
+    "name": "Vestido romano largo floreado",
+    "category": "Largos",
+    "price": 439.0,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-203/01-frente.png",
+        "width": 660,
+        "height": 960,
+        "view": "Frente",
+        "sha256": "2c3f77e29f921903a8844aaa251d787f0f1dc776aa2e61bae9f3a09fbed5fc1b"
+      }
+    ],
+    "image": "./images/productos-reales/XL-203/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido romano largo floreado",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json",
+      "codigoCatalogo": "1440"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "orden": 1,
+      "archivo": "codex-clipboard-e7bde1fc-a144-4cee-9c5d-6de4969dc462.png"
+    },
+    "catalogCode": "1440"
+  },
+  {
+    "id": 204,
+    "name": "Vestido largo floreado de tirantes",
+    "category": "Largos",
+    "price": 499.0,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-204/01-frente.png",
+        "width": 959,
+        "height": 1280,
+        "view": "Frente",
+        "sha256": "9b6008bd4365b14e36d2acbe266d5e8094bb161cc8dc0546055930de3d85dd14"
+      }
+    ],
+    "image": "./images/productos-reales/XL-204/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido largo floreado de tirantes",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json",
+      "codigoCatalogo": "1839"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "orden": 2,
+      "archivo": "codex-clipboard-eaf3b1b5-5a71-41e9-ab5e-41aea37107b2.png"
+    },
+    "catalogCode": "1839"
+  },
+  {
+    "id": 205,
+    "name": "Vestido largo anaranjado de mangas largas de rosas",
+    "category": "Largos",
+    "price": 369.0,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-205/01-frente.png",
+        "width": 1080,
+        "height": 1440,
+        "view": "Frente",
+        "sha256": "ccf44ff0720e4640b847fc55742c3307d8987feac18a5a2af934a3da75d6e20d"
+      }
+    ],
+    "image": "./images/productos-reales/XL-205/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido largo anaranjado de mangas largas de rosas",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json",
+      "codigoCatalogo": "1927"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "orden": 3,
+      "archivo": "codex-clipboard-58e1f506-45d3-4ad6-ac78-70c900f427aa.png"
+    },
+    "catalogCode": "1927"
+  },
+  {
+    "id": 206,
+    "name": "Vestido largo animal prient",
+    "category": "Largos",
+    "price": 599.0,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-206/01-frente.png",
+        "width": 961,
+        "height": 1280,
+        "view": "Frente",
+        "sha256": "b042873a4bc6d64a127db7165cda9af094e139f629415abbdbf56e2695f4ee12"
+      }
+    ],
+    "image": "./images/productos-reales/XL-206/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido largo animal prient",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json",
+      "codigoCatalogo": "1865"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "orden": 4,
+      "archivo": "codex-clipboard-caafbe29-a5ce-45fd-b586-f9c35e1f9337.png"
+    },
+    "catalogCode": "1865"
+  },
+  {
+    "id": 207,
+    "name": "Vestido largo Bandage color Rojo",
+    "category": "Largos",
+    "price": 549.0,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-207/01-frente.png",
+        "width": 964,
+        "height": 1280,
+        "view": "Frente",
+        "sha256": "3ef5cbe6c64e2a183400358527b1224d860c4489c6578e68fc4079e4650797c6"
+      }
+    ],
+    "image": "./images/productos-reales/XL-207/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido largo Bandage color Rojo",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "orden": 5,
+      "archivo": "codex-clipboard-646693aa-a5b5-418d-9a33-ed16b54a9c76.png"
+    }
+  },
+  {
+    "id": 208,
+    "name": "Vestido largo floreado",
+    "category": "Largos",
+    "price": 449.0,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-208/01-frente.png",
+        "width": 1247,
+        "height": 1599,
+        "view": "Frente",
+        "sha256": "d653ee6a8f14a8e2c3814e1c50b243dc805106f235b13424f2f385bc763c64ec"
+      }
+    ],
+    "image": "./images/productos-reales/XL-208/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido largo floreado",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "orden": 6,
+      "archivo": "codex-clipboard-38b2c96b-e1fd-421d-8427-f88b0c5ae5c3.png"
+    }
+  },
+  {
+    "id": 209,
+    "name": "Vestido estampado multicolor",
+    "category": "Largos",
+    "price": 289.0,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-209/01-frente.png",
+        "width": 1254,
+        "height": 1254,
+        "view": "Frente",
+        "sha256": "d1daf67bcf74bad530516024672b1ba948c5ea1cda70c5d44e309d7abee9f09d"
+      }
+    ],
+    "image": "./images/productos-reales/XL-209/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido estampado multicolor",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json",
+      "codigoCatalogo": "2041"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "orden": 7,
+      "archivo": "codex-clipboard-6cc7d10c-9be9-416d-9e57-60c6e9f9142c.png"
+    },
+    "catalogCode": "2041"
+  },
+  {
+    "id": 210,
+    "name": "Vestido Animal Prient Multicolor",
+    "category": "Largos",
+    "price": 329.0,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-210/01-frente.png",
+        "width": 1254,
+        "height": 1254,
+        "view": "Frente",
+        "sha256": "3bafe7c3cc04ccef842ab14537721aa642338b1db4e295fcd8a5425cb3a46f08"
+      }
+    ],
+    "image": "./images/productos-reales/XL-210/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido Animal Prient Multicolor",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json",
+      "codigoCatalogo": "2043"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "orden": 8,
+      "archivo": "codex-clipboard-655f752d-68a4-403e-985f-f4a3c360657c.png"
+    },
+    "catalogCode": "2043"
   }
 ];
 export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación"];

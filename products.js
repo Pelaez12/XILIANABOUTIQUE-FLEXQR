@@ -1503,7 +1503,7 @@ export const products = [
   {
     "id": 98,
     "name": "Vestido largo de mangas semi drapeado con detalles de brillos en",
-    "category": "Largos",
+    "category": "Gala",
     "price": 549,
     "note": "Haz de tu entrada un momento inolvidable. Un look para celebrar, posar y sentirte preciosa a tu manera.",
     "photos": [
@@ -1611,7 +1611,7 @@ export const products = [
   {
     "id": 102,
     "name": "Vestido largo con semi cola y detalles de pedrería plateados y mora",
-    "category": "Largos",
+    "category": "Gala",
     "price": 699,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [

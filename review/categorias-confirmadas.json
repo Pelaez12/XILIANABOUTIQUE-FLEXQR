@@ -1077,10 +1077,10 @@
     {
       "id": 98,
       "nombre": "Vestido largo de mangas semi drapeado con detalles de brillos en",
-      "categoria": "Largos",
-      "fecha": "2026-10-14",
-      "fuente": "Revisión visual de todas las fotos del producto y criterios del usuario.",
-      "motivo": "Vestidos largos sin brillo extendido. Un detalle de pedrería en escote, cintura o puños permanece en Largos; el lustre del satén no equivale a lentejuelas.",
+      "categoria": "Gala",
+      "fecha": "2026-10-20",
+      "fuente": "Confirmación expresa del propietario en esta conversación.",
+      "motivo": "Trasladar únicamente de Largos a Gala; conservar nombre, precio y fotografías.",
       "fotos": [
         {
           "src": "./images/productos-reales/XL-098/01-R084.jpeg",
@@ -1092,7 +1092,8 @@
           "view": "Espalda",
           "sha256": "7381e7ce4fb1968a22f28512bbcf685f8dd6a9151359f30ff0aefd4ba01da969"
         }
-      ]
+      ],
+      "evidencia": "codex-clipboard-7931c899-528b-4171-9658-12d1b1467a01.png"
     },
     {
       "id": 99,
@@ -1157,17 +1158,18 @@
     {
       "id": 102,
       "nombre": "Vestido largo con semi cola y detalles de pedrería plateados y mora",
-      "categoria": "Largos",
-      "fecha": "2026-10-14",
-      "fuente": "Revisión visual de todas las fotos del producto y criterios del usuario.",
-      "motivo": "Vestidos largos sin brillo extendido. Un detalle de pedrería en escote, cintura o puños permanece en Largos; el lustre del satén no equivale a lentejuelas.",
+      "categoria": "Gala",
+      "fecha": "2026-10-20",
+      "fuente": "Confirmación expresa del propietario en esta conversación.",
+      "motivo": "Trasladar únicamente de Largos a Gala; conservar nombre, precio y fotografías.",
       "fotos": [
         {
           "src": "./images/productos-reales/XL-102/01-R106.jpeg",
           "view": "Frente",
           "sha256": "c7ced2eadd297ce426a23163392c0f483c7cc3ddbfc5f155c62eea0f08dcf832"
         }
-      ]
+      ],
+      "evidencia": "codex-clipboard-7931c899-528b-4171-9658-12d1b1467a01.png"
     },
     {
       "id": 103,

@@ -22,7 +22,7 @@ historical = read(ROOT / "review/categorias-confirmadas.json")
 previous = read(ROOT / "review/conciliacion-final-2026-10-15/resultado-aplicado.json")
 conservative = read(SRC / "comparacion_web_conservadora.json")["vestidos"]
 by_id = {p["id"]: p for p in products}
-assert len(products) == len(by_id) == 175
+assert len(products) == len(by_id) == 177
 
 # Fila comercial (1 basada) -> identidad estable. Estas asociaciones se apoyan
 # en nombre, precio, código y las revisiones fotográficas citadas en el informe.
@@ -30,7 +30,7 @@ manual = {
     "Gala Dresess": {10: 140, 14: 59, 34: 97, 35: 98, 40: 102, 47: 175, 48: 108, 50: 110},
     "Vestidos Largos": {2: 5, 8: 22},
     "Vestidos Cortos Brillos": {7: 155, 9: 16, 14: 156, 21: 49, 33: 39, 38: 123, 39: 117},
-    "Vestidos Cortos": {1: 10, 15: 66},
+    "Vestidos Cortos": {1: 10, 10: 187, 15: 66},
     "Vestidos Bandage's": {1: 14, 2: 182, 3: 144, 13: 116, 14: 77},
     "PRENDAS LIQUIDACIÓN 💃🏻👠👗": {1: 10, 2: 16, 6: 155},
 }
@@ -47,6 +47,8 @@ for group, rows in groups.items():
         code = number if number and number != "1200" else None
         assigned = manual.get(group, {}).get(index)
         method = "revisión nominal, precio, código y evidencia previa" if assigned else None
+        if group == "Vestidos Cortos" and index == 10:
+            method = "foto idéntica a XL-187 entregada por el propietario; S/329 confirmado el 19/10"
         if assigned is None:
             exact = [p for p in products if p["price"] == item["precio_pen"] and norm(p["name"]) == norm(item["nombre"])]
             if len(exact) == 1:
@@ -71,7 +73,7 @@ specific = {
     107: "GALA-CAPTURA-R112, frente y espalda; confirmación posterior para Gala (categorias-confirmadas.json).",
     117: "Propietario confirmó exclusivamente Gala a S/389 el 16/10, aunque también aparece en Brillos código 2062 (categorias-confirmadas.json).",
     154: "Excepción individual del propietario: Cortos con brillo aunque el nombre diga largo (categorias-confirmadas.json).",
-    187: "Alta posterior de blanco mini S/329; fotografías de frente y prenda coinciden con Cortos código 1914 (pendientes-incorporados-2026-10-18.json).",
+    187: "Cortos códigos 1914 S/329 y 1894 S/319 son la misma prenda y foto; propietario confirmó S/329 el 19/10/2026. Foto nueva de alta resolución conservando las anteriores.",
     196: "Alta posterior de gala morado S/649 con frente y espalda (pendientes-incorporados-2026-10-18.json).",
 }
 matrix = []

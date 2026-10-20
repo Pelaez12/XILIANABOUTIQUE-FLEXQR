@@ -4660,6 +4660,15 @@ export const products = [
     "note": "Vestido mini blanco con aplicaciones de perlas. Consulta disponibilidad y medidas con la boutique.",
     "photos": [
       {
+        "src": "./images/productos-reales/XL-187/03-propietario-frente.png",
+        "width": 1080,
+        "height": 1438,
+        "view": "Frente",
+        "sha256": "221438e89471d7ab4e68b46a2830bf769274ea5b0ccd8fe0f43c0e31e2836d9b",
+        "sourceAttachment": "codex-clipboard-03905a6d-32f8-4a1a-b2a1-5294251a88dc.png",
+        "sourceType": "Foto original entregada por el propietario el 19/10/2026; corresponde también al código comercial 1894."
+      },
+      {
         "src": "./images/productos-reales/XL-187/01-WA-Cortos-blanco-frente.png",
         "width": 616,
         "height": 806,
@@ -4678,15 +4687,22 @@ export const products = [
         "sourceType": "Fotografía ampliada del catálogo WhatsApp Web; copia fiel sin edición del vestido ni del modelo."
       }
     ],
-    "image": "./images/productos-reales/XL-187/01-WA-Cortos-blanco-frente.png",
+    "image": "./images/productos-reales/XL-187/03-propietario-frente.png",
     "photoPending": false,
     "catalogName": "Vestido blanco mini elegante con perlas",
     "catalogCategory": "Vestidos Cortos",
+    "catalogCode": "1914",
     "priceSource": {
       "tipo": "WhatsApp Web",
       "telefono": "+51 930 527 248",
       "fecha": "2026-10-18",
       "evidencia": "review/verificacion-cortos-whatsapp-2026-10-15/F06-blanco329-ficha.png"
+    },
+    "catalogDuplicate": {
+      "codigo": "1894",
+      "nombre": "Vestido blanco con perlas",
+      "precio_listado_pen": 319,
+      "resolucion": "Misma prenda y foto; el propietario confirmó conservar S/329 el 19/10/2026."
     }
   },
   {
@@ -5367,6 +5383,72 @@ export const products = [
       "archivo": "codex-clipboard-01cce014-258a-4282-bd1f-04f8d1240a34.png"
     },
     "catalogCode": "2083"
+  },
+  {
+    "id": 215,
+    "name": "Falda Bandage Dress",
+    "category": "Bandage",
+    "price": 219,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-215/01-frente.png",
+        "width": 800,
+        "height": 800,
+        "view": "Frente",
+        "sha256": "baee2e7cef3288e7b60601854dc6c0f3dbeb63059dc817bce2b05c7474c92ea9"
+      }
+    ],
+    "image": "./images/productos-reales/XL-215/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Falda Bandage Dress",
+    "catalogCategory": "Vestidos Bandage's",
+    "catalogCode": "1733",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "codigoCatalogo": "1733",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "archivo": "codex-clipboard-905ff86a-808f-4e38-93e7-4a9eb7b2ec37.png"
+    }
+  },
+  {
+    "id": 216,
+    "name": "Vestido Bandage Negro/Amarillo",
+    "category": "Bandage",
+    "price": 449,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-216/01-frente.png",
+        "width": 1086,
+        "height": 1448,
+        "view": "Frente",
+        "sha256": "4d88e06515c5df429a719ea8a6267c9a85d15e91e4b91a9ae36359edafc3f97f"
+      }
+    ],
+    "image": "./images/productos-reales/XL-216/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido Bandage Negro/Amarillo",
+    "catalogCategory": "Vestidos Bandage's",
+    "catalogCode": "2074",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "codigoCatalogo": "2074",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "archivo": "codex-clipboard-64421c5d-55af-463a-8fec-85cd8e07f275.png"
+    }
   }
 ];
 export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación"];

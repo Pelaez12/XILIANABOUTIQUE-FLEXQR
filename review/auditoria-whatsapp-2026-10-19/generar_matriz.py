@@ -6,7 +6,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-OUT = ROOT / "review/auditoria-whatsapp-2026-10-20"
+OUT = ROOT / "review/revision-brillos-2026-10-20"
 SRC = ROOT / "review/auditoria-whatsapp-2026-10-18"
 
 def read(path):
@@ -75,7 +75,7 @@ old_by_id = {p["id"]: p for p in historical["prendas"]}
 specific = {
     66: "Propietario: códigos 2024/2025 son una sola prenda; conservar XL-066, ficha 2025 a S/429 (duplicados_confirmados.json).",
     107: "GALA-CAPTURA-R112, frente y espalda; confirmación posterior para Gala (categorias-confirmadas.json).",
-    117: "Propietario confirmó exclusivamente Gala a S/389 el 16/10, aunque también aparece en Brillos código 2062 (categorias-confirmadas.json).",
+    117: "El 20/10 el propietario entregó frente y espalda del código2062 y confirmó Cortos con brillo a S/379. Sustituye la decisión de Gala a S/389 del 16/10; ver review/revision-brillos-2026-10-20/confirmacion-xl117.json.",
     154: "Excepción individual del propietario: Cortos con brillo aunque el nombre diga largo (categorias-confirmadas.json).",
     187: "Cortos códigos 1914 S/329 y 1894 S/319 son la misma prenda y foto; propietario confirmó S/329 el 19/10/2026. Foto nueva de alta resolución conservando las anteriores.",
     196: "Alta posterior de gala morado S/649 con frente y espalda (pendientes-incorporados-2026-10-18.json).",

@@ -22,3 +22,10 @@ test('Exige la ficha confirmada a S/549 y permite conservar su foto antigua en l
   assert.throws(() => validateCatalog(wrongPrice, wrongPrice, identities), /Precio distinto/);
   assert.throws(() => validateCatalog([], [], identities), /Falta la ficha vigente/);
 });
+test('La confirmación posterior de XL-117 bloquea volver a Gala o al precio anterior', () => {
+  const confirmed = {id:117,category:'Cortos con brillo',price:379,photos:[],ownerConfirmation:{categoria:'Cortos con brillo',precio_pen:379}};
+  assert.doesNotThrow(() => validateCatalog([confirmed], [confirmed], {consolidaciones:[]}));
+  for (const product of [{...confirmed,category:'Gala'}, {...confirmed,price:389}]) {
+    assert.throws(() => validateCatalog([product], [product], {consolidaciones:[]}), /última confirmación/);
+  }
+});

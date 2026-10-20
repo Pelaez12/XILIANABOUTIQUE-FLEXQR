@@ -2008,11 +2008,29 @@ export const products = [
   },
   {
     "id": 117,
-    "name": "Vestido negro brillante",
-    "category": "Gala",
-    "price": 389,
+    "name": "Vestido elegante estraple negro con plateado",
+    "category": "Cortos con brillo",
+    "price": 379,
     "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
     "photos": [
+      {
+        "src": "./images/productos-reales/XL-117/03-propietario-frente.png",
+        "width": 1080,
+        "height": 1326,
+        "view": "Frente",
+        "sha256": "4ca8a96fc4749755cc150c77295ad3ca404b11daeff3716e52fd8240a1d6cab4",
+        "sourceAttachment": "codex-clipboard-766c8f00-baae-4be3-8601-2399e4f86a97.png",
+        "sourceType": "Foto original entregada por el propietario el 20/10/2026"
+      },
+      {
+        "src": "./images/productos-reales/XL-117/04-propietario-espalda.png",
+        "width": 1080,
+        "height": 1311,
+        "view": "Espalda",
+        "sha256": "e2b9ba4531c0c2929d2b53bdae1c544391cdbf531eb46d00922ca01cd1ac1d76",
+        "sourceAttachment": "codex-clipboard-6fd194c0-72b2-441c-a77c-5e72aa699adb.png",
+        "sourceType": "Foto original entregada por el propietario el 20/10/2026"
+      },
       {
         "src": "./images/productos-reales/XL-117/01-R022.jpeg",
         "width": 1080,
@@ -2036,14 +2054,25 @@ export const products = [
         }
       }
     ],
-    "image": "./images/productos-reales/XL-117/01-R022.jpeg",
+    "image": "./images/productos-reales/XL-117/03-propietario-frente.png",
     "photoPending": false,
     "priceSource": {
-      "tipo": "WhatsApp Web",
-      "telefono": "+51 930 527 248",
-      "fecha": "2026-10-16",
-      "evidencia": "review/verificacion-brillo-whatsapp-2026-10-15/negro379-ficha.png",
-      "prioridad": "Precio de WhatsApp como verdad absoluta, según instrucción del usuario."
+      "tipo": "Confirmación específica del propietario",
+      "fecha": "2026-10-20",
+      "codigoCatalogo": "2062",
+      "evidencia": "review/revision-brillos-2026-10-20/confirmacion-xl117.json"
+    },
+    "urlSlug": "vestido-negro-brillante",
+    "catalogName": "Vestido elegante estraple negro con plateado",
+    "catalogCategory": "Vestidos Cortos Brillos",
+    "catalogCode": "2062",
+    "ownerConfirmation": {
+      "fecha": "2026-10-20",
+      "categoria": "Cortos con brillo",
+      "precio_pen": 379,
+      "codigo_whatsapp": "2062",
+      "evidencia": "review/revision-brillos-2026-10-20/confirmacion-xl117.json",
+      "prioridad": "Confirmación posterior que sustituye Gala a S/389 del 16/10."
     }
   },
   {

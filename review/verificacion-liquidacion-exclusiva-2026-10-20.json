@@ -1,0 +1,114 @@
+{
+  "fecha": "2026-10-20",
+  "productos_publicados": 177,
+  "productos_liquidacion": 11,
+  "fotos_liquidacion": 14,
+  "otras_fichas_comparadas": 166,
+  "fotos_otras_fichas": 282,
+  "rutas_o_archivos_identicos_en_otra_categoria": [],
+  "apariciones_fuera_de_coleccion_liquidacion": [],
+  "candidatos_visuales_ya_revisados": 8,
+  "resultado_visual": "Las coincidencias perceptuales fueron descartadas por diferencias de prenda en la auditoría visual completa. Ver review/duplicados-fotos-2026-10-20/bandage-liquidacion/INFORME.md. Todas las fotos actuales conservan el hash del inventario inspeccionado.",
+  "instruccion_propietario": "Los productos de Liquidación deben permanecer exclusivamente en Liquidación, sin publicarse en categorías principales.",
+  "productos": [
+    {
+      "id": "XL-010",
+      "nombre": "Vestido corto azul con estampado floral",
+      "precio_pen": 68.7,
+      "fotos": 1,
+      "colecciones_web": [
+        "liquidacion"
+      ]
+    },
+    {
+      "id": "XL-016",
+      "nombre": "Vestido transparente con diamantes de imitación",
+      "precio_pen": 164.5,
+      "fotos": 1,
+      "colecciones_web": [
+        "liquidacion"
+      ]
+    },
+    {
+      "id": "XL-017",
+      "nombre": "Vestido corto dorado de una manga",
+      "precio_pen": 194.5,
+      "fotos": 1,
+      "colecciones_web": [
+        "liquidacion"
+      ]
+    },
+    {
+      "id": "XL-125",
+      "nombre": "Vestido crema de encaje y tull asimétrico",
+      "precio_pen": 194.5,
+      "fotos": 1,
+      "colecciones_web": [
+        "liquidacion"
+      ]
+    },
+    {
+      "id": "XL-155",
+      "nombre": "Vestido corto negro con plateado · geométrico",
+      "precio_pen": 75.6,
+      "fotos": 2,
+      "colecciones_web": [
+        "liquidacion"
+      ]
+    },
+    {
+      "id": "XL-169",
+      "nombre": "Vestido corto color verde (S M)",
+      "precio_pen": 114.5,
+      "fotos": 1,
+      "colecciones_web": [
+        "liquidacion"
+      ]
+    },
+    {
+      "id": "XL-172",
+      "nombre": "Vestido corto negro con mangas plateadas",
+      "precio_pen": 119.5,
+      "fotos": 1,
+      "colecciones_web": [
+        "liquidacion"
+      ]
+    },
+    {
+      "id": "XL-180",
+      "nombre": "Vestido corto satín estampado",
+      "precio_pen": 86.7,
+      "fotos": 1,
+      "colecciones_web": [
+        "liquidacion"
+      ]
+    },
+    {
+      "id": "XL-181",
+      "nombre": "Vestido corto con volantes de cuello redondo",
+      "precio_pen": 115.6,
+      "fotos": 2,
+      "colecciones_web": [
+        "liquidacion"
+      ]
+    },
+    {
+      "id": "XL-201",
+      "nombre": "Top Amarillo",
+      "precio_pen": 48.3,
+      "fotos": 1,
+      "colecciones_web": [
+        "liquidacion"
+      ]
+    },
+    {
+      "id": "XL-202",
+      "nombre": "Vestidos largo estampado geométrico (Verde y Nude)",
+      "precio_pen": 37.8,
+      "fotos": 2,
+      "colecciones_web": [
+        "liquidacion"
+      ]
+    }
+  ]
+}

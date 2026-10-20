@@ -7,6 +7,12 @@ function validateCatalog(products, backup, identities) {
   assert.equal(new Set(products.map(p => p.id)).size, products.length, 'Hay IDs repetidos en products.js');
   assert.deepEqual(backup, products, 'review/publicados-confirmados.json no coincide con products.js');
   const byId = new Map(products.map(p => [p.id, p]));
+  for (const product of products) {
+    const confirmation = product.ownerConfirmation;
+    if (!confirmation) continue;
+    assert.equal(product.category, confirmation.categoria, `Categoría distinta de la última confirmación de XL-${product.id}`);
+    assert.equal(product.price, confirmation.precio_pen, `Precio distinto de la última confirmación de XL-${product.id}`);
+  }
   const retiredIds = new Set(identities.consolidaciones.map(r => r.id_retirado));
   for (const identity of identities.consolidaciones) {
     assert(!byId.has(identity.id_retirado), `XL-${identity.id_retirado} está retirado por duplicación y no puede publicarse`);

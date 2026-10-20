@@ -22,7 +22,7 @@ historical = read(ROOT / "review/categorias-confirmadas.json")
 previous = read(ROOT / "review/conciliacion-final-2026-10-15/resultado-aplicado.json")
 conservative = read(SRC / "comparacion_web_conservadora.json")["vestidos"]
 by_id = {p["id"]: p for p in products}
-assert len(products) == len(by_id) == 171
+assert len(products) == len(by_id) == 175
 
 # Fila comercial (1 basada) -> identidad estable. Estas asociaciones se apoyan
 # en nombre, precio, código y las revisiones fotográficas citadas en el informe.

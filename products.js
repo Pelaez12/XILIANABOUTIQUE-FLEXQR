@@ -5233,6 +5233,140 @@ export const products = [
       "archivo": "codex-clipboard-655f752d-68a4-403e-985f-f4a3c360657c.png"
     },
     "catalogCode": "2043"
+  },
+  {
+    "id": 211,
+    "name": "Vestido floreado multicolor",
+    "category": "Largos",
+    "price": 349.0,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-211/01-frente.png",
+        "width": 1254,
+        "height": 1254,
+        "view": "Frente",
+        "sha256": "96762bb811355bd7fcd1f6a25c0a7772fdca5fef17646470ebd359e33c74457c"
+      }
+    ],
+    "image": "./images/productos-reales/XL-211/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido floreado multicolor",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json",
+      "codigoCatalogo": "2044"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "orden": 9,
+      "archivo": "codex-clipboard-e5c217ab-4510-4c43-b088-f777cc78d3a8.png"
+    },
+    "catalogCode": "2044"
+  },
+  {
+    "id": 212,
+    "name": "Vestido corte A animal prient",
+    "category": "Largos",
+    "price": 349.0,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-212/01-frente.png",
+        "width": 1200,
+        "height": 1599,
+        "view": "Frente",
+        "sha256": "48724c7f8a053ce92254b5816feb82fb8f0c0646f3b6bc821c251ab0b1929338"
+      }
+    ],
+    "image": "./images/productos-reales/XL-212/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido corte A animal prient",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "orden": 10,
+      "archivo": "codex-clipboard-2122a2f2-6a3e-4d91-a2b4-0a86d2c1b23b.png"
+    }
+  },
+  {
+    "id": 213,
+    "name": "vestido largo de rayas cremas con negro",
+    "category": "Largos",
+    "price": 279.0,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-213/01-frente.png",
+        "width": 1024,
+        "height": 1536,
+        "view": "Frente",
+        "sha256": "aac9af65b326df862fae42a1e62ef50172c2e120174c86bfeef66d8b258f70a5"
+      }
+    ],
+    "image": "./images/productos-reales/XL-213/01-frente.png",
+    "photoPending": false,
+    "catalogName": "vestido largo de rayas cremas con negro",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json",
+      "codigoCatalogo": "2073"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "orden": 11,
+      "archivo": "codex-clipboard-40f9e8ca-d69b-42b1-a9b2-59747ba147b8.png"
+    },
+    "catalogCode": "2073"
+  },
+  {
+    "id": 214,
+    "name": "Vestido rosado largo estampado de flores",
+    "category": "Largos",
+    "price": 549.0,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-214/01-frente.png",
+        "width": 1122,
+        "height": 1402,
+        "view": "Frente",
+        "sha256": "687ed07e6eb37777492a438082d8ff213eb0d03d17d31e759f21eb0a74c3cec1"
+      }
+    ],
+    "image": "./images/productos-reales/XL-214/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido rosado largo estampado de flores",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json",
+      "codigoCatalogo": "2083"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "orden": 12,
+      "archivo": "codex-clipboard-01cce014-258a-4282-bd1f-04f8d1240a34.png"
+    },
+    "catalogCode": "2083"
   }
 ];
 export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación"];

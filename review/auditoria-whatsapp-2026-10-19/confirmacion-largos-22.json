@@ -1,8 +1,8 @@
 {
   "fecha": "2026-10-19",
   "total_confirmados": 22,
-  "publicados_en_largos": 18,
-  "pendientes_de_ficha_y_foto": 4,
+  "publicados_en_largos": 22,
+  "pendientes_de_ficha_y_foto": 0,
   "exclusion": {
     "fila_whatsapp_18_oct": 19,
     "nombre": "Blusa cola de pato asimétrico blanco con negro",
@@ -191,9 +191,9 @@
       "codigo_whatsapp": "2044",
       "nombre": "Vestido floreado multicolor",
       "precio_pen": 349.0,
-      "id_web": null,
+      "id_web": "XL-211",
       "categoria_confirmada_propietario": "Largos",
-      "estado_web": "pendiente de ficha y foto original",
+      "estado_web": "publicado en Largos",
       "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
     },
     {
@@ -213,9 +213,9 @@
       "codigo_whatsapp": null,
       "nombre": "Vestido corte A animal prient",
       "precio_pen": 349.0,
-      "id_web": null,
+      "id_web": "XL-212",
       "categoria_confirmada_propietario": "Largos",
-      "estado_web": "pendiente de ficha y foto original",
+      "estado_web": "publicado en Largos",
       "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
     },
     {
@@ -224,9 +224,9 @@
       "codigo_whatsapp": "2073",
       "nombre": "vestido largo de rayas cremas con negro",
       "precio_pen": 279.0,
-      "id_web": null,
+      "id_web": "XL-213",
       "categoria_confirmada_propietario": "Largos",
-      "estado_web": "pendiente de ficha y foto original",
+      "estado_web": "publicado en Largos",
       "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
     },
     {
@@ -246,9 +246,9 @@
       "codigo_whatsapp": "2083",
       "nombre": "Vestido rosado largo estampado de flores",
       "precio_pen": 549.0,
-      "id_web": null,
+      "id_web": "XL-214",
       "categoria_confirmada_propietario": "Largos",
-      "estado_web": "pendiente de ficha y foto original",
+      "estado_web": "publicado en Largos",
       "evidencia": "Lista expresa de 22 nombres y tres capturas del propietario, 19/10/2026"
     }
   ]

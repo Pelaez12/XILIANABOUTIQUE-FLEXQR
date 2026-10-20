@@ -2,11 +2,11 @@
 
 ## Confirmación posterior del propietario: 22 vestidos en Largos
 
-El propietario identificó expresamente 22 vestidos en tres capturas del catálogo de WhatsApp. La [conciliación individual de los 22](confirmacion-largos-22.json) registra nombre, precio, código visible, fila de origen e ID web. Diez ya estaban publicados y se incorporaron ocho más, **XL-203 a XL-210**, con las ocho imágenes entregadas en el orden indicado. Los cuatro pendientes son: **Vestido floreado multicolor S/349; Vestido corte A animal prient S/349; vestido largo de rayas cremas con negro S/279; Vestido rosado largo estampado de flores S/549**.
+El propietario identificó expresamente 22 vestidos en tres capturas del catálogo de WhatsApp. La [conciliación individual de los 22](confirmacion-largos-22.json) registra nombre, precio, código visible, fila de origen e ID web. Diez ya estaban publicados; las doce fichas restantes, **XL-203 a XL-214**, se incorporaron con las imágenes entregadas por el propietario en el orden indicado. Los 22 vestidos confirmados tienen ficha web en Largos.
 
-La fila 19 de las 23 entradas de WhatsApp es **Blusa cola de pato asimétrico blanco con negro S/239**. La lista expresa del propietario la excluye de los 22 vestidos. Por tanto, 23 entradas de WhatsApp = 22 vestidos confirmados + una blusa. La web tiene ahora **21 fichas en Largos**: 18 de los 22 identificados y XL-098, XL-102 y XL-173, que se mantienen por su evidencia individual anterior. Con las cuatro fotos faltantes y fichas distintas serán 25 Largos; **ese número es una consecuencia, no el criterio de clasificación**.
+La fila 19 de las 23 entradas de WhatsApp es **Blusa cola de pato asimétrico blanco con negro S/239**. La lista expresa del propietario la excluye de los 22 vestidos. Por tanto, 23 entradas de WhatsApp = 22 vestidos confirmados + una blusa. La web tiene ahora **25 fichas en Largos**: los 22 vestidos identificados y XL-098, XL-102 y XL-173, que se mantienen por su evidencia individual anterior. Ese total es consecuencia de la conciliación individual, no el criterio de clasificación.
 
-Las ocho imágenes de este turno se guardaron sin sustituir las fotos anteriores; cada ficha nueva tiene su propio archivo, tamaño y hash. Las fotos de los cuatro modelos restantes no se recibieron y no se han creado fichas con imágenes ajenas. Ninguno de los 163 productos anteriores se eliminó ni cambió de categoría.
+Las doce imágenes entregadas se guardaron sin sustituir las fotos anteriores; cada ficha nueva tiene su propio archivo, tamaño y hash. Ninguno de los 163 productos anteriores se eliminó ni cambió de categoría.
 
 | Orden de foto | Ficha nueva | Modelo | Precio WhatsApp |
 |---:|---|---|---:|
@@ -18,29 +18,33 @@ Las ocho imágenes de este turno se guardaron sin sustituir las fotos anteriores
 | 6 | XL-208 | Vestido largo floreado | S/449 |
 | 7 | XL-209 | Vestido estampado multicolor | S/289 |
 | 8 | XL-210 | Vestido Animal Prient Multicolor | S/329 |
+| 9 | XL-211 | Vestido floreado multicolor | S/349 |
+| 10 | XL-212 | Vestido corte A animal prient | S/349 |
+| 11 | XL-213 | vestido largo de rayas cremas con negro | S/279 |
+| 12 | XL-214 | Vestido rosado largo estampado de flores | S/549 |
 
 ## Alcance y decisión
 
-Se cotejaron las 171 prendas publicadas con las 185 entradas de vestidos del inventario de WhatsApp del 18/10, las once ofertas, la conciliación del 15/10, las 157 fichas históricas y las confirmaciones individuales posteriores. La [matriz completa vigente](matriz-171.json) contiene ID web, referencia visible de WhatsApp, nombre, precio, todas las rutas y hashes de fotos, apariciones por colección, categoría publicada, evidencia posterior y propuesta. `matriz-163.json` conserva la instantánea previa a las ocho altas. `numero_visible=1200` en Liquidación es un marcador de la captura, no un código de producto; por eso la matriz deja ese código vacío cuando no hay otra referencia.
+Se cotejaron las 175 prendas publicadas con las 185 entradas de vestidos del inventario de WhatsApp del 18/10, las once ofertas, la conciliación del 15/10, las 157 fichas históricas y las confirmaciones individuales posteriores. La [matriz completa vigente](matriz-175.json) contiene ID web, referencia visible de WhatsApp, nombre, precio, todas las rutas y hashes de fotos, apariciones por colección, categoría publicada, evidencia posterior y propuesta. `matriz-163.json` y `matriz-171.json` conservan las instantáneas anteriores. `numero_visible=1200` en Liquidación es un marcador de la captura, no un código de producto; por eso la matriz deja ese código vacío cuando no hay otra referencia.
 
-**Cambios de categoría en fichas anteriores: ninguno.** Se incorporaron ocho productos nuevos directamente en Largos. Se corrigieron dos metadatos de procedencia en `products.js`: XL-107 figura en Gala de WhatsApp (código 2078), y XL-187 en Cortos (código 1914). Las categorías visibles ya eran Gala y Cortos. El registro vigente `review/publicados-confirmados.json` se sincronizó con los 171 productos; los JSON históricos se conservaron.
+**Cambios de categoría en fichas anteriores: ninguno.** Se incorporaron doce productos nuevos directamente en Largos. Se corrigieron dos metadatos de procedencia en `products.js`: XL-107 figura en Gala de WhatsApp (código 2078), y XL-187 en Cortos (código 1914). Las categorías visibles ya eran Gala y Cortos. El registro vigente `review/publicados-confirmados.json` se sincronizó con los 175 productos; los JSON históricos se conservaron.
 
 | Colección | WhatsApp 18/10: entradas | Identidades asociadas a web | Web actual/final | Diferencia explicada |
 |---|---:|---:|---:|---|
 | Gala | 53 | 53 | 50 | XL-125 está en Liquidación; XL-098 y XL-102 en Largos por detalle brillante localizado. |
-| Largos | 23 | 18 | 21 | Cuatro vestidos confirmados carecen de ficha/foto web; la entrada restante es una blusa. XL-098 y XL-102 proceden de Gala; XL-173 tiene confirmación anterior. |
+| Largos | 23 | 22 | 25 | Los 22 vestidos confirmados tienen ficha; la entrada restante es una blusa. XL-098 y XL-102 proceden de Gala; XL-173 tiene confirmación anterior. |
 | Cortos con brillo | 43 | 42 | 37 | Dos entradas código 644 son XL-039; cinco prendas están en Liquidación y XL-117 tiene confirmación específica para Gala. XL-127 sigue publicado por confirmación individual y no aparece en las 43 entradas. |
 | Cortos | 33 | 31 | 29 | XL-066 aparece dos veces (códigos 2025/2024); tres fichas están en Liquidación; el blanco código 1894 queda sin asociación; XL-114 está en web y no en esta lista. |
 | Bandage | 22 | 20 | 23 | Falda código 1733 y vestido negro/amarillo código 2074 sin ficha web identificada; XL-072, XL-076 y XL-147 figuran en web pero no tienen referencia inequívoca en la lista vigente. |
 | Liquidación | 11 | 11 | 11 | Cada oferta coincide individualmente por nombre, precio y/o referencia cruzada. |
 
-Los conteos del 15/10 fueron **Gala 32, Largos 25, Cortos 37, Brillos 38, Bandage 22, Liquidación 1** sobre 155 prendas. La web actual tiene 171. Las 23 entradas de Largos del 18/10 contienen 22 vestidos y una blusa; el grupo web de 25 del 15/10 tenía otra composición.
+Los conteos del 15/10 fueron **Gala 32, Largos 25, Cortos 37, Brillos 38, Bandage 22, Liquidación 1** sobre 155 prendas. La web actual tiene 175. Las 23 entradas de Largos del 18/10 contienen 22 vestidos y una blusa; el grupo web de 25 del 15/10 tenía otra composición.
 
 ### Los 25 Largos del 15/10 frente a los 23 del 18/10
 
-El conjunto web de 25 del cierre anterior era **XL-005, 006, 020, 023, 024, 060, 088, 091, 093, 096, 098, 100, 102, 106, 113, 138, 139, 141, 159, 162, 163, 173, 176, 177 y 178**. De ellos, XL-005, 006, 020, 023, 024 y 113 siguen en Largos; XL-098 y 102 también. Los otros 16 se muestran hoy en Gala, como se detalla abajo. Desde entonces se sumaron a Largos XL-022, 197, 198, 199 y las ocho fichas XL-203 a XL-210: **25 − 16 + 4 + 8 = 21**.
+El conjunto web de 25 del cierre anterior era **XL-005, 006, 020, 023, 024, 060, 088, 091, 093, 096, 098, 100, 102, 106, 113, 138, 139, 141, 159, 162, 163, 173, 176, 177 y 178**. De ellos, XL-005, 006, 020, 023, 024 y 113 siguen en Largos; XL-098 y 102 también. Los otros 16 se muestran hoy en Gala, como se detalla abajo. Desde entonces se sumaron a Largos XL-022, 197, 198, 199 y las doce fichas XL-203 a XL-214: **25 − 16 + 4 + 12 = 25**.
 
-Las 23 entradas actuales de WhatsApp están enumeradas con sus ID, precios y estado de publicación en `confirmacion-largos-22.json`; la entrada 19 es la blusa excluida. Las cuatro prendas aún sin ID están indicadas al inicio de este informe.
+Las 23 entradas actuales de WhatsApp están enumeradas con sus ID, precios y estado de publicación en `confirmacion-largos-22.json`; la entrada 19 es la blusa excluida.
 
 ### Traslados anteriores revisados
 
@@ -86,7 +90,7 @@ Las ofertas con otra aparición permanecen en Liquidación por la ficha individu
 
 ### Pendientes expresos
 
-1. **Largos:** cuatro vestidos confirmados del 18/10 carecen de foto y ficha web; la quinta entrada sin ID es una blusa excluida de la lista de vestidos. El detalle está en `confirmacion-largos-22.json` y `matriz-171.json`.
+1. **Largos:** los 22 vestidos confirmados tienen foto y ficha web. La única entrada de esta colección de WhatsApp sin ID web es la blusa excluida. El detalle está en `confirmacion-largos-22.json` y `matriz-175.json`.
 2. **Cortos:** blanco con perlas código 1894, S/319, podría ser diseño distinto del XL-187 código 1914 S/329. Confirmar con foto antes de crear otra ficha.
 3. **Bandage:** falda código 1733 S/219 y negro/amarillo código 2074 S/449 no tienen ficha web identificada. XL-072, XL-076 y XL-147 aparecen en web pero no se asocian de forma inequívoca a una entrada vigente. Tampoco XL-114 en Cortos. Se conservan provisionalmente con `categoria_final_propuesta=null` en la matriz; falta confirmar vigencia o clasificación.
 4. **Gala/Largos:** XL-060, 088, 091, 093, 096, 138, 139, 141, 162, 163 y 176 tienen silueta larga y apariencia lisa o brillo localizado en la fotografía, pero la lista vigente los coloca en Gala. Una regla comercial específica del propietario resolvería esta tensión. No se los movió para reproducir el antiguo total de 25.
@@ -94,6 +98,6 @@ Las ofertas con otra aparición permanecen en Liquidación por la ficha individu
 
 ## Validación y cambios de Antigravity
 
-El árbol de Git estaba limpio al iniciar. El commit `8f41242` añadió la herramienta local `ordenar/` y conectó su archivo al build y a la validación; no había modificaciones sin confirmar de Antigravity. Tras las ocho altas, `node build.cjs` y `node validate-seo.cjs` pasaron: 235 páginas, 235 bloques JSON-LD, 347 imágenes de sitemap y enlaces locales presentes. Las 171 fichas mantienen sus botones de WhatsApp. Los cuatro tests de `ordenar/model.test.cjs` pasaron.
+El árbol de Git estaba limpio al iniciar. El commit `8f41242` añadió la herramienta local `ordenar/` y conectó su archivo al build y a la validación; no había modificaciones sin confirmar de Antigravity. Tras las doce altas, `node build.cjs` y `node validate-seo.cjs` pasaron: 239 páginas, 239 bloques JSON-LD, 351 imágenes de sitemap y enlaces locales presentes. Las 175 fichas mantienen sus botones de WhatsApp. Los cuatro tests de `ordenar/model.test.cjs` pasaron. Se comprobaron doce fotos distintas, sus hashes y rutas.
 
-Se abrieron visualmente en escritorio las seis colecciones generadas; encabezados, conteos, primeras tarjetas y fotos se mostraron. Se repitió la revisión con ancho móvil de 390 × 844 px en Chrome; títulos, navegación, buscador, conteos y tarjetas visibles se adaptan sin desbordamiento horizontal observado. La colección de Largos, después de las ocho altas, muestra 21 modelos y los ocho enlaces a sus fichas. `git diff --check` no informó errores (solo avisos de conversión LF/CRLF).
+Se abrieron visualmente en escritorio las seis colecciones generadas; encabezados, conteos, primeras tarjetas y fotos se mostraron. Se repitió la revisión con ancho móvil de 390 × 844 px; títulos, navegación, buscador, conteos y tarjetas visibles se adaptan sin desbordamiento horizontal observado. Tras las últimas cuatro altas, la colección de Largos muestra 25 modelos y los cuatro enlaces a sus fichas. Se revisó visualmente la ficha XL-211 en escritorio y móvil; el navegador se restauró al ancho anterior.

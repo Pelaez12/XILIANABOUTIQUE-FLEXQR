@@ -4690,13 +4690,13 @@
     "photoPending": false,
     "catalogName": "Vestido blanco mini elegante con perlas",
     "catalogCategory": "Vestidos Cortos",
+    "catalogCode": "1914",
     "priceSource": {
       "tipo": "WhatsApp Web",
       "telefono": "+51 930 527 248",
       "fecha": "2026-10-18",
       "evidencia": "review/verificacion-cortos-whatsapp-2026-10-15/F06-blanco329-ficha.png"
     },
-    "catalogCode": "1914",
     "catalogDuplicate": {
       "codigo": "1894",
       "nombre": "Vestido blanco con perlas",
@@ -5448,5 +5448,38 @@
       "fecha": "2026-10-19",
       "archivo": "codex-clipboard-64421c5d-55af-463a-8fec-85cd8e07f275.png"
     }
+  },
+  {
+    "id": 217,
+    "name": "Blusa cola de pato asimétrico blanco con negro",
+    "category": "Largos",
+    "price": 239,
+    "note": "Blusa asimétrica de cola de pato en blanco y negro. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-217/01-frente.png",
+        "width": 1086,
+        "height": 1448,
+        "view": "Frente",
+        "sha256": "04fcf7417a0387a58aca5af8fe8760f1192896a27c93a4fe08d6a3a0847c5951"
+      }
+    ],
+    "image": "./images/productos-reales/XL-217/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Blusa cola de pato asimétrico blanco con negro",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json",
+      "fila": 19
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-20",
+      "archivo": "codex-clipboard-1d4a0875-5a10-464a-9119-b5837c2ffbff.png"
+    },
+    "categoryConfirmation": "Propietario pidió expresamente colocar esta blusa en Vestidos Largos el 20/10/2026."
   }
 ]

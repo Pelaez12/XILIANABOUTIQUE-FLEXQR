@@ -3859,33 +3859,6 @@ export const products = [
     }
   },
   {
-    "id": 173,
-    "name": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
-    "category": "Largos",
-    "price": 450,
-    "photos": [
-      {
-        "src": "./images/productos-reales/XL-173/01-N029.jpeg",
-        "width": 1122,
-        "height": 1402,
-        "view": "Frente",
-        "sha256": "08172d0becc68899e160f67adce89032022069c06f60ffba1fcaf758e88d9201",
-        "sourceAttachment": "review\\importacion-2026-10-10\\N029.jpeg"
-      }
-    ],
-    "image": "./images/productos-reales/XL-173/01-N029.jpeg",
-    "photoPending": false,
-    "importGroup": "NV-025",
-    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
-    "catalogName": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
-    "priceSource": {
-      "tipo": "Confirmación del usuario",
-      "telefono": "+51 930 527 248",
-      "fecha": "2026-10-12",
-      "evidencia": "confirmacion-usuario-N029.md"
-    }
-  },
-  {
     "id": 179,
     "name": "Vestido corto azul",
     "category": "Cortos con brillo",

@@ -1,0 +1,317 @@
+{
+  "fotos": [
+    {
+      "id": 70,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-070/01-R154.jpeg",
+      "sha256": "d72dc80a916e165f9ba2575b9e4c8a7bc1cca36a3901dc462da67f9a1938941f"
+    },
+    {
+      "id": 71,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-071/01-R126.jpeg",
+      "sha256": "8259704d2318f73bffb81230b4ea5168a042cba82b78362d4303d80aac4fa726"
+    },
+    {
+      "id": 71,
+      "foto": 2,
+      "ruta": "./images/productos-reales/XL-071/02-R127.jpeg",
+      "sha256": "895723ed9541e083a74937dc6fdcfc7f24b405f94aca35ee9ec96d063785c937"
+    },
+    {
+      "id": 72,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-072/01-R150.jpeg",
+      "sha256": "e4c392a437e0b5a6a53f83c163425ef181037ffcbfc3dc11220ac83c45b0dc25"
+    },
+    {
+      "id": 73,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-073/01-R107.jpeg",
+      "sha256": "9d1e168cc22512f15d912407e409068661a4e127c74e1d2338ad7fd1e876e1db"
+    },
+    {
+      "id": 74,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-074/01-R060.jpeg",
+      "sha256": "099a9477f48aa69b568de2251fc40d75c2cd5fa25070cbed9f2b14072d52ecb4"
+    },
+    {
+      "id": 75,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-075/01-R026.jpeg",
+      "sha256": "2ba8745a457d26f3fd75e11dd86556926ffd88eb1f66ed483a35377109a944a6"
+    },
+    {
+      "id": 76,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-076/01-R149.jpeg",
+      "sha256": "63b60584937c3f059700912bfe42b36f90a477304d5885d5c763af25b8254e6c"
+    },
+    {
+      "id": 77,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-077/01-R055.jpeg",
+      "sha256": "15d5ffb090f350a6a3f2eaf6cef0fc43dc0cc93b73b17b15af969fd82caa67ef"
+    },
+    {
+      "id": 77,
+      "foto": 2,
+      "ruta": "./images/productos-reales/XL-077/03-R148.jpeg",
+      "sha256": "88bf63b51531042de9f7be056eea6c3da8a82224ee3b88d084a34ce72f7d3199"
+    },
+    {
+      "id": 77,
+      "foto": 3,
+      "ruta": "./images/productos-reales/XL-077/02-R059.jpeg",
+      "sha256": "c65fdbc8c989063df0a7c2d94fe254380324bad5798cda258afb10dd03cc536a"
+    },
+    {
+      "id": 10,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-010/01-R155.jpeg",
+      "sha256": "505bec5f90cee04eeb4dd7d8089062fce0f93e2b8e0fa146407e3c98a74b59fa"
+    },
+    {
+      "id": 14,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-014/01-R152.jpeg",
+      "sha256": "26a084c15847ec50b00fe829a8e4486fdbcef97fae1fb08610d7806176522716"
+    },
+    {
+      "id": 16,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-016/01-R031.jpeg",
+      "sha256": "188e3e3a21cac6fd9d0f8a2749348e800db16ba989df7177d6e2729ce090ab42"
+    },
+    {
+      "id": 17,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-017/01-R044.jpeg",
+      "sha256": "b7b33d1e67b27383b77c56b4678b49178d020293639d538f62040042133fe317"
+    },
+    {
+      "id": 115,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-115/01-R108.jpeg",
+      "sha256": "45b608548f3af9c63a0c944937a6e475013e9d92ee899db069f0fa4fc49e8c4a"
+    },
+    {
+      "id": 116,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-116/01-R057.jpeg",
+      "sha256": "2c3a499b1f1a1160f1771d00f08d6ea8bb37bbdc6b4fcc54c2e2cf39f4972cfc"
+    },
+    {
+      "id": 116,
+      "foto": 2,
+      "ruta": "./images/productos-reales/XL-116/02-R058.jpeg",
+      "sha256": "1a36e0b59f1987acfea82d9b5d8bee8c6e14294debd2bea69fcf1283d84dac29"
+    },
+    {
+      "id": 124,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-124/01-R088.jpeg",
+      "sha256": "38117524cc9ef4a02e0dd8fa681cebf19ffafd618a9cd296ec77d3d676db0509"
+    },
+    {
+      "id": 124,
+      "foto": 2,
+      "ruta": "./images/productos-reales/XL-124/02-R089.jpeg",
+      "sha256": "2c7e1dd2498740ad527072e55164092fd3e7ae5141e6e3d2ec69e29477678b7b"
+    },
+    {
+      "id": 125,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-125/01-R109.jpeg",
+      "sha256": "99d252d060118e033a40f30a1d1507b2a0d0b27fa08825f5f4a82b75c73a3134"
+    },
+    {
+      "id": 126,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-126/01-R146.jpeg",
+      "sha256": "2dd43c10318df6591660df8916f42be7fdbfa2688d63623917e8b754e5c8bfc6"
+    },
+    {
+      "id": 128,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-128/01-R144.jpeg",
+      "sha256": "35f16072b634db106427841e46f468c0a6dfb8317c50a8faa229ed6a1441aded"
+    },
+    {
+      "id": 128,
+      "foto": 2,
+      "ruta": "./images/productos-reales/XL-128/02-R019.jpeg",
+      "sha256": "aba2debcec0d1319770d68b889ccc0594e807491b230d96816abeefe2165154c"
+    },
+    {
+      "id": 129,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-129/01-R143.jpeg",
+      "sha256": "0ec32e3102b0e7539156fbbc8ebe08955282741fe6ee502a3906104e5d067bd2"
+    },
+    {
+      "id": 143,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-143/01-N017.jpeg",
+      "sha256": "bff09edd55842c2d2b5cc53eb0151b1f801a673cd9d603074882d19dad74cb37"
+    },
+    {
+      "id": 144,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-144/01-N020.jpeg",
+      "sha256": "3ea648f2cb78ebea3edb6ecca4374a6a1b7361a87189a72bdef9a3470243dd6f"
+    },
+    {
+      "id": 145,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-145/01-N022.jpeg",
+      "sha256": "67c9d3d29a31685955b39658869c3963922ae519e2939f7430d4b0f3db6e7eee"
+    },
+    {
+      "id": 145,
+      "foto": 2,
+      "ruta": "./images/productos-reales/XL-145/02-N023.jpeg",
+      "sha256": "a472bad488a71eafc0b6f6431883f091405146bff9391e1ad2fee2eecb1f0427"
+    },
+    {
+      "id": 145,
+      "foto": 3,
+      "ruta": "./images/productos-reales/XL-145/03-N024.jpeg",
+      "sha256": "efd047708d77d8591e76d6bbb7b45e6dab65e1d983cc3608cb1c8a73d7e480f2"
+    },
+    {
+      "id": 146,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-146/01-N025.jpeg",
+      "sha256": "f849dba2dc3afe31eaa0e550fd1602e688e1135e720cc73d3d2e730d2f78fc72"
+    },
+    {
+      "id": 146,
+      "foto": 2,
+      "ruta": "./images/productos-reales/XL-146/02-N026.jpeg",
+      "sha256": "279801b72b3bfe107303230fcbf7645004494b311441adf04954753bd12cd285"
+    },
+    {
+      "id": 147,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-147/01-N027.jpeg",
+      "sha256": "e1dccd4b7001eb33b1a3bfd309ce34e64e09dfbc79a2618a1ec1212284bba056"
+    },
+    {
+      "id": 148,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-148/01-N028.jpeg",
+      "sha256": "c6a5c96be8ec293b55099af40ea31ab2bc2f25f9b41b845ac60607589b4ecb13"
+    },
+    {
+      "id": 155,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-155/01-N022.jpeg",
+      "sha256": "85e8bdedb1a3387e30c17dcabc0dc4820ec0f70d92b5c5afd2134c3033366f75"
+    },
+    {
+      "id": 155,
+      "foto": 2,
+      "ruta": "./images/productos-reales/XL-155/02-N023.jpeg",
+      "sha256": "097e96c461dfeddedc7d115967b799d89a82a05d7e2dfc3e9876c11b65e3bb18"
+    },
+    {
+      "id": 169,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-169/01-N016.jpeg",
+      "sha256": "005d82f6bb13787389472b25de4b684546c6352160a402b330994a04e2cc7ebb"
+    },
+    {
+      "id": 172,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-172/01-N021.jpeg",
+      "sha256": "9e58150abb66cdd98a046a9709f734b776008397a3aaf5b3e3faa7096bbafb78"
+    },
+    {
+      "id": 180,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-180/01-WA796-frente.png",
+      "sha256": "39ff3abd3002812a6d961e31d178e2498365ba3d8bc231a117d52cb90742ee5b"
+    },
+    {
+      "id": 181,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-181/01-WA1537-frente.png",
+      "sha256": "350a7ec9b3492e6e74edf0c2f3eec67f7d438d6928081f0e965e6e8dcfff48f5"
+    },
+    {
+      "id": 181,
+      "foto": 2,
+      "ruta": "./images/productos-reales/XL-181/02-WA1537-espalda.png",
+      "sha256": "4969880dc5c3cccc56ba78000ca8ae195faa422e642aef318f3ec4f657da627d"
+    },
+    {
+      "id": 182,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-182/01-WA-rojo379-frente.png",
+      "sha256": "cf8ad3b35aba172dfe9ff6ee1aab2c4d453d14bf5086eaf3a34b6c5167aabf3b"
+    },
+    {
+      "id": 182,
+      "foto": 2,
+      "ruta": "./images/productos-reales/XL-182/02-WA-rojo379-espalda.png",
+      "sha256": "eb8bbac4e0193476ec1beb5b6f39baac18458f9e702f6e45afc3698fe1c7f087"
+    },
+    {
+      "id": 182,
+      "foto": 3,
+      "ruta": "./images/productos-reales/XL-182/03-WA-rojo379-frente-tres-cuartos.png",
+      "sha256": "ff7ce8c373ba5ebf64eec38dd5fec7096cc51dc533362f520d382984caa41bc1"
+    },
+    {
+      "id": 200,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-200/01-frente.png",
+      "sha256": "b3fbdca55a508f103c7c7c132ad3489d13dd4426880e106e71de8f33de3e7219"
+    },
+    {
+      "id": 200,
+      "foto": 2,
+      "ruta": "./images/productos-reales/XL-200/02-espalda.png",
+      "sha256": "d12daa32508da4177651f5629fc4c8c0542ffb2ba61452a12151ff583731f916"
+    },
+    {
+      "id": 200,
+      "foto": 3,
+      "ruta": "./images/productos-reales/XL-200/03-detalle.png",
+      "sha256": "36749a78711202a8df492711a300afff0fbe93e8c39eb8a2c1b08681bf2dc1f1"
+    },
+    {
+      "id": 201,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-201/01-frente.png",
+      "sha256": "a1aec17b73296b569d8a700b77112268d38e6fa7a256705c4dd17b71a0a6fb68"
+    },
+    {
+      "id": 202,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-202/01-frente.png",
+      "sha256": "16819ac629e3b7f98af3add723924c28a901688ba20f5faca898713b55f388a3"
+    },
+    {
+      "id": 202,
+      "foto": 2,
+      "ruta": "./images/productos-reales/XL-202/02-detalle.png",
+      "sha256": "3de458a6593e495a81a2f06be78ce2acb185a33c434415fb06b606752a6cdd11"
+    },
+    {
+      "id": 215,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-215/01-frente.png",
+      "sha256": "baee2e7cef3288e7b60601854dc6c0f3dbeb63059dc817bce2b05c7474c92ea9"
+    },
+    {
+      "id": 216,
+      "foto": 1,
+      "ruta": "./images/productos-reales/XL-216/01-frente.png",
+      "sha256": "4d88e06515c5df429a719ea8a6267c9a85d15e91e4b91a9ae36359edafc3f97f"
+    }
+  ],
+  "duplicados_binarios": []
+}

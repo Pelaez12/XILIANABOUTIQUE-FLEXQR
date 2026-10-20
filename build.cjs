@@ -1,5 +1,6 @@
 const fs = require('node:fs');
 const path = require('node:path');
+require('./validar-registro.cjs').validateRegistry();
 const output = path.join(__dirname, 'public');
 // public es una salida regenerable; rechazar enlaces a otras carpetas.
 if (output !== path.resolve(__dirname, 'public') || path.dirname(output) !== __dirname) throw new Error('Ruta de publicación no válida');

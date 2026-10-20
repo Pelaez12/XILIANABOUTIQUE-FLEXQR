@@ -1,0 +1,366 @@
+[
+  {
+    "id": 70,
+    "nombre": "Bandage dress nude con blanco",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-070/01-R154.jpeg"
+  },
+  {
+    "id": 71,
+    "nombre": "Vestido Bandage Dorado",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-071/01-R126.jpeg"
+  },
+  {
+    "id": 71,
+    "nombre": "Vestido Bandage Dorado",
+    "categoria": "Bandage",
+    "foto": 2,
+    "src": "./images/productos-reales/XL-071/02-R127.jpeg"
+  },
+  {
+    "id": 72,
+    "nombre": "Vestido Bandage negro con aplicaciones plateadas",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-072/01-R150.jpeg"
+  },
+  {
+    "id": 73,
+    "nombre": "Vestido Bandage rojo",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-073/01-R107.jpeg"
+  },
+  {
+    "id": 74,
+    "nombre": "Vestido Bandage negro con rosado y perlas rosadas",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-074/01-R060.jpeg"
+  },
+  {
+    "id": 75,
+    "nombre": "Vestido Bandage negro con lazo blanco",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-075/01-R026.jpeg"
+  },
+  {
+    "id": 76,
+    "nombre": "Vestido Bandage Amarillo — mini",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-076/01-R149.jpeg"
+  },
+  {
+    "id": 77,
+    "nombre": "Vestido Bandage Amarillo — midi",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-077/01-R055.jpeg"
+  },
+  {
+    "id": 77,
+    "nombre": "Vestido Bandage Amarillo — midi",
+    "categoria": "Bandage",
+    "foto": 2,
+    "src": "./images/productos-reales/XL-077/03-R148.jpeg"
+  },
+  {
+    "id": 77,
+    "nombre": "Vestido Bandage Amarillo — midi",
+    "categoria": "Bandage",
+    "foto": 3,
+    "src": "./images/productos-reales/XL-077/02-R059.jpeg"
+  },
+  {
+    "id": 10,
+    "nombre": "Vestido corto azul con estampado floral",
+    "categoria": "Liquidación",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-010/01-R155.jpeg"
+  },
+  {
+    "id": 14,
+    "nombre": "Vestido bandage verde con rayas",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-014/01-R152.jpeg"
+  },
+  {
+    "id": 16,
+    "nombre": "Vestido transparente con diamantes de imitación",
+    "categoria": "Liquidación",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-016/01-R031.jpeg"
+  },
+  {
+    "id": 17,
+    "nombre": "Vestido corto dorado de una manga",
+    "categoria": "Liquidación",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-017/01-R044.jpeg"
+  },
+  {
+    "id": 115,
+    "nombre": "Conjunto Bandage",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-115/01-R108.jpeg"
+  },
+  {
+    "id": 116,
+    "nombre": "Vestido Bandage Amarillo",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-116/01-R057.jpeg"
+  },
+  {
+    "id": 116,
+    "nombre": "Vestido Bandage Amarillo",
+    "categoria": "Bandage",
+    "foto": 2,
+    "src": "./images/productos-reales/XL-116/02-R058.jpeg"
+  },
+  {
+    "id": 124,
+    "nombre": "Vestido Bandage corto negro con aplicaciones plateadas",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-124/01-R088.jpeg"
+  },
+  {
+    "id": 124,
+    "nombre": "Vestido Bandage corto negro con aplicaciones plateadas",
+    "categoria": "Bandage",
+    "foto": 2,
+    "src": "./images/productos-reales/XL-124/02-R089.jpeg"
+  },
+  {
+    "id": 125,
+    "nombre": "Vestido crema de encaje y tull asimétrico",
+    "categoria": "Liquidación",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-125/01-R109.jpeg"
+  },
+  {
+    "id": 126,
+    "nombre": "Vestido Bandage Negro/Blanco",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-126/01-R146.jpeg"
+  },
+  {
+    "id": 128,
+    "nombre": "Vestido Bandage Rosado",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-128/01-R144.jpeg"
+  },
+  {
+    "id": 128,
+    "nombre": "Vestido Bandage Rosado",
+    "categoria": "Bandage",
+    "foto": 2,
+    "src": "./images/productos-reales/XL-128/02-R019.jpeg"
+  },
+  {
+    "id": 129,
+    "nombre": "Vestido Bandage dorado de flecos",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-129/01-R143.jpeg"
+  },
+  {
+    "id": 143,
+    "nombre": "Vestido Bandage blanco y crema de perlas",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-143/01-N017.jpeg"
+  },
+  {
+    "id": 144,
+    "nombre": "VESTIDO BANDAGE Caqui ceñido",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-144/01-N020.jpeg"
+  },
+  {
+    "id": 145,
+    "nombre": "Bandage Dress negro con pedrería",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-145/01-N022.jpeg"
+  },
+  {
+    "id": 145,
+    "nombre": "Bandage Dress negro con pedrería",
+    "categoria": "Bandage",
+    "foto": 2,
+    "src": "./images/productos-reales/XL-145/02-N023.jpeg"
+  },
+  {
+    "id": 145,
+    "nombre": "Bandage Dress negro con pedrería",
+    "categoria": "Bandage",
+    "foto": 3,
+    "src": "./images/productos-reales/XL-145/03-N024.jpeg"
+  },
+  {
+    "id": 146,
+    "nombre": "Bandage Dress de colores",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-146/01-N025.jpeg"
+  },
+  {
+    "id": 146,
+    "nombre": "Bandage Dress de colores",
+    "categoria": "Bandage",
+    "foto": 2,
+    "src": "./images/productos-reales/XL-146/02-N026.jpeg"
+  },
+  {
+    "id": 147,
+    "nombre": "Vestido Bandage Blanco/Negro",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-147/01-N027.jpeg"
+  },
+  {
+    "id": 148,
+    "nombre": "Vestido Bandage Asimétrico",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-148/01-N028.jpeg"
+  },
+  {
+    "id": 155,
+    "nombre": "Vestido corto negro con plateado · geométrico",
+    "categoria": "Liquidación",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-155/01-N022.jpeg"
+  },
+  {
+    "id": 155,
+    "nombre": "Vestido corto negro con plateado · geométrico",
+    "categoria": "Liquidación",
+    "foto": 2,
+    "src": "./images/productos-reales/XL-155/02-N023.jpeg"
+  },
+  {
+    "id": 169,
+    "nombre": "Vestido corto color verde (S M)",
+    "categoria": "Liquidación",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-169/01-N016.jpeg"
+  },
+  {
+    "id": 172,
+    "nombre": "Vestido corto negro con mangas plateadas",
+    "categoria": "Liquidación",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-172/01-N021.jpeg"
+  },
+  {
+    "id": 180,
+    "nombre": "Vestido corto satín estampado",
+    "categoria": "Liquidación",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-180/01-WA796-frente.png"
+  },
+  {
+    "id": 181,
+    "nombre": "Vestido corto con volantes de cuello redondo",
+    "categoria": "Liquidación",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-181/01-WA1537-frente.png"
+  },
+  {
+    "id": 181,
+    "nombre": "Vestido corto con volantes de cuello redondo",
+    "categoria": "Liquidación",
+    "foto": 2,
+    "src": "./images/productos-reales/XL-181/02-WA1537-espalda.png"
+  },
+  {
+    "id": 182,
+    "nombre": "Vestido Bandage rojo corto de pedrería plateada",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-182/01-WA-rojo379-frente.png"
+  },
+  {
+    "id": 182,
+    "nombre": "Vestido Bandage rojo corto de pedrería plateada",
+    "categoria": "Bandage",
+    "foto": 2,
+    "src": "./images/productos-reales/XL-182/02-WA-rojo379-espalda.png"
+  },
+  {
+    "id": 182,
+    "nombre": "Vestido Bandage rojo corto de pedrería plateada",
+    "categoria": "Bandage",
+    "foto": 3,
+    "src": "./images/productos-reales/XL-182/03-WA-rojo379-frente-tres-cuartos.png"
+  },
+  {
+    "id": 200,
+    "nombre": "Bralette negro con pedrería de colores",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-200/01-frente.png"
+  },
+  {
+    "id": 200,
+    "nombre": "Bralette negro con pedrería de colores",
+    "categoria": "Bandage",
+    "foto": 2,
+    "src": "./images/productos-reales/XL-200/02-espalda.png"
+  },
+  {
+    "id": 200,
+    "nombre": "Bralette negro con pedrería de colores",
+    "categoria": "Bandage",
+    "foto": 3,
+    "src": "./images/productos-reales/XL-200/03-detalle.png"
+  },
+  {
+    "id": 201,
+    "nombre": "Top Amarillo",
+    "categoria": "Liquidación",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-201/01-frente.png"
+  },
+  {
+    "id": 202,
+    "nombre": "Vestidos largo estampado geométrico (Verde y Nude)",
+    "categoria": "Liquidación",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-202/01-frente.png"
+  },
+  {
+    "id": 202,
+    "nombre": "Vestidos largo estampado geométrico (Verde y Nude)",
+    "categoria": "Liquidación",
+    "foto": 2,
+    "src": "./images/productos-reales/XL-202/02-detalle.png"
+  },
+  {
+    "id": 215,
+    "nombre": "Falda Bandage Dress",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-215/01-frente.png"
+  },
+  {
+    "id": 216,
+    "nombre": "Vestido Bandage Negro/Amarillo",
+    "categoria": "Bandage",
+    "foto": 1,
+    "src": "./images/productos-reales/XL-216/01-frente.png"
+  }
+]

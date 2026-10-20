@@ -1,0 +1,84 @@
+{
+  "id_retirado": 173,
+  "id_vigente": 214,
+  "fecha": "2026-10-20",
+  "motivo": "Mismo modelo y misma fotografía en dos codificaciones. El propietario ordenó borrar XL-173 y conservar la ficha confirmada más recientemente, XL-214 a S/549.",
+  "instruccion_propietario": "BORRA-XL173",
+  "precio_vigente_pen": 549,
+  "categoria_vigente": "Largos",
+  "codigo_whatsapp_vigente": "2083",
+  "evidencia": "review/duplicados-fotos-2026-10-20/gala-largos/duplicado-173-214.jpg",
+  "fotos_identidad": [
+    {
+      "src": "./images/productos-reales/XL-173/01-N029.jpeg",
+      "sha256": "08172d0becc68899e160f67adce89032022069c06f60ffba1fcaf758e88d9201"
+    },
+    {
+      "src": "./images/productos-reales/XL-214/01-frente.png",
+      "sha256": "687ed07e6eb37777492a438082d8ff213eb0d03d17d31e759f21eb0a74c3cec1"
+    }
+  ],
+  "ficha_retirada": {
+    "id": 173,
+    "name": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
+    "category": "Largos",
+    "price": 450,
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-173/01-N029.jpeg",
+        "width": 1122,
+        "height": 1402,
+        "view": "Frente",
+        "sha256": "08172d0becc68899e160f67adce89032022069c06f60ffba1fcaf758e88d9201",
+        "sourceAttachment": "review\\importacion-2026-10-10\\N029.jpeg"
+      }
+    ],
+    "image": "./images/productos-reales/XL-173/01-N029.jpeg",
+    "photoPending": false,
+    "importGroup": "NV-025",
+    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "catalogName": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
+    "priceSource": {
+      "tipo": "Confirmación del usuario",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-12",
+      "evidencia": "confirmacion-usuario-N029.md"
+    }
+  },
+  "ficha_vigente": {
+    "id": 214,
+    "name": "Vestido rosado largo estampado de flores",
+    "category": "Largos",
+    "price": 549.0,
+    "note": "Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-214/01-frente.png",
+        "width": 1122,
+        "height": 1402,
+        "view": "Frente",
+        "sha256": "687ed07e6eb37777492a438082d8ff213eb0d03d17d31e759f21eb0a74c3cec1"
+      }
+    ],
+    "image": "./images/productos-reales/XL-214/01-frente.png",
+    "photoPending": false,
+    "catalogName": "Vestido rosado largo estampado de flores",
+    "catalogCategory": "Vestidos Largos",
+    "priceSource": {
+      "tipo": "WhatsApp Web",
+      "telefono": "+51 930 527 248",
+      "fecha": "2026-10-18",
+      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json",
+      "codigoCatalogo": "2083"
+    },
+    "imageSource": {
+      "tipo": "Imagen original entregada por el propietario",
+      "fecha": "2026-10-19",
+      "orden": 12,
+      "archivo": "codex-clipboard-01cce014-258a-4282-bd1f-04f8d1240a34.png"
+    },
+    "catalogCode": "2083"
+  },
+  "total_publicados": 177,
+  "largos_publicados": 25
+}

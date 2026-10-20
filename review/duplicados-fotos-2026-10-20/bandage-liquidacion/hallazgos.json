@@ -1,0 +1,59 @@
+{
+  "cobertura": {
+    "Bandage": {
+      "productos": 25,
+      "fotos": 38
+    },
+    "Liquidacion": {
+      "productos": 11,
+      "fotos": 14
+    },
+    "total_productos": 36,
+    "total_fotos": 52
+  },
+  "hallazgos": [
+    {
+      "ids": [
+        77
+      ],
+      "tipo": "misma_toma_en_una_galeria",
+      "certeza": "alta",
+      "rutas": [
+        "./images/productos-reales/XL-077/01-R055.jpeg",
+        "./images/productos-reales/XL-077/03-R148.jpeg"
+      ],
+      "evidencia": "Las fotos 1 y 2 repiten modelo, postura, caída del vestido y posición de manos. La primera recorta más la parte inferior y cambia la escala/marca. La foto 3 sí aporta espalda. No son archivos binariamente idénticos."
+    },
+    {
+      "ids": [
+        76,
+        116
+      ],
+      "tipo": "posible_mismo_modelo_entre_fichas",
+      "certeza": "media-alta",
+      "rutas": [
+        "./images/productos-reales/XL-076/01-R149.jpeg",
+        "./images/productos-reales/XL-116/01-R057.jpeg",
+        "./images/productos-reales/XL-116/02-R058.jpeg"
+      ],
+      "evidencia": "Amarillos mini con tirantes finos, copas con aro, costuras verticales de corsé y bandas en cintura/cadera muy semejantes, ambos S/389. Fotos, modelos y escenarios distintos. La foto de XL-076 no ofrece espalda ni detalle suficiente para afirmar identidad absoluta. No fusionar automáticamente."
+    },
+    {
+      "ids": [
+        115,
+        200,
+        215
+      ],
+      "tipo": "componentes_de_conjunto_vendidos_por_separado",
+      "certeza": "alta",
+      "rutas": [
+        "./images/productos-reales/XL-115/01-R108.jpeg",
+        "./images/productos-reales/XL-200/01-frente.png",
+        "./images/productos-reales/XL-200/02-espalda.png",
+        "./images/productos-reales/XL-200/03-detalle.png",
+        "./images/productos-reales/XL-215/01-frente.png"
+      ],
+      "evidencia": "XL-115 muestra conjunto de bralette negro con pedrería multicolor bajo las copas y falda cruzada con cintura negra y franjas blanco/rosa, componentes que aparecen en XL-200 y XL-215. Conjunto S/349, bralette S/199, falda S/219. La falda extendida presenta tono gris en zona superior; apariencia comercial/foto puede variar. Conservar identidades comerciales de conjunto y piezas."
+    }
+  ]
+}

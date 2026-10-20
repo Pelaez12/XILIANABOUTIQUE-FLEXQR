@@ -22,7 +22,9 @@ historical = read(ROOT / "review/categorias-confirmadas.json")
 previous = read(ROOT / "review/conciliacion-final-2026-10-15/resultado-aplicado.json")
 conservative = read(SRC / "comparacion_web_conservadora.json")["vestidos"]
 by_id = {p["id"]: p for p in products}
-assert len(products) == len(by_id) == 178
+assert len(products) == len(by_id) == 177
+identities = read(ROOT / 'review/identidades-consolidadas.json')['consolidaciones']
+assert all(r['id_retirado'] not in by_id and r['id_vigente'] in by_id for r in identities)
 
 # Fila comercial (1 basada) -> identidad estable. Estas asociaciones se apoyan
 # en nombre, precio, código y las revisiones fotográficas citadas en el informe.
@@ -78,6 +80,7 @@ specific = {
     187: "Cortos códigos 1914 S/329 y 1894 S/319 son la misma prenda y foto; propietario confirmó S/329 el 19/10/2026. Foto nueva de alta resolución conservando las anteriores.",
     196: "Alta posterior de gala morado S/649 con frente y espalda (pendientes-incorporados-2026-10-18.json).",
     217: "Propietario pidió expresamente publicar la blusa de la fila 19 en Vestidos Largos el 20/10/2026; foto original entregada ese día.",
+    214: "Propietario confirmó la foto 12 y el modelo de WhatsApp código2083 a S/549; el 20/10 ordenó borrar XL-173 por duplicación y conservar XL-214. Resolución en review/identidades-consolidadas.json.",
 }
 matrix = []
 for p in products:
@@ -92,8 +95,8 @@ for p in products:
         "categoria_web_actual": p["category"],
         "confirmaciones_posteriores": [specific[p["id"]]] if p["id"] in specific else [],
         "evidencia_historica": {"categoria": old["categoria"], "fecha": old["fecha"], "fuente": old.get("fuente")} if old else None,
-        "categoria_final_propuesta": None if not entries and p["id"] not in (127, 173) else p["category"],
-        "estado": "pendiente de confirmar colección/vigencia; conservar publicación provisional" if not entries and p["id"] not in (127, 173) else "conservar por evidencia",
+        "categoria_final_propuesta": None if not entries and p["id"] != 127 else p["category"],
+        "estado": "pendiente de confirmar colección/vigencia; conservar publicación provisional" if not entries and p["id"] != 127 else "conservar por evidencia",
     })
 
 result = {
@@ -104,6 +107,7 @@ result = {
     "matriz_productos": matrix,
     "filas_whatsapp": source_rows,
     "sin_identidad_web_demostrada": [r for r in source_rows if not r["id_web"]],
+    "identidades_consolidadas": identities,
 }
 (OUT / f"matriz-{len(products)}.json").write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 print("productos", len(matrix), "filas fuente", len(source_rows), "sin identidad", len(result["sin_identidad_web_demostrada"]))

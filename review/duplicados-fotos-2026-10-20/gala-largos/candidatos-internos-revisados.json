@@ -1,0 +1,756 @@
+[
+  {
+    "a": {
+      "id": 173,
+      "nombre": "Vestido rosado largo con estampado floral, mangas al codo y una rosa en la cintura",
+      "categoria": "Largos",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-173/01-N029.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "b": {
+      "id": 214,
+      "nombre": "Vestido rosado largo estampado de flores",
+      "categoria": "Largos",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-214/01-frente.png",
+      "vista": "Frente",
+      "principal": true
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 0,
+      "dhash": 2,
+      "phash_centro": 0,
+      "phash_espejo": 32
+    },
+    "decision": "Duplicado confirmado",
+    "evidencia_visual": "Misma fotografía/modelo rosado floral."
+  },
+  {
+    "a": {
+      "id": 92,
+      "nombre": "Vestido largo de gala lentejuelas negro con mangas",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-092/02-R087.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "b": {
+      "id": 163,
+      "nombre": "Vestido sirena largo color rojo con Bruselas",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-163/02-N042.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 30,
+      "dhash": 4,
+      "phash_centro": 24,
+      "phash_espejo": 26
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Negro/dorado de lentejuelas frente a rojo con encaje; costuras, color y cuello diferentes."
+  },
+  {
+    "a": {
+      "id": 162,
+      "nombre": "Vestido sirena color rojo estraple de perlas",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-162/01-N039.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "b": {
+      "id": 163,
+      "nombre": "Vestido sirena largo color rojo con Bruselas",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-163/01-N041.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 30,
+      "dhash": 5,
+      "phash_centro": 24,
+      "phash_espejo": 20
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Rojo con hombros descubiertos y pedrería frente a rojo con mangas y cuerpo de encaje."
+  },
+  {
+    "a": {
+      "id": 141,
+      "nombre": "Vestido largo azul",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-141/01-N013.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "b": {
+      "id": 163,
+      "nombre": "Vestido sirena largo color rojo con Bruselas",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-163/01-N041.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 26,
+      "dhash": 6,
+      "phash_centro": 14,
+      "phash_espejo": 28
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Azul con corpiño plateado frente a rojo con encaje y mangas."
+  },
+  {
+    "a": {
+      "id": 162,
+      "nombre": "Vestido sirena color rojo estraple de perlas",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-162/01-N039.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "b": {
+      "id": 163,
+      "nombre": "Vestido sirena largo color rojo con Bruselas",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-163/02-N042.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 28,
+      "dhash": 6,
+      "phash_centro": 22,
+      "phash_espejo": 24
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Rojo con hombros descubiertos y pedrería frente a rojo con mangas y cuerpo de encaje."
+  },
+  {
+    "a": {
+      "id": 20,
+      "nombre": "Vestido rojo largo de manga abanicada",
+      "categoria": "Largos",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-020/02-R129.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "b": {
+      "id": 162,
+      "nombre": "Vestido sirena color rojo estraple de perlas",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-162/01-N039.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 22,
+      "dhash": 7,
+      "phash_centro": 26,
+      "phash_espejo": 36
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Mangas capa/abanicadas frente a mangas ajustadas y pedrería en escote."
+  },
+  {
+    "a": {
+      "id": 20,
+      "nombre": "Vestido rojo largo de manga abanicada",
+      "categoria": "Largos",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-020/02-R129.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "b": {
+      "id": 163,
+      "nombre": "Vestido sirena largo color rojo con Bruselas",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-163/02-N042.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 24,
+      "dhash": 7,
+      "phash_centro": 24,
+      "phash_espejo": 32
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Rojo liso de mangas capa frente a rojo de encaje y mangas ajustadas."
+  },
+  {
+    "a": {
+      "id": 91,
+      "nombre": "Vestido elegante sirena color verde",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-091/02-R075.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "b": {
+      "id": 96,
+      "nombre": "Vestido sirena color verde gamuzado con mangas y cuello cuadrado",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-096/01-R079.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 24,
+      "dhash": 7,
+      "phash_centro": 24,
+      "phash_espejo": 28
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "XL-091 terciopelo cuello cuadrado y sin abertura; XL-096 escote con borde brillante y abertura lateral."
+  },
+  {
+    "a": {
+      "id": 91,
+      "nombre": "Vestido elegante sirena color verde",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-091/02-R075.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "b": {
+      "id": 117,
+      "nombre": "Vestido negro brillante",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-117/02-WA2062-espalda.png",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 24,
+      "dhash": 7,
+      "phash_centro": 22,
+      "phash_espejo": 28
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Terciopelo largo liso con mangas frente a negro midi de brillo, flecos y volantes."
+  },
+  {
+    "a": {
+      "id": 98,
+      "nombre": "Vestido largo de mangas semi drapeado con detalles de brillos en",
+      "categoria": "Largos",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-098/02-R085.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "b": {
+      "id": 159,
+      "nombre": "Vestido de gala largo negro con detalles en cuello y mangas",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-159/02-N033.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 18,
+      "dhash": 7,
+      "phash_centro": 16,
+      "phash_espejo": 30
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Vino con pliegues a la cintura frente a azul muy oscuro/negro con cuello y puños ornamentados."
+  },
+  {
+    "a": {
+      "id": 100,
+      "nombre": "Vestido rojo de gala con strass plateadas",
+      "categoria": "Gala",
+      "numero": 3,
+      "src": "./images/productos-reales/XL-100/03-R103.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "b": {
+      "id": 162,
+      "nombre": "Vestido sirena color rojo estraple de perlas",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-162/01-N039.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 16,
+      "dhash": 7,
+      "phash_centro": 24,
+      "phash_espejo": 32
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "XL-100 mangas caídas cortas/pedrería; XL-162 mangas largas y borde superior diferente."
+  },
+  {
+    "a": {
+      "id": 141,
+      "nombre": "Vestido largo azul",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-141/01-N013.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "b": {
+      "id": 163,
+      "nombre": "Vestido sirena largo color rojo con Bruselas",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-163/02-N042.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 22,
+      "dhash": 7,
+      "phash_centro": 22,
+      "phash_espejo": 24
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Azul con corpiño plateado frente a rojo con encaje y mangas."
+  },
+  {
+    "a": {
+      "id": 22,
+      "nombre": "Vestido blanco de corte sirena de manga larga de rosas",
+      "categoria": "Largos",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-022/02-R048.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "b": {
+      "id": 107,
+      "nombre": "Vestido largo plomo de tull con detalles de flores",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-107/02-R116.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 28,
+      "dhash": 29,
+      "phash_centro": 30,
+      "phash_espejo": 8
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Blanco con mangas florales transparentes frente a gris/plomo sin mangas, con aplicaciones florales en falda."
+  },
+  {
+    "a": {
+      "id": 138,
+      "nombre": "Vestido palo rosa gasa y satín",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-138/02-N007.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "b": {
+      "id": 165,
+      "nombre": "Vestido largo palo rosa",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-165/02-N048.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 8,
+      "dhash": 13,
+      "phash_centro": 10,
+      "phash_espejo": 30
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Mismo ambiente y color rosa, pero XL-138 lleva espalda cerrada con escote V y gasa lisa; XL-165 espalda abierta con cordones cruzados y paneles de lentejuelas."
+  },
+  {
+    "a": {
+      "id": 90,
+      "nombre": "Vestido de gala gamusa color guinda con perlas",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-090/02-R077.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "b": {
+      "id": 98,
+      "nombre": "Vestido largo de mangas semi drapeado con detalles de brillos en",
+      "categoria": "Largos",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-098/01-R084.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 12,
+      "dhash": 9,
+      "phash_centro": 18,
+      "phash_espejo": 30
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "XL-090 escote cuadrado y puntos brillantes en pecho; XL-098 escote V y pliegues diagonales a la cintura."
+  },
+  {
+    "a": {
+      "id": 90,
+      "nombre": "Vestido de gala gamusa color guinda con perlas",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-090/01-R076.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "b": {
+      "id": 98,
+      "nombre": "Vestido largo de mangas semi drapeado con detalles de brillos en",
+      "categoria": "Largos",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-098/02-R085.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 12,
+      "dhash": 10,
+      "phash_centro": 22,
+      "phash_espejo": 26
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "XL-090 escote cuadrado y puntos brillantes en pecho; XL-098 escote V y pliegues diagonales a la cintura."
+  },
+  {
+    "a": {
+      "id": 103,
+      "nombre": "Vestido sirena de gala verde con perlas",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-103/01-R105.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "b": {
+      "id": 161,
+      "nombre": "Vestido largo de gala color azul de lentejuelas",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-161/01-N038.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 10,
+      "dhash": 12,
+      "phash_centro": 14,
+      "phash_espejo": 32
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "XL-103 verde con lentejuelas, cuello halter y abertura; XL-161 azul con cuerpo y mangas de encaje."
+  },
+  {
+    "a": {
+      "id": 90,
+      "nombre": "Vestido de gala gamusa color guinda con perlas",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-090/02-R077.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "b": {
+      "id": 98,
+      "nombre": "Vestido largo de mangas semi drapeado con detalles de brillos en",
+      "categoria": "Largos",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-098/02-R085.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 12,
+      "dhash": 11,
+      "phash_centro": 22,
+      "phash_espejo": 32
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "XL-090 escote cuadrado y puntos brillantes en pecho; XL-098 escote V y pliegues diagonales a la cintura."
+  },
+  {
+    "a": {
+      "id": 61,
+      "nombre": "Vestido largo morado claro",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-061/02-R038.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "b": {
+      "id": 91,
+      "nombre": "Vestido elegante sirena color verde",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-091/01-R074.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 12,
+      "dhash": 19,
+      "phash_centro": 24,
+      "phash_espejo": 36
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Morado brillante de escote V frente a terciopelo verde/azul de escote cuadrado."
+  },
+  {
+    "a": {
+      "id": 61,
+      "nombre": "Vestido largo morado claro",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-061/02-R038.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "b": {
+      "id": 140,
+      "nombre": "Vestido vino strapless de tirantes con copas de pedrería",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-140/01-N011.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 12,
+      "dhash": 18,
+      "phash_centro": 24,
+      "phash_espejo": 32
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Morado con mangas y lentejuelas frente a vino strapless con tirantes finos y corpiño contrastante."
+  },
+  {
+    "a": {
+      "id": 103,
+      "nombre": "Vestido sirena de gala verde con perlas",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-103/01-R105.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "b": {
+      "id": 106,
+      "nombre": "Vestido de gala negro con detalles plateados",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-106/02-R136.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 12,
+      "dhash": 12,
+      "phash_centro": 22,
+      "phash_espejo": 18
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Verde halter brillante sin mangas frente a negro opaco con tul y mangas largas."
+  },
+  {
+    "a": {
+      "id": 106,
+      "nombre": "Vestido de gala negro con detalles plateados",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-106/01-R134.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "b": {
+      "id": 162,
+      "nombre": "Vestido sirena color rojo estraple de perlas",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-162/01-N039.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 12,
+      "dhash": 16,
+      "phash_centro": 18,
+      "phash_espejo": 26
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Negro con canesú de tul frente a rojo con hombros descubiertos."
+  },
+  {
+    "a": {
+      "id": 106,
+      "nombre": "Vestido de gala negro con detalles plateados",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-106/02-R136.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "b": {
+      "id": 162,
+      "nombre": "Vestido sirena color rojo estraple de perlas",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-162/01-N039.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 12,
+      "dhash": 13,
+      "phash_centro": 22,
+      "phash_espejo": 28
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Negro con canesú de tul frente a rojo con hombros descubiertos."
+  },
+  {
+    "a": {
+      "id": 107,
+      "nombre": "Vestido largo plomo de tull con detalles de flores",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-107/01-R112.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "b": {
+      "id": 138,
+      "nombre": "Vestido palo rosa gasa y satín",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-138/02-N007.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 12,
+      "dhash": 25,
+      "phash_centro": 28,
+      "phash_espejo": 30
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Gris/plomo ajustado sin mangas y aplicaciones frente a rosa gasa con falda amplia."
+  },
+  {
+    "a": {
+      "id": 107,
+      "nombre": "Vestido largo plomo de tull con detalles de flores",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-107/01-R112.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "b": {
+      "id": 165,
+      "nombre": "Vestido largo palo rosa",
+      "categoria": "Gala",
+      "numero": 2,
+      "src": "./images/productos-reales/XL-165/02-N048.jpeg",
+      "vista": "Espalda",
+      "principal": false
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 12,
+      "dhash": 26,
+      "phash_centro": 28,
+      "phash_espejo": 30
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Gris/plomo sin mangas y aplicaciones frente a rosa de falda amplia y lentejuelas."
+  },
+  {
+    "a": {
+      "id": 111,
+      "nombre": "Vestido largo crema de perlas y pedrería plateadas",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-111/02-R119.jpeg",
+      "vista": "Frente",
+      "principal": true
+    },
+    "b": {
+      "id": 196,
+      "nombre": "Vestido largo de gala morado con lentejuelas",
+      "categoria": "Gala",
+      "numero": 1,
+      "src": "./images/productos-reales/XL-196/01-WA-Gala-morado-frente.png",
+      "vista": "Frente",
+      "principal": true
+    },
+    "misma_ficha": false,
+    "distancias": {
+      "phash": 12,
+      "dhash": 24,
+      "phash_centro": 18,
+      "phash_espejo": 34
+    },
+    "decision": "Descartado como duplicado",
+    "evidencia_visual": "Crema de cuello alto y pedrería frente a celeste de lentejuelas, hombros descubiertos y mangas abullonadas."
+  }
+]

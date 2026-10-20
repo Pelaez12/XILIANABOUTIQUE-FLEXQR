@@ -3234,31 +3234,31 @@ export const products = [
   },
   {
     "id": 156,
-    "name": "Vestido corto negro con tirantes y pedrería",
+    "name": "VESTIDO CORTO",
     "category": "Cortos con brillo",
     "price": 399,
     "photos": [
       {
-        "src": "./images/productos-reales/XL-156/01-N024.jpeg",
-        "width": 1080,
-        "height": 1069,
+        "src": "./images/productos-reales/XL-156/03-propietario-1690-frente.png",
+        "width": 800,
+        "height": 800,
         "view": "Frente",
-        "sha256": "3661fc5cb8212729de38a8bfc527d93a934f74df06fa23d050883b909bfa4a9c",
-        "sourceAttachment": "review\\importacion-2026-10-10\\N024.jpeg"
+        "sha256": "632d11950c63271327bb2ee905ade0107a5920bedf07e5dca2db6b25582288cc",
+        "sourceAttachment": "codex-clipboard-93802087-299c-410a-9e42-4fa04ba7c8a5.png"
       },
       {
-        "src": "./images/productos-reales/XL-156/02-N025.jpeg",
-        "width": 1080,
-        "height": 1065,
+        "src": "./images/productos-reales/XL-156/04-propietario-1690-otra-pose.png",
+        "width": 800,
+        "height": 800,
         "view": "Frente · otra pose",
-        "sha256": "ad237d49834977863dcdbeeee10acddc1505d3e182e2cf92ec6014db47071911",
-        "sourceAttachment": "review\\importacion-2026-10-10\\N025.jpeg"
+        "sha256": "91cba74b7021ea3700dfe7eb3fc82fc3d51f3f1f4a1722d24b40e7d1ba9ee6e8",
+        "sourceAttachment": "codex-clipboard-4ee80f38-2950-4c0f-be3e-bae706d22202.png"
       }
     ],
-    "image": "./images/productos-reales/XL-156/01-N024.jpeg",
+    "image": "./images/productos-reales/XL-156/03-propietario-1690-frente.png",
     "photoPending": false,
     "importGroup": "NV-008",
-    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
+    "note": "Negro con tirantes y pedrería.",
     "catalogName": "VESTIDO CORTO",
     "priceSource": {
       "tipo": "WhatsApp Web",
@@ -3266,7 +3266,39 @@ export const products = [
       "fecha": "2026-10-12",
       "evidencia": "brillo-inferior.png"
     },
-    "catalogDescription": "Negro con tirantes y pedrería"
+    "catalogDescription": "Negro con tirantes y pedrería",
+    "urlSlug": "vestido-corto-negro-con-tirantes-y-pedreria",
+    "catalogCode": "1690",
+    "photoHistory": {
+      "fecha": "2026-10-20",
+      "photos": [
+        {
+          "src": "./images/productos-reales/XL-156/01-N024.jpeg",
+          "width": 1080,
+          "height": 1069,
+          "view": "Frente",
+          "sha256": "3661fc5cb8212729de38a8bfc527d93a934f74df06fa23d050883b909bfa4a9c",
+          "sourceAttachment": "review\\importacion-2026-10-10\\N024.jpeg"
+        },
+        {
+          "src": "./images/productos-reales/XL-156/02-N025.jpeg",
+          "width": 1080,
+          "height": 1065,
+          "view": "Frente · otra pose",
+          "sha256": "ad237d49834977863dcdbeeee10acddc1505d3e182e2cf92ec6014db47071911",
+          "sourceAttachment": "review\\importacion-2026-10-10\\N025.jpeg"
+        }
+      ],
+      "motivo": "Fotos anteriores conservadas. Sustituidas por las originales entregadas por el propietario para el código 1690."
+    },
+    "ownerConfirmation": {
+      "fecha": "2026-10-20",
+      "nombre": "VESTIDO CORTO",
+      "categoria": "Cortos con brillo",
+      "precio_pen": 399,
+      "codigo_whatsapp": "1690",
+      "evidencia": "review/correccion-1690-2026-10-20.json"
+    }
   },
   {
     "id": 157,

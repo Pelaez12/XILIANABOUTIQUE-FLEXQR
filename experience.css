@@ -44,6 +44,10 @@ body.opening-active .site-header .brand-logo{opacity:0}
 .collection-products .product-name{min-height:0}
 .category-showcase{max-width:1440px;margin:auto;padding:78px 5vw 18px}
 .category-showcase h1{margin:0 0 22px;font-size:clamp(18px,2.2vw,27px);font-weight:500;letter-spacing:-.025em}
+.collection-invitation{margin:-8px 0 28px;max-width:52ch;color:#59534b;font-size:15px;line-height:1.6;text-wrap:pretty}
+.invitation-touch{display:none}
+@media(pointer:coarse){.invitation-pointer{display:none}.invitation-touch{display:inline}}
+@media(max-width:640px){.collection-invitation{font-size:14px;margin-bottom:24px;max-width:35ch}.invitation-pointer{display:none}.invitation-touch{display:inline}}
 .category-showcase-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
 .category-tile{position:relative;display:block;width:100%;aspect-ratio:3/4.3;overflow:hidden;border:0;padding:0;background:#b8b9b6;color:#fff;text-align:center;isolation:isolate}
 .category-tile::after{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(180deg,#0000 28%,#0008 74%,#0009 100%);pointer-events:none}

@@ -5325,6 +5325,89 @@ export const products = [
       "precio_pen": 389,
       "codigo_whatsapp": "1024"
     }
+  },
+  {
+    "id": 220,
+    "name": "Vestido Bandage Crema de perlas",
+    "category": "Bandage",
+    "price": 589,
+    "note": "Vestido crema con hombros descubiertos, perlas y aplicaciones en el escote. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-220/01-frente.png",
+        "width": 1080,
+        "height": 1412,
+        "view": "Frente",
+        "sha256": "e80fdcb17ab8b697c6ab7afa2d8bcd807182f672a9d1e5f10fc11af728ebfe9f"
+      },
+      {
+        "src": "./images/productos-reales/XL-220/02-espalda.png",
+        "width": 1080,
+        "height": 1425,
+        "view": "Espalda",
+        "sha256": "2801b93873dce649f90d94da1deaad867956c530fb04efdf0a75d21dd560ad13"
+      }
+    ],
+    "image": "./images/productos-reales/XL-220/01-frente.png",
+    "photoPending": false,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Bandage",
+      "precio_pen": 589
+    }
+  },
+  {
+    "id": 221,
+    "name": "Vestido corto verde",
+    "category": "Cortos",
+    "price": 349,
+    "note": "Vestido verde de terciopelo con escote cruzado, mangas largas y cinturón con hebilla. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-221/01-frente.png",
+        "width": 1091,
+        "height": 1442,
+        "view": "Frente",
+        "sha256": "7a4209e2ae28c53f9cc2db1fe5404a3be4687f9c45d7f2de7e0dba17e66c204d"
+      },
+      {
+        "src": "./images/productos-reales/XL-221/02-espalda.png",
+        "width": 1080,
+        "height": 1434,
+        "view": "Espalda",
+        "sha256": "dff2856ffd2fe5e65a3f9aa1a1e4d12c0328c36a16deffff4fc4f76c1dfc3d4e"
+      }
+    ],
+    "photoPending": false,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Cortos",
+      "precio_pen": 349
+    },
+    "image": "./images/productos-reales/XL-221/01-frente.png"
+  },
+  {
+    "id": 222,
+    "name": "Vestido de sirena con cuello redondo con manga larga de perlas",
+    "category": "Gala",
+    "price": 369,
+    "note": "Vestido color vino de corte sirena, cuello redondo y mangas largas con transparencias y perlas. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-222/01-frente.png",
+        "width": 1122,
+        "height": 1402,
+        "view": "Frente",
+        "sha256": "e52e1afa29de4057595668a2bd62f4d34108dd7d96997d399bde9dd4e2179f9f"
+      }
+    ],
+    "image": "./images/productos-reales/XL-222/01-frente.png",
+    "photoPending": false,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Gala",
+      "precio_pen": 369
+    }
   }
 ];
 export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación"];

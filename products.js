@@ -5434,6 +5434,66 @@ export const products = [
       "categoria": "Largos",
       "precio_pen": 529
     }
+  },
+  {
+    "id": 224,
+    "name": "Vestido largo corte semi sirena con capa de estampado plateado",
+    "category": "Largos",
+    "price": 439,
+    "note": "Vestido largo azul de corte semi sirena con capa de estampado plateado. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-224/01-frente.png",
+        "width": 1087,
+        "height": 1447,
+        "sha256": "70b0e5d3ca460517f7bc6ee8db64bd1ed8c96a2e37a66d8d5ab4faa8f637c944",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-224/02-espalda.png",
+        "width": 1089,
+        "height": 1444,
+        "sha256": "d561d16c7aae324e27990fc0b9e563a5a94c7b5c54592184b979b14dec7a8aa9",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-224/01-frente.png",
+    "photoPending": false,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Largos",
+      "precio_pen": 439
+    }
+  },
+  {
+    "id": 225,
+    "name": "Vestido largo Color Borgoña con capa de flores",
+    "category": "Largos",
+    "price": 469,
+    "note": "Vestido largo color borgoña con falda plisada y capa de flores. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-225/01-frente.png",
+        "width": 1080,
+        "height": 1361,
+        "sha256": "9ad50eaaf5851d101a83f06eb01cc890b6f21d07f625c8fc25501e75b549e34f",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-225/02-espalda.png",
+        "width": 500,
+        "height": 666,
+        "sha256": "59d4d7ff63cc042e43ea000e95fb5c663c266566a0fff531212f6f5387c26497",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-225/01-frente.png",
+    "photoPending": false,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Largos",
+      "precio_pen": 469
+    }
   }
 ];
 export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación"];

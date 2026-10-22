@@ -5518,6 +5518,66 @@ export const products = [
       "categoria": "Largos",
       "precio_pen": 429
     }
+  },
+  {
+    "id": 227,
+    "name": "Vestido largo borgoña con detalle dorado",
+    "category": "Largos",
+    "price": 489,
+    "note": "Vestido largo borgoña con escote en V, mangas de caída amplia y detalle dorado en la cintura. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-227/01-frente.png",
+        "width": 1087,
+        "height": 1446,
+        "sha256": "f2b772eeb130f3ed7cdf28c8147b176879458ca09ae737d144323280020d340c",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-227/02-espalda.png",
+        "width": 1080,
+        "height": 1426,
+        "sha256": "9008956ebad2483197c11dc9b664e013813ad125f568aab176ed765746879fd3",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-227/01-frente.png",
+    "photoPending": false,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Largos",
+      "precio_pen": 489
+    }
+  },
+  {
+    "id": 228,
+    "name": "Vestido largo negro con detalles de lentejuelas plateadas",
+    "category": "Gala",
+    "price": 369,
+    "note": "Vestido largo negro con escote cuadrado, mangas transparentes y detalles de lentejuelas plateadas. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-228/01-frente.png",
+        "width": 1096,
+        "height": 1435,
+        "sha256": "45177db65f37e6e6afa189ff23b1fe0a5d16b80a4347260502f7044d96acff95",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-228/02-espalda.png",
+        "width": 1094,
+        "height": 1437,
+        "sha256": "b1ae5a8a92957de1be710d7fe28d85691fc23bafa7de0d166d7654753d418195",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-228/01-frente.png",
+    "photoPending": false,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Gala",
+      "precio_pen": 369
+    }
   }
 ];
 export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación"];

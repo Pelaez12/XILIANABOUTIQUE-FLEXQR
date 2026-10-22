@@ -394,15 +394,12 @@ body:has(.photo-viewer[open]){overflow:hidden}
 .category-tile .liquidation-tile-discount{display:block;margin-top:12px;color:#fff;font:500 13px/1.5 Arial,Helvetica,sans-serif;letter-spacing:.025em;text-transform:none}
 @media(max-width:640px){.category-tile .liquidation-tile-discount{margin-top:10px;font-size:9.5px;line-height:1.5;letter-spacing:0}}
 
-/* Bodoni Moda, SIL Open Font License: /BodoniModa-OFL.txt. */
-@font-face{font-family:"Bodoni Moda";src:url("/images/fonts/BodoniModa.ttf") format("truetype");font-style:normal;font-weight:400 900;font-display:swap}
 /* Retrato del asesor durante la fase del eslogan. */
 .opening__portrait{position:absolute;inset:0;overflow:hidden;background:#292a2c;opacity:0;pointer-events:none}
 .opening__portrait img{display:block;width:100%;height:100%;object-fit:contain;object-position:center}
-.opening__portrait-shade{position:absolute;inset:0;background:linear-gradient(180deg,#0009 0%,transparent 28%,#0005 48%,#0006 65%,#0002 100%)}
-.opening__advisor{position:absolute;top:max(28px,env(safe-area-inset-top));left:20px;right:20px;margin:0;text-align:center;font:500 clamp(20px,2vw,28px)/1.5 "Bodoni Moda",Didot,"Bodoni MT",serif;font-optical-sizing:none;font-variation-settings:"opsz" 72;transform:scaleX(.82);letter-spacing:.22em;text-transform:uppercase;color:#fff;opacity:0;text-shadow:0 2px 12px #0009}
+.opening__portrait-shade{position:absolute;inset:0;background:linear-gradient(180deg,transparent 0%,transparent 28%,#0005 48%,#0006 65%,#0002 100%)}
 .opening__stage{height:100%}
-.opening__slogan{position:relative;z-index:1;color:#fff;text-shadow:0 2px 18px #0008;letter-spacing:-.025em}
+.opening__slogan{position:relative;z-index:1;transform:translateY(9dvh);color:#fff;text-shadow:0 2px 18px #0008;letter-spacing:-.025em}
 .opening__slogan em{color:#f0d59d}
-.opening.is-playing .opening__portrait,.opening.is-playing .opening__advisor{animation:opening-slogan-sequence 5.8s linear both}
-@media(max-width:640px){.opening__stage{height:100%}.opening__portrait img{object-fit:cover}.opening__advisor{top:max(30px,env(safe-area-inset-top));font-size:20px;letter-spacing:.16em}.opening__slogan{font-size:clamp(36px,9vw,52px);padding:0 18px;line-height:1.22}}
+.opening.is-playing .opening__portrait{animation:opening-slogan-sequence 5.8s linear both}
+@media(max-width:640px){.opening__stage{height:100%}.opening__portrait img{object-fit:contain}.opening__slogan{font-size:clamp(36px,9vw,52px);padding:0 18px;line-height:1.22}}

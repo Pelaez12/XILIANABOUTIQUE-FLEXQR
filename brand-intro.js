@@ -11,7 +11,7 @@ export function playBrandIntro(force=false){
  const previousFocus=document.activeElement;
  const opening=document.createElement('dialog');
  opening.id='opening';opening.className=reducedMotion?'opening is-reduced':'opening';opening.setAttribute('aria-label','Presentación de Xiliana Boutique');
- opening.innerHTML=`<div class="opening__portrait" aria-hidden="true"><img src="/images/antonio-grau-asesor-imagen.webp" alt=""/><div class="opening__portrait-shade"></div></div><div class="opening__stage"><p class="opening__advisor">Asesor de imagen</p><div class="opening__signature" aria-hidden="true"></div><div class="opening__brand"><img class="opening__logo" src="/images/xiliana-logo-gold-black.png" alt="Xiliana Boutique by Antonio Grau"/></div><p class="opening__slogan"><span>Solo una vida</span><span>para <em>lucirte.</em></span></p></div><div class="opening__progress" aria-hidden="true"></div>`;
+ opening.innerHTML=`<div class="opening__portrait" aria-hidden="true"><img src="/images/antonio-grau-presentacion.webp" alt=""/><div class="opening__portrait-shade"></div></div><div class="opening__stage"><div class="opening__signature" aria-hidden="true"></div><div class="opening__brand"><img class="opening__logo" src="/images/xiliana-logo-gold-black.png" alt="Xiliana Boutique by Antonio Grau"/></div><p class="opening__slogan"><span>Solo una vida</span><span>para <em>lucirte.</em></span></p></div><div class="opening__progress" aria-hidden="true"></div>`;
  currentIntro=new Promise(resolve=>{
   let finished=false,timer,exitTimer;
   const finish=()=>{
@@ -35,7 +35,6 @@ export function playBrandIntro(force=false){
   const logo=opening.querySelector('.opening__logo');
   const decoded=Promise.all([
    ...[logo,opening.querySelector('.opening__portrait img')].map(image=>image.decode?image.decode().catch(()=>{}):Promise.resolve()),
-   document.fonts.load('500 28px "Bodoni Moda"').catch(()=>{}),
   ]);
   decoded.then(()=>requestAnimationFrame(()=>{
    if(finished)return;

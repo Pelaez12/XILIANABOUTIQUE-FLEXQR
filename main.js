@@ -1,6 +1,6 @@
-import './order-ui.js?v=advisor-didone-20261022';
+import './order-ui.js?v=advisor-photo-20261022';
 import { startVideo } from './video-audio.js';
-import { introFinished, playBrandIntro } from './brand-intro.js?v=advisor-didone-20261022';
+import { introFinished, playBrandIntro } from './brand-intro.js?v=advisor-photo-20261022';
 
 // Las siete colecciones ya llegan en el HTML, incluso sin JavaScript.
 // El movimiento acompaña la exploración y nunca oculta las tarjetas.

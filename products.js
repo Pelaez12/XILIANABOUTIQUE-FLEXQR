@@ -5516,6 +5516,38 @@ export const products = [
       "archivo": "codex-clipboard-1d4a0875-5a10-464a-9119-b5837c2ffbff.png"
     },
     "categoryConfirmation": "Propietario pidió expresamente colocar esta blusa en Vestidos Largos el 20/10/2026."
+  },
+  {
+    "id": 219,
+    "name": "Vestido negro brillante",
+    "category": "Gala",
+    "price": 389,
+    "note": "Vestido negro con escote de hombros descubiertos, mangas con volumen y cuerpo de encaje.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-219/01-frente.png",
+        "width": 800,
+        "height": 800,
+        "sha256": "c5558334969960679b2e49b184b3b601dc28fa86fea5a5fd684a187c0eda048b",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-219/02-espalda.png",
+        "width": 800,
+        "height": 800,
+        "sha256": "3770ef1fd2be86c61cfab19b98ed66a04d525e8e221be97982143ec3ea56915b",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-219/01-frente.png",
+    "photoPending": false,
+    "catalogCode": "1024",
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Gala",
+      "precio_pen": 389,
+      "codigo_whatsapp": "1024"
+    }
   }
 ];
 export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación"];

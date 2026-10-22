@@ -1,6 +1,6 @@
 import './order-ui.js';
 import { startVideo } from './video-audio.js';
-import { introFinished, playBrandIntro } from './brand-intro.js';
+import { introFinished, playBrandIntro } from './brand-intro.js?v=motion-20261022';
 
 // Las siete colecciones ya llegan en el HTML, incluso sin JavaScript.
 // El movimiento acompaña la exploración y nunca oculta las tarjetas.
@@ -11,8 +11,8 @@ if (!motionPreference.matches && 'IntersectionObserver' in window) {
     entries.filter(entry => entry.isIntersecting).forEach((entry, index) => {
       observer.unobserve(entry.target);
       const animation = entry.target.animate(
-        [{ opacity: .8, transform: 'translateY(18px)' }, { opacity: 1, transform: 'translateY(0)' }],
-        { duration: 620, delay: Math.min(index, 2) * 70, easing: 'cubic-bezier(.22,1,.36,1)' }
+        [{ opacity: .88 }, { opacity: 1 }],
+        { duration: 320, delay: Math.min(index, 2) * 40, easing: 'cubic-bezier(.22,1,.36,1)' }
       );
       animations.add(animation);
       animation.onfinish = () => animations.delete(animation);

@@ -13,22 +13,35 @@ export function playBrandIntro(force=false){
  opening.id='opening';opening.className=reducedMotion?'opening is-reduced':'opening';opening.setAttribute('aria-label','Presentación de Xiliana Boutique');
  opening.innerHTML=`<div class="opening__stage"><div class="opening__dots" aria-hidden="true"><i></i><i></i><i></i></div><img class="opening__logo" src="/images/xiliana-logo-gold-black.png" alt="Xiliana Boutique by Antonio Grau"/><p class="opening__slogan">Solo una vida para lucirte.</p></div><div class="opening__progress" aria-hidden="true"></div><button type="button" class="opening__skip">Omitir presentación</button>`;
  currentIntro=new Promise(resolve=>{
-  let finished=false,timer;
+  let finished=false,timer,exitTimer;
   const finish=()=>{
    if(finished)return;finished=true;clearTimeout(timer);opening.classList.add('is-exiting');
-   setTimeout(()=>{opening.close();opening.remove();document.body.classList.remove('opening-active');currentIntro=null;
+   const cleanup=()=>{
+    if(!opening.isConnected)return;
+    clearTimeout(exitTimer);opening.close();opening.remove();document.body.classList.remove('opening-active');currentIntro=null;
     const target=previousFocus!==document.body&&previousFocus?.isConnected?previousFocus:document.querySelector('.site-header .brand-logo');
-    target?.focus({preventScroll:true});resolve();},600);
+    target?.focus({preventScroll:true});resolve();
+   };
+   opening.addEventListener('transitionend',event=>{
+    if(event.target===opening&&event.propertyName==='opacity')cleanup();
+   });
+   exitTimer=setTimeout(cleanup,reducedMotion?250:650);
   };
   opening.querySelector('button').addEventListener('click',finish);
   opening.addEventListener('cancel',event=>{event.preventDefault();finish();});
+  opening.addEventListener('animationend',event=>{
+   if(event.target.classList.contains('opening__slogan'))finish();
+  });
   document.body.append(opening);document.body.classList.add('opening-active');opening.showModal();
-  requestAnimationFrame(()=>{
+  const logo=opening.querySelector('.opening__logo');
+  const decoded=logo.decode?logo.decode().catch(()=>{}):Promise.resolve();
+  decoded.then(()=>requestAnimationFrame(()=>{
    if(finished)return;
    opening.classList.add('is-playing');
-   // 6.1 seconds of presentation + 0.6 seconds of exit, like FLEXQR.
-   timer=setTimeout(finish,6100);
-  });
+   // La última fase dirige la salida; este límite evita bloquear la navegación
+   // si el navegador no entrega animationend.
+   timer=setTimeout(finish,9000);
+  }));
  });
  return currentIntro;
 }

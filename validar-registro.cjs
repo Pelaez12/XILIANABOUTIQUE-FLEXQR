@@ -13,6 +13,22 @@ function validateCatalog(products, backup, identities) {
     assert.equal(product.category, confirmation.categoria, `Categoría distinta de la última confirmación de XL-${product.id}`);
     assert.equal(product.price, confirmation.precio_pen, `Precio distinto de la última confirmación de XL-${product.id}`);
   }
+  for (const separation of identities.separaciones || []) {
+    assert.equal(new Set(separation.modelos.map(m => m.id)).size, separation.modelos.length, 'Dos modelos distintos comparten una ficha');
+    for (const model of separation.modelos) {
+      const product = byId.get(model.id);
+      assert(product, `Falta el modelo distinto XL-${model.id}`);
+      assert.equal(product.catalogCode, model.codigo, `Código incorrecto para XL-${model.id}`);
+      assert.equal(product.price, model.precio_pen, `Precio incorrecto para el código ${model.codigo}`);
+      const ownHashes = new Set(model.fotos.map(p => p.sha256));
+      assert(product.photos.some(p => ownHashes.has(p.sha256)), `Las fotos de XL-${model.id} no corresponden a su identidad confirmada`);
+      for (const other of separation.modelos.filter(m => m.id !== model.id)) {
+        const foreignHashes = new Set(other.fotos.map(p => p.sha256));
+        const foreignPaths = new Set(other.fotos.map(p => p.src));
+        assert(!product.photos.some(p => foreignHashes.has(p.sha256) || foreignPaths.has(p.src)), `XL-${model.id} contiene fotos del modelo distinto ${other.codigo}`);
+      }
+    }
+  }
   const retiredIds = new Set(identities.consolidaciones.map(r => r.id_retirado));
   for (const identity of identities.consolidaciones) {
     assert(!byId.has(identity.id_retirado), `XL-${identity.id_retirado} está retirado por duplicación y no puede publicarse`);
@@ -34,8 +50,7 @@ function validateCatalog(products, backup, identities) {
 function validateRegistry(root = __dirname) {
   const source = fs.readFileSync(path.join(root, 'products.js'), 'utf8');
   const products = JSON.parse(source.match(/export const products = ([\s\S]*?);\s*export const categories/)[1]);
-  const backup = JSON.parse(fs.readFileSync(path.join(root, 'review/publicados-confirmados.json'), 'utf8'));
-  const identities = JSON.parse(fs.readFileSync(path.join(root, 'review/identidades-consolidadas.json'), 'utf8'));
+  const identities = JSON.parse(fs.readFileSync(path.join(root, 'data/catalog-identities.json'), 'utf8'));
   // Verificar los hashes reales evita que un metadato alterado o vacío oculte
   // una fotografía conocida de una identidad ya consolidada.
   const actual = products.map(product => ({...product, photos: (product.photos || []).map(photo => {
@@ -43,9 +58,10 @@ function validateRegistry(root = __dirname) {
     if (photo.sha256) assert.equal(photo.sha256, hash, `Hash de foto incorrecto: ${photo.src}`);
     return {...photo, sha256: hash};
   })}));
-  validateCatalog(products, backup, identities);
+  validateCatalog(products, products, identities);
   validateCatalog(actual, actual, identities);
-  console.log(`Registro vigente validado: ${products.length} productos; respaldo sincronizado y duplicados consolidados bloqueados.`);
+  console.log(`Registro vigente validado: ${products.length} productos; fotos e identidades verificadas y duplicados consolidados bloqueados.`);
+  return products;
 }
 
 module.exports = { validateCatalog, validateRegistry };

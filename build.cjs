@@ -1,6 +1,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
-require('./validar-registro.cjs').validateRegistry();
+const products = require('./validar-registro.cjs').validateRegistry();
+const accessories = require('./data/accessories.json');
 const output = path.join(__dirname, 'public');
 // public es una salida regenerable; rechazar enlaces a otras carpetas.
 if (output !== path.resolve(__dirname, 'public') || path.dirname(output) !== __dirname) throw new Error('Ruta de publicación no válida');
@@ -20,20 +21,23 @@ function copy(source, relative) {
   largest = Math.max(largest, size);
   count++;
 }
-function media(directory) {
-  for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
-    if (entry.name.startsWith('.') || entry.name === 'imagenes-reales' || /^catalog-\d+-(ai|model|faithful[^.]*)\.png$/i.test(entry.name)) continue;
-    const source = path.join(directory, entry.name);
-    if (entry.isDirectory()) media(source);
-    else if (entry.isFile() && mediaTypes.has(path.extname(entry.name).toLowerCase())) {
-      copy(source, path.relative(__dirname, source));
-    }
-  }
-}
+// Publicar solo las fotos activas y los recursos que usa la interfaz.
+const assets = new Set([
+  ...products.flatMap(product => product.photos.map(photo => photo.src)),
+  ...accessories.flatMap(accessory => accessory.fotos_web),
+  'images/xiliana-logo-gold-black.png', 'images/xiliana-video.mp4',
+  'images/foto-pendiente.svg',
+  ...['instagram', 'tiktok', 'googlemaps', 'whatsapp'].map(name => `images/social/${name}.svg`),
+]);
 for (const file of ['index.html', 'styles.css', 'experience.css', 'main.js', 'brand-intro.js', 'products.js', 'catalog-utils.js', 'gallery.js', 'order-data.js', 'order-ui.js', 'quick-consult.js', 'video-audio.js', 'collection-search.js', 'whatsapp-help.js', 'recommendations-carousel.js', '_headers']) {
   copy(path.join(__dirname, file), file);
 }
-media(path.join(__dirname, 'images'));
+for (const asset of assets) {
+  const source = path.resolve(__dirname, asset);
+  const relative = path.relative(__dirname, source);
+  if (!relative.startsWith(`images${path.sep}`) || !mediaTypes.has(path.extname(source).toLowerCase())) throw new Error(`Recurso no permitido: ${asset}`);
+  copy(source, relative);
+}
 // Herramienta de revisión del dueño: reutiliza el catálogo y sus fotos originales.
 for (const file of ['index.html', 'style.css', 'app.js', 'model.js']) {
   copy(path.join(__dirname, 'ordenar', file), path.join('ordenar', file));

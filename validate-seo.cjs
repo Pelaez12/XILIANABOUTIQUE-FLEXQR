@@ -25,7 +25,7 @@ for (const asset of ['style.css', 'app.js', 'model.js']) {
 const productSource = fs.readFileSync(path.join(__dirname, 'products.js'), 'utf8');
 const products = JSON.parse(productSource.match(/export const products = ([\s\S]*?);\s*export const categories/)[1]);
 const categories = JSON.parse(productSource.match(/export const categories = ([\s\S]*?);/)[1]);
-const accessories = JSON.parse(fs.readFileSync(path.join(__dirname, 'review/auditoria-whatsapp-2026-10-18/pendientes_unificados.json'), 'utf8'));
+const accessories = JSON.parse(fs.readFileSync(path.join(__dirname, 'data/accessories.json'), 'utf8'));
 const expectedPages = 2 + categories.filter(category => category !== 'Todos').length + products.length + accessories.length;
 assert.equal(pages.length, expectedPages);
 let schemas = 0;

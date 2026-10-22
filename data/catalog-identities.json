@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "consolidaciones": [
+    {
+      "id_retirado": 173,
+      "id_vigente": 214,
+      "precio_vigente_pen": 549,
+      "categoria_vigente": "Largos",
+      "fotos_identidad": [
+        {
+          "src": "./images/productos-reales/XL-173/01-N029.jpeg",
+          "sha256": "08172d0becc68899e160f67adce89032022069c06f60ffba1fcaf758e88d9201"
+        },
+        {
+          "src": "./images/productos-reales/XL-214/01-frente.png",
+          "sha256": "687ed07e6eb37777492a438082d8ff213eb0d03d17d31e759f21eb0a74c3cec1"
+        }
+      ]
+    }
+  ]
+}

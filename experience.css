@@ -380,3 +380,16 @@ body:has(.photo-viewer[open]){overflow:hidden}
 .category-tile .liquidation-tile-rule{display:block;width:52px;height:1px;background:#fff;margin:13px auto;opacity:.85}
 .category-tile .liquidation-tile-word{display:block;color:#8B0000;font:inherit;font-weight:500;line-height:1.12;text-decoration:none;white-space:nowrap;text-shadow:0 2px 9px #0008}
 @media(max-width:640px){.category-tile .liquidation-tile-rule{width:36px;margin:9px auto}.category-tile .liquidation-tile-lead{font-size:10px;letter-spacing:.08em}}
+
+/* Más aire entre los textos de las colecciones en móvil, sin cambiar su tamaño. */
+@media(max-width:640px){
+ .category-tile>span{line-height:1.17;letter-spacing:.015em;bottom:25%}
+ .category-tile small{line-height:1.75;letter-spacing:.06em}
+ .category-tile .category-tile-subtitle{margin-top:10px;line-height:1.4;letter-spacing:.13em}
+ .category-tile .liquidation-tile-lead{line-height:1.5;letter-spacing:.1em}
+ .category-tile .liquidation-tile-rule{margin:11px auto}
+ .category-tile .liquidation-tile-word{line-height:1.2;letter-spacing:.015em}
+}
+
+.category-tile .liquidation-tile-discount{display:block;margin-top:12px;color:#fff;font:500 13px/1.5 Arial,Helvetica,sans-serif;letter-spacing:.025em;text-transform:none}
+@media(max-width:640px){.category-tile .liquidation-tile-discount{margin-top:10px;font-size:9.5px;line-height:1.5;letter-spacing:0}}

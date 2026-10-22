@@ -4505,34 +4505,28 @@ export const products = [
     "note": "Vestido mini blanco con aplicaciones de perlas. Consulta disponibilidad y medidas con la boutique.",
     "photos": [
       {
-        "src": "./images/productos-reales/XL-187/03-propietario-frente.png",
-        "width": 1080,
-        "height": 1438,
-        "view": "Frente",
-        "sha256": "221438e89471d7ab4e68b46a2830bf769274ea5b0ccd8fe0f43c0e31e2836d9b",
-        "sourceAttachment": "codex-clipboard-03905a6d-32f8-4a1a-b2a1-5294251a88dc.png",
-        "sourceType": "Foto original entregada por el propietario el 19/10/2026; corresponde también al código comercial 1894."
+        "src": "./images/productos-reales/XL-187/04-foto-1-20261022.png",
+        "width": 1096,
+        "height": 1435,
+        "sha256": "5ce6832b1d437f0501ef617cdb576cf418f10054906968bd5543823b705c22fb",
+        "view": "Frente"
       },
       {
-        "src": "./images/productos-reales/XL-187/01-WA-Cortos-blanco-frente.png",
-        "width": 616,
-        "height": 806,
-        "view": "Frente con modelo",
-        "sha256": "03e5582c849cc81501979cf41f7f506699fa91ca79fe56d27c6edcd125a4601c",
-        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F06-blanco329-1-foto.png",
-        "sourceType": "Fotografía ampliada del catálogo WhatsApp Web; copia fiel sin edición del vestido ni del modelo."
+        "src": "./images/productos-reales/XL-187/05-foto-2-20261022.png",
+        "width": 1087,
+        "height": 1447,
+        "sha256": "c8756ab7c4a0b69fee1c9663461427e9f4def546633b7b1168740be86343a883",
+        "view": "Frente, segunda toma"
       },
       {
-        "src": "./images/productos-reales/XL-187/02-WA-Cortos-blanco-prenda.png",
-        "width": 626,
-        "height": 806,
-        "view": "Frente de la prenda sin modelo",
-        "sha256": "5c2405cfdee9d324206fb707be283eb9b2f96b8cef012a4af95de3744f520e17",
-        "sourceAttachment": "review/verificacion-cortos-whatsapp-2026-10-15/F06-blanco329-2-foto.png",
-        "sourceType": "Fotografía ampliada del catálogo WhatsApp Web; copia fiel sin edición del vestido ni del modelo."
+        "src": "./images/productos-reales/XL-187/06-foto-3-20261022.png",
+        "width": 1105,
+        "height": 1423,
+        "sha256": "a632d874456eeffa673d9b326e8722724feaa791432d1fbf3b427a766f182322",
+        "view": "Frente, tercera toma"
       }
     ],
-    "image": "./images/productos-reales/XL-187/03-propietario-frente.png",
+    "image": "./images/productos-reales/XL-187/04-foto-1-20261022.png",
     "photoPending": false,
     "catalogName": "Vestido blanco mini elegante con perlas",
     "catalogCategory": "Vestidos Cortos",

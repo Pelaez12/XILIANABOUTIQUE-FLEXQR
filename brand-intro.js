@@ -11,7 +11,7 @@ export function playBrandIntro(force=false){
  const previousFocus=document.activeElement;
  const opening=document.createElement('dialog');
  opening.id='opening';opening.className=reducedMotion?'opening is-reduced':'opening';opening.setAttribute('aria-label','Presentación de Xiliana Boutique');
- opening.innerHTML=`<div class="opening__stage"><div class="opening__dots" aria-hidden="true"><i></i><i></i><i></i></div><img class="opening__logo" src="/images/xiliana-logo-gold-black.png" alt="Xiliana Boutique by Antonio Grau"/><p class="opening__slogan">Solo una vida para lucirte.</p></div><div class="opening__progress" aria-hidden="true"></div><button type="button" class="opening__skip">Omitir presentación</button>`;
+ opening.innerHTML=`<div class="opening__stage"><div class="opening__signature" aria-hidden="true"></div><div class="opening__brand"><img class="opening__logo" src="/images/xiliana-logo-gold-black.png" alt="Xiliana Boutique by Antonio Grau"/></div><p class="opening__slogan"><span>Solo una vida</span><span>para <em>lucirte.</em></span></p></div><div class="opening__progress" aria-hidden="true"></div><button type="button" class="opening__skip">Omitir presentación</button>`;
  currentIntro=new Promise(resolve=>{
   let finished=false,timer,exitTimer;
   const finish=()=>{

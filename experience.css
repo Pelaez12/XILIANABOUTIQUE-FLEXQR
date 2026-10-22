@@ -5,40 +5,44 @@ footer .brand-logo{justify-self:start}
 .film{position:relative;width:100%;aspect-ratio:16/9;max-height:900px;overflow:hidden;background:#111}
 .film video{display:block;width:100%;height:100%;object-fit:cover;object-position:center;transform:scale(1.36);transform-origin:center}
 
-/* Presentación: puntos, marca y eslogan en fases suaves de 6,7 segundos. */
+/* Firma de apertura: trazo, revelado de marca y cierre con el eslogan. */
 html{scrollbar-gutter:stable}
 body.opening-active{overflow:hidden}
 .opening{position:fixed;inset:0;z-index:1000;display:grid;place-items:center;overflow:hidden;background:#fff;color:#a88a52;isolation:isolate}
 .opening__stage{position:relative;display:grid;place-items:center;width:100%;height:360px;pointer-events:none}
 .opening__stage>*{grid-area:1/1}
-.opening__dots{display:flex;align-items:center;gap:16px;opacity:0}
-.opening__dots i{display:block;width:9px;height:9px;border-radius:50%;background:#ae915b;opacity:.4}
-.opening.is-playing .opening__dots{animation:opening-dots-sequence 6.1s linear both}
-.opening.is-playing .opening__dots i{animation:opening-breathe 1.6s cubic-bezier(.45,0,.55,1) infinite}
-.opening.is-playing .opening__dots i:nth-child(2){animation-delay:.18s}
-.opening.is-playing .opening__dots i:nth-child(3){animation-delay:.36s}
-.opening__logo{display:block;width:min(78vw,920px);height:auto;aspect-ratio:3.2;object-fit:cover;object-position:center 48%;opacity:0}
-.opening.is-playing .opening__logo{animation:opening-logo-sequence 6.1s cubic-bezier(.22,1,.36,1) both}
-.opening__slogan{margin:0;padding:0 24px;text-align:center;font-family:Georgia,serif;font-size:clamp(28px,4.7vw,68px);font-style:italic;letter-spacing:-.035em;color:#a1844e;opacity:0}
-.opening.is-playing .opening__slogan{animation:opening-slogan-sequence 6.1s cubic-bezier(.22,1,.36,1) both}
-.opening__progress{position:absolute;left:0;bottom:0;width:100%;height:2px;background:#aa8a4e;transform:scaleX(0);transform-origin:left}
-.opening.is-playing .opening__progress{animation:opening-progress 6.1s linear both}
-.opening__skip{position:absolute;bottom:max(30px,env(safe-area-inset-bottom));right:clamp(24px,5vw,70px);min-height:44px;padding:10px 0;border:0;border-bottom:1px solid #ad9164;background:transparent;color:#7e6845;font-size:11px;text-transform:uppercase;letter-spacing:.16em}
+.opening__signature{width:min(64vw,560px);height:1px;background:#b59555;transform:scaleX(0);opacity:0;transform-origin:center}
+.opening__brand{position:relative;opacity:0;width:min(82vw,780px);overflow:hidden}
+.opening__logo{display:block;width:100%;height:auto;aspect-ratio:3.2;object-fit:cover;object-position:center 48%}
+.opening__brand::after{content:"";position:absolute;inset:auto 15% 0;height:1px;background:linear-gradient(90deg,transparent,#b59555,transparent);opacity:0}
+.opening__slogan{margin:0;padding:0 20px;text-align:center;font-family:Georgia,serif;font-size:clamp(38px,5.3vw,76px);font-weight:400;line-height:1.15;letter-spacing:-.045em;color:#26221d;opacity:0}
+.opening__slogan span{display:block;opacity:0}
+.opening__slogan span+span{margin-top:.1em}
+.opening__slogan em{font-weight:400;color:#a1844e}
+.opening.is-playing .opening__signature{animation:opening-signature 5.8s cubic-bezier(.76,0,.24,1) both}
+.opening.is-playing .opening__brand{animation:opening-brand 5.8s cubic-bezier(.22,1,.36,1) both}
+.opening.is-playing .opening__brand::after{animation:opening-underline 5.8s cubic-bezier(.22,1,.36,1) both}
+.opening.is-playing .opening__slogan{animation:opening-slogan-sequence 5.8s linear both}
+.opening.is-playing .opening__slogan span{animation:opening-phrase 1s cubic-bezier(.22,1,.36,1) 3.65s both}
+.opening.is-playing .opening__slogan span+span{animation-delay:3.9s}
+.opening__progress{display:none}
+.opening__skip{position:absolute;bottom:max(30px,env(safe-area-inset-bottom));right:clamp(24px,5vw,70px);min-height:44px;padding:10px 0;border:0;border-bottom:1px solid #ad9164;background:transparent;color:#7e6845;font-size:11px;text-transform:uppercase;letter-spacing:.16em;transition:color .2s ease,border-color .2s ease}
 .opening__skip:hover,.opening__skip:focus-visible{color:#161616;border-color:#161616}
+.opening__skip:active{transform:scale(.97)}
 .opening.is-exiting{opacity:0;pointer-events:none;transition:opacity .6s cubic-bezier(.4,0,.2,1)}
-@keyframes opening-breathe{0%,100%{opacity:.4}50%{opacity:1}}
-@keyframes opening-dots-sequence{0%{opacity:0}6%,28%{opacity:1}34%,100%{opacity:0}}
-@keyframes opening-logo-sequence{0%,37%{opacity:0}46%,67%{opacity:1}74%,100%{opacity:0}}
-@keyframes opening-slogan-sequence{0%,77%{opacity:0}85%,100%{opacity:1}}
-@keyframes opening-progress{to{transform:scaleX(1)}}
+@keyframes opening-signature{0%{opacity:0;transform:scaleX(.025)}6%{opacity:1}17%{opacity:1;transform:scaleX(1)}29%,100%{opacity:0;transform:scaleX(1)}}
+@keyframes opening-brand{0%,12%{opacity:0;clip-path:inset(0 50%);transform:scale(.97)}32%,47%{opacity:1;clip-path:inset(0 0);transform:scale(1)}60%,100%{opacity:0;clip-path:inset(0 0);transform:scale(1.025)}}
+@keyframes opening-underline{0%,28%{opacity:0;transform:scaleX(.4)}37%,47%{opacity:.65;transform:scaleX(1)}58%,100%{opacity:0;transform:scaleX(1)}}
+@keyframes opening-slogan-sequence{0%,59%{opacity:0}63%,100%{opacity:1}}
+@keyframes opening-phrase{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@keyframes opening-brand-reduced{0%{opacity:0}12%,46%{opacity:1}59%,100%{opacity:0}}
+@keyframes opening-phrase-reduced{from{opacity:0}to{opacity:1}}
+.opening.is-reduced .opening__signature,.opening.is-reduced .opening__brand::after{display:none}
+.opening.is-reduced.is-playing .opening__brand{animation-name:opening-brand-reduced;clip-path:none;transform:none}
+.opening.is-reduced.is-playing .opening__slogan span{animation-name:opening-phrase-reduced}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.opening__signature,.opening__brand::after{display:none}.opening.is-playing .opening__brand{animation-name:opening-brand-reduced;clip-path:none;transform:none}.opening.is-playing .opening__slogan span{animation-name:opening-phrase-reduced}.opening.is-exiting{transition-duration:.2s}}
 @media(max-width:900px){.site-header nav a:nth-child(3){display:inline}}
-@media(max-width:640px){.site-header{height:72px}.brand-logo{width:142px;height:55px}.film{aspect-ratio:16/9}.film video{transform:scale(1.36)}.opening__stage{height:220px}.opening__logo{width:94vw}.opening__skip{right:24px}}
-@keyframes opening-logo-reduced{0%,62%{opacity:1}72%,100%{opacity:0}}
-@keyframes opening-slogan-reduced{0%,76%{opacity:0}84%,100%{opacity:1}}
-.opening.is-reduced .opening__dots,.opening.is-reduced .opening__progress{display:none}
-.opening.is-reduced.is-playing .opening__logo{animation-name:opening-logo-reduced}
-.opening.is-reduced.is-playing .opening__slogan{animation-name:opening-slogan-reduced}
-@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.opening__dots,.opening__progress{display:none}.opening.is-playing .opening__logo{animation-name:opening-logo-reduced}.opening.is-playing .opening__slogan{animation-name:opening-slogan-reduced}.opening.is-exiting{transition-duration:.2s}}
+@media(max-width:640px){.site-header{height:72px}.brand-logo{width:142px;height:55px}.film{aspect-ratio:16/9}.film video{transform:scale(1.36)}.opening__stage{height:240px}.opening__brand{width:94vw}.opening__skip{right:24px}}
 
 .collection-heading{text-align:center;padding:28px 0 24px}
 .collection-heading h1{font-family:Georgia,serif;font-size:clamp(38px,6vw,76px);font-weight:400;letter-spacing:.02em;line-height:1.12;margin:0 0 20px;text-wrap:balance}

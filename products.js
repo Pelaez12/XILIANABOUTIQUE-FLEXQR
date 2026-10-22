@@ -3581,8 +3581,8 @@ export const products = [
   {
     "id": 174,
     "name": "Vestido largo de mangas largas con hebilla",
-    "category": "Gala",
-    "price": 389,
+    "category": "Liquidación",
+    "price": 77.8,
     "photos": [
       {
         "src": "./images/productos-reales/XL-174/01-N031.jpeg",
@@ -3603,6 +3603,12 @@ export const products = [
       "telefono": "+51 930 527 248",
       "fecha": "2026-10-12",
       "evidencia": "gala-primeros20.png"
+    },
+    "originalPrice": 389,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Liquidación",
+      "precio_pen": 77.8
     }
   },
   {
@@ -3979,8 +3985,8 @@ export const products = [
   {
     "id": 185,
     "name": "Vestido corto licrado azul",
-    "category": "Cortos",
-    "price": 249,
+    "category": "Liquidación",
+    "price": 70,
     "photos": [
       {
         "src": "./images/productos-reales/XL-185/01-WA-Cortos-F04-1.png",
@@ -4028,7 +4034,13 @@ export const products = [
       "comparacion": "Azul liso de tirantes, escote recto con ribete blanco y botones en diagonal. Distinto de los azules existentes.",
       "procedencia": "Fotografías oficiales recortadas a su área de imagen. Frente primero y espalda después cuando existe."
     },
-    "catalogCode": "1758"
+    "catalogCode": "1758",
+    "originalPrice": 249,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Liquidación",
+      "precio_pen": 70
+    }
   },
   {
     "id": 186,
@@ -4576,8 +4588,8 @@ export const products = [
   {
     "id": 198,
     "name": "Vestido largo blanco con estampado flores",
-    "category": "Largos",
-    "price": 269,
+    "category": "Liquidación",
+    "price": 134.5,
     "note": "Prendas Importadas. Consulta disponibilidad y medidas con la boutique.",
     "photos": [
       {
@@ -4601,6 +4613,12 @@ export const products = [
     "imageSource": {
       "tipo": "Imagen original entregada por el usuario",
       "fecha": "2026-10-18"
+    },
+    "originalPrice": 269,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Liquidación",
+      "precio_pen": 134.5
     }
   },
   {
@@ -4646,7 +4664,7 @@ export const products = [
     "id": 200,
     "name": "Bralette negro con pedrería de colores",
     "category": "Bandage",
-    "price": 199,
+    "price": 189,
     "note": "Bralette corto negro con pedrería de colores en la copa con tirantes regulables. Consulta disponibilidad y medidas con la boutique.",
     "photos": [
       {
@@ -4687,6 +4705,11 @@ export const products = [
       "tipo": "Tres imágenes originales entregadas por el usuario",
       "fecha": "2026-10-18",
       "montajeAdicional": "review/auditoria-whatsapp-2026-10-18/referencias-producto/bralette-1806-montaje.png"
+    },
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Bandage",
+      "precio_pen": 189
     }
   },
   {
@@ -5099,7 +5122,7 @@ export const products = [
     "id": 215,
     "name": "Falda Bandage Dress",
     "category": "Bandage",
-    "price": 219,
+    "price": 189,
     "note": "Consulta disponibilidad y medidas con la boutique.",
     "photos": [
       {
@@ -5126,6 +5149,11 @@ export const products = [
       "tipo": "Imagen original entregada por el propietario",
       "fecha": "2026-10-19",
       "archivo": "codex-clipboard-905ff86a-808f-4e38-93e7-4a9eb7b2ec37.png"
+    },
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Bandage",
+      "precio_pen": 189
     }
   },
   {
@@ -5515,7 +5543,7 @@ export const products = [
   {
     "id": 230,
     "name": "Vestido largo azul de gala de lentejuelas",
-    "category": "Largos",
+    "category": "Gala",
     "price": 549,
     "note": "Vestido largo azul de lentejuelas con escote en V, cintura drapeada y mangas de caída amplia. Consulta disponibilidad y medidas con la boutique.",
     "photos": [
@@ -5538,7 +5566,7 @@ export const products = [
     "photoPending": false,
     "ownerConfirmation": {
       "fecha": "2026-10-22",
-      "categoria": "Largos",
+      "categoria": "Gala",
       "precio_pen": 549
     }
   },

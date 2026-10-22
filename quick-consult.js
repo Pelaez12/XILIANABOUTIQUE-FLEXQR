@@ -85,7 +85,7 @@ export function openOrder(id,mode='availability'){
  form.querySelector('[name="intent"][value="visit"]').nextElementSibling.textContent=selected?'Verlo en tienda':'Coordinar una cita';
  if(selected){
  const photo=dialog.querySelector('#order-photo');photo.src=displayImage(selected).replace(/^\.\//,'/');photo.alt=selected.name;
- dialog.querySelector('#order-category').textContent=selected.category;dialog.querySelector('#order-product-name').textContent=selected.name;dialog.querySelector('#consult-price').textContent=money(selected.price);}
+ dialog.querySelector('#order-category').textContent=selected.category;dialog.querySelector('#order-product-name').textContent=selected.name;dialog.querySelector('#consult-price').textContent=money(selected.price);dialog.querySelector('#consult-price').classList.toggle('price--sale',selected.category==='Liquidación'||selected.originalPrice>selected.price);}
  update();if(!dialog.open)dialog.showModal();dialog.scrollTop=0;
 }
 document.addEventListener('click',event=>{const trigger=event.target.closest('[data-order-id], [data-order-visit], [data-advice]');if(!trigger)return;event.preventDefault();openOrder(trigger.dataset.orderId,trigger.hasAttribute('data-order-visit')?'visit':trigger.hasAttribute('data-advice')?'fit':'availability');});

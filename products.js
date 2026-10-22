@@ -4558,25 +4558,21 @@ export const products = [
     "note": "Vestido sirena de lentejuelas con mangas abullonadas. Consulta disponibilidad y medidas con la boutique.",
     "photos": [
       {
-        "src": "./images/productos-reales/XL-196/01-WA-Gala-morado-frente.png",
-        "width": 620,
-        "height": 826,
+        "src": "./images/productos-reales/XL-196/03-frente-20261022.png",
+        "width": 1099,
+        "height": 1431,
         "view": "Frente",
-        "sha256": "1cf9c89ee3b0ec08901b97c9483e8ef50cfd0652df40a9f9e6d1d2d1d9074a04",
-        "sourceAttachment": "review/fotos-pendientes-2026-10-12/morado-frente-fuente.png",
-        "sourceType": "Fotografía ampliada del catálogo WhatsApp Web; copia fiel sin edición del vestido ni del modelo."
+        "sha256": "d8bc014926e626a47386de0c804b47878a81ecc58d1cddf6981aead21cdae554"
       },
       {
-        "src": "./images/productos-reales/XL-196/02-WA-Gala-morado-espalda.png",
-        "width": 620,
-        "height": 826,
+        "src": "./images/productos-reales/XL-196/04-espalda-20261022.png",
+        "width": 1086,
+        "height": 1448,
         "view": "Espalda",
-        "sha256": "d2acaff54e9cb375ee62eca287adcf655c95428c772ee7346903b514adb0c037",
-        "sourceAttachment": "review/fotos-pendientes-2026-10-12/morado-espalda-fuente.png",
-        "sourceType": "Fotografía ampliada del catálogo WhatsApp Web; copia fiel sin edición del vestido ni del modelo."
+        "sha256": "b3a8957b1bfbfc234c0b437e6bc38a8346bc4b5f58c36e2a8ec8b1eb4cd0b98c"
       }
     ],
-    "image": "./images/productos-reales/XL-196/01-WA-Gala-morado-frente.png",
+    "image": "./images/productos-reales/XL-196/03-frente-20261022.png",
     "photoPending": false,
     "catalogName": "Vestido largo de gala morado con lentejuelas",
     "catalogCategory": "Gala Dresses",

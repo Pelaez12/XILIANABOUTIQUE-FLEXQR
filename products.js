@@ -5408,6 +5408,36 @@ export const products = [
       "categoria": "Gala",
       "precio_pen": 369
     }
+  },
+  {
+    "id": 223,
+    "name": "Vestido largo gala en cuello V con detalles plateadas y mangas largas de gasa",
+    "category": "Largos",
+    "price": 529,
+    "note": "Vestido largo color vino con escote en V, detalles plateados, falda plisada y mangas largas de gasa. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-223/01-frente.png",
+        "width": 1080,
+        "height": 1432,
+        "sha256": "0553d8c40350b7a0e969eb1ea9e49f6819329502c32c44840a1cf40ad43269d4",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-223/02-espalda.png",
+        "width": 1080,
+        "height": 1403,
+        "sha256": "aa6bce74eae8410c592838be3419c1c4f9ba1bf6bda7a2583f9cb364a9fd8cce",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-223/01-frente.png",
+    "photoPending": false,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Largos",
+      "precio_pen": 529
+    }
   }
 ];
 export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación"];

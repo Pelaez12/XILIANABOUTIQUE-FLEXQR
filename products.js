@@ -480,8 +480,8 @@ export const products = [
   {
     "id": 5,
     "name": "Vestido largo fucsia",
-    "category": "Largos",
-    "price": 389.0,
+    "category": "Liquidación",
+    "price": 194.5,
     "note": "Para una ocasión especial y una entrada con encanto. Elige cómo combinarlo y luce tu personalidad.",
     "photos": [
       {
@@ -494,7 +494,13 @@ export const products = [
       }
     ],
     "image": "./images/productos-reales/XL-005/01-R033.jpeg",
-    "photoPending": false
+    "photoPending": false,
+    "originalPrice": 389,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Liquidación",
+      "precio_pen": 194.5
+    }
   },
   {
     "id": 6,

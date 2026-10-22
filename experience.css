@@ -36,9 +36,6 @@ body.opening-active{overflow:hidden}
 .opening.is-playing .opening__slogan span{animation:opening-phrase 1s cubic-bezier(.22,1,.36,1) 3.65s both}
 .opening.is-playing .opening__slogan span+span{animation-delay:3.9s}
 .opening__progress{display:none}
-.opening__skip{position:absolute;bottom:max(30px,env(safe-area-inset-bottom));right:clamp(24px,5vw,70px);min-height:44px;padding:10px 0;border:0;border-bottom:1px solid #ad9164;background:transparent;color:#7e6845;font-size:11px;text-transform:uppercase;letter-spacing:.16em;transition:color .2s ease,border-color .2s ease}
-.opening__skip:hover,.opening__skip:focus-visible{color:#161616;border-color:#161616}
-.opening__skip:active{transform:scale(.97)}
 .opening.is-exiting{opacity:0;pointer-events:none;transition:opacity .6s cubic-bezier(.4,0,.2,1)}
 @keyframes opening-signature{0%{opacity:0;transform:scaleX(.025)}6%{opacity:1}17%{opacity:1;transform:scaleX(1)}29%,100%{opacity:0;transform:scaleX(1)}}
 @keyframes opening-brand{0%,12%{opacity:0;clip-path:inset(0 50%);transform:scale(.97)}32%,47%{opacity:1;clip-path:inset(0 0);transform:scale(1)}60%,100%{opacity:0;clip-path:inset(0 0);transform:scale(1.025)}}
@@ -52,7 +49,7 @@ body.opening-active{overflow:hidden}
 .opening.is-reduced.is-playing .opening__slogan span{animation-name:opening-phrase-reduced}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.opening__signature,.opening__brand::after{display:none}.opening.is-playing .opening__brand{animation-name:opening-brand-reduced;clip-path:none;transform:none}.opening.is-playing .opening__slogan span{animation-name:opening-phrase-reduced}.opening.is-exiting{transition-duration:.2s}}
 @media(max-width:900px){.site-header nav a:nth-child(3){display:inline}}
-@media(max-width:640px){.site-header{height:72px}.brand-logo{width:142px;height:55px}.film{aspect-ratio:16/9}.film video{transform:scale(1.36)}.opening__stage{height:240px}.opening__brand{width:94vw}.opening__skip{right:24px}}
+@media(max-width:640px){.site-header{height:72px}.brand-logo{width:142px;height:55px}.film{aspect-ratio:16/9}.film video{transform:scale(1.36)}.opening__stage{height:240px}.opening__brand{width:94vw}}
 
 .collection-heading{text-align:center;padding:28px 0 24px}
 .collection-heading h1{font-family:Georgia,serif;font-size:clamp(38px,6vw,76px);font-weight:400;letter-spacing:.02em;line-height:1.12;margin:0 0 20px;text-wrap:balance}

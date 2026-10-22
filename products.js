@@ -3484,34 +3484,6 @@ export const products = [
     }
   },
   {
-    "id": 169,
-    "name": "Vestido corto color verde (S M)",
-    "category": "Liquidación",
-    "price": 114.5,
-    "photos": [
-      {
-        "src": "./images/productos-reales/XL-169/01-N016.jpeg",
-        "width": 1080,
-        "height": 1266,
-        "view": "Frente",
-        "sha256": "005d82f6bb13787389472b25de4b684546c6352160a402b330994a04e2cc7ebb",
-        "sourceAttachment": "review\\importacion-2026-10-10\\N016.jpeg"
-      }
-    ],
-    "image": "./images/productos-reales/XL-169/01-N016.jpeg",
-    "photoPending": false,
-    "importGroup": "NV-021",
-    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
-    "catalogName": "Vestido corto color verde (S M)",
-    "priceSource": {
-      "tipo": "WhatsApp Web",
-      "telefono": "+51 930 527 248",
-      "fecha": "2026-10-12",
-      "evidencia": "brillo-superior.png"
-    },
-    "originalPrice": 229
-  },
-  {
     "id": 170,
     "name": "Vestido corto de lentejuelas verde",
     "category": "Cortos con brillo",
@@ -3784,49 +3756,6 @@ export const products = [
       "coleccion": "Vestidos Cortos Brillos",
       "comparacion": "Las 139 fotografías principales existentes, incluidas XL-051, XL-052 y XL-133, muestran modelos distintos. Frente y espalda de esta ficha corresponden al mismo vestido azul mini con satén, tul y lentejuelas.",
       "procedencia": "La interfaz no permitió descargar el blob. Se conservaron las capturas completas y los rectángulos de recorte como evidencia."
-    }
-  },
-  {
-    "id": 180,
-    "name": "Vestido corto satín estampado",
-    "category": "Liquidación",
-    "price": 86.7,
-    "originalPrice": 289,
-    "photos": [
-      {
-        "src": "./images/productos-reales/XL-180/01-WA796-frente.png",
-        "width": 936,
-        "height": 799,
-        "view": "Frente",
-        "sha256": "39ff3abd3002812a6d961e31d178e2498365ba3d8bc231a117d52cb90742ee5b",
-        "sourceAttachment": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-satin8670-foto.png",
-        "sourceType": "Captura de fotografía del catálogo WhatsApp Web",
-        "captureSource": {
-          "pantalla": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-satin8670-pantalla.png",
-          "encuadre": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-satin8670-encuadre.json",
-          "edicion": "Recorte al área de la fotografía; sin cambiar modelo, vestido, colores ni fondo. Se conserva la composición original."
-        }
-      }
-    ],
-    "image": "./images/productos-reales/XL-180/01-WA796-frente.png",
-    "photoPending": false,
-    "note": "Elige tus accesorios favoritos y dale tu toque a este diseño. Podemos orientarte sobre medidas, ajustes y disponibilidad.",
-    "catalogName": "Vestido corto satín estampado",
-    "catalogCode": "796",
-    "catalogCategory": "Vestidos Cortos",
-    "priceSource": {
-      "tipo": "WhatsApp Web",
-      "telefono": "+51 930 527 248",
-      "fecha": "2026-10-15",
-      "evidencia": "review/conciliacion-final-2026-10-15/whatsapp-actual/cortos-satin8670-ficha.png"
-    },
-    "imageSource": {
-      "tipo": "Captura del catálogo WhatsApp Web",
-      "fecha": "2026-10-15",
-      "codigo": "796",
-      "coleccion": "Vestidos Cortos",
-      "comparacion": "Vestido mini de satín estampado floral azul, blanco y verde, escote cuadrado, tirantes con volantes y falda drapeada. La fotografía oficial reúne dos poses de frente del mismo modelo. Distinto de las 140 prendas anteriores, comprobado contra las fotografías y los diseños existentes.",
-      "procedencia": "Capturas de las fotografías oficiales; no se altera la modelo ni la prenda. Se publica el frente primero y únicamente las vistas recuperadas de la misma ficha."
     }
   },
   {
@@ -4746,37 +4675,6 @@ export const products = [
       "tipo": "Tres imágenes originales entregadas por el usuario",
       "fecha": "2026-10-18",
       "montajeAdicional": "review/auditoria-whatsapp-2026-10-18/referencias-producto/bralette-1806-montaje.png"
-    }
-  },
-  {
-    "id": 201,
-    "name": "Top Amarillo",
-    "category": "Liquidación",
-    "price": 48.3,
-    "originalPrice": 69,
-    "note": "Consulta disponibilidad y medidas con la boutique.",
-    "photos": [
-      {
-        "src": "./images/productos-reales/XL-201/01-frente.png",
-        "width": 720,
-        "height": 703,
-        "view": "Frente",
-        "sha256": "a1aec17b73296b569d8a700b77112268d38e6fa7a256705c4dd17b71a0a6fb68"
-      }
-    ],
-    "image": "./images/productos-reales/XL-201/01-frente.png",
-    "photoPending": false,
-    "catalogName": "Top Amarillo",
-    "catalogCategory": "PRENDAS LIQUIDACIÓN",
-    "priceSource": {
-      "tipo": "WhatsApp Web",
-      "telefono": "+51 930 527 248",
-      "fecha": "2026-10-18",
-      "evidencia": "review/auditoria-whatsapp-2026-10-18/liquidacion_lista.json"
-    },
-    "imageSource": {
-      "tipo": "Imagen original entregada por el usuario",
-      "fecha": "2026-10-18"
     }
   },
   {

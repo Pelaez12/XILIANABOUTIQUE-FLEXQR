@@ -5494,6 +5494,36 @@ export const products = [
       "categoria": "Largos",
       "precio_pen": 469
     }
+  },
+  {
+    "id": 226,
+    "name": "Vestido largo verde estampado flores de gasa",
+    "category": "Largos",
+    "price": 429,
+    "note": "Vestido largo verde de gasa estampada, escote cruzado, mangas largas y lazo en la cintura. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-226/01-frente.png",
+        "width": 1096,
+        "height": 1436,
+        "sha256": "5d5b24eff160e522ec8688420931a5dda54273995e276c7969993b4380b4929f",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-226/02-espalda.png",
+        "width": 1117,
+        "height": 1408,
+        "sha256": "68cd82cc4c04268e8a3b03f46cf0c8e69e7635831df44c02cfccc49315e63c6c",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-226/01-frente.png",
+    "photoPending": false,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Largos",
+      "precio_pen": 429
+    }
   }
 ];
 export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación"];

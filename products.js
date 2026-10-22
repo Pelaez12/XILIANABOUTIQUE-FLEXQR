@@ -367,25 +367,6 @@ export const products = [
     "photoPending": false
   },
   {
-    "id": 72,
-    "name": "Vestido Bandage negro con aplicaciones plateadas",
-    "category": "Bandage",
-    "price": 389,
-    "note": "Coqueto y con personalidad: un vestido para arreglarte a tu manera y salir sintiéndote fabulosa.",
-    "photos": [
-      {
-        "src": "./images/productos-reales/XL-072/01-R150.jpeg",
-        "width": 1080,
-        "height": 1067,
-        "sourceIndex": 150,
-        "sha256": "e4c392a437e0b5a6a53f83c163425ef181037ffcbfc3dc11220ac83c45b0dc25",
-        "view": "Frente y espalda"
-      }
-    ],
-    "image": "./images/productos-reales/XL-072/01-R150.jpeg",
-    "photoPending": false
-  },
-  {
     "id": 73,
     "name": "Vestido Bandage rojo",
     "category": "Bandage",
@@ -1204,25 +1185,6 @@ export const products = [
     "photoPending": false
   },
   {
-    "id": 87,
-    "name": "Vestido Largo Color Pic Blue",
-    "category": "Gala",
-    "price": 579,
-    "note": "Tu próxima noche especial merece un vestido que te haga sonreír frente al espejo. Dale tu toque con tus accesorios favoritos.",
-    "photos": [
-      {
-        "src": "./images/productos-reales/XL-087/01-R016.jpeg",
-        "width": 1086,
-        "height": 1448,
-        "sourceIndex": 16,
-        "sha256": "368a2db30156ea9337fab1a2685a41d60aae12cf3b617765dc38df3e540d8504",
-        "view": "Frente"
-      }
-    ],
-    "image": "./images/productos-reales/XL-087/01-R016.jpeg",
-    "photoPending": false
-  },
-  {
     "id": 88,
     "name": "Vestido largo azul corte sirena con tirantes cruzados",
     "category": "Gala",
@@ -1791,33 +1753,6 @@ export const products = [
     "photoPending": false
   },
   {
-    "id": 109,
-    "name": "Vestido de gala crema con azul",
-    "category": "Gala",
-    "price": 569,
-    "note": "Para esas ocasiones que quieres recordar con una sonrisa. Elige este look y disfruta siendo tú.",
-    "photos": [
-      {
-        "src": "./images/productos-reales/XL-109/02-R141.jpeg",
-        "width": 1080,
-        "height": 1390,
-        "sourceIndex": 141,
-        "sha256": "3f3965a6ddb681e2e43a5597c61eebe61a5b9e21b6bed398e7c9ed4e3c8c82b8",
-        "view": "Frente"
-      },
-      {
-        "src": "./images/productos-reales/XL-109/01-R137.jpeg",
-        "width": 1080,
-        "height": 1417,
-        "sourceIndex": 137,
-        "sha256": "4015dff32a174120013ecf19a165361b083e899f415f1d8d67bcd193b0afb464",
-        "view": "Espalda"
-      }
-    ],
-    "image": "./images/productos-reales/XL-109/02-R141.jpeg",
-    "photoPending": false
-  },
-  {
     "id": 110,
     "name": "Vestido largo de gala blanco con rayas moradas y morado y de cap",
     "category": "Gala",
@@ -1977,33 +1912,6 @@ export const products = [
       }
     ],
     "image": "./images/productos-reales/XL-115/01-R108.jpeg",
-    "photoPending": false
-  },
-  {
-    "id": 116,
-    "name": "Vestido Bandage Amarillo",
-    "category": "Bandage",
-    "price": 389,
-    "note": "Coqueto y con personalidad: un vestido para arreglarte a tu manera y salir sintiéndote fabulosa.",
-    "photos": [
-      {
-        "src": "./images/productos-reales/XL-116/01-R057.jpeg",
-        "width": 1080,
-        "height": 1417,
-        "sourceIndex": 57,
-        "sha256": "2c3a499b1f1a1160f1771d00f08d6ea8bb37bbdc6b4fcc54c2e2cf39f4972cfc",
-        "view": "Frente"
-      },
-      {
-        "src": "./images/productos-reales/XL-116/02-R058.jpeg",
-        "width": 1080,
-        "height": 1392,
-        "sourceIndex": 58,
-        "sha256": "1a36e0b59f1987acfea82d9b5d8bee8c6e14294debd2bea69fcf1283d84dac29",
-        "view": "Espalda"
-      }
-    ],
-    "image": "./images/productos-reales/XL-116/01-R057.jpeg",
     "photoPending": false
   },
   {
@@ -2300,33 +2208,6 @@ export const products = [
     }
   },
   {
-    "id": 128,
-    "name": "Vestido Bandage Rosado",
-    "category": "Bandage",
-    "price": 419,
-    "note": "Un look con actitud para una noche que promete. Combínalo con tus accesorios favoritos y disfruta tu momento.",
-    "photos": [
-      {
-        "src": "./images/productos-reales/XL-128/01-R144.jpeg",
-        "width": 1080,
-        "height": 1413,
-        "sourceIndex": 144,
-        "sha256": "35f16072b634db106427841e46f468c0a6dfb8317c50a8faa229ed6a1441aded",
-        "view": "Frente"
-      },
-      {
-        "src": "./images/productos-reales/XL-128/02-R019.jpeg",
-        "width": 1080,
-        "height": 1419,
-        "sourceIndex": 19,
-        "sha256": "aba2debcec0d1319770d68b889ccc0594e807491b230d96816abeefe2165154c",
-        "view": "Espalda"
-      }
-    ],
-    "image": "./images/productos-reales/XL-128/01-R144.jpeg",
-    "photoPending": false
-  },
-  {
     "id": 129,
     "name": "Vestido Bandage dorado de flecos",
     "category": "Bandage",
@@ -2461,33 +2342,6 @@ export const products = [
       }
     ],
     "image": "./images/productos-reales/XL-132/01-R020.jpeg",
-    "photoPending": false
-  },
-  {
-    "id": 133,
-    "name": "Vestido de lentejuelas vintage color azul",
-    "category": "Cortos con brillo",
-    "price": 489,
-    "note": "Un toque de brillo para tu próxima noche especial. Combínalo a tu gusto y deja que tu sonrisa complete el look.",
-    "photos": [
-      {
-        "src": "./images/productos-reales/XL-133/extra-01.jpg",
-        "width": 505,
-        "height": 702,
-        "sourceAttachment": "images/fotos-confirmadas/vintage-azul-captura-original-2026-10-07.png",
-        "view": "Frente",
-        "sha256": "9e74db32ab5536d7ccd448a6f11ea9ee92e3980978ba7cd599500f1409116a15"
-      },
-      {
-        "src": "./images/productos-reales/XL-133/01-R025.jpeg",
-        "width": 1080,
-        "height": 1417,
-        "sourceIndex": 25,
-        "sha256": "b99fe3030fe303446c966564e4e58be701944751a5b87907707d26ea3e44ab1b",
-        "view": "Espalda"
-      }
-    ],
-    "image": "./images/productos-reales/XL-133/extra-01.jpg",
     "photoPending": false
   },
   {
@@ -2779,25 +2633,6 @@ export const products = [
     "photoPending": false
   },
   {
-    "id": 144,
-    "name": "VESTIDO BANDAGE Caqui ceñido",
-    "category": "Bandage",
-    "price": 379,
-    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
-    "photos": [
-      {
-        "src": "./images/productos-reales/XL-144/01-N020.jpeg",
-        "width": 1080,
-        "height": 1414,
-        "sha256": "3ea648f2cb78ebea3edb6ecca4374a6a1b7361a87189a72bdef9a3470243dd6f",
-        "view": "Frente",
-        "sourceAttachment": "review/importacion-2026-10-08/N020.jpeg"
-      }
-    ],
-    "image": "./images/productos-reales/XL-144/01-N020.jpeg",
-    "photoPending": false
-  },
-  {
     "id": 145,
     "name": "Bandage Dress negro con pedrería",
     "category": "Bandage",
@@ -2858,30 +2693,6 @@ export const products = [
     ],
     "image": "./images/productos-reales/XL-146/01-N025.jpeg",
     "photoPending": false
-  },
-  {
-    "id": 147,
-    "name": "Vestido Bandage Blanco/Negro",
-    "category": "Bandage",
-    "price": 144.5,
-    "note": "Un look para sentirte preciosa y darle tu toque a la celebración. Combínalo con tus accesorios favoritos.",
-    "photos": [
-      {
-        "src": "./images/productos-reales/XL-147/01-N027.jpeg",
-        "width": 1096,
-        "height": 1435,
-        "sha256": "e1dccd4b7001eb33b1a3bfd309ce34e64e09dfbc79a2618a1ec1212284bba056",
-        "view": "Frente",
-        "sourceAttachment": "review/importacion-2026-10-08/N027.jpeg"
-      }
-    ],
-    "image": "./images/productos-reales/XL-147/01-N027.jpeg",
-    "photoPending": false,
-    "originalPrice": 289,
-    "priceSource": {
-      "video": "20261009-0005-03.6416792.mp4",
-      "second": 187
-    }
   },
   {
     "id": 148,
@@ -5249,40 +5060,6 @@ export const products = [
       "archivo": "codex-clipboard-6cc7d10c-9be9-416d-9e57-60c6e9f9142c.png"
     },
     "catalogCode": "2041"
-  },
-  {
-    "id": 210,
-    "name": "Vestido Animal Prient Multicolor",
-    "category": "Largos",
-    "price": 329.0,
-    "note": "Consulta disponibilidad y medidas con la boutique.",
-    "photos": [
-      {
-        "src": "./images/productos-reales/XL-210/01-frente.png",
-        "width": 1254,
-        "height": 1254,
-        "view": "Frente",
-        "sha256": "3bafe7c3cc04ccef842ab14537721aa642338b1db4e295fcd8a5425cb3a46f08"
-      }
-    ],
-    "image": "./images/productos-reales/XL-210/01-frente.png",
-    "photoPending": false,
-    "catalogName": "Vestido Animal Prient Multicolor",
-    "catalogCategory": "Vestidos Largos",
-    "priceSource": {
-      "tipo": "WhatsApp Web",
-      "telefono": "+51 930 527 248",
-      "fecha": "2026-10-18",
-      "evidencia": "review/auditoria-whatsapp-2026-10-18/inventario_actualizado.json",
-      "codigoCatalogo": "2043"
-    },
-    "imageSource": {
-      "tipo": "Imagen original entregada por el propietario",
-      "fecha": "2026-10-19",
-      "orden": 8,
-      "archivo": "codex-clipboard-655f752d-68a4-403e-985f-f4a3c360657c.png"
-    },
-    "catalogCode": "2043"
   },
   {
     "id": 211,

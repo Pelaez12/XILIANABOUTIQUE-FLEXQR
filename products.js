@@ -1036,8 +1036,8 @@ export const products = [
   {
     "id": 80,
     "name": "Vestido corto drapeado",
-    "category": "Cortos",
-    "price": 249,
+    "category": "Liquidación",
+    "price": 99.6,
     "note": "Una cita, una celebración o un plan con amigas: tú eliges la ocasión y este vestido acompaña tu estilo.",
     "photos": [
       {
@@ -1050,7 +1050,13 @@ export const products = [
       }
     ],
     "image": "./images/productos-reales/XL-080/01-R163.jpeg",
-    "photoPending": false
+    "photoPending": false,
+    "originalPrice": 249,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Liquidación",
+      "precio_pen": 99.6
+    }
   },
   {
     "id": 81,

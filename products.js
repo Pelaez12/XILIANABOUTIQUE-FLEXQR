@@ -5578,6 +5578,59 @@ export const products = [
       "categoria": "Gala",
       "precio_pen": 369
     }
+  },
+  {
+    "id": 229,
+    "name": "Vestido Midi largo dorado Transparente",
+    "category": "Cortos con brillo",
+    "price": 269,
+    "note": "Vestido midi dorado con transparencias, mangas largas y detalles de brillo. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-229/01-frente.png",
+        "width": 1080,
+        "height": 1402,
+        "sha256": "704e22527adac961044c40530e28e4419bd4f0db99b2493b7ea759ec06eb85ea",
+        "view": "Frente"
+      }
+    ],
+    "image": "./images/productos-reales/XL-229/01-frente.png",
+    "photoPending": false,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Cortos con brillo",
+      "precio_pen": 269
+    }
+  },
+  {
+    "id": 230,
+    "name": "Vestido largo azul de gala de lentejuelas",
+    "category": "Largos",
+    "price": 549,
+    "note": "Vestido largo azul de lentejuelas con escote en V, cintura drapeada y mangas de caída amplia. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-230/01-frente.png",
+        "width": 1087,
+        "height": 1446,
+        "sha256": "39b15fd2edb2e129bd85423b8b975af4d715d5c710d764902e1aca01db2c246a",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-230/02-espalda.png",
+        "width": 1122,
+        "height": 1402,
+        "sha256": "5e7ee19b24f83425d3773790535b8edeb0acbe5daf76744c815ff9418e254c02",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-230/01-frente.png",
+    "photoPending": false,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Largos",
+      "precio_pen": 549
+    }
   }
 ];
 export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación"];

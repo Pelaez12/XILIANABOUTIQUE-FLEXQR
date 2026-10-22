@@ -448,5 +448,13 @@
     "fotos_web": [
       "./images/pendientes/791-pendientes-colgantes-2-pares/01.png"
     ]
+  },
+  {
+    "numero_visible": "acc-057",
+    "nombre": "Capa negra de encaje",
+    "precio_pen": 129,
+    "fotos_web": [
+      "./images/accesorios/acc-057-capa-negra-de-encaje/01-frente.png"
+    ]
   }
 ]

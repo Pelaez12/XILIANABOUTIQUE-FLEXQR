@@ -9,7 +9,7 @@ if (fs.existsSync(output)) {
   if (fs.realpathSync(output).toLowerCase() !== output.toLowerCase()) throw new Error('public no puede ser un enlace a otra carpeta');
   fs.rmSync(output, { recursive: true, force: true });
 }
-const mediaTypes = new Set(['.jpg', '.jpeg', '.png', '.webp', '.svg', '.mp4', '.woff', '.woff2']);
+const mediaTypes = new Set(['.jpg', '.jpeg', '.png', '.webp', '.svg', '.mp4', '.woff', '.woff2', '.ttf']);
 let count = 0;
 let largest = 0;
 function copy(source, relative) {
@@ -26,10 +26,10 @@ const assets = new Set([
   ...products.flatMap(product => product.photos.map(photo => photo.src)),
   ...accessories.flatMap(accessory => accessory.fotos_web),
   'images/xiliana-logo-gold-black.png', 'images/xiliana-video.mp4',
-  'images/foto-pendiente.svg', 'images/antonio-grau-asesor-imagen.webp',
+  'images/fonts/BodoniModa.ttf', 'images/foto-pendiente.svg', 'images/antonio-grau-asesor-imagen.webp',
   ...['instagram', 'tiktok', 'googlemaps', 'whatsapp'].map(name => `images/social/${name}.svg`),
 ]);
-for (const file of ['index.html', 'styles.css', 'experience.css', 'main.js', 'brand-intro.js', 'products.js', 'catalog-utils.js', 'gallery.js', 'order-data.js', 'order-ui.js', 'quick-consult.js', 'video-audio.js', 'collection-search.js', 'whatsapp-help.js', 'recommendations-carousel.js', '_headers']) {
+for (const file of ['BodoniModa-OFL.txt', 'index.html', 'styles.css', 'experience.css', 'main.js', 'brand-intro.js', 'products.js', 'catalog-utils.js', 'gallery.js', 'order-data.js', 'order-ui.js', 'quick-consult.js', 'video-audio.js', 'collection-search.js', 'whatsapp-help.js', 'recommendations-carousel.js', '_headers']) {
   copy(path.join(__dirname, file), file);
 }
 for (const asset of assets) {

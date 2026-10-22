@@ -33,7 +33,10 @@ export function playBrandIntro(force=false){
   });
   document.body.append(opening);document.body.classList.add('opening-active');opening.showModal();
   const logo=opening.querySelector('.opening__logo');
-  const decoded=Promise.all([logo,opening.querySelector('.opening__portrait img')].map(image=>image.decode?image.decode().catch(()=>{}):Promise.resolve()));
+  const decoded=Promise.all([
+   ...[logo,opening.querySelector('.opening__portrait img')].map(image=>image.decode?image.decode().catch(()=>{}):Promise.resolve()),
+   document.fonts.load('500 28px "Bodoni Moda"').catch(()=>{}),
+  ]);
   decoded.then(()=>requestAnimationFrame(()=>{
    if(finished)return;
    opening.classList.add('is-playing');

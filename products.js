@@ -5631,6 +5631,66 @@ export const products = [
       "categoria": "Largos",
       "precio_pen": 549
     }
+  },
+  {
+    "id": 231,
+    "name": "Vestido largo crema de lentejuelas plateadas con capa",
+    "category": "Gala",
+    "price": 569,
+    "note": "Vestido largo crema con lentejuelas plateadas y capa ligera. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-231/01-frente.png",
+        "width": 1080,
+        "height": 1423,
+        "sha256": "eff8be75c6c73713b19aaa48ebad08f64332fc93c9ecf5a57b93668c7bd097f3",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-231/02-espalda.png",
+        "width": 1080,
+        "height": 1435,
+        "sha256": "4fd5f2aed701250803bd24dd5b89278ff457ee7877900f9781d73475a7f4f1ce",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-231/01-frente.png",
+    "photoPending": false,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Gala",
+      "precio_pen": 569
+    }
+  },
+  {
+    "id": 232,
+    "name": "Vestido largo de azul de pedrería plateadas con mangas largas",
+    "category": "Gala",
+    "price": 649,
+    "note": "Vestido largo azul con pedrería plateada en el escote y mangas largas de caída amplia. Consulta disponibilidad y medidas con la boutique.",
+    "photos": [
+      {
+        "src": "./images/productos-reales/XL-232/01-frente.png",
+        "width": 1080,
+        "height": 1396,
+        "sha256": "214c6091c761aee5f16d7aa1495f6c2dcbd8b99ddacd37ec83099b7962f567ef",
+        "view": "Frente"
+      },
+      {
+        "src": "./images/productos-reales/XL-232/02-espalda.png",
+        "width": 1080,
+        "height": 1389,
+        "sha256": "2be71558a95cf6a352fe377812ea555afd3c6a8bec88638ed10a5c19cf960db9",
+        "view": "Espalda"
+      }
+    ],
+    "image": "./images/productos-reales/XL-232/01-frente.png",
+    "photoPending": false,
+    "ownerConfirmation": {
+      "fecha": "2026-10-22",
+      "categoria": "Gala",
+      "precio_pen": 649
+    }
   }
 ];
 export const categories = ["Todos", "Gala", "Largos", "Cortos con brillo", "Cortos", "Bandage", "Liquidación"];

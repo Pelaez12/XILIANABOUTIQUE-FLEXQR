@@ -10,6 +10,7 @@ try {
   const response=await fetch(endpoint,{credentials:'omit',cache:'no-store'});
   if(!response.ok) throw new Error('Disponibilidad no disponible');
   const payload=await response.json();
+  document.documentElement.dataset.stockSync='connected';
   const states=new Map(payload.products.map(p=>[p.catalog_id,p.status]));
   for(const card of document.querySelectorAll('.product-card')) {
     const link=card.querySelector('a.product-open');
@@ -27,4 +28,4 @@ try {
     target.replaceChildren(); const label=document.createElement('strong'); label.textContent='Disponibilidad: '; target.append(label, status==='available'?'disponible en tienda.':status==='sold_out'?'agotado.':'modelo archivado.');
     if(status==='archived') document.querySelectorAll('.product-detail [data-order-id],.product-detail a.accessory-whatsapp').forEach(el=>{el.hidden=true;});
   }
-} catch { /* Conserva la indicación existente de consultar con la boutique. */ }
+} catch { document.documentElement.dataset.stockSync='unavailable'; }

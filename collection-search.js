@@ -20,9 +20,10 @@ if (searchArea) {
   function filter(showSuggestions = true) {
     const term = normalize(input.value.trim());
     const words = term.split(/\s+/).filter(Boolean);
-    const matches = cards.filter(card => words.every(word => normalize(card.dataset.name).includes(word)));
+    const eligible = cards.filter(card => card.dataset.stockArchived !== 'true');
+    const matches = eligible.filter(card => words.every(word => normalize(card.dataset.name).includes(word)));
     cards.forEach(card => { card.hidden = !matches.includes(card); });
-    counter.textContent = term ? `${matches.length} de ${cards.length} modelos para tu búsqueda` : `${cards.length} modelos en esta colección`;
+    counter.textContent = term ? `${matches.length} de ${eligible.length} modelos para tu búsqueda` : `${eligible.length} modelos en esta colección`;
     empty.hidden = matches.length > 0;
     suggestions = term ? matches.slice(0, 6) : [];
     list.replaceChildren();
@@ -53,6 +54,7 @@ if (searchArea) {
     input.focus();
   }
 
+  document.addEventListener('stock-availability-updated', () => filter(false));
   input.addEventListener('input', () => filter());
   input.addEventListener('focus', () => filter());
   input.addEventListener('keydown', event => {

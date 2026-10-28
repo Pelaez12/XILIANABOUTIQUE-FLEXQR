@@ -29,7 +29,7 @@ const assets = new Set([
   'images/foto-pendiente.svg', 'images/antonio-grau-presentacion.webp',
   ...['instagram', 'tiktok', 'googlemaps', 'whatsapp'].map(name => `images/social/${name}.svg`),
 ]);
-for (const file of ['index.html', 'styles.css', 'experience.css', 'main.js', 'brand-intro.js', 'products.js', 'catalog-utils.js', 'gallery.js', 'order-data.js', 'order-ui.js', 'quick-consult.js', 'video-audio.js', 'collection-search.js', 'whatsapp-help.js', 'recommendations-carousel.js', '_headers']) {
+for (const file of ['index.html', 'styles.css', 'experience.css', 'main.js', 'brand-intro.js', 'products.js', 'catalog-utils.js', 'gallery.js', 'order-data.js', 'order-ui.js', 'quick-consult.js', 'video-audio.js', 'collection-search.js', 'stock-availability.js', 'whatsapp-help.js', 'recommendations-carousel.js', '_headers']) {
   copy(path.join(__dirname, file), file);
 }
 for (const asset of assets) {
